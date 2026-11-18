@@ -115,6 +115,17 @@
    "changes": "Gentle wake-up: the alarm sound now fades in softly to full volume over 30 seconds. Alarms also reschedule themselves after the time or timezone changes and after the app itself is updated."
   },
   {
+   "pkg": "hasu.os.dice",
+   "name": "HasuDice",
+   "tag": "Dice & coin",
+   "desc": "Dice roller and coin flip — roll 1 to 4 dice with a shuffle animation and a running total, flip a coin with heads and tails tallies, and keep your last rolls on screen.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 37742,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/dice.apk",
+   "changes": "First release — roll up to four dice, flip a coin, and watch your totals and tallies add up."
+  },
+  {
    "pkg": "hasu.os.files",
    "name": "HasuFiles",
    "tag": "File manager",
@@ -140,11 +151,11 @@
    "name": "HasuGameBox",
    "tag": "Five games in one box",
    "desc": "Five games in one box — Tic Tac Toe against the computer, classic Snake, Memory Match, 2048 and Tap Rush. Best scores are kept for every game, all offline.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/gamebox.apk",
-   "changes": "2048 gets an Undo button — take back your last move if you swipe the wrong way."
+   "changes": "Snake grows up: pick your speed — Slow, Normal or Fast — and the game remembers it. (The 2048 Undo button from 1.01 is still there.)"
   },
   {
    "pkg": "hasu.os.habit",
