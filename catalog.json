@@ -1,0 +1,355 @@
+{
+ "version": 1,
+ "apps": [
+  {
+   "pkg": "hasu.os.ai",
+   "name": "HasuAI",
+   "tag": "Photo studio",
+   "desc": "Photo studio — one-tap auto enhance, HDR effect, smoothing, filters and sliders. All on-device; photos never leave your phone.",
+   "code": 3,
+   "versionName": "1.00",
+   "size": 45934,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/ai.apk"
+  },
+  {
+   "pkg": "hasu.os.backup",
+   "name": "HasuBackup",
+   "tag": "APK backup",
+   "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
+   "code": 3,
+   "versionName": "1.00",
+   "size": 37742,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk"
+  },
+  {
+   "pkg": "hasu.os.battery",
+   "name": "HasuBattery",
+   "tag": "Battery & charge alarm",
+   "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk"
+  },
+  {
+   "pkg": "hasu.os.keyboard",
+   "name": "HasuBoard",
+   "tag": "The HasuOS keyboard",
+   "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
+   "code": 38,
+   "versionName": "5.1",
+   "size": 68604713,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk"
+  },
+  {
+   "pkg": "hasu.os.browser",
+   "name": "HasuBrowser",
+   "tag": "Web browser",
+   "desc": "Browser — light and fast browsing with bookmarks, history, downloads and desktop mode.",
+   "code": 4,
+   "versionName": "1.00",
+   "size": 58222,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/browser.apk"
+  },
+  {
+   "pkg": "hasu.os.calc",
+   "name": "HasuCalc",
+   "tag": "Calculator",
+   "desc": "Calculator — fast glass calculator with history plus a unit converter for length, weight, temperature, area, speed and data.",
+   "code": 3,
+   "versionName": "1.00",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calc.apk"
+  },
+  {
+   "pkg": "hasu.os.calendar",
+   "name": "HasuCalendar",
+   "tag": "Calendar",
+   "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
+   "code": 3,
+   "versionName": "1.00",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk"
+  },
+  {
+   "pkg": "com.hasucam.camera",
+   "name": "HasuCam",
+   "tag": "Capture Beyond Limits",
+   "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
+   "code": 74,
+   "versionName": "20.08",
+   "size": 32715771,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk"
+  },
+  {
+   "pkg": "hasu.os.clean",
+   "name": "HasuClean",
+   "tag": "Storage cleaner",
+   "desc": "Storage cleaner — find the largest files, duplicate photos and junk folders, and free space safely.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 50030,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clean.apk"
+  },
+  {
+   "pkg": "hasu.os.clock",
+   "name": "HasuClock",
+   "tag": "Clock & alarms",
+   "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
+   "code": 9,
+   "versionName": "1.03",
+   "size": 1739409,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk"
+  },
+  {
+   "pkg": "hasu.os.files",
+   "name": "HasuFiles",
+   "tag": "File manager",
+   "desc": "File manager — browse all storage, categories for images, videos, music, documents & APKs, search, copy/move, zip & extract.",
+   "code": 20,
+   "versionName": "05.01",
+   "size": 318382,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/files.apk"
+  },
+  {
+   "pkg": "hasu.os.habit",
+   "name": "HasuHabit",
+   "tag": "Habit tracker",
+   "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.",
+   "code": 2,
+   "versionName": "1.01",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk"
+  },
+  {
+   "pkg": "hasu.os.health",
+   "name": "HasuHealth",
+   "tag": "Steps, water & BMI",
+   "desc": "Health — step counter with 7-day history, daily water tracker with a goal, and a BMI calculator. All on your phone.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/health.apk"
+  },
+  {
+   "pkg": "hasu.os.khata",
+   "name": "HasuKhata",
+   "tag": "Income & expense ledger",
+   "desc": "Daily hisab in taka: month summary, categories and day-by-day entries.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/khata.apk"
+  },
+  {
+   "pkg": "hasu.os.lock",
+   "name": "HasuLock",
+   "tag": "App lock",
+   "desc": "App lock — protect any app with a PIN pad and fingerprint unlock.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 45934,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/lock.apk"
+  },
+  {
+   "pkg": "hasu.os.music",
+   "name": "HasuMusic",
+   "tag": "Music player",
+   "desc": "Music player — songs, albums and artists from your library, background playback with notification controls, shuffle and repeat.",
+   "code": 4,
+   "versionName": "1.00",
+   "size": 45934,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/music.apk"
+  },
+  {
+   "pkg": "hasu.os.namaz",
+   "name": "HasuNamaz",
+   "tag": "Prayer times",
+   "desc": "Prayer times for Bangladesh — offline calculation, next-waqt countdown, Qibla compass and per-waqt alarms.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 45934,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/namaz.apk"
+  },
+  {
+   "pkg": "hasu.os.news",
+   "name": "HasuNews",
+   "tag": "Bangla news",
+   "desc": "Bangla news — Prothom Alo and BBC Bangla headlines, articles open inside the app, and last headlines stay saved for offline reading.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 37742,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/news.apk"
+  },
+  {
+   "pkg": "hasu.os.notes",
+   "name": "HasuNotes",
+   "tag": "Notes",
+   "desc": "Notes — quick private notes with pinning, colours and search. Auto-saves, no account, everything stays on your phone.",
+   "code": 3,
+   "versionName": "1.00",
+   "size": 37742,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/notes.apk"
+  },
+  {
+   "pkg": "hasu.os.home",
+   "name": "HasuOS Home",
+   "tag": "Your HasuOS home screen",
+   "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
+   "code": 71,
+   "versionName": "10.01",
+   "size": 12021884,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk"
+  },
+  {
+   "pkg": "hasu.os.pdf",
+   "name": "HasuPDF",
+   "tag": "PDF tools",
+   "desc": "PDF tools — photos to PDF, merge PDFs and split out pages, saved to Download/HasuPDF.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pdf.apk"
+  },
+  {
+   "pkg": "hasu.os.quick",
+   "name": "HasuQuick",
+   "tag": "Floating assistive ball",
+   "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
+   "code": 25,
+   "versionName": "2.00",
+   "size": 767627,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk"
+  },
+  {
+   "pkg": "hasu.os.radio",
+   "name": "HasuRadio",
+   "tag": "Live radio",
+   "desc": "Live radio — Radio Foorti, Bangladesh Betar, Jago FM, Peoples Radio, Radio Today and BBC World Service, with favourites and background playback.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 50030,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/radio.apk"
+  },
+  {
+   "pkg": "hasu.os.scan",
+   "name": "HasuScan",
+   "tag": "QR & barcode scanner",
+   "desc": "QR & barcode scanner with torch and gallery scan — plus a QR maker for text, links, Wi-Fi and more.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 263093,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/scan.apk"
+  },
+  {
+   "pkg": "hasu.os.share",
+   "name": "HasuShare",
+   "tag": "Offline file sharing",
+   "desc": "Offline file sharing — pick files, share them over WiFi or hotspot, and the other phone downloads them from your browser address. No internet needed.",
+   "code": 2,
+   "versionName": "1.01",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/share.apk"
+  },
+  {
+   "pkg": "hasu.os.shikha",
+   "name": "HasuShikha",
+   "tag": "English words",
+   "desc": "English words — 120 common words with Bangla meanings and examples. Flip the card, mark what you know, review what you missed.",
+   "code": 2,
+   "versionName": "1.01",
+   "size": 45934,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shikha.apk"
+  },
+  {
+   "pkg": "hasu.os.shot",
+   "name": "HasuShot",
+   "tag": "Screenshots & recording",
+   "desc": "Screenshots & screen recording from a floating button — gallery, crop, edit and recycle bin built in.",
+   "code": 23,
+   "versionName": "02.00",
+   "size": 74751,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shot.apk"
+  },
+  {
+   "pkg": "hasu.os.speed",
+   "name": "HasuSpeed",
+   "tag": "Live internet speed",
+   "desc": "Live internet speed in your notification — download & upload now, today's totals and per-app usage.",
+   "code": 25,
+   "versionName": "02.00",
+   "size": 50101,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk"
+  },
+  {
+   "pkg": "hasu.os.task",
+   "name": "HasuTask",
+   "tag": "To-dos & reminders",
+   "desc": "To-dos — tasks with a date, time and priority, and reminders that fire on time. Filter by Today, All or Done.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 46147,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk"
+  },
+  {
+   "pkg": "hasu.os.tools",
+   "name": "HasuTools",
+   "tag": "Pocket tools",
+   "desc": "Tools — compass, bubble level, real-size ruler and a torch with strobe and SOS modes.",
+   "code": 4,
+   "versionName": "1.00",
+   "size": 50030,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tools.apk"
+  },
+  {
+   "pkg": "hasu.os.usage",
+   "name": "HasuUsage",
+   "tag": "Screen time",
+   "desc": "Usage — see where your time goes: screen time and data per app for today, yesterday and the last 7 days.",
+   "code": 3,
+   "versionName": "1.00",
+   "size": 33646,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/usage.apk"
+  },
+  {
+   "pkg": "hasu.os.vault",
+   "name": "HasuVault",
+   "tag": "Private photo vault",
+   "desc": "A private vault for photos, videos & PDFs — AES-256 encryption, PIN and fingerprint lock.",
+   "code": 2,
+   "versionName": "1.00",
+   "size": 54194,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk"
+  },
+  {
+   "pkg": "hasu.os.voice",
+   "name": "HasuVoice",
+   "tag": "Voice recorder",
+   "desc": "Voice recorder — one-tap recording with a live level meter, playback, rename and share.",
+   "code": 3,
+   "versionName": "1.00",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/voice.apk"
+  },
+  {
+   "pkg": "hasu.os.wall",
+   "name": "HasuWall",
+   "tag": "Your gallery & wallpapers",
+   "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
+   "code": 37,
+   "versionName": "2.00",
+   "size": 116086,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk"
+  },
+  {
+   "pkg": "hasu.os.weather",
+   "name": "HasuWeather",
+   "tag": "Weather",
+   "desc": "Weather — current conditions and a 7-day forecast for any city on earth, powered by Open-Meteo.",
+   "code": 3,
+   "versionName": "1.00",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/weather.apk"
+  }
+ ]
+}
