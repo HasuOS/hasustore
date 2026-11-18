@@ -332,11 +332,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 121,
-   "versionName": "1.28",
+   "code": 122,
+   "versionName": "1.29",
    "size": 112000216,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "HasuTasbih joins the store — a digital tasbih counter with a big tap circle, four dhikr, targets of 33, 99 or 100, rounds and a lifetime total."
+   "changes": "Small downloads no longer flash past unseen: when a download finishes, its progress line now stays on screen — tick, 100%, MB of total and time — until you move on. Big downloads behave exactly as before."
   },
   {
    "pkg": "hasu.os.tasbih",
