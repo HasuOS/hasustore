@@ -262,10 +262,11 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 25,
-   "versionName": "2.00",
+   "code": 26,
+   "versionName": "2.01",
    "size": 767627,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
+   "changes": "The Torch tile now shows its state like the other tiles: turn the flashlight on and the tile turns accent blue and reads Torch On; turn it off and it goes back. The tile also stays truthful if the torch is switched from the system panel or camera."
   },
   {
    "pkg": "hasu.os.radio",
@@ -332,11 +333,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 122,
-   "versionName": "1.29",
+   "code": 123,
+   "versionName": "1.30",
    "size": 112000216,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Small downloads no longer flash past unseen: when a download finishes, its progress line now stays on screen — tick, 100%, MB of total and time — until you move on. Big downloads behave exactly as before."
+   "changes": "Carries the HasuQuick 2.01 update (the panel's Torch tile now lights up like WiFi and Data when the flashlight is on)."
   },
   {
    "pkg": "hasu.os.tasbih",
