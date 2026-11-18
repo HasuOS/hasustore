@@ -76,11 +76,11 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 75,
-   "versionName": "20.09",
+   "code": 76,
+   "versionName": "20.10",
    "size": 32715771,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Silent filter and preview errors now leave a log line, so a filter that fails can be traced instead of failing quietly."
+   "changes": "Videos now get the same tone lifts as photos: a look like Fade Film no longer loses its washed-out blacks when you record video. The live preview and the finished _FX video now match the photo look exactly."
   },
   {
    "pkg": "hasu.os.check",
@@ -151,11 +151,11 @@
    "name": "HasuGameBox",
    "tag": "Five games in one box",
    "desc": "Five games in one box — Tic Tac Toe against the computer, classic Snake, Memory Match, 2048 and Tap Rush. Best scores are kept for every game, all offline.",
-   "code": 3,
-   "versionName": "1.02",
+   "code": 4,
+   "versionName": "1.03",
    "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/gamebox.apk",
-   "changes": "Snake grows up: pick your speed — Slow, Normal or Fast — and the game remembers it. (The 2048 Undo button from 1.01 is still there.)"
+   "changes": "NEW: a Surprise me pill on the menu opens a random game when you cannot decide. Tic Tac Toe draws are now counted too — the menu tally reads You · Draws · Computer, so a hard-fought draw no longer vanishes."
   },
   {
    "pkg": "hasu.os.habit",
