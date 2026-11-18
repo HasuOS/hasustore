@@ -114,6 +114,17 @@
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/files.apk"
   },
   {
+   "pkg": "hasu.os.gamebox",
+   "name": "HasuGameBox",
+   "tag": "Five games in one box",
+   "desc": "Five games in one box — Tic Tac Toe against the computer, classic Snake, Memory Match, 2048 and Tap Rush. Best scores are kept for every game, all offline.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 45934,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/gamebox.apk",
+   "changes": "First release — Tic Tac Toe, Snake, Memory Match, 2048 and Tap Rush, with best scores for every game."
+  },
+  {
    "pkg": "hasu.os.habit",
    "name": "HasuHabit",
    "tag": "Habit tracker",
