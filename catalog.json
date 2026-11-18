@@ -76,11 +76,11 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 74,
-   "versionName": "20.08",
+   "code": 75,
+   "versionName": "20.09",
    "size": 32715771,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "The editor's Fade Film look now renders properly, video filters no longer fail on empty frames, and the live preview filter lifecycle is fixed."
+   "changes": "Silent filter and preview errors now leave a log line, so a filter that fails can be traced instead of failing quietly."
   },
   {
    "pkg": "hasu.os.clean",
@@ -299,11 +299,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 116,
-   "versionName": "1.23",
+   "code": 117,
+   "versionName": "1.24",
    "size": 111967380,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "The real fix for apps showing Install after you installed them: the store can now see every installed app (Android hides apps that arrived later, like HasuGameBox), so Open, Update and Uninstall states are correct for every app — including brand-new ones."
+   "changes": "Carries HasuCam 1.09 (code 75) and the package-visibility fix, so installed apps always show their true state."
   },
   {
    "pkg": "hasu.os.task",
