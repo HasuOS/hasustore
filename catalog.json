@@ -299,11 +299,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 117,
-   "versionName": "1.24",
+   "code": 118,
+   "versionName": "1.25",
    "size": 111967380,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries HasuCam 1.09 (code 75) and the package-visibility fix, so installed apps always show their true state."
+   "changes": "The update check is now one you can watch: a staged animation (connecting, reading, comparing) runs for a moment so you can see the check really happen, the main page shows the check running too, and the About page now counts the apps live instead of saying 35."
   },
   {
    "pkg": "hasu.os.task",
