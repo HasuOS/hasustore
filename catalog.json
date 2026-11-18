@@ -79,7 +79,8 @@
    "code": 74,
    "versionName": "20.08",
    "size": 32715771,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
+   "changes": "The editor's Fade Film look now renders properly, video filters no longer fail on empty frames, and the live preview filter lifecycle is fixed."
   },
   {
    "pkg": "hasu.os.clean",
@@ -96,10 +97,11 @@
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 9,
-   "versionName": "1.03",
+   "code": 10,
+   "versionName": "1.04",
    "size": 1739409,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
+   "changes": "Gentle wake-up: the alarm sound now fades in softly to full volume over 30 seconds. Alarms also reschedule themselves after the time or timezone changes and after the app itself is updated."
   },
   {
    "pkg": "hasu.os.files",
@@ -280,6 +282,17 @@
    "versionName": "02.00",
    "size": 50101,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk"
+  },
+  {
+   "pkg": "hasu.os.store",
+   "name": "HasuStore",
+   "tag": "The HasuOS app store",
+   "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
+   "code": 113,
+   "versionName": "1.20",
+   "size": 111967380,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
+   "changes": "Online updates are built in now — the catalog link comes pre-set, updates are checked automatically, a notification arrives when new versions land, and every app page shows What's new. HasuStore can also update itself from its About page."
   },
   {
    "pkg": "hasu.os.task",
