@@ -83,6 +83,17 @@
    "changes": "Silent filter and preview errors now leave a log line, so a filter that fails can be traced instead of failing quietly."
   },
   {
+   "pkg": "hasu.os.check",
+   "name": "HasuCheck",
+   "tag": "Arrived by itself",
+   "desc": "The second HasuStore pipeline test — published to the catalogue only, never bundled into the store. If it appears inside HasuStore by itself, the whole store machine works. Shows your phone's real model and Android version.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 33646,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/check.apk",
+   "changes": "First release — a tiny check app that arrives in HasuStore all by itself, with your phone's real details inside."
+  },
+  {
    "pkg": "hasu.os.clean",
    "name": "HasuClean",
    "tag": "Storage cleaner",
