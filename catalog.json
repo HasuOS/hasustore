@@ -299,11 +299,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 113,
-   "versionName": "1.20",
+   "code": 114,
+   "versionName": "1.21",
    "size": 111967380,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Online updates are built in now — the catalog link comes pre-set, updates are checked automatically, a notification arrives when new versions land, and every app page shows What's new. HasuStore can also update itself from its About page."
+   "changes": "Online updates made unmissable: the store now shows the result of every update check under the app count, a stale pasted catalogue link can no longer block updates (the built-in link takes over automatically), and update notifications are re-checked every hour and the moment you open the store."
   },
   {
    "pkg": "hasu.os.task",
