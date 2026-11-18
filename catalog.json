@@ -321,11 +321,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 119,
-   "versionName": "1.26",
-   "size": 111967380,
+   "code": 120,
+   "versionName": "1.27",
+   "size": 111971476,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Background update checks now run every 15 minutes — the fastest Android allows any app — so update notifications arrive much sooner. Opening the store or tapping Check for updates still checks instantly, right away."
+   "changes": "Downloads now show Play Store-style progress — percent, MB downloaded of the total, elapsed time and time left — on every app page and for the store's own update. Downloads also resume when the connection drops, retry by themselves, and a double tap can no longer corrupt a download (that was behind the failed self-update)."
   },
   {
    "pkg": "hasu.os.task",
