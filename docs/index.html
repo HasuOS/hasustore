@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HasuOS — Apps by Hasu</title>
+<meta name="description" content="HasuOS is a family of beautiful Android apps by Hasu — with its own store, HasuStore, that keeps every app updated like the Play Store.">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
+    color: #fff; min-height: 100vh;
+    background: linear-gradient(160deg, #241047 0%, #160b38 45%, #0a1e46 100%);
+    background-attachment: fixed;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 28px 18px 60px; }
+  header.top { display: flex; align-items: center; gap: 12px; }
+  .logo {
+    width: 46px; height: 46px; border-radius: 14px; display: grid;
+    place-items: center; font-weight: 800; font-size: 24px;
+    background: rgba(255,255,255,.10); border: 1px solid rgba(255,255,255,.25);
+  }
+  .brand { font-size: 22px; font-weight: 800; letter-spacing: .4px; }
+  .brand small { display: block; font-size: 12px; font-weight: 500; color: rgba(255,255,255,.6); }
+  nav { margin-left: auto; display: flex; gap: 8px; flex-wrap: wrap; }
+  nav a {
+    color: #fff; text-decoration: none; font-size: 14px; padding: 8px 14px;
+    border-radius: 999px; background: rgba(255,255,255,.08);
+    border: 1px solid rgba(255,255,255,.16);
+  }
+  .hero { text-align: center; padding: 64px 10px 30px; }
+  .hero h1 { font-size: clamp(40px, 8vw, 72px); font-weight: 900; letter-spacing: .5px; }
+  .hero h1 .grad {
+    background: linear-gradient(90deg, #6db3ff, #b78cff, #ff9fd0);
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+  }
+  .hero p { margin: 16px auto 0; max-width: 640px; color: rgba(255,255,255,.75); font-size: 17px; line-height: 1.55; }
+  .cta { margin-top: 28px; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+  .btn {
+    display: inline-block; text-decoration: none; color: #fff; font-weight: 700;
+    padding: 14px 26px; border-radius: 999px; font-size: 16px;
+    background: #2f7bff; border: 1px solid #2f7bff;
+  }
+  .btn.ghost { background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.25); }
+  .stats { margin: 40px auto 0; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+  .stat {
+    min-width: 130px; padding: 16px 20px; border-radius: 20px; text-align: center;
+    background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.15);
+  }
+  .stat b { font-size: 26px; display: block; }
+  .stat span { font-size: 12.5px; color: rgba(255,255,255,.6); }
+  section { margin-top: 56px; }
+  h2 { font-size: 28px; font-weight: 800; margin-bottom: 8px; }
+  .sub { color: rgba(255,255,255,.65); line-height: 1.55; max-width: 720px; }
+  .card {
+    margin-top: 18px; padding: 24px; border-radius: 24px;
+    background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.15);
+  }
+  .card h3 { font-size: 20px; margin-bottom: 8px; }
+  .card p { color: rgba(255,255,255,.72); line-height: 1.6; }
+  .feats { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin-top: 16px; }
+  .feat { padding: 16px; border-radius: 18px; background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.12); }
+  .feat b { display: block; margin-bottom: 5px; font-size: 15px; }
+  .feat span { font-size: 13.5px; color: rgba(255,255,255,.62); line-height: 1.5; }
+  .search {
+    width: 100%; margin-top: 18px; padding: 14px 18px; font-size: 16px; color: #fff;
+    border-radius: 999px; border: 1px solid rgba(255,255,255,.2);
+    background: rgba(255,255,255,.08); outline: none;
+  }
+  .search::placeholder { color: rgba(255,255,255,.45); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; margin-top: 18px; }
+  .app {
+    padding: 18px; border-radius: 22px; display: flex; flex-direction: column; gap: 8px;
+    background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.15);
+  }
+  .app .row { display: flex; align-items: center; gap: 12px; }
+  .tile {
+    width: 52px; height: 52px; flex: none; border-radius: 15px; display: grid; place-items: center;
+    font-size: 24px; font-weight: 800; color: #fff; border: 1px solid rgba(255,255,255,.25);
+  }
+  .app h4 { font-size: 17px; }
+  .app .tag { font-size: 12.5px; color: #8fc1ff; }
+  .app .desc { font-size: 13.5px; color: rgba(255,255,255,.66); line-height: 1.55; flex: 1; }
+  .meta { display: flex; gap: 8px; align-items: center; }
+  .chip {
+    font-size: 11.5px; padding: 4px 10px; border-radius: 999px;
+    background: rgba(255,255,255,.10); border: 1px solid rgba(255,255,255,.16);
+    color: rgba(255,255,255,.8);
+  }
+  .dl {
+    margin-left: auto; text-decoration: none; color: #fff; font-weight: 700; font-size: 13.5px;
+    background: #2f7bff; padding: 8px 16px; border-radius: 999px;
+  }
+  footer { margin-top: 64px; text-align: center; color: rgba(255,255,255,.5); font-size: 13.5px; line-height: 1.7; }
+  footer a { color: #8fc1ff; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="logo">H</div>
+    <div class="brand">HasuOS<small>Apps by Hasu</small></div>
+    <nav>
+      <a href="#store">HasuStore</a>
+      <a href="#apps">Apps</a>
+      <a href="#about">About</a>
+      <a href="https://github.com/HasuOS">GitHub</a>
+    </nav>
+  </header>
+
+  <div class="hero">
+    <h1>One family of apps.<br><span class="grad">HasuOS.</span></h1>
+    <p>HasuOS is a growing family of Android apps designed and built by one developer — a launcher, a keyboard, a pro camera, a store of its own, and dozens more, all in liquid glass, all updated constantly.</p>
+    <div class="cta">
+      <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">⬇ Get HasuStore</a>
+      <a class="btn ghost" href="#apps">Browse the apps</a>
+    </div>
+    <div class="stats">
+      <div class="stat"><b id="statApps">42</b><span>apps in the family</span></div>
+      <div class="stat"><b>Daily</b><span>updates, every day</span></div>
+      <div class="stat"><b>Free</b><span>no ads, no accounts</span></div>
+    </div>
+  </div>
+
+  <section id="store">
+    <h2>HasuStore — the family's own store</h2>
+    <p class="sub">Every HasuOS app lives in HasuStore. Install it once and it keeps the whole family updated the way the Play Store does — with real download progress, a What's new card for every update, and a notification when something new is ready.</p>
+    <div class="card">
+      <h3>Why a store of its own?</h3>
+      <p>Because the family grows fast. HasuStore carries every app in one place, checks for updates in the background, and shows you exactly what changed before you install. No hunting for files, no stale versions.</p>
+      <div class="feats">
+        <div class="feat"><b>⬆ Update all</b><span>One tap updates every installed HasuOS app to its latest version.</span></div>
+        <div class="feat"><b>🆕 What's new</b><span>Every update explains itself — what is new, in plain words, on the app's page.</span></div>
+        <div class="feat"><b>🔔 Notifications</b><span>An alarm-grade check every 15 minutes, even when the store is closed.</span></div>
+        <div class="feat"><b>📊 Real progress</b><span>Percent, megabytes, time remaining — the full picture while you download.</span></div>
+      </div>
+      <div class="cta" style="justify-content:flex-start">
+        <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">⬇ Download HasuStore</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="apps">
+    <h2>The apps</h2>
+    <p class="sub">The full family, straight from the live catalogue — versions and sizes update themselves as new builds are published.</p>
+    <input class="search" id="q" type="search" placeholder="🔍 Search apps…">
+    <div class="grid" id="grid"></div>
+  </section>
+
+  <section id="about">
+    <h2>About Hasu</h2>
+    <div class="card">
+      <p>Hasu is an independent Android developer from Bangladesh who builds the software he wants to use: fast, beautiful, honest apps with no ads and no accounts. HasuOS started as a keyboard and a launcher; it is now a complete family — camera, files, music, clock, store and more — designed as one world in liquid glass, and improved a little every single day.</p>
+      <p style="margin-top:10px">Every app on this page was designed, built and tested by Hasu himself, on a phone just like yours.</p>
+    </div>
+  </section>
+
+  <footer>
+    © 2026 Hasu · HasuOS — built with care in Bangladesh<br>
+    <a href="https://github.com/HasuOS">github.com/HasuOS</a> · Apps are free; Android 8.0 and up.
+  </footer>
+</div>
+<script>
+  var SNAPSHOT = [{"pkg": "hasu.os.ai", "name": "HasuAI", "tag": "Photo studio", "desc": "Photo studio — one-tap auto enhance, HDR effect, smoothing, filters and sliders. All on-device; photos never leave your phone.", "code": 3, "versionName": "1.00", "size": 45934, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/ai.apk"}, {"pkg": "hasu.os.backup", "name": "HasuBackup", "tag": "APK backup", "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.", "code": 3, "versionName": "1.00", "size": 37742, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk"}, {"pkg": "hasu.os.battery", "name": "HasuBattery", "tag": "Battery & charge alarm", "desc": "Battery level, live power details, charge history graph and a full-charge alarm.", "code": 2, "versionName": "1.00", "size": 41838, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk"}, {"pkg": "hasu.os.keyboard", "name": "HasuBoard", "tag": "The HasuOS keyboard", "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.", "code": 38, "versionName": "5.1", "size": 68604713, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk"}, {"pkg": "hasu.os.browser", "name": "HasuBrowser", "tag": "Web browser", "desc": "Browser — light and fast browsing with bookmarks, history, downloads and desktop mode.", "code": 4, "versionName": "1.00", "size": 58222, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/browser.apk"}, {"pkg": "hasu.os.calc", "name": "HasuCalc", "tag": "Calculator", "desc": "Calculator — fast glass calculator with history plus a unit converter for length, weight, temperature, area, speed and data.", "code": 3, "versionName": "1.00", "size": 41838, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calc.apk"}, {"pkg": "hasu.os.calendar", "name": "HasuCalendar", "tag": "Calendar", "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.", "code": 3, "versionName": "1.00", "size": 41838, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk"}, {"pkg": "com.hasucam.camera", "name": "HasuCam", "tag": "Capture Beyond Limits", "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.", "code": 76, "versionName": "20.10", "size": 32715771, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk", "changes": "Videos now get the same tone lifts as photos: a look like Fade Film no longer loses its washed-out blacks when you record video. The live preview and the finished _FX video now match the photo look exactly."}, {"pkg": "hasu.os.check", "name": "HasuCheck", "tag": "Arrived by itself", "desc": "The second HasuStore pipeline test — published to the catalogue only, never bundled into the store. If it appears inside HasuStore by itself, the whole store machine works. Shows your phone's real model and Android version.", "code": 1, "versionName": "1.00", "size": 33646, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/check.apk", "changes": "First release — a tiny check app that arrives in HasuStore all by itself, with your phone's real details inside."}, {"pkg": "hasu.os.clean", "name": "HasuClean", "tag": "Storage cleaner", "desc": "Storage cleaner — find the largest files, duplicate photos and junk folders, and free space safely.", "code": 2, "versionName": "1.00", "size": 50030, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clean.apk"}, {"pkg": "hasu.os.clock", "name": "HasuClock", "tag": "Clock & alarms", "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.", "code": 10, "versionName": "1.04", "size": 1739409, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk", "changes": "Gentle wake-up: the alarm sound now fades in softly to full volume over 30 seconds. Alarms also reschedule themselves after the time or timezone changes and after the app itself is updated."}, {"pkg": "hasu.os.dice", "name": "HasuDice", "tag": "Dice & coin", "desc": "Dice roller and coin flip — roll 1 to 4 dice with a shuffle animation and a running total, flip a coin with heads and tails tallies, and keep your last rolls on screen.", "code": 1, "versionName": "1.00", "size": 37742, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/dice.apk", "changes": "First release — roll up to four dice, flip a coin, and watch your totals and tallies add up."}, {"pkg": "hasu.os.files", "name": "HasuFiles", "tag": "File manager", "desc": "File manager — browse all storage, categories for images, videos, music, documents & APKs, search, copy/move, zip & extract.", "code": 20, "versionName": "05.01", "size": 318382, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/files.apk"}, {"pkg": "hasu.os.finalcheck", "name": "HasuFinalCheck", "tag": "The final proof", "desc": "The final HasuStore pipeline proof — published to the catalogue only, never bundled into the store. It travelled GitHub -> HasuStore -> your phone with nobody touching the store, and stamps the exact moment you open it.", "code": 1, "versionName": "1.00", "size": 33646, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/finalcheck.apk", "changes": "First release — the final proof app: it arrives in HasuStore all by itself and shows the full journey it made."}, {"pkg": "hasu.os.gamebox", "name": "HasuGameBox", "tag": "Five games in one box", "desc": "Five games in one box — Tic Tac Toe against the computer, classic Snake, Memory Match, 2048 and Tap Rush. Best scores are kept for every game, all offline.", "code": 4, "versionName": "1.03", "size": 45934, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/gamebox.apk", "changes": "NEW: a Surprise me pill on the menu opens a random game when you cannot decide. Tic Tac Toe draws are now counted too — the menu tally reads You · Draws · Computer, so a hard-fought draw no longer vanishes."}, {"pkg": "hasu.os.habit", "name": "HasuHabit", "tag": "Habit tracker", "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.", "code": 2, "versionName": "1.01", "size": 41838, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk"}, {"pkg": "hasu.os.health", "name": "HasuHealth", "tag": "Steps, water & BMI", "desc": "Health — step counter with 7-day history, daily water tracker with a goal, and a BMI calculator. All on your phone.", "code": 2, "versionName": "1.00", "size": 41838, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/health.apk"}, {"pkg": "hasu.os.khata", "name": "HasuKhata", "tag": "Income & expense ledger", "desc": "Daily hisab in taka: month summary, categories and day-by-day entries.", "code": 2, "versionName": "1.00", "size": 41838, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/khata.apk"}, {"pkg": "hasu.os.lock", "name": "HasuLock", "tag": "App lock", "desc": "App lock — protect any app with a PIN pad and fingerprint unlock.", "code": 2, "versionName": "1.00", "size": 45934, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/lock.apk"}, {"pkg": "hasu.os.music", "name": "HasuMusic", "tag": "Music player", "desc": "Music player — songs, albums and artists from your library, background playback with notification controls, shuffle and repeat.", "code": 4, "versionName": "1.00", "size": 45934, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/music.apk"}, {"pkg": "hasu.os.namaz", "name": "HasuNamaz", "tag": "Prayer times", "desc": "Prayer times for Bangladesh — offline calculation, next-waqt countdown, Qibla compass and per-waqt alarms.", "code": 2, "versionName": "1.00", "size": 45934, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/namaz.apk"}, {"pkg": "hasu.os.news", "name": "HasuNews", "tag": "Bangla news", "desc": "Bangla news — Prothom Alo and BBC Bangla headlines, articles open inside the app, and last headlines stay saved for offline reading.", "code": 2, "versionName": "1.00", "size": 37742, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/news.apk"}, {"pkg": "hasu.os.notes", "name": "HasuNotes", "tag": "Notes", "desc": "Notes — quick private notes with pinning, colours and search. Auto-saves, no account, everything stays on your phone.", "code": 3, "versionName": "1.00", "size": 37742, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/notes.apk"}, {"pkg": "hasu.os.home", "name": "HasuOS Home", "tag": "Your HasuOS home screen", "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.", "code": 71, "versionName": "10.01", "size": 12021884, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk"}, {"pkg": "hasu.os.pdf", "name": "HasuPDF", "tag": "PDF tools", "desc": "PDF tools — photos to PDF, merge PDFs and split out pages, saved to Download/HasuPDF.", "code": 2, "versionName": "1.00", "size": 41838, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pdf.apk"}, {"pkg": "hasu.os.quick", "name": "HasuQuick", "tag": "Floating assistive ball", "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.", "code": 26, "versionName": "2.01", "size": 767627, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk", "changes": "The Torch tile now shows its state like the other tiles: turn the flashlight on and the tile turns accent blue and reads Torch On; turn it off and it goes back. The tile also stays truthful if the torch is switched from the system panel or camera."}, {"pkg": "hasu.os.radio", "name": "HasuRadio", "tag": "Live radio", "desc": "Live radio — Radio Foorti, Bangladesh Betar, Jago FM, Peoples Radio, Radio Today and BBC World Service, with favourites and background playback.", "code": 2, "versionName": "1.00", "size": 50030, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/radio.apk"}, {"pkg": "hasu.os.scan", "name": "HasuScan", "tag": "QR & barcode scanner", "desc": "QR & barcode scanner with torch and gallery scan — plus a QR maker for text, links, Wi-Fi and more.", "code": 2, "versionName": "1.00", "size": 263093, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/scan.apk"}, {"pkg": "hasu.os.share", "name": "HasuShare", "tag": "Offline file sharing", "desc": "Offline file sharing — pick files, share them over WiFi or hotspot, and the other phone downloads them from your browser address. No internet needed.", "code": 2, "versionName": "1.01", "size": 41838, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/share.apk"}, {"pkg": "hasu.os.shikha", "name": "HasuShikha", "tag": "English words", "desc": "English words — 120 common words with Bangla meanings and examples. Flip the card, mark what you know, review what you missed.", "code": 2, "versionName": "1.01", "size": 45934, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shikha.apk"}, {"pkg": "hasu.os.shot", "name": "HasuShot", "tag": "Screenshots & recording", "desc": "Screenshots & screen recording from a floating button — gallery, crop, edit and recycle bin built in.", "code": 23, "versionName": "02.00", "size": 74751, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shot.apk"}, {"pkg": "hasu.os.speed", "name": "HasuSpeed", "tag": "Live internet speed", "desc": "Live internet speed in your notification — download & upload now, today's totals and per-app usage.", "code": 25, "versionName": "02.00", "size": 50101, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk"}, {"pkg": "hasu.os.store", "name": "HasuStore", "tag": "The HasuOS app store", "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.", "code": 126, "versionName": "1.33", "size": 112004312, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk", "changes": "NEW: a refresh button at the top of the store — one tap re-checks everything (installed apps, the online catalogue, the whole grid) so the latest updates appear without closing the store. Automatic refresh on open keeps working as before."}, {"pkg": "hasu.os.tasbih", "name": "HasuTasbih", "tag": "Digital tasbih", "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.", "code": 1, "versionName": "1.00", "size": 37742, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk", "changes": "First release — a digital tasbih counter: four dhikr, a big tap circle with a gentle buzz, round targets and a lifetime total."}, {"pkg": "hasu.os.task", "name": "HasuTask", "tag": "To-dos & reminders", "desc": "To-dos — tasks with a date, time and priority, and reminders that fire on time. Filter by Today, All or Done.", "code": 2, "versionName": "1.00", "size": 46147, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk"}, {"pkg": "hasu.os.test", "name": "HasuTest", "tag": "HasuStore pipeline test", "desc": "A tiny test app whose whole job is to prove the HasuStore pipeline — it appears in the store, downloads, installs, opens and updates like every other HasuOS app.", "code": 1, "versionName": "1.00", "size": 29550, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/test.apk", "changes": "First release — a tiny test app for checking the HasuStore download and install flow."}, {"pkg": "hasu.os.tools", "name": "HasuTools", "tag": "Pocket tools", "desc": "Tools — compass, bubble level, real-size ruler and a torch with strobe and SOS modes.", "code": 4, "versionName": "1.00", "size": 50030, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tools.apk"}, {"pkg": "hasu.os.usage", "name": "HasuUsage", "tag": "Screen time", "desc": "Usage — see where your time goes: screen time and data per app for today, yesterday and the last 7 days.", "code": 3, "versionName": "1.00", "size": 33646, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/usage.apk"}, {"pkg": "hasu.os.vault", "name": "HasuVault", "tag": "Private photo vault", "desc": "A private vault for photos, videos & PDFs — AES-256 encryption, PIN and fingerprint lock.", "code": 3, "versionName": "1.01", "size": 54194, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk", "changes": "Five wrong PINs now lock the pad for 30 seconds, so the vault cannot be guessed open. A new Lock now row locks the vault at once, and the grid can be sorted Newest, Oldest, Name or Largest."}, {"pkg": "hasu.os.voice", "name": "HasuVoice", "tag": "Voice recorder", "desc": "Voice recorder — one-tap recording with a live level meter, playback, rename and share.", "code": 3, "versionName": "1.00", "size": 41838, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/voice.apk"}, {"pkg": "hasu.os.wall", "name": "HasuWall", "tag": "Your gallery & wallpapers", "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.", "code": 37, "versionName": "2.00", "size": 116086, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk"}, {"pkg": "hasu.os.weather", "name": "HasuWeather", "tag": "Weather", "desc": "Weather — current conditions and a 7-day forecast for any city on earth, powered by Open-Meteo.", "code": 3, "versionName": "1.00", "size": 41838, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/weather.apk"}];
+  var CATALOG = "https://raw.githubusercontent.com/HasuOS/hasustore/main/catalog.json";
+  function hue(name) {
+    var h = 0;
+    for (var i = 0; i < name.length; i++) h = (h * 31 + name.charCodeAt(i)) % 360;
+    return h;
+  }
+  function size(b) {
+    if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";
+    return (b / 1048576).toFixed(1) + " MB";
+  }
+  function render(apps) {
+    apps = apps.slice().sort(function (a, b) { return a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1; });
+    document.getElementById("statApps").textContent = apps.length;
+    var q = document.getElementById("q").value.trim().toLowerCase();
+    var g = document.getElementById("grid");
+    g.innerHTML = "";
+    apps.forEach(function (a) {
+      if (q && (a.name + " " + (a.tag || "")).toLowerCase().indexOf(q) < 0) return;
+      var d = document.createElement("div");
+      d.className = "app";
+      var h = hue(a.name);
+      d.innerHTML =
+        '<div class="row"><div class="tile" style="background:hsla(' + h + ',70%,55%,.35)">' +
+        a.name.replace(/^Hasu/, "").charAt(0) + '</div>' +
+        '<div><h4></h4><div class="tag"></div></div></div>' +
+        '<div class="desc"></div>' +
+        '<div class="meta"><span class="chip">v' + a.versionName + '</span>' +
+        '<span class="chip">' + size(a.size) + '</span>' +
+        '<a class="dl" href="' + a.url + '">⬇ Get</a></div>';
+      d.querySelector("h4").textContent = a.name;
+      d.querySelector(".tag").textContent = a.tag || "";
+      d.querySelector(".desc").textContent = a.desc || "";
+      g.appendChild(d);
+    });
+  }
+  document.getElementById("q").addEventListener("input", function () { render(window._apps || SNAPSHOT); });
+  window._apps = SNAPSHOT;
+  render(SNAPSHOT);
+  fetch(CATALOG).then(function (r) { return r.json(); }).then(function (j) {
+    if (j && j.apps && j.apps.length) { window._apps = j.apps; render(j.apps); }
+  }).catch(function () {});
+</script>
+</body>
+</html>
