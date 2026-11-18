@@ -333,11 +333,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 125,
-   "versionName": "1.32",
+   "code": 126,
+   "versionName": "1.33",
    "size": 112004312,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Update notifications now wake by alarm: the check runs every 15 minutes even when HasuStore is closed, like an alarm clock — if the amber card on the main page asks, allow Alarms & reminders once and it never asks again. Downloads under 1 MB now show their size in KB instead of 0.0 MB, and the What's new heading always names the version you are actually getting."
+   "changes": "NEW: a refresh button at the top of the store — one tap re-checks everything (installed apps, the online catalogue, the whole grid) so the latest updates appear without closing the store. Automatic refresh on open keeps working as before."
   },
   {
    "pkg": "hasu.os.tasbih",
