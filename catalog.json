@@ -118,11 +118,11 @@
    "name": "HasuGameBox",
    "tag": "Five games in one box",
    "desc": "Five games in one box — Tic Tac Toe against the computer, classic Snake, Memory Match, 2048 and Tap Rush. Best scores are kept for every game, all offline.",
-   "code": 1,
-   "versionName": "1.00",
+   "code": 2,
+   "versionName": "1.01",
    "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/gamebox.apk",
-   "changes": "First release — Tic Tac Toe, Snake, Memory Match, 2048 and Tap Rush, with best scores for every game."
+   "changes": "2048 gets an Undo button — take back your last move if you swipe the wrong way."
   },
   {
    "pkg": "hasu.os.habit",
@@ -299,11 +299,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 115,
-   "versionName": "1.22",
+   "code": 116,
+   "versionName": "1.23",
    "size": 111967380,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Fixed from your GameBox test: the store no longer lists itself in the app grid (its own update lives on the About page, now with a smooth spinning check animation), every app page now shows What's new, and an app you just installed flips to Open by itself."
+   "changes": "The real fix for apps showing Install after you installed them: the store can now see every installed app (Android hides apps that arrived later, like HasuGameBox), so Open, Update and Uninstall states are correct for every app — including brand-new ones."
   },
   {
    "pkg": "hasu.os.task",
@@ -314,6 +314,17 @@
    "versionName": "1.00",
    "size": 46147,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk"
+  },
+  {
+   "pkg": "hasu.os.test",
+   "name": "HasuTest",
+   "tag": "HasuStore pipeline test",
+   "desc": "A tiny test app whose whole job is to prove the HasuStore pipeline — it appears in the store, downloads, installs, opens and updates like every other HasuOS app.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 29550,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/test.apk",
+   "changes": "First release — a tiny test app for checking the HasuStore download and install flow."
   },
   {
    "pkg": "hasu.os.tools",
