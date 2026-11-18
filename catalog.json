@@ -333,11 +333,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 123,
-   "versionName": "1.30",
-   "size": 112000216,
+   "code": 125,
+   "versionName": "1.32",
+   "size": 112004312,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries the HasuQuick 2.01 update (the panel's Torch tile now lights up like WiFi and Data when the flashlight is on)."
+   "changes": "Update notifications now wake by alarm: the check runs every 15 minutes even when HasuStore is closed, like an alarm clock — if the amber card on the main page asks, allow Alarms & reminders once and it never asks again. Downloads under 1 MB now show their size in KB instead of 0.0 MB, and the What's new heading always names the version you are actually getting."
   },
   {
    "pkg": "hasu.os.tasbih",
