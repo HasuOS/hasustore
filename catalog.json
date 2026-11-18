@@ -299,11 +299,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 114,
-   "versionName": "1.21",
+   "code": 115,
+   "versionName": "1.22",
    "size": 111967380,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Online updates made unmissable: the store now shows the result of every update check under the app count, a stale pasted catalogue link can no longer block updates (the built-in link takes over automatically), and update notifications are re-checked every hour and the moment you open the store."
+   "changes": "Fixed from your GameBox test: the store no longer lists itself in the app grid (its own update lives on the About page, now with a smooth spinning check animation), every app page now shows What's new, and an app you just installed flips to Open by itself."
   },
   {
    "pkg": "hasu.os.task",
