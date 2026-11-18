@@ -125,6 +125,17 @@
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/files.apk"
   },
   {
+   "pkg": "hasu.os.finalcheck",
+   "name": "HasuFinalCheck",
+   "tag": "The final proof",
+   "desc": "The final HasuStore pipeline proof — published to the catalogue only, never bundled into the store. It travelled GitHub -> HasuStore -> your phone with nobody touching the store, and stamps the exact moment you open it.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 33646,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/finalcheck.apk",
+   "changes": "First release — the final proof app: it arrives in HasuStore all by itself and shows the full journey it made."
+  },
+  {
    "pkg": "hasu.os.gamebox",
    "name": "HasuGameBox",
    "tag": "Five games in one box",
