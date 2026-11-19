@@ -203,11 +203,13 @@
    "name": "HasuMusic",
    "tag": "Music player",
    "desc": "Music player — songs, albums and artists from your library, background playback with notification controls, shuffle and repeat.",
-   "code": 5,
-   "versionName": "1.01",
-   "size": 50030,
+   "code": 6,
+   "versionName": "1.02",
+   "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/music.apk",
-   "changes": "NEW: sort your library by title, artist, longest or newest, and a sleep timer on the player — music stops after 15, 30 or 60 minutes. Rotating the phone no longer loses your tab, search or the album you were browsing, and the About page now carries the website row (hasuos.github.io)."
+   "changes": "NEW: Permissions hub — a 🔐 Permissions toggle at the top of the library opens one screen with every permission and its real live state, plus a ✅ Turn all on walk. Headset buttons and the lock screen now control playback. A file that will not play skips to the next song instead of stopping silently. NEW: ▶ Play all and 🔀 Shuffle all for the whole library (or the open album/artist). The last-crash dialog is now premium glass.",
+   "ts": 1795079491,
+   "etag": "0x8DF461D05FD139F"
   },
   {
    "pkg": "hasu.os.namaz",
