@@ -61,8 +61,8 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.02</b></span>
-    <span class="chip" id="sz">45 KB</span>
+    <span class="chip">Version <b id="v">1.05</b></span>
+    <span class="chip" id="sz">49 KB</span>
     <span class="chip">hasu.os.health</span>
     <span class="chip">Android 8.0+</span>
   </div>
@@ -71,8 +71,8 @@
     <p>Health — step counter with 7-day history, daily water tracker with a goal, and a BMI calculator. All on your phone.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.02</span></h3>
-    <p id="wn">Permissions hub at the top of the main screen: physical activity, Notifications, exact alarms and reminders-after-restart with their real live states, plus a Turn-all-on walk. FIXED: activity recognition is asked once — not on every open, and the last-crash dialog is premium glass now.</p>
+    <h3>🆕 What's new in v<span id="wnV">1.05</span></h3>
+    <p id="wn">FIXED: steps now keep counting in the background — before, the step sensor was listened to only while the app was open, so a morning walk before opening HasuHealth was lost (the day&#x27;s baseline was set from the counter on first open). A new low-power step service keeps the counter alive all day and restarts after a reboot or an update, so the daily total is right even if you never open the app. The service&#x27;s notification is the honest control: &quot;Stop counting&quot; stops it and remembers the choice, and the steps card offers to turn it back on. The step accounting itself is unchanged and was unit-tested standalone (8 cases: day flow, counter resets after reboots, idempotent re-feeds).</p>
   </div>
   <div class="cta">
     <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/health.apk">⬇ Download HasuHealth</a>
