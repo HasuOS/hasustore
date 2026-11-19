@@ -506,13 +506,13 @@
    "name": "HasuMaps",
    "tag": "The HasuOS map — the world, in glass",
    "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-   "code": 2,
-   "versionName": "1.01",
-   "size": 41838,
+   "code": 3,
+   "versionName": "1.02",
+   "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-   "ts": 1795072385,
-   "etag": "0x8DF460C8D5A2AC4",
-   "changes": "Fixed the \"insufficient geolocation permissions\" error: when the map itself asks for your location, HasuMaps now asks Android for the permission first and only then answers the map — the site's own Show My Location button works, not just ours."
+   "ts": 1795077815,
+   "etag": "0x8DF4619302AA669",
+   "changes": "Big one: our own Directions panel (From/To, Drive/Walk/Bike, starts from your location), four map layers (Map/Cycle/Transit/Aid), Home & Work shortcuts (long-press to save, tap for directions) and Share place."
   }
  ]
 }
