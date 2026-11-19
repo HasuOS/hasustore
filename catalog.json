@@ -52,11 +52,13 @@
    "name": "HasuBrowser",
    "tag": "Web browser",
    "desc": "Browser — light and fast browsing with bookmarks, history, downloads and desktop mode.",
-   "code": 5,
-   "versionName": "1.01",
-   "size": 62318,
+   "code": 6,
+   "versionName": "1.02",
+   "size": 66414,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/browser.apk",
-   "changes": "Find in page is now a real find bar: type to highlight matches, see '3 of 12', jump up and down, and close it with Back. Rotating the phone no longer reloads every tab — each tab comes back with its history and scroll position intact. The About page now carries the HasuOS website row."
+   "changes": "Permissions hub at the top of the browser: Internet and network state with their real live states, plus a Turn-all-on walk — the browser honestly needs no runtime permissions. NEW: choose your search engine (Google, DuckDuckGo or Bing), close all tabs at once, and delete one bookmark or history entry. The text-size picker now shows each size as it will look. File uploads now honour the page's file types and several files at once. A link sent while the browser is already running now opens instead of being dropped. The last-crash dialog is premium glass now.",
+   "ts": 1795083154,
+   "etag": "0x8DF46256D273B3D"
   },
   {
    "pkg": "hasu.os.calc",
