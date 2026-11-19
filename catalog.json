@@ -544,13 +544,13 @@
    "name": "HasuMaps",
    "tag": "The HasuOS map — the world, in glass",
    "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-   "code": 18,
-   "versionName": "1.17",
-   "size": 78702,
+   "code": 19,
+   "versionName": "1.18",
+   "size": 82798,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-   "ts": 1795125666,
-   "etag": "0x8DF46885EF45E3B",
-   "changes": "FIXED (his report): search no longer jumps to the first match. 'Uttara University' used to open the old Sector 6 campus, because the map data holds two places with that name and the app took the first one. Now, when a search matches more than one place, HasuMaps lists them all — name, address and distance from the map centre, nearest first — and you tap the right one (the Beribadh campus is in the list). Suggestions show up to 8 matches, typed directions pick the match nearest the map instead of the first, and results are biased to Bangladesh so a same-named place abroad cannot win."
+   "ts": 1795126740,
+   "etag": "0x8DF468AFE9EFBDC",
+   "changes": "Controls only when needed (his order): the map screen no longer carries the layers row and the Explore chips all the time — they now live behind two small 🗺 Layers and 🔍 Explore toggles, hidden until you tap one, and they step aside again the moment a card, a route or navigation opens. The open toggle lights up blue so it is always clear what is showing, and the two rows never stack. Only the search bar, 📍 Locate and 🧭 Directions stay permanently on screen — every facility is still there, shown on demand. During navigation the toggles hide too, so the map keeps its room."
   },
   {
    "pkg": "hasu.os.assist",
