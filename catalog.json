@@ -109,13 +109,13 @@
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 13,
-   "versionName": "1.07",
+   "code": 14,
+   "versionName": "1.08",
    "size": 1747601,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
-   "changes": "NEW: a Permissions hub in every app (starting here). Tap the toggle switch at the top: every permission this app can ask for, with its real ON/OFF state, plus a Turn all on button that walks through all of them. Also keeps the 1.06 fixes: an alarm can never stay silent, and a snooze can no longer be wiped by editing its alarm.",
-   "ts": 1795062919,
-   "etag": "0x8DF45F682F65F77"
+   "changes": "12-hour time everywhere now — the 24H toggle is gone (standing rule), including the widgets. Fixed: a running timer now survives a reboot and rings; the test alarm no longer kills a running timer; snoozing from the ring screen can no longer wipe the alarm's next ring; two alarms made in the same instant can no longer share an id. NEW: snooze length you choose (5/10/15/20/30 min), 12 more world cities, and the video-alarm preview is a glass dialog.",
+   "ts": 1795077633,
+   "etag": "0x8DF4618BCECBECB"
   },
   {
    "pkg": "hasu.os.dice",
