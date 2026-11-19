@@ -83,12 +83,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 85,
-   "versionName": "20.19",
+   "code": 86,
+   "versionName": "20.20",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Video filter freeze, final answer: if the live filter preview stalls on your camera, HasuCam now remembers it and never tries the live filter on that camera again — the video preview always moves, and your recordings still get the filter look. A manual retry lives in the Video filter menu.",
-   "ts": 1795055580
+   "changes": "Video filters, your way: a filter that freezes the preview on YOUR phone is removed from the filter list for good — the list only shows filters that work here. Recordings still get every look, and a 'show hidden again' row lives in the filter menu.",
+   "ts": 1795057020,
+   "etag": "0x8DF45E85BA07BF2"
   },
   {
    "pkg": "hasu.os.check",
@@ -359,12 +360,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 167,
-   "versionName": "1.74",
-   "size": 112082202,
+   "code": 168,
+   "versionName": "1.75",
+   "size": 112086298,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Two things you asked for: (1) HasuStore now opens with an owner LOGIN page — without your username and password nobody gets in. (2) Auto-download is ON: every app update, HasuStore's own included, downloads by itself once it has settled; you only tap Install. Turn it off any time in About → Settings.",
-   "ts": 1795056420
+   "changes": "Actual-time updates: the store now probes the download until the new file is REALLY served, then shows the update — 30 seconds or 3 minutes, whatever it actually takes. Login is saved on this device (log in once, never asked again here), with a Show password eye while you type and a Log out switch in About → Settings.",
+   "ts": 1795057020,
+   "etag": "0x8DF45E8628AB4EC"
   },
   {
    "pkg": "hasu.os.tasbih",
