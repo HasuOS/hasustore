@@ -492,19 +492,6 @@
    "ts": 1795059900,
    "etag": "0x8DF45ED92254AFC",
    "changes": "First release — the HasuOS website as its own app, running on the website's server, always as current as the site itself."
-  },
-  {
-   "pkg": "hasu.os.ping",
-   "name": "HasuPing",
-   "tag": "Notification test",
-   "desc": "A tiny test app with one job: prove that HasuStore update and new-app notifications arrive on their own, without opening HasuStore. It does nothing else — uninstall it any time.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 29550,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/ping.apk",
-   "changes": "First release — the notification test app, round two.",
-   "ts": 1795068780,
-   "etag": "0x8DF460406C2CE60"
   }
  ]
 }
