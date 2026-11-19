@@ -85,13 +85,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 89,
-   "versionName": "20.23",
+   "code": 90,
+   "versionName": "20.24",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Freeze-saga cleanup: the dead filter-watchdog branch and unused checks are gone now that live filtered preview is off for good; the camera stall guard stays.",
-   "ts": 1795064881,
-   "etag": "0x8DF45FAFCD3CBC0"
+   "changes": "A second video recorded just as the previous filtered copy finished rendering no longer loses its _FX copy, and the viewer now says \"Couldn't open that photo\" instead of a black screen when a photo cannot be opened.",
+   "ts": 1795067467,
+   "etag": "0x8DF46010AA8E92D"
   },
   {
    "pkg": "hasu.os.clean",
@@ -348,13 +348,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 177,
-   "versionName": "1.84",
-   "size": 112307832,
+   "code": 178,
+   "versionName": "1.85",
+   "size": 112316024,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Two fixes from your reports: (1) update notifications now survive being swiped out of Recents — the check is armed like an alarm clock, the strongest wake-up Android gives a sideloaded app. (2) A download that finished but was not installed yet now shows Install and installs from the file already on the phone — no second download, no double data. Also new: the Permissions hub in the main menu, and old downloaded files are cleaned up once installed. Carries HasuBoard 5.17 inside.",
-   "ts": 1795067000,
-   "etag": "0x8DF45FFEC6A88B4"
+   "changes": "Carries HasuCam 20.24, HasuBoard 5.17, HasuOS Home 10.03, HasuQuick 2.06 and HasuClock 1.03 inside.",
+   "ts": 1795067467,
+   "etag": "0x8DF46010FEA18B4"
   },
   {
    "pkg": "hasu.os.tasbih",
