@@ -431,11 +431,13 @@
    "name": "HasuWall",
    "tag": "Your gallery & wallpapers",
    "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-   "code": 39,
-   "versionName": "2.02",
-   "size": 116086,
+   "code": 40,
+   "versionName": "2.03",
+   "size": 124278,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-   "changes": "The website link is now on the About page, like every HasuOS app."
+   "changes": "NEW: Permissions hub — a drawn toggle at the top of the main screen opens WallPermsActivity with real live states (Photos, Videos, Set wallpaper) + Turn-all-on walk. NEW: the photo editor can now set the edited photo as wallpaper (Home / Lock / Both), favourite it, and preview it on a home screen — those buttons existed but were never wired in, so the editor could only save. NEW: the gallery no longer stops silently at 300 photos / 200 videos — a Show more button loads the next page, and the tab counts show 300+ when more exist. FIXED: the Bin, Categories and folder screens could grow their thumbnail caches without limit; all three now cap at 120 like the main grid. The About page no longer claims an auto-change schedule (removed in 2.00), and the live-wallpaper placeholder text points to the real way to set a video.",
+   "ts": 1795073579,
+   "etag": "0x8DF460F3F7D743C"
   },
   {
    "pkg": "hasu.os.weather",
