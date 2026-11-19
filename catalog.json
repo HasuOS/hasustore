@@ -39,11 +39,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 39,
-   "versionName": "5.11",
+   "code": 40,
+   "versionName": "5.12",
    "size": 68604713,
-   "changes": "NEW: a Clear learned words button in the Typing tab — wipes everything the keyboard learned about your words in one tap. The About page now carries the HasuOS website row.",
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk"
+   "changes": "Clipboard fixed properly: the board now captures EVERY copy the moment you copy it — before, only the latest copy survived and older clips were lost. History now holds 100 clips, copying something again brings it back to the top, and copied photos land in the history too.",
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
+   "ts": 1795057800,
+   "etag": "0x8DF45EA5DD4761D"
   },
   {
    "pkg": "hasu.os.browser",
@@ -360,13 +362,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 168,
-   "versionName": "1.75",
+   "code": 169,
+   "versionName": "1.76",
    "size": 112086298,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Actual-time updates: the store now probes the download until the new file is REALLY served, then shows the update — 30 seconds or 3 minutes, whatever it actually takes. Login is saved on this device (log in once, never asked again here), with a Show password eye while you type and a Log out switch in About → Settings.",
-   "ts": 1795057020,
-   "etag": "0x8DF45E8628AB4EC"
+   "changes": "Carries HasuBoard 5.12 (clipboard history fix) and HasuCam 20.20.",
+   "ts": 1795057800,
+   "etag": "0x8DF45EA6D4F5F50"
   },
   {
    "pkg": "hasu.os.tasbih",
