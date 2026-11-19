@@ -266,24 +266,26 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 74,
-   "versionName": "10.04",
+   "code": 75,
+   "versionName": "10.05",
    "size": 12030076,
-   "changes": "Fixed: the top rows of the settings hub, Permissions and About screens could sit too high under the status bar — all screens now start below the real status-bar height.",
+   "changes": "Fixed: changing the Widget stack size (Small/Medium/Large) in Customize now resizes the home-screen widgets at once — before, the new size only appeared after an app install, uninstall or edit-mode toggle.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795078373,
-   "etag": "0x8DF461A7B3DA50C"
+   "ts": 1795088457,
+   "etag": "0x8DF4631E8120C17"
   },
   {
    "pkg": "hasu.os.pdf",
    "name": "HasuPDF",
    "tag": "PDF tools",
    "desc": "PDF tools — photos to PDF, merge PDFs and split out pages, saved to Download/HasuPDF.",
-   "code": 3,
-   "versionName": "1.01",
-   "size": 41838,
+   "code": 4,
+   "versionName": "1.02",
+   "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pdf.apk",
-   "changes": "NEW: sort your PDFs — Newest, Name A–Z or Largest — from a chip above the list, remembered between opens. Rotating the phone no longer throws away the photos you picked or the PDF you were about to split, and the About page now carries the HasuOS website row."
+   "changes": "Permissions hub at the top of the first screen: Internet with its real live state, plus the old storage row on Android 8 and older only. FIXED: the last-crash dialog is premium glass now; the old storage permission is asked once, not on every open; a failed save on older Android no longer leaves a half-written file and an open stream behind.",
+   "etag": "0x8DF462FEEFA259D",
+   "ts": 1795088469
   },
   {
    "pkg": "hasu.os.quick",
@@ -303,33 +305,39 @@
    "name": "HasuRadio",
    "tag": "Live radio",
    "desc": "Live radio — Radio Foorti, Bangladesh Betar, Jago FM, Peoples Radio, Radio Today and BBC World Service, with favourites and background playback.",
-   "code": 3,
-   "versionName": "1.01",
-   "size": 50030,
+   "code": 4,
+   "versionName": "1.02",
+   "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/radio.apk",
-   "changes": "NEW: a sleep timer on the player — tap ⏱ to stop the radio by itself after 15, 30 or 60 minutes, with the minutes left showing live. Plus a search box to find a station by name, and the About page now carries the website row (hasuos.github.io)."
+   "changes": "Permissions hub at the top of the first screen: Notifications with its real live state, plus Internet and network state as install-time grants. NEW: add your own station by name and stream URL, and remove an added station with a long press. FIXED: after a stream error, Retry now really starts a fresh player (the dead player is released instead of tapped again); a prepare that finishes after a newer play started no longer starts the wrong stream; the notification permission is asked once, not on every open; the sleep timer stays in step after rotation; the last-crash dialog is premium glass now.",
+   "etag": "0x8DF46306A565C9D",
+   "ts": 1795088469
   },
   {
    "pkg": "hasu.os.scan",
    "name": "HasuScan",
    "tag": "QR & barcode scanner",
    "desc": "QR & barcode scanner with torch and gallery scan — plus a QR maker for text, links, Wi-Fi and more.",
-   "code": 4,
-   "versionName": "1.02",
-   "size": 263093,
+   "code": 5,
+   "versionName": "1.03",
+   "size": 267189,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/scan.apk",
-   "changes": "The website link is now on the About page, like every HasuOS app."
+   "changes": "Permissions hub at the top of the first screen: Camera with its real live state, plus Vibration as an install-time grant. FIXED: top text now clears the status bar on every phone (it used a fixed 30 dp); clearing history asks first instead of deleting everything on one tap; history times are always 12-hour now; a failed QR save no longer leaves a 0-byte picture and an open stream behind; gallery scans no longer leak the photo stream or the unscaled bitmap; the last-crash dialog is premium glass now.",
+   "etag": "0x8DF4630D9FFF256",
+   "ts": 1795088469
   },
   {
    "pkg": "hasu.os.share",
    "name": "HasuShare",
    "tag": "Offline file sharing",
    "desc": "Offline file sharing — pick files, share them over WiFi or hotspot, and the other phone downloads them from your browser address. No internet needed.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 41838,
+   "code": 4,
+   "versionName": "1.03",
+   "size": 50030,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/share.apk",
-   "changes": "NEW: a live download counter — while sharing, the status line shows how many files the other phone has downloaded. The picked-files list now shows its total size. FIXED: a failed response header used to leak the opened file stream; the stream, headers and body now share one try/finally. The About page has the HasuOS website row."
+   "changes": "Permissions hub at the top of the first screen: Notifications with its real live state, plus Internet, network state and Wi-Fi state as install-time grants. FIXED: picked files survive rotation instead of vanishing when the phone turns sideways; the picked-files list no longer stalls while the system looks up each file's name and size; the notification permission is asked once, not on every open; the last-crash dialog is premium glass now.",
+   "etag": "0x8DF4631369E4DAB",
+   "ts": 1795088469
   },
   {
    "pkg": "hasu.os.shikha",
