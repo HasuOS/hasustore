@@ -328,13 +328,13 @@
    "name": "HasuShot",
    "tag": "Screenshots & recording",
    "desc": "Screenshots & screen recording from a floating button — gallery, crop, edit and recycle bin built in.",
-   "code": 25,
-   "versionName": "02.02",
+   "code": 26,
+   "versionName": "02.03",
    "size": 82943,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shot.apk",
-   "changes": "NEW: Permissions hub — a drawn toggle-switch button at the top of the main page opens a Permissions screen with every permission's real live state (floating button, notifications, Accessibility, battery, microphone) plus a Turn-all-on walk; the old permissions card in Settings is gone (no duplication). NEW: mark up a shot straight from its saved notification (Edit action). FIXED: a system restart of the service no longer crashes it, a rejected share-screen consent no longer crashes the service, video shares now send the video type (they were sent as image/*), failed saves and restores no longer leave half-written rows in the gallery, and stale gallery/bin thumbnail threads stop on rebuild. 12-hour time everywhere: new screenshots and recordings are now named with a 12-hour stamp.",
-   "ts": 1795074870,
-   "etag": "0x8DF46124EE07FB3"
+   "changes": "Fixed: the top rows of every screen could sit too high under the status bar — all screens now start below the real status-bar height.",
+   "ts": 1795077983,
+   "etag": "0x8DF4619941573C5"
   },
   {
    "pkg": "hasu.os.speed",
