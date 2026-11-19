@@ -348,13 +348,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 182,
-   "versionName": "1.89",
+   "code": 183,
+   "versionName": "1.90",
    "size": 112320120,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "The real fault behind the failed downloads, found from your screenshot: an auto-download that failed once was marked as done and never tried again. Now a failed auto-download clears its mark and retries at the next check until it lands — and background attempts no longer show the red failed card (only downloads you start by hand do).",
-   "ts": 1795069535,
-   "etag": "0x8DF4605E8CFC5B3"
+   "changes": "Premium notifications + the full auto-download package: the update notification now carries an ⬆ Update all button and the downloaded card a 📥 Install button. Auto-download is now three modes in About → Settings — Off (notification only), ⬇ Hold (downloads by itself and waits for your tap), ⚡ Auto (download + the install prompt appears). Your current ON setting carries over as ⚡ Auto.",
+   "ts": 1795070789,
+   "etag": "0x8DF4608CE688AF0"
   },
   {
    "pkg": "hasu.os.tasbih",
