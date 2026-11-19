@@ -169,12 +169,12 @@
       "name": "HasuHabit",
       "tag": "Habit tracker",
       "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.",
-      "code": 6,
-      "versionName": "1.05",
-      "size": 50030,
+      "code": 7,
+      "versionName": "1.06",
+      "size": 58436,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk",
-      "changes": "NEW: the history dots now cover the last 4 weeks (28 days) instead of just 7 — a week was too short to see a habit's shape, and any day in the past month can still be tapped to mark or unmark it, with the day-of-month under each dot. FIXED: rotation no longer rebuilds any screen — every screen now keeps its state across a turn.",
-      "ts": 1795124655,
+      "changes": "NEW: home-screen widget — today at a glance on your home screen, with each habit's streak flame; tap any habit right on the widget to mark (or unmark) today done without opening the app, and the widget refreshes itself whenever a habit changes, when a reminder is marked done from its notification, after a reboot, and at midnight so the \"today\" state never goes stale. The widget is glass-styled like the app, shows up to 5 habits with a \"+ N more\" line, and tapping its title opens HasuHabit.",
+      "ts": 1795124768,
       "etag": "0x8DF46863483F18E"
     },
     {
@@ -182,13 +182,13 @@
       "name": "HasuHealth",
       "tag": "Steps, water & BMI",
       "desc": "Health — step counter with 7-day history, daily water tracker with a goal, and a BMI calculator. All on your phone.",
-      "code": 5,
-      "versionName": "1.03",
-      "size": 45934,
+      "code": 7,
+      "versionName": "1.05",
+      "size": 50030,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/health.apk",
-      "changes": "FIXED: walking no longer rebuilds the whole 7-day step chart on every step — each sensor event now only updates today's number, and the chart refreshes when you open the app or come back to it. FIXED: dragging a BMI slider no longer saves to storage on every tick — the numbers update live as you drag and save once when you let go. FIXED: the hourly water reminder no longer pins a permanent alarm-clock icon in the status bar — it now uses an exact alarm first and only falls back to an alarm-clock alarm. FIXED: the water reminder now re-arms after a clock change, a timezone change or an app update, not just after a reboot.",
+      "changes": "FIXED: steps now keep counting in the background — before, the step sensor was listened to only while the app was open, so a morning walk before opening HasuHealth was lost (the day's baseline was set from the counter on first open). A new low-power step service keeps the counter alive all day and restarts after a reboot or an update, so the daily total is right even if you never open the app. The service's notification is the honest control: \"Stop counting\" stops it and remembers the choice, and the steps card offers to turn it back on. The step accounting itself is unchanged and was unit-tested standalone (8 cases: day flow, counter resets after reboots, idempotent re-feeds).",
       "etag": "0x8DF46862F0CCAF1",
-      "ts": 1795124655
+      "ts": 1795124768
     },
     {
       "pkg": "hasu.os.khata",
