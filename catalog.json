@@ -360,13 +360,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 193,
-   "versionName": "2.00",
-   "size": 112361231,
+   "code": 194,
+   "versionName": "2.01",
+   "size": 112365327,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "FIXED (his report): What's new no longer disappears after an update. Every app page now shows the latest version's details word for word, they stay after installing, and the next version's details take their place when it arrives. Carries HasuCam 20.28, HasuBoard 5.19, HasuQuick 2.08, HasuClock 1.08, HasuFiles 05.03, HasuOS Home 10.04, HasuWall 2.04, HasuSpeed 02.03, HasuShot 02.03, HasuMusic 1.02 and HasuNotes 1.02 inside.",
-   "ts": 1795082993,
-   "etag": "0x8DF462538A509E2"
+   "changes": "Refresh now tells you the real thing in plain words (his order): no more \"updates found online\" — it says how many updates are ready to install, or \"update coming soon — wait about N minutes\" with the actual time, or that all your apps are up to date. Carries HasuCam 20.28, HasuBrowser 1.02, HasuBoard 5.19, HasuQuick 2.08, HasuClock 1.08, HasuFiles 05.03, HasuOS Home 10.04, HasuWall 2.04, HasuSpeed 02.03, HasuShot 02.03, HasuMusic 1.02 and HasuNotes 1.02 inside.",
+   "ts": 1795083828,
+   "etag": "0x8DF462720950A7C"
   },
   {
    "pkg": "hasu.os.tasbih",
