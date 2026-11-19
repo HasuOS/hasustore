@@ -94,11 +94,11 @@
    "name": "HasuCheck",
    "tag": "Arrived by itself",
    "desc": "The second HasuStore pipeline test — published to the catalogue only, never bundled into the store. If it appears inside HasuStore by itself, the whole store machine works. Shows your phone's real model and Android version.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 33646,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/check.apk",
-   "changes": "NEW: Screen and RAM rows, and tap any row to copy its value — plus the website row on the About page."
+   "changes": "NEW: Battery, Storage and CPU rows, Screen and RAM rows, tap any row to copy, and a Copy full report pill — plus the website row on the About page."
   },
   {
    "pkg": "hasu.os.clean",
@@ -391,11 +391,11 @@
    "name": "HasuTest",
    "tag": "HasuStore pipeline test",
    "desc": "A tiny test app whose whole job is to prove the HasuStore pipeline — it appears in the store, downloads, installs, opens and updates like every other HasuOS app.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 29550,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/test.apk",
-   "changes": "NEW: a Reset taps pill and tap milestones at 10, 25, 50 and 100 — plus the website row on the About page."
+   "changes": "NEW: live tap-rate (taps in the last 10 s), a Reset pill that asks first, milestones up to 500 taps — plus the website row on the About page."
   },
   {
    "pkg": "hasu.os.tools",
