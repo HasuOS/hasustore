@@ -348,24 +348,26 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 179,
-   "versionName": "1.86",
+   "code": 180,
+   "versionName": "1.87",
    "size": 112316024,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "The notification guarantee, finished: the update check now also re-arms itself when the clock or timezone changes (on top of boot, self-update and the alarm-clock chain from 1.84), and the Permissions hub has a new Battery row that shows live whether the phone is putting HasuStore to sleep — the one switch that can still stop background checks. Carries HasuBoard 5.18 inside.",
-   "ts": 1795068050,
-   "etag": "0x8DF46026EC56608"
+   "changes": "The update-check chain now re-arms itself at the END of every check as well as the start, so a fresh alarm is always standing. Carries HasuDice 1.03 and HasuTasbih 1.02 inside.",
+   "ts": 1795068780,
+   "etag": "0x8DF4604222AB0C5"
   },
   {
    "pkg": "hasu.os.tasbih",
    "name": "HasuTasbih",
    "tag": "Digital tasbih",
    "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 37742,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk",
-   "changes": "The website link is now on the About page, like every HasuOS app."
+   "changes": "The screen now stays awake while you count — a long dhikr round no longer goes dark in the middle.",
+   "ts": 1795068780,
+   "etag": "0x8DF460405D704CA"
   },
   {
    "pkg": "hasu.os.task",
@@ -492,17 +494,17 @@
    "changes": "First release — the HasuOS website as its own app, running on the website's server, always as current as the site itself."
   },
   {
-   "pkg": "hasu.os.test",
-   "name": "HasuTest",
+   "pkg": "hasu.os.ping",
+   "name": "HasuPing",
    "tag": "Notification test",
    "desc": "A tiny test app with one job: prove that HasuStore update and new-app notifications arrive on their own, without opening HasuStore. It does nothing else — uninstall it any time.",
    "code": 1,
    "versionName": "1.00",
    "size": 29550,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/test.apk",
-   "changes": "First release — the notification test app.",
-   "ts": 1795068235,
-   "etag": "0x8DF4602E282D7EC"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/ping.apk",
+   "changes": "First release — the notification test app, round two.",
+   "ts": 1795068780,
+   "etag": "0x8DF460406C2CE60"
   }
  ]
 }
