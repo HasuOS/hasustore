@@ -544,13 +544,13 @@
    "name": "HasuMaps",
    "tag": "The HasuOS map — the world, in glass",
    "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-   "code": 12,
-   "versionName": "1.11",
-   "size": 70510,
+   "code": 18,
+   "versionName": "1.17",
+   "size": 78702,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-   "ts": 1795090719,
-   "etag": "0x8DF46370CECA45D",
-   "changes": "NEW: Explore nearby — ten category chips under the map layers (Restaurants, Cafés, Fuel, ATMs, Hospitals, Pharmacy, Mosques, Parking, Hotels, Shops). One tap finds the nearest places of that kind within about 5 km of the area on screen, nearest first with the distance on each row; tap a result to open its place card with Directions, Save and Share. It uses the map centre, so it needs no new permission — the GPS fix is only a fallback when the map has no centre yet and location is already allowed."
+   "ts": 1795125580,
+   "etag": "0x8DF46885EF45E3B",
+   "changes": "FIXED (his report): search no longer jumps to the first match. 'Uttara University' used to open the old Sector 6 campus, because the map data holds two places with that name and the app took the first one. Now, when a search matches more than one place, HasuMaps lists them all — name, address and distance from the map centre, nearest first — and you tap the right one (the Beribadh campus is in the list). Suggestions show up to 8 matches, typed directions pick the match nearest the map instead of the first, and results are biased to Bangladesh so a same-named place abroad cannot win."
   },
   {
    "pkg": "hasu.os.assist",
