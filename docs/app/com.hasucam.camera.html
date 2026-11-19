@@ -61,7 +61,7 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">20.52</b></span>
+    <span class="chip">Version <b id="v">20.53</b></span>
     <span class="chip" id="sz">31.2 MB</span>
     <span class="chip">com.hasucam.camera</span>
     <span class="chip">Android 8.0+</span>
@@ -71,8 +71,8 @@
     <p>Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR &amp; Night merge, 20 modes.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">20.52</span></h3>
-    <p id="wn">FIXED: filtering a video can no longer leak its media extractor, encoder or graphics setup when something fails part-way through — a codec that will not start, no graphics setup available, a colour shader that will not compile or a decoder that will not start used to leave the extractor and everything already started behind until the cleaner ran. The whole filter setup now runs under one cleanup that frees each part only when it was actually created, and a failed stop can no longer skip a release. Nothing looks different — a bad video still keeps the original, a failed filter still says so — the camera just stops wasting memory when a video filter fails.</p>
+    <h3>🆕 What's new in v<span id="wnV">20.53</span></h3>
+    <p id="wn">FIXED: the photo editor&#x27;s header can no longer push its Save button off the right edge — the title now takes the leftover width and shortens with an ellipsis instead, so Save always sits fully on screen even with a wide system font. FIXED: the recycle bin was the one screen with no back button — it now has the same back-and-title header as every other screen. The About page no longer calls this the final version — HasuCam is updated continuously.</p>
   </div>
   <div class="cta">
     <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk">⬇ Download HasuCam</a>
