@@ -120,11 +120,13 @@
    "name": "HasuDice",
    "tag": "Dice & coin",
    "desc": "Dice roller and coin flip — roll 1 to 4 dice with a shuffle animation and a running total, flip a coin with heads and tails tallies, and keep your last rolls on screen.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 37742,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/dice.apk",
-   "changes": "The website link is now on the About page, like every HasuOS app."
+   "changes": "Fixed — HasuDice closed on every open since v1.00: the dice stage painted its total before the total line existed. The dice are now real drawn dice with pips (tap a die to roll), the saved dice count is honoured from the first frame, and a roll or a flip ends with a small buzz.",
+   "ts": 1795061394,
+   "etag": "0x8DF45F2A854E65B"
   },
   {
    "pkg": "hasu.os.files",
@@ -342,13 +344,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 172,
-   "versionName": "1.79",
-   "size": 112295544,
+   "code": 173,
+   "versionName": "1.80",
+   "size": 112299640,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Auto-download fixed for real: if Android blocks the background download start, the download now runs inline instead of silently giving up — and HasuStore's own updates notify too. Brand-new apps arrive with a notification and their own 'New apps' section at the top of the list, which clears as you install them. What's new now stays on an app's page after you update it. HasuOS, Hasu, HasuGameBox and HasuDice now come inside the store, icons included.",
-   "ts": 1795060566,
-   "etag": "0x8DF45F0FB09133E"
+   "changes": "Carries HasuDice 1.02 — the every-open crash fix and the new pip dice.",
+   "ts": 1795061394,
+   "etag": "0x8DF45F2F6A8B915"
   },
   {
    "pkg": "hasu.os.tasbih",
