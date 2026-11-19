@@ -92,13 +92,13 @@
       "name": "HasuCam",
       "tag": "Capture Beyond Limits",
       "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-      "code": 97,
-      "versionName": "20.31",
+      "code": 98,
+      "versionName": "20.32",
       "size": 32732155,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-      "changes": "Swiping fast through photos no longer leaves superseded full-size decodes in memory, the editor now saves exactly the photo on screen, and a dead capture list that was never filled is gone.",
-      "ts": 1795088489,
-      "etag": "0x8DF4631ED98C2A8"
+      "changes": "Photo booth now actually takes its 4 frames and builds the strip — it used to save a single plain photo; gallery and recycle-bin thumbnails can no longer show the wrong photo when you scroll fast; a dead capture path that could only ever fail is gone.",
+      "ts": 1795089076,
+      "etag": "0x8DF46335234938B"
     },
     {
       "pkg": "hasu.os.clean",
@@ -383,13 +383,13 @@
       "name": "HasuStore",
       "tag": "The HasuOS app store",
       "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-      "code": 197,
-      "versionName": "2.04",
-      "size": 112467727,
+      "code": 198,
+      "versionName": "2.05",
+      "size": 112504591,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-      "changes": "Downloads now show live in the notification shade: percent done, MB downloaded of the total MB and time left, with a progress bar — for downloads you start by hand as well as background auto-downloads.",
-      "ts": 1795087685,
-      "etag": "0x8DF4630151192FD"
+      "changes": "All three plain system dialogs are now premium Liquid Glass — Online updates, the catalog-link editor and the crash report — the header icon chips sit 6 dp apart instead of touching, the empty search state is a glass card with a loupe, and both download progress bars now use the HasuOS blue accent. Bundled copies refreshed: Home 10.05, HasuCam 20.31, HasuShikha 1.03, HasuShare 1.03, HasuWeb 1.01.",
+      "ts": 1795089131,
+      "etag": "0x8DF46337D77F969"
     },
     {
       "pkg": "hasu.os.tasbih",
