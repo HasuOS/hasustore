@@ -39,13 +39,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 40,
-   "versionName": "5.12",
+   "code": 41,
+   "versionName": "5.13",
    "size": 68604713,
-   "changes": "Clipboard fixed properly: the board now captures EVERY copy the moment you copy it — before, only the latest copy survived and older clips were lost. History now holds 100 clips, copying something again brings it back to the top, and copied photos land in the history too.",
+   "changes": "The Done key is now the return arrow (↵) like other keyboards, and it sends a real Enter key press — in fields like YouTube Studio tags, tapping it now confirms the tag instead of doing nothing.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
-   "ts": 1795057800,
-   "etag": "0x8DF45EA5DD4761D"
+   "ts": 1795059000,
+   "etag": "0x8DF45ECA18CAF6B"
   },
   {
    "pkg": "hasu.os.browser",
@@ -85,13 +85,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 86,
-   "versionName": "20.20",
+   "code": 87,
+   "versionName": "20.21",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Video filters, your way: a filter that freezes the preview on YOUR phone is removed from the filter list for good — the list only shows filters that work here. Recordings still get every look, and a 'show hidden again' row lives in the filter menu.",
-   "ts": 1795057020,
-   "etag": "0x8DF45E85BA07BF2"
+   "changes": "Video filter engine fixed at the root: the live preview stamped every frame with the camera sensor's clock, which this phone's display pipeline reads as 'in the future' — so the preview froze on the first filtered frame. Frames now present immediately, with a frame pump as backup. Any filter that still cannot run on your phone hides itself from the list.",
+   "ts": 1795059000,
+   "etag": "0x8DF45EC9AF87512"
   },
   {
    "pkg": "hasu.os.check",
@@ -362,13 +362,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 169,
-   "versionName": "1.76",
+   "code": 170,
+   "versionName": "1.77",
    "size": 112086298,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries HasuBoard 5.12 (clipboard history fix) and HasuCam 20.20.",
-   "ts": 1795057800,
-   "etag": "0x8DF45EA6D4F5F50"
+   "changes": "Direct install pop-up: a new card on the main page asks for the one-time 'Appear on top' allow — with it, when a download finishes after you leave HasuStore, the install pop-up appears directly instead of only a notification. Carries HasuCam 20.21 and HasuBoard 5.13.",
+   "ts": 1795059000,
+   "etag": "0x8DF45ECB72C3C9A"
   },
   {
    "pkg": "hasu.os.tasbih",
