@@ -6,30 +6,33 @@
    "name": "HasuAI",
    "tag": "Photo studio",
    "desc": "Photo studio — one-tap auto enhance, HDR effect, smoothing, filters and sliders. All on-device; photos never leave your phone.",
-   "code": 3,
-   "versionName": "1.00",
+   "code": 4,
+   "versionName": "1.01",
    "size": 45934,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/ai.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/ai.apk",
+   "changes": "NEW: Warmth slider for Snapseed-style temperature control, plus a Noir high-contrast black-and-white filter. The About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.backup",
    "name": "HasuBackup",
    "tag": "APK backup",
    "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-   "code": 3,
-   "versionName": "1.00",
+   "code": 4,
+   "versionName": "1.01",
    "size": 37742,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
+   "changes": "NEW: sort the app list by Name, Largest or Newest (by install date), remembered between opens. Rotating the phone no longer wipes your search text or the system-apps toggle. The About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.battery",
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 41838,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
+   "changes": "NEW: a low-battery alert — warn once when the battery drops to 15, 20 or 25%, and it re-arms when you plug in or charge 5% above the level. The drain-rate line now only counts the last day of history, so it no longer stretches over days."
   },
   {
    "pkg": "hasu.os.keyboard",
@@ -46,41 +49,44 @@
    "name": "HasuBrowser",
    "tag": "Web browser",
    "desc": "Browser — light and fast browsing with bookmarks, history, downloads and desktop mode.",
-   "code": 4,
-   "versionName": "1.00",
-   "size": 58222,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/browser.apk"
+   "code": 5,
+   "versionName": "1.01",
+   "size": 62318,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/browser.apk",
+   "changes": "Find in page is now a real find bar: type to highlight matches, see '3 of 12', jump up and down, and close it with Back. Rotating the phone no longer reloads every tab — each tab comes back with its history and scroll position intact. The About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.calc",
    "name": "HasuCalc",
    "tag": "Calculator",
    "desc": "Calculator — fast glass calculator with history plus a unit converter for length, weight, temperature, area, speed and data.",
-   "code": 3,
-   "versionName": "1.00",
+   "code": 4,
+   "versionName": "1.01",
    "size": 41838,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calc.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calc.apk",
+   "changes": "NEW: tap the result to copy it to the clipboard — with a small hint under the display. Rotating the phone no longer drops you back to the Calculator tab when you were converting units. The About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.calendar",
    "name": "HasuCalendar",
    "tag": "Calendar",
    "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 3,
-   "versionName": "1.00",
+   "code": 4,
+   "versionName": "1.01",
    "size": 41838,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
+   "changes": "NEW: search events by title and jump straight to the day, the way Google Calendar does it. The day header now shows how many events that day has. The About page now carries the HasuOS website row."
   },
   {
    "pkg": "com.hasucam.camera",
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 76,
-   "versionName": "20.10",
+   "code": 81,
+   "versionName": "20.15",
    "size": 32715771,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Videos now get the same tone lifts as photos: a look like Fade Film no longer loses its washed-out blacks when you record video. The live preview and the finished _FX video now match the photo look exactly."
+   "changes": "Video thumbnails in the gallery and recycle bin no longer leak memory on corrupt or missing videos."
   },
   {
    "pkg": "hasu.os.check",
@@ -98,21 +104,22 @@
    "name": "HasuClean",
    "tag": "Storage cleaner",
    "desc": "Storage cleaner — find the largest files, duplicate photos and junk folders, and free space safely.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 50030,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clean.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clean.apk",
+   "changes": "Duplicate photos can now be cleared in one tap with Delete all but the newest, and the overview shows a lifetime Freed so far total counted only on confirmed deletes."
   },
   {
    "pkg": "hasu.os.clock",
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 10,
-   "versionName": "1.04",
+   "code": 11,
+   "versionName": "1.05",
    "size": 1739409,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
-   "changes": "Gentle wake-up: the alarm sound now fades in softly to full volume over 30 seconds. Alarms also reschedule themselves after the time or timezone changes and after the app itself is updated."
+   "changes": "FIXED: rotating the phone no longer wipes a running stopwatch — it keeps counting with all its laps, and the tab you were on stays put. NEW: one-tap timer presets — 1, 5, 10 or 15 minutes — set the time and start the timer at once. The About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.dice",
@@ -162,80 +169,88 @@
    "name": "HasuHabit",
    "tag": "Habit tracker",
    "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 41838,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk",
+   "changes": "NEW: sort your habits by Newest, Name A–Z or Longest streak from a cycling chip. The week dots are tappable now — tap any dot to mark or unmark that day, so yesterday counts too. The About page has the HasuOS website row."
   },
   {
    "pkg": "hasu.os.health",
    "name": "HasuHealth",
    "tag": "Steps, water & BMI",
    "desc": "Health — step counter with 7-day history, daily water tracker with a goal, and a BMI calculator. All on your phone.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 41838,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/health.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/health.apk",
+   "changes": "NEW: a daily step goal — set it from the Steps card (10,000 by default) and watch your progress live, with a celebration when you reach it. The BMI card now shows the healthy weight range for your height, and the About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.khata",
    "name": "HasuKhata",
    "tag": "Income & expense ledger",
    "desc": "Daily hisab in taka: month summary, categories and day-by-day entries.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 41838,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/khata.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/khata.apk",
+   "changes": "NEW: monthly spending budget — set a limit from the 🎯 Budget pill and watch the live progress bar turn red when you go over. The About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.lock",
    "name": "HasuLock",
    "tag": "App lock",
    "desc": "App lock — protect any app with a PIN pad and fingerprint unlock.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 45934,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/lock.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/lock.apk",
+   "changes": "Five wrong PINs now lock the pad for 30 seconds, so a locked app cannot be guessed open. NEW: an unlocked app locks again as soon as you leave it — turn it off in settings to keep the old until-screen-off behaviour."
   },
   {
    "pkg": "hasu.os.music",
    "name": "HasuMusic",
    "tag": "Music player",
    "desc": "Music player — songs, albums and artists from your library, background playback with notification controls, shuffle and repeat.",
-   "code": 4,
-   "versionName": "1.00",
-   "size": 45934,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/music.apk"
+   "code": 5,
+   "versionName": "1.01",
+   "size": 50030,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/music.apk",
+   "changes": "NEW: sort your library by title, artist, longest or newest, and a sleep timer on the player — music stops after 15, 30 or 60 minutes. Rotating the phone no longer loses your tab, search or the album you were browsing, and the About page now carries the website row (hasuos.github.io)."
   },
   {
    "pkg": "hasu.os.namaz",
    "name": "HasuNamaz",
    "tag": "Prayer times",
    "desc": "Prayer times for Bangladesh — offline calculation, next-waqt countdown, Qibla compass and per-waqt alarms.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 45934,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/namaz.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/namaz.apk",
+   "changes": "NEW: the Hijri date now shows under the Gregorian date (offline calculation), like the best prayer apps. Rotating the phone no longer drops you back to the Prayer times tab, the countdown no longer ticks twice, and the About page now carries the website row (hasuos.github.io)."
   },
   {
    "pkg": "hasu.os.news",
    "name": "HasuNews",
    "tag": "Bangla news",
    "desc": "Bangla news — Prothom Alo and BBC Bangla headlines, articles open inside the app, and last headlines stay saved for offline reading.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 37742,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/news.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/news.apk",
+   "changes": "NEW: save any headline with ☆ — your saved stories live under a ★ Saved filter with its count. Rotating the phone in the article reader no longer reloads from the top (scroll position and back history survive), your search text survives rotation too, and the About page now carries the website row (hasuos.github.io)."
   },
   {
    "pkg": "hasu.os.notes",
    "name": "HasuNotes",
    "tag": "Notes",
    "desc": "Notes — quick private notes with pinning, colours and search. Auto-saves, no account, everything stays on your phone.",
-   "code": 3,
-   "versionName": "1.00",
-   "size": 37742,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/notes.apk"
+   "code": 4,
+   "versionName": "1.01",
+   "size": 41838,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/notes.apk",
+   "changes": "NEW: sort your notes — Newest, Oldest or Title A–Z — from a chip under the search box, remembered between opens. Rotating the phone no longer loses your search, your place in the list, or the cursor in the editor, and the About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.home",
@@ -252,10 +267,11 @@
    "name": "HasuPDF",
    "tag": "PDF tools",
    "desc": "PDF tools — photos to PDF, merge PDFs and split out pages, saved to Download/HasuPDF.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 41838,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pdf.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pdf.apk",
+   "changes": "NEW: sort your PDFs — Newest, Name A–Z or Largest — from a chip above the list, remembered between opens. Rotating the phone no longer throws away the photos you picked or the PDF you were about to split, and the About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.quick",
@@ -273,20 +289,22 @@
    "name": "HasuRadio",
    "tag": "Live radio",
    "desc": "Live radio — Radio Foorti, Bangladesh Betar, Jago FM, Peoples Radio, Radio Today and BBC World Service, with favourites and background playback.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 50030,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/radio.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/radio.apk",
+   "changes": "NEW: a sleep timer on the player — tap ⏱ to stop the radio by itself after 15, 30 or 60 minutes, with the minutes left showing live. Plus a search box to find a station by name, and the About page now carries the website row (hasuos.github.io)."
   },
   {
    "pkg": "hasu.os.scan",
    "name": "HasuScan",
    "tag": "QR & barcode scanner",
    "desc": "QR & barcode scanner with torch and gallery scan — plus a QR maker for text, links, Wi-Fi and more.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 263093,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/scan.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/scan.apk",
+   "changes": "A viewfinder frame with corner brackets now guides the camera scan, the Torch button shows its on state, SMS QR codes can carry a message, and gallery images are decoded inverted too."
   },
   {
    "pkg": "hasu.os.share",
@@ -313,31 +331,33 @@
    "name": "HasuShot",
    "tag": "Screenshots & recording",
    "desc": "Screenshots & screen recording from a floating button — gallery, crop, edit and recycle bin built in.",
-   "code": 23,
-   "versionName": "02.00",
-   "size": 74751,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shot.apk"
+   "code": 24,
+   "versionName": "02.01",
+   "size": 78847,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shot.apk",
+   "changes": "NEW: draw on your screenshot — finger markup in four colours with undo, saved into the image. Rotating the phone in the editor no longer throws away your edits, and the main page keeps its tab and a pending recording across rotation. The About page now carries the website row (hasuos.github.io)."
   },
   {
    "pkg": "hasu.os.speed",
    "name": "HasuSpeed",
    "tag": "Live internet speed",
    "desc": "Live internet speed in your notification — download & upload now, today's totals and per-app usage.",
-   "code": 25,
-   "versionName": "02.00",
+   "code": 26,
+   "versionName": "02.01",
    "size": 50101,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk",
+   "changes": "NEW: a live speed graph in the app — the last 60 seconds of download and upload, like the best speed meters. The About page now carries the website row (hasuos.github.io), and the per-app usage loader no longer touches the screen after you leave the page."
   },
   {
    "pkg": "hasu.os.store",
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 126,
-   "versionName": "1.33",
-   "size": 112004312,
+   "code": 154,
+   "versionName": "1.61",
+   "size": 112041176,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "NEW: a refresh button at the top of the store — one tap re-checks everything (installed apps, the online catalogue, the whole grid) so the latest updates appear without closing the store. Automatic refresh on open keeps working as before."
+   "changes": "The whole family refreshed — every bundled app is at its latest version, plus the refresh button at the top and the website row on the About page."
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -355,10 +375,11 @@
    "name": "HasuTask",
    "tag": "To-dos & reminders",
    "desc": "To-dos — tasks with a date, time and priority, and reminders that fire on time. Filter by Today, All or Done.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 46147,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk",
+   "changes": "NEW: sort your tasks — Due date, Priority or Title A–Z — from a chip under the filters, remembered between opens. NEW: a Clear done button that wipes all finished tasks in one confirmed go, and the About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.test",
@@ -376,60 +397,88 @@
    "name": "HasuTools",
    "tag": "Pocket tools",
    "desc": "Tools — compass, bubble level, real-size ruler and a torch with strobe and SOS modes.",
-   "code": 4,
-   "versionName": "1.00",
+   "code": 5,
+   "versionName": "1.01",
    "size": 50030,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tools.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tools.apk",
+   "changes": "NEW: a peak dB readout on the Sound meter — the loudest moment of the session, resetting on each visit. Rotating the phone no longer drops back to the Compass tab: the tab you were on is restored. The About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.usage",
    "name": "HasuUsage",
    "tag": "Screen time",
    "desc": "Usage — see where your time goes: screen time and data per app for today, yesterday and the last 7 days.",
-   "code": 3,
-   "versionName": "1.00",
+   "code": 4,
+   "versionName": "1.01",
    "size": 33646,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/usage.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/usage.apk",
+   "changes": "NEW: every app row now shows how many times you opened it, the way Digital Wellbeing counts launches. The About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.vault",
    "name": "HasuVault",
    "tag": "Private photo vault",
    "desc": "A private vault for photos, videos & PDFs — AES-256 encryption, PIN and fingerprint lock.",
-   "code": 2,
-   "versionName": "1.00",
+   "code": 3,
+   "versionName": "1.01",
    "size": 54194,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk",
+   "changes": "Five wrong PINs now lock the pad for 30 seconds, so the vault cannot be guessed open. A new Lock now row locks the vault at once, and the grid can be sorted Newest, Oldest, Name or Largest."
   },
   {
    "pkg": "hasu.os.voice",
    "name": "HasuVoice",
    "tag": "Voice recorder",
    "desc": "Voice recorder — one-tap recording with a live level meter, playback, rename and share.",
-   "code": 3,
-   "versionName": "1.00",
+   "code": 4,
+   "versionName": "1.01",
    "size": 41838,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/voice.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/voice.apk",
+   "changes": "NEW: the player now has a playback-speed control (0.5x to 2x) and 10-second skip buttons, so you can skim a long recording the way top recorders let you. The About page now carries the HasuOS website row."
   },
   {
    "pkg": "hasu.os.wall",
    "name": "HasuWall",
    "tag": "Your gallery & wallpapers",
    "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-   "code": 37,
-   "versionName": "2.00",
+   "code": 38,
+   "versionName": "2.01",
    "size": 116086,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
+   "changes": "Preview edits now survive rotating the phone, the thumbnail cache is capped so a big gallery cannot run the app out of memory, and the Favourites pill shows its count like the Bin pill does."
   },
   {
    "pkg": "hasu.os.weather",
    "name": "HasuWeather",
    "tag": "Weather",
    "desc": "Weather — current conditions and a 7-day forecast for any city on earth, powered by Open-Meteo.",
-   "code": 3,
-   "versionName": "1.00",
+   "code": 4,
+   "versionName": "1.01",
    "size": 41838,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/weather.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/weather.apk",
+   "changes": "NEW: a °C / °F toggle in the header — every temperature (now, feels like, hourly, 7-day) converts at once, remembered between opens. Rotating the phone no longer flashes 'Loading…' and re-fetches: a forecast cached in the last 30 minutes shows instantly. The About page now carries the HasuOS website row."
+  },
+  {
+   "pkg": "hasu.os.hasuos",
+   "name": "HasuOS",
+   "tag": "The family showcase",
+   "desc": "Every HasuOS app in one place — the whole family with its details, straight from the live catalogue. Tap any app for its story, version and size, and get it through HasuStore.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 45934,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
+   "changes": "NEW APP: the whole HasuOS family in one app — every app with its details, refreshed live from the catalogue."
+  },
+  {
+   "pkg": "hasu.os.hasu",
+   "name": "Hasu",
+   "tag": "Portfolio",
+   "desc": "Hasu's whole details in one app — a living portfolio: name, role, story, work and contact, all editable on the phone. The developer behind HasuOS.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 33646,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasu.apk",
+   "changes": "NEW APP: Hasu's portfolio — his details, his story and his work, editable on the phone."
   }
  ]
 }
