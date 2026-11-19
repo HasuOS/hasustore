@@ -267,13 +267,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 29,
-   "versionName": "2.04",
+   "code": 30,
+   "versionName": "2.05",
    "size": 767627,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "The Sound tile can no longer mute your video: the media volume is guarded across Ring / Vibrate / Silent changes and restored if the system drags it. The floating ball now keeps its side and height when a video goes full-screen — it no longer drifts to the middle of the wide screen.",
-   "ts": 1795060566,
-   "etag": "0x8DF45F0E669B63F"
+   "changes": "The Ring/Vibrate/Silent tile protects your video sound much faster now: on this phone the sound-mode switch drags the media volume down for a moment, and the guard that puts it back now starts within a fraction of a second, so the dip is no longer audible.",
+   "ts": 1795063817,
+   "etag": "0x8DF45F88E0B58E4"
   },
   {
    "pkg": "hasu.os.radio",
@@ -346,13 +346,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 173,
-   "versionName": "1.80",
+   "code": 174,
+   "versionName": "1.81",
    "size": 112299640,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries HasuDice 1.02 — the every-open crash fix and the new pip dice.",
-   "ts": 1795061394,
-   "etag": "0x8DF45F2F6A8B915"
+   "changes": "Carries HasuQuick 2.05 inside (faster media-volume guard on the Ring/Vibrate/Silent tile).",
+   "ts": 1795063817,
+   "etag": "0x8DF45F894FC38D4"
   },
   {
    "pkg": "hasu.os.tasbih",
