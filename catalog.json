@@ -92,13 +92,13 @@
       "name": "HasuCam",
       "tag": "Capture Beyond Limits",
       "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-      "code": 98,
-      "versionName": "20.32",
+      "code": 99,
+      "versionName": "20.33",
       "size": 32732155,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-      "changes": "Photo booth now actually takes its 4 frames and builds the strip — it used to save a single plain photo; gallery and recycle-bin thumbnails can no longer show the wrong photo when you scroll fast; a dead capture path that could only ever fail is gone.",
-      "ts": 1795089076,
-      "etag": "0x8DF46335234938B"
+      "changes": "Four unused photo-merging routines that no longer had any caller were removed, and photos taken in HDR, Night, Light trails, Astro, Focus bracket or Photo booth mode now free their full-size working images as soon as each step is done instead of leaving them in memory until the next photo — a rotated front-camera selfie with mirroring on also no longer leaves a spare copy behind.",
+      "ts": 1795090719,
+      "etag": "0x8DF46372C93E0BD"
     },
     {
       "pkg": "hasu.os.clean",
@@ -130,13 +130,13 @@
       "name": "HasuDice",
       "tag": "Dice & coin",
       "desc": "Dice roller and coin flip — roll 1 to 4 dice with a shuffle animation and a running total, flip a coin with heads and tails tallies, and keep your last rolls on screen.",
-      "code": 5,
-      "versionName": "1.04",
-      "size": 37742,
+      "code": 6,
+      "versionName": "1.05",
+      "size": 45934,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/dice.apk",
-      "changes": "The coin now remembers too — reopen HasuDice and your last flip (heads or tails) is still showing, next to the running tallies.",
-      "ts": 1795069967,
-      "etag": "0x8DF4606EB8D8F72"
+      "changes": "NEW: Permissions hub at the top of the main screen — Vibration with its real live state (the roll buzz, granted by Android at install time) plus a Turn-all-on walk; HasuDice needs no runtime permissions. FIXED: your last 8 rolls now survive a relaunch — they used to vanish when the app closed, even though About promised they stay on screen — and the lifetime roll count now shows next to them. NEW: tap the coin itself to flip it. FIXED: the last-crash dialog is premium glass now; a roll or flip left mid-animation no longer keeps posting to a dead screen after a rotation; crash-report streams now close properly; dice now announce their face to screen readers.",
+      "ts": 1795090719,
+      "etag": "0x8DF4636FD70587E"
     },
     {
       "pkg": "hasu.os.files",
@@ -422,44 +422,52 @@
       "name": "HasuTools",
       "tag": "Pocket tools",
       "desc": "Tools — compass, bubble level, real-size ruler and a torch with strobe and SOS modes.",
-      "code": 5,
-      "versionName": "1.01",
-      "size": 50030,
+      "code": 6,
+      "versionName": "1.02",
+      "size": 54126,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tools.apk",
-      "changes": "NEW: a peak dB readout on the Sound meter — the loudest moment of the session, resetting on each visit. Rotating the phone no longer drops back to the Compass tab: the tab you were on is restored. The About page now carries the HasuOS website row."
+      "changes": "NEW: Permissions hub at the top of the main screen — Camera and Microphone with their real live states, plus Vibration as an install-time grant, and a Turn-all-on walk. FIXED: Strobe and SOS no longer keep blinking after you leave the Torch tab with no way to stop them — leaving the tab stops the blinking (a steady torch stays on); the torch button now always shows the torch's real state. The torch asks for the Camera permission on the spot instead of failing silently, the microphone is asked once per session instead of on every Sound visit, and the last-crash dialog is premium glass now.",
+      "ts": 1795090719,
+      "etag": "0x8DF463721FFEF98"
     },
     {
       "pkg": "hasu.os.usage",
       "name": "HasuUsage",
       "tag": "Screen time",
       "desc": "Usage — see where your time goes: screen time and data per app for today, yesterday and the last 7 days.",
-      "code": 4,
-      "versionName": "1.01",
-      "size": 33646,
+      "code": 5,
+      "versionName": "1.02",
+      "size": 37742,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/usage.apk",
-      "changes": "NEW: every app row now shows how many times you opened it, the way Digital Wellbeing counts launches. The About page now carries the HasuOS website row."
+      "changes": "NEW: Permissions hub at the top of the main screen — Usage access with its real live state and a Turn-all-on walk; the app needs exactly that one permission. NEW: the 7-day view now shows your daily average next to the total. FIXED: the last-crash dialog is premium glass now, the no-access screen is a glass card instead of plain text, the crash-report file streams now close properly, and per-app data queries now close their NetworkStats handles even when a query fails.",
+      "ts": 1795090719,
+      "etag": "0x8DF46371F278B4A"
     },
     {
       "pkg": "hasu.os.vault",
       "name": "HasuVault",
       "tag": "Private photo vault",
       "desc": "A private vault for photos, videos & PDFs — AES-256 encryption, PIN and fingerprint lock.",
-      "code": 4,
-      "versionName": "1.02",
-      "size": 58290,
+      "code": 5,
+      "versionName": "1.03",
+      "size": 62386,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk",
-      "changes": "The website link is now on the About page, like every HasuOS app."
+      "changes": "NEW: Permissions hub at the top of the main screen — Fingerprint unlock with its real live state (tap the row to flip the vault's own switch, or enrol a fingerprint from the system page) plus Vibration as an install-time grant, and a Turn-all-on walk. SECURITY FIXED: the vault is now hidden from the Recents screen — lock screen, grid and viewer can no longer appear in app-switcher previews — and decrypted PDF copies left in the cache are now wiped (files older than an hour, on every return to the vault and before each new view). FIXED: the main screen, About page and viewer top bars now sit below the status bar for real; the last-crash and delete dialogs are premium glass now; the thumbnail cache is capped instead of growing with every photo; a failed import no longer leaves a half-written encrypted blob behind; crash-report streams now close properly.",
+      "ts": 1795090719,
+      "etag": "0x8DF463717773AD3"
     },
     {
       "pkg": "hasu.os.voice",
       "name": "HasuVoice",
       "tag": "Voice recorder",
       "desc": "Voice recorder — one-tap recording with a live level meter, playback, rename and share.",
-      "code": 4,
-      "versionName": "1.01",
-      "size": 41838,
+      "code": 5,
+      "versionName": "1.02",
+      "size": 50030,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/voice.apk",
-      "changes": "NEW: the player now has a playback-speed control (0.5x to 2x) and 10-second skip buttons, so you can skim a long recording the way top recorders let you. The About page now carries the HasuOS website row."
+      "changes": "NEW: Permissions hub at the top of the main screen — Microphone and Notifications with their real live states, plus a Turn-all-on walk. NEW: a Recording card now sits in the notification shade while you record (tap it to come back to the recorder) — recording with the screen off is no longer silent and invisible. NEW: search your recordings by name. FIXED: recording file names now use the 12-hour clock (the old names carried a 24-hour stamp); the last-crash dialog is premium glass now; renaming can no longer smuggle a slash into a file name; deleted and renamed recordings no longer leave stale entries in the duration cache; crash-report streams now close properly.",
+      "ts": 1795090719,
+      "etag": "0x8DF463714B92D91"
     },
     {
       "pkg": "hasu.os.wall",
@@ -479,11 +487,13 @@
       "name": "HasuWeather",
       "tag": "Weather",
       "desc": "Weather — current conditions and a 7-day forecast for any city on earth, powered by Open-Meteo.",
-      "code": 4,
-      "versionName": "1.01",
-      "size": 41838,
+      "code": 5,
+      "versionName": "1.02",
+      "size": 50030,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/weather.apk",
-      "changes": "NEW: a °C / °F toggle in the header — every temperature (now, feels like, hourly, 7-day) converts at once, remembered between opens. Rotating the phone no longer flashes 'Loading…' and re-fetches: a forecast cached in the last 30 minutes shows instantly. The About page now carries the HasuOS website row."
+      "changes": "NEW: Permissions hub at the top of the main screen — Location with its real live state, plus Internet and Network state as install-time grants, and a Turn-all-on walk. NEW: a 📍 My location button — the weather where you are, with the place named on the map (last fix reused when fresh, one fresh fix with a timeout otherwise). FIXED: a damaged saved coordinate can no longer crash the app on launch (it falls back to Dhaka); the network reader now closes properly even when a download fails; sunrise and sunset can no longer fall back to a 24-hour stamp; the no-internet screen is now a glass card with a working ↻ Retry button; the last-crash dialog is premium glass now; crash-report streams now close properly.",
+      "ts": 1795090719,
+      "etag": "0x8DF463711F68336"
     },
     {
       "pkg": "hasu.os.hasuos",
@@ -540,13 +550,13 @@
       "name": "HasuMaps",
       "tag": "The HasuOS map — the world, in glass",
       "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-      "code": 11,
-      "versionName": "1.10",
-      "size": 66414,
+      "code": 12,
+      "versionName": "1.11",
+      "size": 70510,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-      "ts": 1795086514,
-      "etag": "0x8DF462D6BA1AABC",
-      "changes": "NEW: arrival time — the route card now shows Arrive 5:42 PM next to the distance and travel time, and the live navigation banner, notification and floating popup count down to the same arrival time as you drive. All times in 12-hour format."
+      "ts": 1795090719,
+      "etag": "0x8DF46370CECA45D",
+      "changes": "NEW: Explore nearby — ten category chips under the map layers (Restaurants, Cafés, Fuel, ATMs, Hospitals, Pharmacy, Mosques, Parking, Hotels, Shops). One tap finds the nearest places of that kind within about 5 km of the area on screen, nearest first with the distance on each row; tap a result to open its place card with Directions, Save and Share. It uses the map centre, so it needs no new permission — the GPS fix is only a fallback when the map has no centre yet and location is already allowed."
     }
   ]
 }
