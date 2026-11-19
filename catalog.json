@@ -122,13 +122,13 @@
    "name": "HasuDice",
    "tag": "Dice & coin",
    "desc": "Dice roller and coin flip — roll 1 to 4 dice with a shuffle animation and a running total, flip a coin with heads and tails tallies, and keep your last rolls on screen.",
-   "code": 4,
-   "versionName": "1.03",
+   "code": 5,
+   "versionName": "1.04",
    "size": 37742,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/dice.apk",
-   "changes": "Your last roll now survives closing the app — reopen HasuDice and the dice show the faces you last rolled, with the total to match.",
-   "ts": 1795068235,
-   "etag": "0x8DF4602E1FAF2F1"
+   "changes": "The coin now remembers too — reopen HasuDice and your last flip (heads or tails) is still showing, next to the running tallies.",
+   "ts": 1795069967,
+   "etag": "0x8DF4606EB8D8F72"
   },
   {
    "pkg": "hasu.os.files",
