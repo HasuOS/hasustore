@@ -39,13 +39,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 46,
-   "versionName": "5.18",
+   "code": 47,
+   "versionName": "5.19",
    "size": 68608809,
-   "changes": "Three fixes from your screenshots: the Edit text panel now has its ABC key; opening Voice or Emoji search from Edit no longer stacks TWO ABC buttons (one action was adding a second row); and the scissors list no longer repeats the tools already in the top bar (Clips, Calc, GIFs, Voice are gone from it — the panel is slimmer).",
+   "changes": "Fixed: the top rows of the app menu, About and Permissions screens could sit too high under the status bar — all screens now start below the real status-bar height.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
-   "ts": 1795068050,
-   "etag": "0x8DF4602697C33F8"
+   "ts": 1795078284,
+   "etag": "0x8DF461A46F067D6"
   },
   {
    "pkg": "hasu.os.browser",
