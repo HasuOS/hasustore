@@ -355,11 +355,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 154,
-   "versionName": "1.61",
-   "size": 112041176,
+   "code": 157,
+   "versionName": "1.64",
+   "size": 112045272,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "The whole family refreshed — every bundled app is at its latest version, plus the refresh button at the top and the website row on the About page."
+   "changes": "Habit, Shikha and Share all updated inside — sort and tappable week dots in Habit, a Listen button in Shikha, and a live download counter in Share."
   },
   {
    "pkg": "hasu.os.tasbih",
