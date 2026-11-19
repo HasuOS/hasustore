@@ -348,13 +348,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 180,
-   "versionName": "1.87",
+   "code": 181,
+   "versionName": "1.88",
    "size": 112316024,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "The update-check chain now re-arms itself at the END of every check as well as the start, so a fresh alarm is always standing. Carries HasuDice 1.03 and HasuTasbih 1.02 inside.",
-   "ts": 1795068780,
-   "etag": "0x8DF4604222AB0C5"
+   "changes": "Update checks now run every 5 minutes instead of 15 (your call — the alarm chain is not bound by the 15-minute job floor, so an update notification lands within about 5 minutes of an update appearing).",
+   "ts": 1795069139,
+   "etag": "0x8DF4604FCABCAF2"
   },
   {
    "pkg": "hasu.os.tasbih",
