@@ -39,9 +39,10 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 38,
-   "versionName": "5.1",
+   "code": 39,
+   "versionName": "5.11",
    "size": 68604713,
+   "changes": "NEW: a Clear learned words button in the Typing tab — wipes everything the keyboard learned about your words in one tap. The About page now carries the HasuOS website row.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk"
   },
   {
@@ -82,11 +83,11 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 81,
-   "versionName": "20.15",
+   "code": 82,
+   "versionName": "20.16",
    "size": 32715771,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Video thumbnails in the gallery and recycle bin no longer leak memory on corrupt or missing videos."
+   "changes": "Fixed a crash when switching XML configs in the popup, and the About page now carries the website link."
   },
   {
    "pkg": "hasu.os.check",
