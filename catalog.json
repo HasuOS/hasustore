@@ -352,13 +352,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 184,
-   "versionName": "1.91",
-   "size": 112328312,
+   "code": 186,
+   "versionName": "1.93",
+   "size": 112316024,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries HasuCam 20.25 inside.",
-   "ts": 1795071192,
-   "etag": "0x8DF4609C13C6D84"
+   "changes": "NEW: if Samsung battery or the notifications switch is restricting HasuStore, the home screen now says so on a card — one tap opens the exact setting, so update alerts stop going missing. Every app page now shows the date and time of its latest update, and when this phone got it. All times in the store are now 12-hour. Inside: the newest HasuWall 2.03 and HasuCam 20.26.",
+   "ts": 1795075000,
+   "etag": "0x8DF46128CF5D384"
   },
   {
    "pkg": "hasu.os.tasbih",
