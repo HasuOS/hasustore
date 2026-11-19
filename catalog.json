@@ -81,13 +81,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 121,
-   "versionName": "20.55",
+   "code": 122,
+   "versionName": "20.56",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Fixed three media resources that were never released: the camera's system shutter click is now released when the camera closes, and videos opened in the photo viewer or the recycle-bin viewer now pause when you leave the screen and stop completely when the viewer closes — a video's sound no longer keeps playing after you press Home.",
-   "ts": 1795129328,
-   "etag": "0x8DF4690FEC90345"
+   "changes": "The gyroscope sensor now switches off when you leave the camera — it used to keep running in the background after you pressed Home or switched apps, draining battery for the steady-shot shake check that only matters while you are taking a photo. It now starts when the camera opens and stops the moment you leave, just like the level sensor and location updates already do.",
+   "ts": 1795130303,
+   "etag": "0x8DF46932745A5FC"
   },
   {
    "pkg": "hasu.os.clean",
