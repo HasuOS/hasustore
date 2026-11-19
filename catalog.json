@@ -468,13 +468,13 @@
    "name": "HasuWall",
    "tag": "Your gallery & wallpapers",
    "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-   "code": 48,
-   "versionName": "2.11",
-   "size": 161142,
+   "code": 49,
+   "versionName": "2.12",
+   "size": 165238,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-   "changes": "Backup, finished properly: the Waiting to back up list now shows the actual PHOTOS as thumbnails instead of text names, grouped under the phone folder each photo lives in, and an item still disappears the moment its backup completes. View backup is fast now — photos and videos still on your phone show instantly from the phone itself with a memory cache on top, and nothing downloads again while you scroll. Videos are no longer black: every video shows a real picture frame, and a video opens with its picture on screen while it loads instead of black; videos still on the phone play directly from the phone. The whole backup is organised by your phone's folders — browse with the folder chips (Camera, Screenshots, WhatsApp Images and the rest), and uploads work through one folder at a time. NEW: instant backup — the moment a new photo or video lands on your phone (you take a picture, a file is saved), a backup starts by itself when Auto backup is on, instead of waiting for the daily check.",
-   "ts": 1795130399,
-   "etag": "0x8DF469396B7AE75"
+   "changes": "Backup is now permanent: the setup and the backed-up list are saved in a file in Downloads/HasuWall that clearing app data can never wipe, and the list is also pinned inside your Telegram backup chat — clear data or reinstall and everything restores itself, no setup again. While a photo uploads, a Backing up now card shows that exact photo with live progress. The Waiting card is now compact like Google Photos: only the next 4 photos show, each vanishes as it backs up and the next slides in — tap the card to see the full list.",
+   "ts": 1795131675,
+   "etag": "0x8DF46968A86E6BF"
   },
   {
    "pkg": "hasu.os.weather",
