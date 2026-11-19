@@ -358,13 +358,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 192,
-   "versionName": "1.99",
+   "code": 193,
+   "versionName": "2.00",
    "size": 112361231,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "FIXED (his report): the install pop-up that used to appear by itself when an auto-download finished silently stopped coming — the downloaded card now also carries a full-screen intent, the background launch Android guarantees, so in Full auto mode the installer comes to the front again (if Android asks, allow Full-screen notifications for HasuStore in Permissions). Carries HasuCam 20.28, HasuBoard 5.19, HasuQuick 2.08, HasuClock 1.08, HasuFiles 05.03, HasuOS Home 10.04, HasuWall 2.04, HasuSpeed 02.03, HasuShot 02.03, HasuMusic 1.02 and HasuNotes 1.02 inside.",
-   "ts": 1795082143,
-   "etag": "0x8DF46232965235C"
+   "changes": "FIXED (his report): What's new no longer disappears after an update. Every app page now shows the latest version's details word for word, they stay after installing, and the next version's details take their place when it arrives. Carries HasuCam 20.28, HasuBoard 5.19, HasuQuick 2.08, HasuClock 1.08, HasuFiles 05.03, HasuOS Home 10.04, HasuWall 2.04, HasuSpeed 02.03, HasuShot 02.03, HasuMusic 1.02 and HasuNotes 1.02 inside.",
+   "ts": 1795082993,
+   "etag": "0x8DF462538A509E2"
   },
   {
    "pkg": "hasu.os.tasbih",
