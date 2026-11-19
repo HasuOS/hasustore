@@ -6,33 +6,36 @@
    "name": "HasuAI",
    "tag": "Photo studio",
    "desc": "Photo studio — one-tap auto enhance, HDR effect, smoothing, filters and sliders. All on-device; photos never leave your phone.",
-   "code": 4,
-   "versionName": "1.01",
-   "size": 45934,
+   "code": 5,
+   "versionName": "1.02",
+   "size": 50030,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/ai.apk",
-   "changes": "NEW: Warmth slider for Snapseed-style temperature control, plus a Noir high-contrast black-and-white filter. The About page now carries the HasuOS website row."
+   "changes": "Permissions hub at the top of the studio: HasuAI honestly needs no permissions at all. FIXED: Undo can no longer recycle a photo a save or share is still writing (a real crash path), rapid taps on two edits no longer race on the same photo, each edit now frees its intermediate bitmaps instead of leaking a full-size copy per tap, and the last-crash dialog is premium glass now.",
+   "etag": "0x8DF462ACE30D0B7"
   },
   {
    "pkg": "hasu.os.backup",
    "name": "HasuBackup",
    "tag": "APK backup",
    "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-   "code": 4,
-   "versionName": "1.01",
-   "size": 37742,
+   "code": 5,
+   "versionName": "1.02",
+   "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
-   "changes": "NEW: sort the app list by Name, Largest or Newest (by install date), remembered between opens. Rotating the phone no longer wipes your search text or the system-apps toggle. The About page now carries the HasuOS website row."
+   "changes": "Permissions hub at the top of the list: see-all-installed-apps and install-unknown-apps with their real live states, plus a Turn-all-on walk. NEW: saved backups now show the date they were made (12-hour). FIXED: Back up all can no longer start twice after a rotation, the first list no longer stutters on package lookups (caches warm off the UI thread), and the last-crash dialog is premium glass now.",
+   "etag": "0x8DF462B16EC62D2"
   },
   {
    "pkg": "hasu.os.battery",
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 4,
-   "versionName": "1.02",
-   "size": 41838,
+   "code": 5,
+   "versionName": "1.03",
+   "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "The website link is now on the About page, like every HasuOS app."
+   "changes": "Permissions hub at the top of the main screen: Notifications, ignore-battery-optimisations, Vibration and foreground service with their real live states, plus a Turn-all-on walk. NEW: live charge/discharge current on the battery card. FIXED: a refused foreground start no longer pretends the monitor is on (it stops honestly), and the last-crash dialog is premium glass now.",
+   "etag": "0x8DF462B72E9BFF0"
   },
   {
    "pkg": "hasu.os.keyboard",
@@ -65,22 +68,24 @@
    "name": "HasuCalc",
    "tag": "Calculator",
    "desc": "Calculator — fast glass calculator with history plus a unit converter for length, weight, temperature, area, speed and data.",
-   "code": 4,
-   "versionName": "1.01",
-   "size": 41838,
+   "code": 5,
+   "versionName": "1.02",
+   "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calc.apk",
-   "changes": "NEW: tap the result to copy it to the clipboard — with a small hint under the display. Rotating the phone no longer drops you back to the Calculator tab when you were converting units. The About page now carries the HasuOS website row."
+   "changes": "Permissions hub at the top of the calculator: HasuCalc honestly needs no permissions at all. NEW: tap a converted result to copy it, like the calculator's own result. FIXED: the last-crash dialog is premium glass now, and a dead ScrollView that was never on screen is gone.",
+   "etag": "0x8DF462BA2F2D810"
   },
   {
    "pkg": "hasu.os.calendar",
    "name": "HasuCalendar",
    "tag": "Calendar",
    "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 4,
-   "versionName": "1.01",
-   "size": 41838,
+   "code": 5,
+   "versionName": "1.02",
+   "size": 50030,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-   "changes": "NEW: search events by title and jump straight to the day, the way Google Calendar does it. The day header now shows how many events that day has. The About page now carries the HasuOS website row."
+   "changes": "Permissions hub at the top of the main screen: Notifications, exact alarms and reminders-after-restart with their real live states, plus a Turn-all-on walk. FIXED: two events made in the same millisecond no longer share an id (one reminder used to overwrite the other), the notification permission is asked once — not on every open, the month grid no longer reloads and re-sorts every event for each of its ~35 cells, and the last-crash dialog is premium glass now.",
+   "etag": "0x8DF462C1B9A140C"
   },
   {
    "pkg": "com.hasucam.camera",
@@ -100,11 +105,12 @@
    "name": "HasuClean",
    "tag": "Storage cleaner",
    "desc": "Storage cleaner — find the largest files, duplicate photos and junk folders, and free space safely.",
-   "code": 4,
-   "versionName": "1.02",
-   "size": 50030,
+   "code": 5,
+   "versionName": "1.03",
+   "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clean.apk",
-   "changes": "The website link is now on the About page, like every HasuOS app."
+   "changes": "Permissions hub at the top of the main screen: Photos, Videos and Audio (one Storage row on older Android) with their real live states, plus a Turn-all-on walk. FIXED: all three plain system dialogs (last-crash, delete-a-copy, delete-junk) are premium glass now; \"Delete all but the newest\" no longer deletes several photos on one tap without asking; and the photo-hash and thumbnail streams now close even when a read fails.",
+   "etag": "0x8DF462CA425D2EB"
   },
   {
    "pkg": "hasu.os.clock",
@@ -150,55 +156,60 @@
    "name": "HasuGameBox",
    "tag": "Five games in one box",
    "desc": "Five games in one box — Tic Tac Toe against the computer, classic Snake, Memory Match, 2048 and Tap Rush. Best scores are kept for every game, all offline.",
-   "code": 5,
-   "versionName": "1.04",
-   "size": 45934,
+   "code": 6,
+   "versionName": "1.05",
+   "size": 54126,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/gamebox.apk",
-   "changes": "The website link is now on the About page, like every HasuOS app."
+   "changes": "Permissions hub at the top of the game list: HasuGameBox honestly needs no permissions at all — the games run entirely on your phone. NEW: Tic Tac Toe difficulty — Easy (random) or Hard (plays to win). FIXED: filling the whole Snake board no longer freezes the game (you win instead), leaving Tap Rush mid-round no longer breaks its clock, a fast New game in Memory Match can no longer hide the new board's cards, and the last-crash dialog is premium glass now.",
+   "etag": "0x8DF462A0CDAFC7B"
   },
   {
    "pkg": "hasu.os.habit",
    "name": "HasuHabit",
    "tag": "Habit tracker",
    "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 41838,
+   "code": 4,
+   "versionName": "1.03",
+   "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk",
-   "changes": "NEW: sort your habits by Newest, Name A–Z or Longest streak from a cycling chip. The week dots are tappable now — tap any dot to mark or unmark that day, so yesterday counts too. The About page has the HasuOS website row."
+   "changes": "Permissions hub at the top of the main screen: HasuHabit honestly needs no permissions at all. FIXED: the last-crash dialog is premium glass now (it was a plain system dialog), a deleted habit no longer leaves its storage slot behind forever, and sorting by longest streak no longer re-reads every habit's streak for every comparison. Known gap, not built this pass: habit reminders (needs notifications + alarms) — a focused feature pass for later.",
+   "etag": "0x8DF462D2BD8C37D"
   },
   {
    "pkg": "hasu.os.health",
    "name": "HasuHealth",
    "tag": "Steps, water & BMI",
    "desc": "Health — step counter with 7-day history, daily water tracker with a goal, and a BMI calculator. All on your phone.",
-   "code": 3,
-   "versionName": "1.01",
-   "size": 41838,
+   "code": 4,
+   "versionName": "1.02",
+   "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/health.apk",
-   "changes": "NEW: a daily step goal — set it from the Steps card (10,000 by default) and watch your progress live, with a celebration when you reach it. The BMI card now shows the healthy weight range for your height, and the About page now carries the HasuOS website row."
+   "changes": "Permissions hub at the top of the main screen: physical activity, Notifications, exact alarms and reminders-after-restart with their real live states, plus a Turn-all-on walk. FIXED: activity recognition is asked once — not on every open, and the last-crash dialog is premium glass now.",
+   "etag": "0x8DF462D97B0F586"
   },
   {
    "pkg": "hasu.os.khata",
    "name": "HasuKhata",
    "tag": "Income & expense ledger",
    "desc": "Daily hisab in taka: month summary, categories and day-by-day entries.",
-   "code": 3,
-   "versionName": "1.01",
-   "size": 41838,
+   "code": 4,
+   "versionName": "1.02",
+   "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/khata.apk",
-   "changes": "NEW: monthly spending budget — set a limit from the 🎯 Budget pill and watch the live progress bar turn red when you go over. The About page now carries the HasuOS website row."
+   "changes": "Permissions hub at the top of the main screen: HasuKhata honestly needs no permissions at all. FIXED: the last-crash dialog is premium glass now, the entry date picker is a glass dialog instead of a plain system one, two entries made in the same millisecond no longer share an id, and a deleted entry no longer leaves its storage slot behind forever.",
+   "etag": "0x8DF462DF9BDA01A"
   },
   {
    "pkg": "hasu.os.lock",
    "name": "HasuLock",
    "tag": "App lock",
    "desc": "App lock — protect any app with a PIN pad and fingerprint unlock.",
-   "code": 4,
-   "versionName": "1.02",
-   "size": 45934,
+   "code": 5,
+   "versionName": "1.03",
+   "size": 54126,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/lock.apk",
-   "changes": "The website link is now on the About page, like every HasuOS app."
+   "changes": "Permissions hub at the top of the main screen: Usage access, Notifications, foreground service, Vibration and Biometric with their real live states, plus a Turn-all-on walk — the old Permissions card is gone (the hub owns permissions now, nothing in two places). FIXED: the last-crash dialog and the PIN entry dialog are premium glass now (the PIN dialog no longer stacks a second dialog over the first on a wrong-length PIN).",
+   "etag": "0x8DF45DCD73BBDED"
   },
   {
    "pkg": "hasu.os.music",
@@ -218,22 +229,24 @@
    "name": "HasuNamaz",
    "tag": "Prayer times",
    "desc": "Prayer times for Bangladesh — offline calculation, next-waqt countdown, Qibla compass and per-waqt alarms.",
-   "code": 3,
-   "versionName": "1.01",
-   "size": 45934,
+   "code": 4,
+   "versionName": "1.02",
+   "size": 54126,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/namaz.apk",
-   "changes": "NEW: the Hijri date now shows under the Gregorian date (offline calculation), like the best prayer apps. Rotating the phone no longer drops you back to the Prayer times tab, the countdown no longer ticks twice, and the About page now carries the website row (hasuos.github.io)."
+   "changes": "Permissions hub at the top of the main screen: Notifications, exact alarms, Vibration and reminders-after-restart with their real live states, plus a Turn-all-on walk. FIXED: notification permission is asked once — not on every open, and the last-crash dialog is premium glass now.",
+   "etag": "0x8DF462EBCF86DF3"
   },
   {
    "pkg": "hasu.os.news",
    "name": "HasuNews",
    "tag": "Bangla news",
    "desc": "Bangla news — Prothom Alo and BBC Bangla headlines, articles open inside the app, and last headlines stay saved for offline reading.",
-   "code": 3,
-   "versionName": "1.01",
-   "size": 37742,
+   "code": 4,
+   "versionName": "1.02",
+   "size": 41838,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/news.apk",
-   "changes": "NEW: save any headline with ☆ — your saved stories live under a ★ Saved filter with its count. Rotating the phone in the article reader no longer reloads from the top (scroll position and back history survive), your search text survives rotation too, and the About page now carries the website row (hasuos.github.io)."
+   "changes": "Permissions hub at the top of the headlines: Internet and network state with their real live states, plus a Turn-all-on walk — the app honestly needs no runtime permissions. FIXED: the last-crash dialog is premium glass now, the article reader no longer lets pages read local files, the reader header finally shows the article's title (it always said \"Article\"), and the feed user-agent now says the real version.",
+   "etag": "0x8DF45D754FEFBBB"
   },
   {
    "pkg": "hasu.os.notes",
@@ -360,26 +373,26 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 196,
-   "versionName": "2.03",
-   "size": 112439055,
+   "code": 197,
+   "versionName": "2.04",
+   "size": 112467727,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries HasuCam 20.30 inside.",
-   "ts": 1795086893,
-   "etag": "0x8DF462E4BA88D12"
+   "changes": "Downloads now show live in the notification shade: percent done, MB downloaded of the total MB and time left, with a progress bar — for downloads you start by hand as well as background auto-downloads.",
+   "ts": 1795087685,
+   "etag": "0x8DF4630151192FD"
   },
   {
    "pkg": "hasu.os.tasbih",
    "name": "HasuTasbih",
    "tag": "Digital tasbih",
    "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 37742,
+   "code": 4,
+   "versionName": "1.03",
+   "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk",
-   "changes": "The screen now stays awake while you count — a long dhikr round no longer goes dark in the middle.",
+   "changes": "Permissions hub at the top of the main screen: Vibration with its real live state, plus a Turn-all-on walk — the app honestly needs no runtime permissions. NEW: a Buzz on/off switch under the targets for silent counting. FIXED: the last-crash dialog is premium glass now, and the crash report stream closes properly.",
    "ts": 1795068780,
-   "etag": "0x8DF460405D704CA"
+   "etag": "0x8DF462A44CFCC6F"
   },
   {
    "pkg": "hasu.os.task",
@@ -465,22 +478,24 @@
    "name": "HasuOS",
    "tag": "The family showcase",
    "desc": "Every HasuOS app in one place — the whole family with its details, straight from the live catalogue. Tap any app for its story, version and size, and get it through HasuStore.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 45934,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 50030,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
-   "changes": "NEW APP: the whole HasuOS family in one app — every app with its details, refreshed live from the catalogue."
+   "changes": "Permissions hub at the top of the family list: Internet with its real live state, plus a Turn-all-on walk — the app honestly needs no runtime permissions. FIXED: the last-crash dialog is premium glass now and no longer reads the whole crash file into memory, the offline catalogue no longer lists the deleted test apps, and the live feed connection now closes properly.",
+   "etag": "0x8DF462F7B2A4C74"
   },
   {
    "pkg": "hasu.os.hasu",
    "name": "Hasu",
    "tag": "Portfolio",
    "desc": "Hasu's whole details in one app — a living portfolio: name, role, story, work and contact, all editable on the phone. The developer behind HasuOS.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 74676,
+   "code": 4,
+   "versionName": "1.03",
+   "size": 78772,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasu.apk",
-   "changes": "The contact card is complete — email, Facebook and YouTube are in, and every row now opens its link."
+   "changes": "Permissions hub at the top of the portfolio: Hasu honestly needs no permissions at all. NEW: share your details as text from the main page. FIXED: the website row in Contact was dead — it opens the site now; a corrupt photo no longer crashes the editor (and its streams close properly); the last-crash dialog is premium glass now.",
+   "etag": "0x8DF462A79182731"
   },
   {
    "pkg": "hasu.os.tube",
@@ -500,13 +515,13 @@
    "name": "HasuWeb",
    "tag": "The HasuOS website, as an app",
    "desc": "The HasuOS website inside its own app: the same pages and the same live catalogue, served by the website's own server — every app update shows here the moment it reaches the website.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 45934,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 50030,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/web.apk",
    "ts": 1795059900,
-   "etag": "0x8DF45ED92254AFC",
-   "changes": "First release — the HasuOS website as its own app, running on the website's server, always as current as the site itself."
+   "etag": "0x8DF4629B424D24B",
+   "changes": "Permissions hub at the top of the main screen: Internet and network state with their real live states, plus a Turn-all-on walk — the app honestly needs no runtime permissions. NEW: share the page you are on, a Home button, and a friendly glass retry card when you are offline; the page you were on now survives the app being killed in the background. FIXED: a lookalike host could stay inside the WebView (exact host match now), the WebView is detached before destroy, file/content access is off, and the last-crash dialog is premium glass now."
   },
   {
    "pkg": "hasu.os.maps",
