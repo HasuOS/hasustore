@@ -260,13 +260,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 75,
-   "versionName": "10.05",
-   "size": 12030076,
-   "changes": "Fixed: changing the Widget stack size (Small/Medium/Large) in Customize now resizes the home-screen widgets at once — before, the new size only appeared after an app install, uninstall or edit-mode toggle.",
+   "code": 83,
+   "versionName": "10.13",
+   "size": 12034247,
+   "changes": "FIXED: the Dynamic Island timer and stopwatch now survive the island restarting — the timer, its finished alert and the stopwatch are saved on every change and restored when the service comes back, so a timer no longer vanishes silently if Android kills the island; a timer that ended long ago is dropped quietly instead of buzzing late. FIXED: tapping an app that was just removed no longer crashes the launcher — the fallback launch is guarded and shows 'Could not open' instead. The countdown widget's glass date picker from 10.12 is included.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795088457,
-   "etag": "0x8DF4631E8120C17"
+   "ts": 1795127761,
+   "etag": "0x8DF468D5B2DC69C"
   },
   {
    "pkg": "hasu.os.pdf",
