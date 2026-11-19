@@ -39,13 +39,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 44,
-   "versionName": "5.16",
+   "code": 45,
+   "versionName": "5.17",
    "size": 68608809,
-   "changes": "Crash fixed — the trace from your phone showed the ABC row being added twice, which killed the keyboard when a panel opened. The row is now added once. Everything from 5.15 stays: Permissions hub in the main menu, the 50 MP photo-sticker fix and the clipboard fixes.",
+   "changes": "The panels (clipboard, voice typing, emoji and every other tool) are back to their normal size: a spacer under the panel content used to stretch the whole keyboard to full screen, with the ABC key stranded at the very bottom. The spacer is gone — the ABC key now sits right under the panel, in its place.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
-   "ts": 1795065719,
-   "etag": "0x8DF45FD0648D2C2"
+   "ts": 1795067000,
+   "etag": "0x8DF45FFE0ADA212"
   },
   {
    "pkg": "hasu.os.browser",
@@ -348,13 +348,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 176,
-   "versionName": "1.83",
+   "code": 177,
+   "versionName": "1.84",
    "size": 112307832,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "NEW: Permissions hub — a toggle-switch button at the top of the main screen opens a screen with every permission (install unknown apps, see all installed apps, notifications, alarms & reminders, appear on top) with real live ON/OFF states and a Turn-all-on walk. Fixed: the manifest now lists all 43 family apps (7 newer ones were missing, so they could show Install forever if the all-packages grant ever lapsed); the About page no longer names deleted HasuTest; the store's own update is only notified once its file is really servable; download-finished cards no longer overwrite each other; a download killed by the system now resumes instead of dying silently. NEW: All / Updates / Installed filter chips above the app grid. Bundles HasuBoard 5.16.",
-   "ts": 1795066004,
-   "etag": "0x8DF45FDA2B181DC"
+   "changes": "Two fixes from your reports: (1) update notifications now survive being swiped out of Recents — the check is armed like an alarm clock, the strongest wake-up Android gives a sideloaded app. (2) A download that finished but was not installed yet now shows Install and installs from the file already on the phone — no second download, no double data. Also new: the Permissions hub in the main menu, and old downloaded files are cleaned up once installed. Carries HasuBoard 5.17 inside.",
+   "ts": 1795067000,
+   "etag": "0x8DF45FFEC6A88B4"
   },
   {
    "pkg": "hasu.os.tasbih",
