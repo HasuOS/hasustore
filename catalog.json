@@ -83,11 +83,11 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 83,
-   "versionName": "20.17",
+   "code": 84,
+   "versionName": "20.18",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Video mode preview freeze fixed — switching to video no longer holds the first frame: the video session is leaner now, and the live-filter preview heals itself if a camera cannot keep it running."
+   "changes": "Video filters no longer freeze the preview on the first frame: the live filter is now watched continuously and falls back to the plain preview if a camera cannot keep it running, video sessions rebuild themselves if frames stop, and every config value is sanitised before it reaches the picture. All 430 bundled configs were audited — one broken file (Kids & Pets) is fixed."
   },
   {
    "pkg": "hasu.os.check",
@@ -358,11 +358,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 163,
-   "versionName": "1.70",
+   "code": 164,
+   "versionName": "1.71",
    "size": 112078106,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "NEW app inside: HasuTube — YouTube in its own HasuOS app. Also carries HasuCam 20.17 with the video preview fix."
+   "changes": "Carries HasuCam 20.18 — the video filter preview freeze fix — and HasuTube 1.00."
   },
   {
    "pkg": "hasu.os.tasbih",
