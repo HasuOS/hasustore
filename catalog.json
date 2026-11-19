@@ -28,11 +28,11 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 3,
-   "versionName": "1.01",
+   "code": 4,
+   "versionName": "1.02",
    "size": 41838,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "NEW: a low-battery alert — warn once when the battery drops to 15, 20 or 25%, and it re-arms when you plug in or charge 5% above the level. The drain-rate line now only counts the last day of history, so it no longer stretches over days."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.keyboard",
@@ -105,11 +105,11 @@
    "name": "HasuClean",
    "tag": "Storage cleaner",
    "desc": "Storage cleaner — find the largest files, duplicate photos and junk folders, and free space safely.",
-   "code": 3,
-   "versionName": "1.01",
+   "code": 4,
+   "versionName": "1.02",
    "size": 50030,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clean.apk",
-   "changes": "Duplicate photos can now be cleared in one tap with Delete all but the newest, and the overview shows a lifetime Freed so far total counted only on confirmed deletes."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.clock",
@@ -127,20 +127,21 @@
    "name": "HasuDice",
    "tag": "Dice & coin",
    "desc": "Dice roller and coin flip — roll 1 to 4 dice with a shuffle animation and a running total, flip a coin with heads and tails tallies, and keep your last rolls on screen.",
-   "code": 1,
-   "versionName": "1.00",
+   "code": 2,
+   "versionName": "1.01",
    "size": 37742,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/dice.apk",
-   "changes": "First release — roll up to four dice, flip a coin, and watch your totals and tallies add up."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.files",
    "name": "HasuFiles",
    "tag": "File manager",
    "desc": "File manager — browse all storage, categories for images, videos, music, documents & APKs, search, copy/move, zip & extract.",
-   "code": 20,
-   "versionName": "05.01",
+   "code": 21,
+   "versionName": "05.02",
    "size": 318382,
+   "changes": "NEW: sort by Type — files group by extension, then by name, alongside Name, Date and Size. The About page now carries the HasuOS website row.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/files.apk"
   },
   {
@@ -148,22 +149,22 @@
    "name": "HasuFinalCheck",
    "tag": "The final proof",
    "desc": "The final HasuStore pipeline proof — published to the catalogue only, never bundled into the store. It travelled GitHub -> HasuStore -> your phone with nobody touching the store, and stamps the exact moment you open it.",
-   "code": 1,
-   "versionName": "1.00",
+   "code": 2,
+   "versionName": "1.01",
    "size": 33646,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/finalcheck.apk",
-   "changes": "First release — the final proof app: it arrives in HasuStore all by itself and shows the full journey it made."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.gamebox",
    "name": "HasuGameBox",
    "tag": "Five games in one box",
    "desc": "Five games in one box — Tic Tac Toe against the computer, classic Snake, Memory Match, 2048 and Tap Rush. Best scores are kept for every game, all offline.",
-   "code": 4,
-   "versionName": "1.03",
+   "code": 5,
+   "versionName": "1.04",
    "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/gamebox.apk",
-   "changes": "NEW: a Surprise me pill on the menu opens a random game when you cannot decide. Tic Tac Toe draws are now counted too — the menu tally reads You · Draws · Computer, so a hard-fought draw no longer vanishes."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.habit",
@@ -203,11 +204,11 @@
    "name": "HasuLock",
    "tag": "App lock",
    "desc": "App lock — protect any app with a PIN pad and fingerprint unlock.",
-   "code": 3,
-   "versionName": "1.01",
+   "code": 4,
+   "versionName": "1.02",
    "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/lock.apk",
-   "changes": "Five wrong PINs now lock the pad for 30 seconds, so a locked app cannot be guessed open. NEW: an unlocked app locks again as soon as you leave it — turn it off in settings to keep the old until-screen-off behaviour."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.music",
@@ -279,11 +280,11 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 26,
-   "versionName": "2.01",
+   "code": 27,
+   "versionName": "2.02",
    "size": 767627,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "The Torch tile now shows its state like the other tiles: turn the flashlight on and the tile turns accent blue and reads Torch On; turn it off and it goes back. The tile also stays truthful if the torch is switched from the system panel or camera."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.radio",
@@ -301,11 +302,11 @@
    "name": "HasuScan",
    "tag": "QR & barcode scanner",
    "desc": "QR & barcode scanner with torch and gallery scan — plus a QR maker for text, links, Wi-Fi and more.",
-   "code": 3,
-   "versionName": "1.01",
+   "code": 4,
+   "versionName": "1.02",
    "size": 263093,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/scan.apk",
-   "changes": "A viewfinder frame with corner brackets now guides the camera scan, the Torch button shows its on state, SMS QR codes can carry a message, and gallery images are decoded inverted too."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.share",
@@ -356,22 +357,22 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 158,
-   "versionName": "1.65",
+   "code": 161,
+   "versionName": "1.68",
    "size": 112049368,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Downloads are rebuilt: they now run in a service, keep going when you leave the app, show progress in the notification shade as well as in the app, and bring the installer up when they finish."
+   "changes": "Carries the newest builds — Vault, Lock, Battery, Scan, Clean, Wall, Tasbih and Quick all gained the website link on their About pages."
   },
   {
    "pkg": "hasu.os.tasbih",
    "name": "HasuTasbih",
    "tag": "Digital tasbih",
    "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.",
-   "code": 1,
-   "versionName": "1.00",
+   "code": 2,
+   "versionName": "1.01",
    "size": 37742,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk",
-   "changes": "First release — a digital tasbih counter: four dhikr, a big tap circle with a gentle buzz, round targets and a lifetime total."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.task",
@@ -422,11 +423,11 @@
    "name": "HasuVault",
    "tag": "Private photo vault",
    "desc": "A private vault for photos, videos & PDFs — AES-256 encryption, PIN and fingerprint lock.",
-   "code": 3,
-   "versionName": "1.01",
-   "size": 54194,
+   "code": 4,
+   "versionName": "1.02",
+   "size": 58290,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk",
-   "changes": "Five wrong PINs now lock the pad for 30 seconds, so the vault cannot be guessed open. A new Lock now row locks the vault at once, and the grid can be sorted Newest, Oldest, Name or Largest."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.voice",
@@ -444,11 +445,11 @@
    "name": "HasuWall",
    "tag": "Your gallery & wallpapers",
    "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-   "code": 38,
-   "versionName": "2.01",
+   "code": 39,
+   "versionName": "2.02",
    "size": 116086,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-   "changes": "Preview edits now survive rotating the phone, the thumbnail cache is capped so a big gallery cannot run the app out of memory, and the Favourites pill shows its count like the Bin pill does."
+   "changes": "The website link is now on the About page, like every HasuOS app."
   },
   {
    "pkg": "hasu.os.weather",
