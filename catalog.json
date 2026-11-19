@@ -87,7 +87,8 @@
    "versionName": "20.19",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Video filter freeze, final answer: if the live filter preview stalls on your camera, HasuCam now remembers it and never tries the live filter on that camera again — the video preview always moves, and your recordings still get the filter look. A manual retry lives in the Video filter menu."
+   "changes": "Video filter freeze, final answer: if the live filter preview stalls on your camera, HasuCam now remembers it and never tries the live filter on that camera again — the video preview always moves, and your recordings still get the filter look. A manual retry lives in the Video filter menu.",
+   "ts": 1795055580
   },
   {
    "pkg": "hasu.os.check",
@@ -358,11 +359,12 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 165,
-   "versionName": "1.72",
-   "size": 112078106,
+   "code": 166,
+   "versionName": "1.73",
+   "size": 112082202,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries HasuCam 20.19 — the video filter freeze is remembered and switched off for good on cameras that cannot run it."
+   "changes": "The Facebook-style fix you asked for: a fresh update now settles for 3 minutes before the store offers it, so when the Update button appears, the download works first try. While it settles, the app shows a clock badge and the detail page counts down.",
+   "ts": 1795055637
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -494,7 +496,8 @@
    "versionName": "1.00",
    "size": 33646,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tube.apk",
-   "changes": "NEW app: YouTube inside its own HasuOS glass app — home feed, Shorts, subscriptions and library one tap away, search built in, and real full-screen video."
+   "changes": "NEW app: YouTube inside its own HasuOS glass app — home feed, Shorts, subscriptions and library one tap away, search built in, and real full-screen video.",
+   "ts": 1795054740
   }
  ]
 }
