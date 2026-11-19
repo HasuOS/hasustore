@@ -389,13 +389,13 @@
       "name": "HasuStore",
       "tag": "The HasuOS app store",
       "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-      "code": 198,
-      "versionName": "2.05",
-      "size": 112504591,
+      "code": 206,
+      "versionName": "2.13",
+      "size": 112811791,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-      "changes": "All three plain system dialogs are now premium Liquid Glass — Online updates, the catalog-link editor and the crash report — the header icon chips sit 6 dp apart instead of touching, the empty search state is a glass card with a loupe, and both download progress bars now use the HasuOS blue accent. Bundled copies refreshed: Home 10.05, HasuCam 20.31, HasuShikha 1.03, HasuShare 1.03, HasuWeb 1.01.",
-      "ts": 1795089131,
-      "etag": "0x8DF46337D77F969"
+      "changes": "FIXED: the About page's update status now reads as three clear rows — update notifications, background checks and the last check time, each with its own icon — instead of one run-on line with everything crammed together. FIXED: the About page's update buttons no longer sit side by side — \"Update HasuStore\" and \"Check for updates\" are now full-width buttons stacked one above the other, so the Update button can no longer clip at the edge of the card on a narrow screen.",
+      "ts": 1795124939,
+      "etag": "0x8DF4686C64F8A72"
     },
     {
       "pkg": "hasu.os.tasbih",
