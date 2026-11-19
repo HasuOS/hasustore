@@ -348,13 +348,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 181,
-   "versionName": "1.88",
-   "size": 112316024,
+   "code": 182,
+   "versionName": "1.89",
+   "size": 112320120,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Update checks now run every 5 minutes instead of 15 (your call — the alarm chain is not bound by the 15-minute job floor, so an update notification lands within about 5 minutes of an update appearing).",
-   "ts": 1795069139,
-   "etag": "0x8DF4604FCABCAF2"
+   "changes": "The real fault behind the failed downloads, found from your screenshot: an auto-download that failed once was marked as done and never tried again. Now a failed auto-download clears its mark and retries at the next check until it lands — and background attempts no longer show the red failed card (only downloads you start by hand do).",
+   "ts": 1795069535,
+   "etag": "0x8DF4605E8CFC5B3"
   },
   {
    "pkg": "hasu.os.tasbih",
