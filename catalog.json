@@ -94,11 +94,11 @@
    "name": "HasuCheck",
    "tag": "Arrived by itself",
    "desc": "The second HasuStore pipeline test — published to the catalogue only, never bundled into the store. If it appears inside HasuStore by itself, the whole store machine works. Shows your phone's real model and Android version.",
-   "code": 1,
-   "versionName": "1.00",
+   "code": 2,
+   "versionName": "1.01",
    "size": 33646,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/check.apk",
-   "changes": "First release — a tiny check app that arrives in HasuStore all by itself, with your phone's real details inside."
+   "changes": "NEW: Screen and RAM rows, and tap any row to copy its value — plus the website row on the About page."
   },
   {
    "pkg": "hasu.os.clean",
@@ -259,9 +259,10 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 71,
-   "versionName": "10.01",
+   "code": 72,
+   "versionName": "10.02",
    "size": 12021884,
+   "changes": "NEW: a real Today View at last — date, weather, your next calendar events and today's screen time, opened from the double-tap action picker (Customize → Double-tap empty space). The About page now carries the HasuOS website row.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk"
   },
   {
@@ -357,11 +358,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 161,
-   "versionName": "1.68",
+   "code": 162,
+   "versionName": "1.69",
    "size": 112049368,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries the newest builds — Vault, Lock, Battery, Scan, Clean, Wall, Tasbih and Quick all gained the website link on their About pages."
+   "changes": "Carries the newest builds — Home 10.02 with a real Today View, Files 05.02, Board 5.11 and the website link across the family."
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -390,11 +391,11 @@
    "name": "HasuTest",
    "tag": "HasuStore pipeline test",
    "desc": "A tiny test app whose whole job is to prove the HasuStore pipeline — it appears in the store, downloads, installs, opens and updates like every other HasuOS app.",
-   "code": 1,
-   "versionName": "1.00",
+   "code": 2,
+   "versionName": "1.01",
    "size": 29550,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/test.apk",
-   "changes": "First release — a tiny test app for checking the HasuStore download and install flow."
+   "changes": "NEW: a Reset taps pill and tap milestones at 10, 25, 50 and 100 — plus the website row on the About page."
   },
   {
    "pkg": "hasu.os.tools",
