@@ -356,13 +356,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 190,
-   "versionName": "1.97",
-   "size": 112344847,
+   "code": 191,
+   "versionName": "1.98",
+   "size": 112353039,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Crash fix: downloads could kill the store itself (foreground-service start race on Samsung) — the download service now announces itself the instant it is created, so downloads no longer die or take the app down with them. Also includes the 1.96 fixes: real icons for online-only apps like HasuMaps, and the download-time display fix.",
-   "ts": 1795079369,
-   "etag": "0x8DF461CC5476B5B"
+   "changes": "The crash loop is fixed at the root: downloads you start inside the app no longer go through the foreground service whose start race kept killing HasuStore when you tapped Update — they now download directly in the app. Background auto-downloads keep the hardened service from 1.97.",
+   "ts": 1795080341,
+   "etag": "0x8DF461F0F16248F"
   },
   {
    "pkg": "hasu.os.tasbih",
