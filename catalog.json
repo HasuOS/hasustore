@@ -81,13 +81,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 119,
-   "versionName": "20.53",
+   "code": 120,
+   "versionName": "20.54",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "FIXED: the photo editor's header can no longer push its Save button off the right edge — the title now takes the leftover width and shortens with an ellipsis instead, so Save always sits fully on screen even with a wide system font. FIXED: the recycle bin was the one screen with no back button — it now has the same back-and-title header as every other screen. The About page no longer calls this the final version — HasuCam is updated continuously.",
-   "ts": 1795127029,
-   "etag": "0x8DF468BAF5A396E"
+   "changes": "Removed two dead views that were built on every camera launch but never shown: the old top chip bar — its glass background, padding, spacer and layout are gone, while its flash, torch, timer, grid, XML and settings buttons work exactly as before from the top panel and the options sheet — and the old countdown label, which the big countdown numbers had already replaced.",
+   "ts": 1795128241,
+   "etag": "0x8DF468E73D36E0A"
   },
   {
    "pkg": "hasu.os.clean",
