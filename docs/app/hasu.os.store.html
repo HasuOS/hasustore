@@ -61,7 +61,7 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.97</b></span>
+    <span class="chip">Version <b id="v">1.98</b></span>
     <span class="chip" id="sz">107.1 MB</span>
     <span class="chip">hasu.os.store</span>
     <span class="chip">Android 8.0+</span>
@@ -71,8 +71,8 @@
     <p>Your Play Store — every HasuOS app, in one place. Online updates included.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.97</span></h3>
-    <p id="wn">Crash fix: downloads could kill the store itself (foreground-service start race on Samsung) — the download service now announces itself the instant it is created, so downloads no longer die or take the app down with them. Also includes the 1.96 fixes: real icons for online-only apps like HasuMaps, and the download-time display fix.</p>
+    <h3>🆕 What's new in v<span id="wnV">1.98</span></h3>
+    <p id="wn">The crash loop is fixed at the root: downloads you start inside the app no longer go through the foreground service whose start race kept killing HasuStore when you tapped Update — they now download directly in the app. Background auto-downloads keep the hardened service from 1.97.</p>
   </div>
   <div class="cta">
     <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">⬇ Download HasuStore</a>
