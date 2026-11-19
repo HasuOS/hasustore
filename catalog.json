@@ -85,13 +85,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 90,
-   "versionName": "20.24",
+   "code": 91,
+   "versionName": "20.25",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "A second video recorded just as the previous filtered copy finished rendering no longer loses its _FX copy, and the viewer now says \"Couldn't open that photo\" instead of a black screen when a photo cannot be opened.",
-   "ts": 1795067467,
-   "etag": "0x8DF46010AA8E92D"
+   "changes": "Videos queued for background filtering no longer vanish if the system kills the app mid-render — the queue is saved and resumes; a finished video is never re-rendered by mistake.",
+   "ts": 1795071192,
+   "etag": "0x8DF4609BBD3E532"
   },
   {
    "pkg": "hasu.os.clean",
@@ -348,13 +348,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 183,
-   "versionName": "1.90",
-   "size": 112320120,
+   "code": 184,
+   "versionName": "1.91",
+   "size": 112328312,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Premium notifications + the full auto-download package: the update notification now carries an ⬆ Update all button and the downloaded card a 📥 Install button. Auto-download is now three modes in About → Settings — Off (notification only), ⬇ Hold (downloads by itself and waits for your tap), ⚡ Auto (download + the install prompt appears). Your current ON setting carries over as ⚡ Auto.",
-   "ts": 1795070789,
-   "etag": "0x8DF4608CE688AF0"
+   "changes": "Carries HasuCam 20.25 inside.",
+   "ts": 1795071192,
+   "etag": "0x8DF4609C13C6D84"
   },
   {
    "pkg": "hasu.os.tasbih",
