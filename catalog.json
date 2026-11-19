@@ -409,11 +409,13 @@
       "name": "HasuTask",
       "tag": "To-dos & reminders",
       "desc": "To-dos — tasks with a date, time and priority, and reminders that fire on time. Filter by Today, All or Done.",
-      "code": 3,
-      "versionName": "1.01",
-      "size": 46147,
+      "code": 4,
+      "versionName": "1.02",
+      "size": 58435,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk",
-      "changes": "NEW: sort your tasks — Due date, Priority or Title A–Z — from a chip under the filters, remembered between opens. NEW: a Clear done button that wipes all finished tasks in one confirmed go, and the About page now carries the HasuOS website row."
+      "changes": "NEW: Permissions hub at the top of the main screen — Notifications and Exact alarms with their real live states, plus Reminders-after-restart and Vibration as install-time grants, and a Turn-all-on walk. NEW: search your tasks from the box above the list. FIXED: the date and time pickers are premium glass now (no plain system dialogs left), the last-crash dialog is premium glass now, the notification permission is asked once — not on every open, tasks with no date now sort after dated ones, and the crash-report stream now closes properly.",
+      "ts": 1795088941,
+      "etag": "0x8DF4632F0BC9D8D"
     },
     {
       "pkg": "hasu.os.tools",
