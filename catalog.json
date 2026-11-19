@@ -39,13 +39,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 45,
-   "versionName": "5.17",
+   "code": 46,
+   "versionName": "5.18",
    "size": 68608809,
-   "changes": "The panels (clipboard, voice typing, emoji and every other tool) are back to their normal size: a spacer under the panel content used to stretch the whole keyboard to full screen, with the ABC key stranded at the very bottom. The spacer is gone — the ABC key now sits right under the panel, in its place.",
+   "changes": "Three fixes from your screenshots: the Edit text panel now has its ABC key; opening Voice or Emoji search from Edit no longer stacks TWO ABC buttons (one action was adding a second row); and the scissors list no longer repeats the tools already in the top bar (Clips, Calc, GIFs, Voice are gone from it — the panel is slimmer).",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
-   "ts": 1795067000,
-   "etag": "0x8DF45FFE0ADA212"
+   "ts": 1795068050,
+   "etag": "0x8DF4602697C33F8"
   },
   {
    "pkg": "hasu.os.browser",
@@ -348,13 +348,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 178,
-   "versionName": "1.85",
+   "code": 179,
+   "versionName": "1.86",
    "size": 112316024,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries HasuCam 20.24, HasuBoard 5.17, HasuOS Home 10.03, HasuQuick 2.06 and HasuClock 1.03 inside.",
-   "ts": 1795067467,
-   "etag": "0x8DF46010FEA18B4"
+   "changes": "The notification guarantee, finished: the update check now also re-arms itself when the clock or timezone changes (on top of boot, self-update and the alarm-clock chain from 1.84), and the Permissions hub has a new Battery row that shows live whether the phone is putting HasuStore to sleep — the one switch that can still stop background checks. Carries HasuBoard 5.18 inside.",
+   "ts": 1795068050,
+   "etag": "0x8DF46026EC56608"
   },
   {
    "pkg": "hasu.os.tasbih",
