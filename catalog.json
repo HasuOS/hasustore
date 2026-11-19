@@ -247,13 +247,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 73,
-   "versionName": "10.03",
+   "code": 74,
+   "versionName": "10.04",
    "size": 12030076,
-   "changes": "NEW: Permissions hub — a drawn toggle-switch button at the top of the Home hub opens a Permissions screen with every permission’s real live state (default home app, notification access for badges, appear on top, usage access, brightness, device admin) plus a Turn-all-on walk. Also fixed: the icon-shape style called “iPhone” is now “Squircle” and the About text no longer names it — HasuOS branding only.",
+   "changes": "Fixed: the top rows of the settings hub, Permissions and About screens could sit too high under the status bar — all screens now start below the real status-bar height.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795066928,
-   "etag": "0x8DF45FFCF524C22"
+   "ts": 1795078373,
+   "etag": "0x8DF461A7B3DA50C"
   },
   {
    "pkg": "hasu.os.pdf",
