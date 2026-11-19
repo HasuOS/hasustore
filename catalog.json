@@ -39,13 +39,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 43,
-   "versionName": "5.15",
+   "code": 44,
+   "versionName": "5.16",
    "size": 68608809,
-   "changes": "NEW: Permissions hub — a toggle-switch button at the top of the main menu opens a screen with every permission (keyboard enabled, HasuBoard selected, microphone) with real live ON/OFF states and a Turn-all-on walk. Fixed: photo-sticker crash on large photos (downsampled before decode), clipboard listener leak when the service stops, and orphaned image-clip files when history trims.",
+   "changes": "Crash fixed — the trace from your phone showed the ABC row being added twice, which killed the keyboard when a panel opened. The row is now added once. Everything from 5.15 stays: Permissions hub in the main menu, the 50 MP photo-sticker fix and the clipboard fixes.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
-   "ts": 1795063940,
-   "etag": "0x8DF45F8D2AAAE71"
+   "ts": 1795065719,
+   "etag": "0x8DF45FD0648D2C2"
   },
   {
    "pkg": "hasu.os.browser",
