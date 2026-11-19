@@ -132,13 +132,13 @@
    "name": "HasuFiles",
    "tag": "File manager",
    "desc": "File manager — browse all storage, categories for images, videos, music, documents & APKs, search, copy/move, zip & extract.",
-   "code": 22,
-   "versionName": "05.03",
-   "size": 326574,
-   "changes": "NEW: Permissions hub — drawn toggle at the top of the main screen opens FilesPermsActivity with real live states (All-files access, Install unknown apps) + Turn-all-on walk. FIXED: thumbnail-pool leak on recreate, viewer no longer keeps every photo bitmap in memory, bin index can no longer lose an entry when two deletes race, zip-slip guard hardened, extract closes its streams, Settings sort now offers Type too. NEW: category/search results are re-used when coming back (no more full re-scan), with a Refresh chip to force one.",
+   "code": 26,
+   "versionName": "05.07",
+   "size": 330670,
+   "changes": "FIXED: the Permissions toggle at the top of the main screen is honest now — it used to stay blue ON even when a permission was missing; grey + knob left until all-files access and install-unknown-apps are really granted, repainted on every return to the main screen. FIXED: saving an edited photo now frees its full-size copies at once instead of holding them until the next clean-up, and emptying a full bin runs in the background instead of freezing the screen. FIXED: a photo that will not open now says so instead of sitting on a black screen, long audio shows hours (1:05:03, not 65:03), and zipping a folder no longer follows a shortcut to a file outside it. DESIGN: the About page icon now sits on a glass tile.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/files.apk",
-   "ts": 1795072290,
-   "etag": "0x8DF460C4D22E35E"
+   "ts": 1795130848,
+   "etag": "0x8DF4693170A93E8"
   },
   {
    "pkg": "hasu.os.gamebox",
@@ -351,13 +351,13 @@
    "name": "HasuShot",
    "tag": "Screenshots & recording",
    "desc": "Screenshots & screen recording from a floating button — gallery, crop, edit and recycle bin built in.",
-   "code": 27,
-   "versionName": "02.04",
+   "code": 30,
+   "versionName": "02.07",
    "size": 87039,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shot.apk",
-   "changes": "PREMIUM GLASS: the last plain system dialogs in the app are now premium Liquid Glass — the crash report (now with a Copy button), the move-to-bin and delete-forever confirms, the set-as-wallpaper picker and the bin item menu. NEW: a Latest screenshot card on the main page — your newest shot, tap to view, crop, edit or share. FIXED: hour-long recordings now show 1:05:03 instead of 65:03 in the gallery. FIXED: taking a screenshot no longer leaves its full-size working copies in memory — the padded capture frame, the saved shot, the cropped copy, the wallpaper copy and the editor's source are now freed as soon as each step is done. The notifications now carry HasuShot's own icon instead of the system camera, and the crash report is now read fully with its streams always closed.",
-   "ts": 1795109085,
-   "etag": "0x8DF4661E9537D44"
+   "changes": "FIXED: stopping a recording no longer freezes the app — a long video is now published into Movies/HasuShot in the background, and the Saved toast and preview wait for it. FIXED: the Permissions toggle at the top is honest now — it used to stay blue ON even when a permission was missing; grey + knob left until overlay, notifications and battery-optimisation are really granted, repainted on every return to the main screen. FIXED: a long recording's timer now reads 1:05:03, never 65:03. DESIGN: the main page's header is narrower so the name fits on one line, and the About page icon now sits on a glass tile.",
+   "ts": 1795130848,
+   "etag": "0x8DF469460BDD74D"
   },
   {
    "pkg": "hasu.os.speed",
