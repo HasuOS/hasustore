@@ -85,13 +85,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 93,
-   "versionName": "20.27",
+   "code": 94,
+   "versionName": "20.28",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Hourly improvement pass (code 93).",
-   "ts": 1795078840,
-   "etag": "0x8DF461B0F0E43B1"
+   "changes": "A photo, video or DNG that fails to save no longer leaves a half-written file or an invisible unfinished entry behind — failed saves now clean up after themselves.",
+   "ts": 1795082143,
+   "etag": "0x8DF462323C8EA92"
   },
   {
    "pkg": "hasu.os.clean",
@@ -358,13 +358,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 191,
-   "versionName": "1.98",
-   "size": 112353039,
+   "code": 192,
+   "versionName": "1.99",
+   "size": 112361231,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "The crash loop is fixed at the root: downloads you start inside the app no longer go through the foreground service whose start race kept killing HasuStore when you tapped Update — they now download directly in the app. Background auto-downloads keep the hardened service from 1.97.",
-   "ts": 1795080341,
-   "etag": "0x8DF461F0F16248F"
+   "changes": "FIXED (his report): the install pop-up that used to appear by itself when an auto-download finished silently stopped coming — the downloaded card now also carries a full-screen intent, the background launch Android guarantees, so in Full auto mode the installer comes to the front again (if Android asks, allow Full-screen notifications for HasuStore in Permissions). Carries HasuCam 20.28, HasuBoard 5.19, HasuQuick 2.08, HasuClock 1.08, HasuFiles 05.03, HasuOS Home 10.04, HasuWall 2.04, HasuSpeed 02.03, HasuShot 02.03, HasuMusic 1.02 and HasuNotes 1.02 inside.",
+   "ts": 1795082143,
+   "etag": "0x8DF46232965235C"
   },
   {
    "pkg": "hasu.os.tasbih",
