@@ -341,13 +341,13 @@
    "name": "HasuSpeed",
    "tag": "Live internet speed",
    "desc": "Live internet speed in your notification — download & upload now, today's totals and per-app usage.",
-   "code": 27,
-   "versionName": "02.02",
+   "code": 28,
+   "versionName": "02.03",
    "size": 62389,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk",
-   "changes": "NEW: a floating speed widget — a small live speed bubble that hovers over any app while the meter is on; drag it anywhere, tap it to open HasuSpeed. NEW: a Permissions hub at the top of the main screen (notifications, usage access, appear on top, battery optimisation) with real live states and a Turn-all-on walk. Fixed: a failed foreground start no longer leaves the meter stuck showing ON; the crash report is now a premium glass dialog; the graph's \"Collecting speed\" line is properly centred; the big notification panel's today line can no longer clip.",
-   "ts": 1795076166,
-   "etag": "0x8DF461492CAEE66"
+   "changes": "Fixed: the top of the screen (the Permissions row) could slide under the status bar and get cut off — every screen now starts below the real status-bar height.",
+   "ts": 1795077507,
+   "etag": "0x8DF461878134F2D"
   },
   {
    "pkg": "hasu.os.store",
