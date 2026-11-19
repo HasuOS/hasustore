@@ -87,13 +87,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 94,
-   "versionName": "20.28",
+   "code": 95,
+   "versionName": "20.29",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "A photo, video or DNG that fails to save no longer leaves a half-written file or an invisible unfinished entry behind — failed saves now clean up after themselves.",
-   "ts": 1795082143,
-   "etag": "0x8DF462323C8EA92"
+   "changes": "Photos taken in HDR, Night, burst or booth mode no longer keep their full-size frames in memory after the shot is saved, and a shutter sound that fails to play no longer leaks its player.",
+   "ts": 1795084931,
+   "etag": "0x8DF4629B4ED9EFF"
   },
   {
    "pkg": "hasu.os.clean",
@@ -360,13 +360,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 194,
-   "versionName": "2.01",
-   "size": 112365327,
+   "code": 195,
+   "versionName": "2.02",
+   "size": 112373519,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Refresh now tells you the real thing in plain words (his order): no more \"updates found online\" — it says how many updates are ready to install, or \"update coming soon — wait about N minutes\" with the actual time, or that all your apps are up to date. Carries HasuCam 20.28, HasuBrowser 1.02, HasuBoard 5.19, HasuQuick 2.08, HasuClock 1.08, HasuFiles 05.03, HasuOS Home 10.04, HasuWall 2.04, HasuSpeed 02.03, HasuShot 02.03, HasuMusic 1.02 and HasuNotes 1.02 inside.",
-   "ts": 1795083828,
-   "etag": "0x8DF462720950A7C"
+   "changes": "Carries HasuCam 20.29 inside.",
+   "ts": 1795084931,
+   "etag": "0x8DF4629B9A9006E"
   },
   {
    "pkg": "hasu.os.tasbih",
