@@ -109,13 +109,13 @@
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 12,
-   "versionName": "1.06",
-   "size": 1739409,
+   "code": 13,
+   "versionName": "1.07",
+   "size": 1747601,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
-   "changes": "An alarm can no longer stay silent: if the sound you picked cannot play any more (the file was moved or deleted), the clock falls back to the system alarm tone automatically. A pending snooze can no longer be wiped out by editing or repeating its alarm.",
-   "ts": 1795061869,
-   "etag": "0x8DF45F4108C5DB1"
+   "changes": "NEW: a Permissions hub in every app (starting here). Tap the toggle switch at the top: every permission this app can ask for, with its real ON/OFF state, plus a Turn all on button that walks through all of them. Also keeps the 1.06 fixes: an alarm can never stay silent, and a snooze can no longer be wiped by editing its alarm.",
+   "ts": 1795062919,
+   "etag": "0x8DF45F682F65F77"
   },
   {
    "pkg": "hasu.os.dice",
