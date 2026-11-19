@@ -85,13 +85,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 91,
-   "versionName": "20.25",
+   "code": 92,
+   "versionName": "20.26",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Videos queued for background filtering no longer vanish if the system kills the app mid-render — the queue is saved and resumes; a finished video is never re-rendered by mistake.",
-   "ts": 1795071192,
-   "etag": "0x8DF4609BBD3E532"
+   "changes": "Backup and restore no longer leak file streams when something goes wrong mid-way, and a failed settings or config write can no longer leave a half-written file behind.",
+   "ts": 1795075488,
+   "etag": "0x8DF4613C1D17C92"
   },
   {
    "pkg": "hasu.os.clean",
