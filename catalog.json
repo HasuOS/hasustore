@@ -85,13 +85,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 92,
-   "versionName": "20.26",
+   "code": 93,
+   "versionName": "20.27",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Backup and restore no longer leak file streams when something goes wrong mid-way, and a failed settings or config write can no longer leave a half-written file behind.",
-   "ts": 1795075488,
-   "etag": "0x8DF4613C1D17C92"
+   "changes": "Hourly improvement pass (code 93).",
+   "ts": 1795078840,
+   "etag": "0x8DF461B0F0E43B1"
   },
   {
    "pkg": "hasu.os.clean",
@@ -354,13 +354,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 187,
-   "versionName": "1.94",
-   "size": 112328312,
+   "code": 189,
+   "versionName": "1.96",
+   "size": 112344847,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Inside: the newest HasuSpeed 02.02 — a floating speed widget over any app, a Permissions hub, and a glass crash report.",
-   "ts": 1795076166,
-   "etag": "0x8DF4615030EE686"
+   "changes": "Fixed: apps that are not bundled (like HasuMaps) showed no icon — every app now shows its real icon. Fixed: a download card could show a nonsense time like 29917975:44 after the app restarted mid-download. Bundles the newest apps: HasuCam 20.27, HasuBoard 5.19, HasuOS Home 10.04, HasuClock 1.08, HasuWall 2.04, HasuShot 02.03, HasuQuick 2.08, HasuSpeed 02.03.",
+   "ts": 1795078840,
+   "etag": "0x8DF461B90E55A59"
   },
   {
    "pkg": "hasu.os.tasbih",
