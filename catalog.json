@@ -83,11 +83,11 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 84,
-   "versionName": "20.18",
+   "code": 85,
+   "versionName": "20.19",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Video filters no longer freeze the preview on the first frame: the live filter is now watched continuously and falls back to the plain preview if a camera cannot keep it running, video sessions rebuild themselves if frames stop, and every config value is sanitised before it reaches the picture. All 430 bundled configs were audited — one broken file (Kids & Pets) is fixed."
+   "changes": "Video filter freeze, final answer: if the live filter preview stalls on your camera, HasuCam now remembers it and never tries the live filter on that camera again — the video preview always moves, and your recordings still get the filter look. A manual retry lives in the Video filter menu."
   },
   {
    "pkg": "hasu.os.check",
@@ -358,11 +358,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 164,
-   "versionName": "1.71",
+   "code": 165,
+   "versionName": "1.72",
    "size": 112078106,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries HasuCam 20.18 — the video filter preview freeze fix — and HasuTube 1.00."
+   "changes": "Carries HasuCam 20.19 — the video filter freeze is remembered and switched off for good on cameras that cannot run it."
   },
   {
    "pkg": "hasu.os.tasbih",
