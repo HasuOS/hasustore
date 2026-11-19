@@ -83,11 +83,11 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 82,
-   "versionName": "20.16",
-   "size": 32715771,
+   "code": 83,
+   "versionName": "20.17",
+   "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Fixed a crash when switching XML configs in the popup, and the About page now carries the website link."
+   "changes": "Video mode preview freeze fixed — switching to video no longer holds the first frame: the video session is leaner now, and the live-filter preview heals itself if a camera cannot keep it running."
   },
   {
    "pkg": "hasu.os.check",
@@ -358,11 +358,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 162,
-   "versionName": "1.69",
-   "size": 112049368,
+   "code": 163,
+   "versionName": "1.70",
+   "size": 112078106,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries the newest builds — Home 10.02 with a real Today View, Files 05.02, Board 5.11 and the website link across the family."
+   "changes": "NEW app inside: HasuTube — YouTube in its own HasuOS app. Also carries HasuCam 20.17 with the video preview fix."
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -484,6 +484,17 @@
    "size": 74676,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasu.apk",
    "changes": "The contact card is complete — email, Facebook and YouTube are in, and every row now opens its link."
+  },
+  {
+   "pkg": "hasu.os.tube",
+   "name": "HasuTube",
+   "tag": "YouTube, the HasuOS way",
+   "desc": "YouTube inside its own HasuOS app: home feed, Shorts, subscriptions and library, built-in search and real full-screen video.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 33646,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tube.apk",
+   "changes": "NEW app: YouTube inside its own HasuOS glass app — home feed, Shorts, subscriptions and library one tap away, search built in, and real full-screen video."
   }
  ]
 }
