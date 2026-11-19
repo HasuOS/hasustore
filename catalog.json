@@ -285,11 +285,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 27,
-   "versionName": "2.02",
+   "code": 28,
+   "versionName": "2.03",
    "size": 767627,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "The website link is now on the About page, like every HasuOS app."
+   "changes": "The panel now keeps its portrait size in landscape: opened over a full-screen video it no longer stretches across the wide screen — same width as upright, centred.",
+   "ts": 1795059900,
+   "etag": "0x8DF45ED936BDB08"
   },
   {
    "pkg": "hasu.os.radio",
@@ -362,13 +364,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 170,
-   "versionName": "1.77",
-   "size": 112086298,
+   "code": 171,
+   "versionName": "1.78",
+   "size": 112123227,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Direct install pop-up: a new card on the main page asks for the one-time 'Appear on top' allow — with it, when a download finishes after you leave HasuStore, the install pop-up appears directly instead of only a notification. Carries HasuCam 20.21 and HasuBoard 5.13.",
-   "ts": 1795059000,
-   "etag": "0x8DF45ECB72C3C9A"
+   "changes": "Bundles the new HasuWeb app and HasuQuick 2.03 (landscape panel size fix).",
+   "ts": 1795059900,
+   "etag": "0x8DF45ED98743131"
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -502,6 +504,19 @@
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tube.apk",
    "changes": "NEW app: YouTube inside its own HasuOS glass app — home feed, Shorts, subscriptions and library one tap away, search built in, and real full-screen video.",
    "ts": 1795054740
+  },
+  {
+   "pkg": "hasu.os.web",
+   "name": "HasuWeb",
+   "tag": "The HasuOS website, as an app",
+   "desc": "The HasuOS website inside its own app: the same pages and the same live catalogue, served by the website's own server — every app update shows here the moment it reaches the website.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 45934,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/web.apk",
+   "ts": 1795059900,
+   "etag": "0x8DF45ED92254AFC",
+   "changes": "First release — the HasuOS website as its own app, running on the website's server, always as current as the site itself."
   }
  ]
 }
