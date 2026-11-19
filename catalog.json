@@ -355,11 +355,11 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 157,
-   "versionName": "1.64",
-   "size": 112045272,
+   "code": 158,
+   "versionName": "1.65",
+   "size": 112049368,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Habit, Shikha and Share all updated inside — sort and tappable week dots in Habit, a Listen button in Shikha, and a live download counter in Share."
+   "changes": "Downloads are rebuilt: they now run in a service, keep going when you leave the app, show progress in the notification shade as well as in the app, and bring the installer up when they finish."
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -476,11 +476,11 @@
    "name": "Hasu",
    "tag": "Portfolio",
    "desc": "Hasu's whole details in one app — a living portfolio: name, role, story, work and contact, all editable on the phone. The developer behind HasuOS.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 74676,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasu.apk",
-   "changes": "Your photo is in — your picture now sits on the profile (change it any time from Edit my details), and the place now reads Dhaka, Bangladesh."
+   "changes": "The contact card is complete — email, Facebook and YouTube are in, and every row now opens its link."
   }
  ]
 }
