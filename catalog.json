@@ -487,12 +487,13 @@
    "name": "HasuTube",
    "tag": "YouTube, the HasuOS way",
    "desc": "YouTube inside its own HasuOS app: home feed, Shorts, subscriptions and library, built-in search and real full-screen video.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 33646,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 41838,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tube.apk",
-   "changes": "NEW app: YouTube inside its own HasuOS glass app — home feed, Shorts, subscriptions and library one tap away, search built in, and real full-screen video.",
-   "ts": 1795054740
+   "changes": "Permissions hub: a 🔐 Permissions toggle at the top opens the live state of every permission (Internet is granted at install — Tube needs no runtime permissions). File uploads now work through the system file picker, the video you are watching can be shared in one tap, a lost connection shows a retry card instead of a dead page, and the page you were watching survives the app being closed in the background. The crash report is now a glass dialog.",
+   "ts": 1795084557,
+   "etag": "0x8DF4628DBB52DA8"
   },
   {
    "pkg": "hasu.os.web",
