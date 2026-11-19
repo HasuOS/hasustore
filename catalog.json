@@ -87,13 +87,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 95,
-   "versionName": "20.29",
+   "code": 96,
+   "versionName": "20.30",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Photos taken in HDR, Night, burst or booth mode no longer keep their full-size frames in memory after the shot is saved, and a shutter sound that fails to play no longer leaks its player.",
-   "ts": 1795084931,
-   "etag": "0x8DF4629B4ED9EFF"
+   "changes": "Fixed four asset-stream leaks: AI model load, AI label-file load, bundled-config load and shutter-sound load now close on every path, so a failed load can no longer leave a half-filled list or a leaked player.",
+   "ts": 1795086893,
+   "etag": "0x8DF462E3EFC3F25"
   },
   {
    "pkg": "hasu.os.clean",
@@ -360,13 +360,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 195,
-   "versionName": "2.02",
-   "size": 112373519,
+   "code": 196,
+   "versionName": "2.03",
+   "size": 112439055,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Carries HasuCam 20.29 inside.",
-   "ts": 1795084931,
-   "etag": "0x8DF4629B9A9006E"
+   "changes": "Carries HasuCam 20.30 inside.",
+   "ts": 1795086893,
+   "etag": "0x8DF462E4BA88D12"
   },
   {
    "pkg": "hasu.os.tasbih",
