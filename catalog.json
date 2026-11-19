@@ -508,13 +508,13 @@
    "name": "HasuMaps",
    "tag": "The HasuOS map — the world, in glass",
    "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-   "code": 5,
-   "versionName": "1.04",
-   "size": 54126,
+   "code": 6,
+   "versionName": "1.05",
+   "size": 62318,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-   "ts": 1795079687,
-   "etag": "0x8DF461D8B67EDDB",
-   "changes": "Navigation is here: tap Start on the route card and HasuMaps follows you — big next-turn banner with a live distance countdown, voice guidance before each turn, automatic re-route if you leave the line, and an arrival announcement. Stage 2 of the perfection plan."
+   "ts": 1795079889,
+   "etag": "0x8DF461E02B745AE",
+   "changes": "Search like Google Maps: suggestions appear as you type (in Search and in From / To), tapping one opens a place card with Directions / Save / Share, and a Saved list keeps your recent and favourite places. Stage 3 of the perfection plan."
   }
  ]
 }
