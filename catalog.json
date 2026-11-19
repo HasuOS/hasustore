@@ -311,20 +311,22 @@
    "name": "HasuShare",
    "tag": "Offline file sharing",
    "desc": "Offline file sharing — pick files, share them over WiFi or hotspot, and the other phone downloads them from your browser address. No internet needed.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 41838,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/share.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/share.apk",
+   "changes": "NEW: a live download counter — while sharing, the status line shows how many files the other phone has downloaded. The picked-files list now shows its total size. FIXED: a failed response header used to leak the opened file stream; the stream, headers and body now share one try/finally. The About page has the HasuOS website row."
   },
   {
    "pkg": "hasu.os.shikha",
    "name": "HasuShikha",
    "tag": "English words",
    "desc": "English words — 120 common words with Bangla meanings and examples. Flip the card, mark what you know, review what you missed.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 45934,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shikha.apk"
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shikha.apk",
+   "changes": "NEW: a Listen button reads the current word aloud in US English, the way top flashcard apps teach pronunciation — the speech engine starts only on the first tap. The About page has the HasuOS website row."
   },
   {
    "pkg": "hasu.os.shot",
@@ -474,11 +476,11 @@
    "name": "Hasu",
    "tag": "Portfolio",
    "desc": "Hasu's whole details in one app — a living portfolio: name, role, story, work and contact, all editable on the phone. The developer behind HasuOS.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 33646,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 74676,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasu.apk",
-   "changes": "NEW APP: Hasu's portfolio — his details, his story and his work, editable on the phone."
+   "changes": "Your photo is in — your picture now sits on the profile (change it any time from Edit my details), and the place now reads Dhaka, Bangladesh."
   }
  ]
 }
