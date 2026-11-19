@@ -169,25 +169,26 @@
       "name": "HasuHabit",
       "tag": "Habit tracker",
       "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.",
-      "code": 5,
-      "versionName": "1.04",
+      "code": 6,
+      "versionName": "1.05",
       "size": 50030,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk",
-      "changes": "NEW: daily reminders — set a time on any habit (glass hour/minute/AM-PM picker in the edit card) and HasuHabit nudges you at that minute every day, with a \"Mark done\" button right in the notification so you never even open the app; reminders survive a reboot and a clock change, and ring a few minutes late instead of never if the exact-alarm grant is missing. Deleting a habit cancels its reminder, and the Permissions hub now shows Notifications and Exact alarms with their real live states. FIXED: the habit list no longer recomputes every best streak three times on each redraw — each habit's best streak is now worked out once and reused.",
-      "ts": 1795109085,
-      "etag": "0x8DF4661C6411F77"
+      "changes": "NEW: the history dots now cover the last 4 weeks (28 days) instead of just 7 — a week was too short to see a habit's shape, and any day in the past month can still be tapped to mark or unmark it, with the day-of-month under each dot. FIXED: rotation no longer rebuilds any screen — every screen now keeps its state across a turn.",
+      "ts": 1795124655,
+      "etag": "0x8DF46863483F18E"
     },
     {
       "pkg": "hasu.os.health",
       "name": "HasuHealth",
       "tag": "Steps, water & BMI",
       "desc": "Health — step counter with 7-day history, daily water tracker with a goal, and a BMI calculator. All on your phone.",
-      "code": 4,
-      "versionName": "1.02",
+      "code": 5,
+      "versionName": "1.03",
       "size": 45934,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/health.apk",
-      "changes": "Permissions hub at the top of the main screen: physical activity, Notifications, exact alarms and reminders-after-restart with their real live states, plus a Turn-all-on walk. FIXED: activity recognition is asked once — not on every open, and the last-crash dialog is premium glass now.",
-      "etag": "0x8DF462D97B0F586"
+      "changes": "FIXED: walking no longer rebuilds the whole 7-day step chart on every step — each sensor event now only updates today's number, and the chart refreshes when you open the app or come back to it. FIXED: dragging a BMI slider no longer saves to storage on every tick — the numbers update live as you drag and save once when you let go. FIXED: the hourly water reminder no longer pins a permanent alarm-clock icon in the status bar — it now uses an exact alarm first and only falls back to an alarm-clock alarm. FIXED: the water reminder now re-arms after a clock change, a timezone change or an app update, not just after a reboot.",
+      "etag": "0x8DF46862F0CCAF1",
+      "ts": 1795124655
     },
     {
       "pkg": "hasu.os.khata",
