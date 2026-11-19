@@ -81,13 +81,13 @@
       "name": "HasuCam",
       "tag": "Capture Beyond Limits",
       "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-      "code": 118,
-      "versionName": "20.52",
+      "code": 119,
+      "versionName": "20.53",
       "size": 32732155,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-      "changes": "FIXED: filtering a video can no longer leak its media extractor, encoder or graphics setup when something fails part-way through — a codec that will not start, no graphics setup available, a colour shader that will not compile or a decoder that will not start used to leave the extractor and everything already started behind until the cleaner ran. The whole filter setup now runs under one cleanup that frees each part only when it was actually created, and a failed stop can no longer skip a release. Nothing looks different — a bad video still keeps the original, a failed filter still says so — the camera just stops wasting memory when a video filter fails.",
-      "ts": 1795125594,
-      "etag": "0x8DF4687D4B6EA6A"
+      "changes": "FIXED: the photo editor's header can no longer push its Save button off the right edge — the title now takes the leftover width and shortens with an ellipsis instead, so Save always sits fully on screen even with a wide system font. FIXED: the recycle bin was the one screen with no back button — it now has the same back-and-title header as every other screen. The About page no longer calls this the final version — HasuCam is updated continuously.",
+      "ts": 1795127029,
+      "etag": "0x8DF468BAF5A396E"
     },
     {
       "pkg": "hasu.os.clean",
