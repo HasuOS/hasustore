@@ -513,13 +513,13 @@
    "name": "HasuMaps",
    "tag": "The HasuOS map — the world, in glass",
    "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-   "code": 10,
-   "versionName": "1.09",
+   "code": 11,
+   "versionName": "1.10",
    "size": 66414,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-   "ts": 1795081546,
-   "etag": "0x8DF4621DCC4E8AD",
-   "changes": "NEW (his order): live navigation notification — while you navigate, the notification bar shows the next turn, the distance to it, how much road is left and a progress bar, with a Stop button. NEW: floating popup — leave HasuMaps mid-route and a small glass popup follows you into other apps showing how far you have gone and how far is left (turn on 'Appear on top' in Permissions). Permissions hub gains Notifications + Appear on top rows."
+   "ts": 1795086514,
+   "etag": "0x8DF462D6BA1AABC",
+   "changes": "NEW: arrival time — the route card now shows Arrive 5:42 PM next to the distance and travel time, and the live navigation banner, notification and floating popup count down to the same arrival time as you drive. All times in 12-hour format."
   }
  ]
 }
