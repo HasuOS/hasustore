@@ -359,12 +359,12 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 166,
-   "versionName": "1.73",
+   "code": 167,
+   "versionName": "1.74",
    "size": 112082202,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "The Facebook-style fix you asked for: a fresh update now settles for 3 minutes before the store offers it, so when the Update button appears, the download works first try. While it settles, the app shows a clock badge and the detail page counts down.",
-   "ts": 1795055637
+   "changes": "Two things you asked for: (1) HasuStore now opens with an owner LOGIN page — without your username and password nobody gets in. (2) Auto-download is ON: every app update, HasuStore's own included, downloads by itself once it has settled; you only tap Install. Turn it off any time in About → Settings.",
+   "ts": 1795056420
   },
   {
    "pkg": "hasu.os.tasbih",
