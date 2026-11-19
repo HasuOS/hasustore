@@ -260,13 +260,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 83,
-   "versionName": "10.13",
+   "code": 84,
+   "versionName": "10.14",
    "size": 12034247,
-   "changes": "FIXED: the Dynamic Island timer and stopwatch now survive the island restarting — the timer, its finished alert and the stopwatch are saved on every change and restored when the service comes back, so a timer no longer vanishes silently if Android kills the island; a timer that ended long ago is dropped quietly instead of buzzing late. FIXED: tapping an app that was just removed no longer crashes the launcher — the fallback launch is guarded and shows 'Could not open' instead. The countdown widget's glass date picker from 10.12 is included.",
+   "changes": "FIXED: the App Library 'Most used' filter now opens instantly — it used to run a full usage-statistics query for every installed app (over a hundred identical queries for one tap) and now reads all usage in one query. Search recent searches now keep the last 5, as designed.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795127761,
-   "etag": "0x8DF468D5B2DC69C"
+   "ts": 1795130169,
+   "etag": "0x8DF4692F7BBF580"
   },
   {
    "pkg": "hasu.os.pdf",
