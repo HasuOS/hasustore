@@ -271,13 +271,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 32,
-   "versionName": "2.07",
+   "code": 33,
+   "versionName": "2.08",
    "size": 775819,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "NEW: Permissions hub — a drawn toggle-switch button at the top of the main page opens a Permissions screen with every permission’s real live state (draw over other apps, Accessibility, notifications, Do Not Disturb access for the Silent ringer, modify system settings for the brightness slider) plus a Turn-all-on walk. FIXED: the sound tick no longer leaks after the ball is turned off, the torch callback is unregistered, the volume slider now follows the hardware keys while the panel is open, the torch tile no longer claims ON when the camera is busy, and the Ringer tile shows the right icons (Vibrate is no longer the phone glyph). The About page now counts the themes and ball icons correctly.",
-   "ts": 1795070705,
-   "etag": "0x8DF460894F21650"
+   "changes": "Fixed: the top rows of every screen could sit too high under the status bar — all screens now start below the real status-bar height.",
+   "ts": 1795077614,
+   "etag": "0x8DF4618B647F668"
   },
   {
    "pkg": "hasu.os.radio",
