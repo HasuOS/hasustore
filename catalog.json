@@ -354,13 +354,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-   "code": 189,
-   "versionName": "1.96",
+   "code": 190,
+   "versionName": "1.97",
    "size": 112344847,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Fixed: apps that are not bundled (like HasuMaps) showed no icon — every app now shows its real icon. Fixed: a download card could show a nonsense time like 29917975:44 after the app restarted mid-download. Bundles the newest apps: HasuCam 20.27, HasuBoard 5.19, HasuOS Home 10.04, HasuClock 1.08, HasuWall 2.04, HasuShot 02.03, HasuQuick 2.08, HasuSpeed 02.03.",
-   "ts": 1795078840,
-   "etag": "0x8DF461B90E55A59"
+   "changes": "Crash fix: downloads could kill the store itself (foreground-service start race on Samsung) — the download service now announces itself the instant it is created, so downloads no longer die or take the app down with them. Also includes the 1.96 fixes: real icons for online-only apps like HasuMaps, and the download-time display fix.",
+   "ts": 1795079369,
+   "etag": "0x8DF461CC5476B5B"
   },
   {
    "pkg": "hasu.os.tasbih",
