@@ -547,13 +547,13 @@
       "name": "HasuMaps",
       "tag": "The HasuOS map — the world, in glass",
       "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-      "code": 34,
-      "versionName": "1.33",
+      "code": 35,
+      "versionName": "1.34",
       "size": 99182,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-      "ts": 1795150204,
-      "etag": "0x8DF46C1AFA108B7",
-      "changes": "Search along the route: while navigating, search for a place (petrol, food, ATM...) and only the places within 5 km of the road still ahead of you show up, nearest the road first — places already passed never come back."
+      "ts": 1795150783,
+      "etag": "0x8DF46C30941E0C4",
+      "changes": "The floating popup now has a Hide button (hides it for this exit \u2014 it comes back on its own next time you leave the app) and a live mini map inside it that follows your real position as you move."
     },
     {
       "pkg": "hasu.os.assist",
