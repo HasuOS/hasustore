@@ -534,13 +534,13 @@
    "name": "HasuWeb",
    "tag": "The HasuOS website, as an app",
    "desc": "The HasuOS website inside its own app: the same pages and the same live catalogue, served by the website's own server — every app update shows here the moment it reaches the website.",
-   "code": 6,
-   "versionName": "1.05",
+   "code": 7,
+   "versionName": "1.06",
    "size": 54126,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/web.apk",
-   "ts": 1795126944,
-   "etag": "0x8DF468B394C1023",
-   "changes": "FIXED: the header no longer shows the title twice — the app was missing its own NoActionBar theme, so Android drew its dark system title bar above the app's own header. The app's theme is applied now, so there is exactly one clean header with the title and the pills fully on screen."
+   "ts": 1795158076,
+   "etag": "0x8DF46D40613355C",
+   "changes": "NEW: a 📖 Guide page — tap ℹ️ in the header, then Guide, for a page explaining every button and feature one by one, from the site itself to find-in-page, pinch to zoom and the no-connection card. FIXED: Find in page no longer flashes Not found while it is still counting matches — it waits until the count is done. DESIGN: the About page icon now sits on a glass tile. The Guide and About pages list all three."
   },
   {
    "pkg": "hasu.os.maps",
