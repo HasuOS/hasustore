@@ -45,13 +45,13 @@
    "name": "HasuBrowser",
    "tag": "Web browser",
    "desc": "Browser — light and fast browsing with bookmarks, history, downloads and desktop mode.",
-   "code": 6,
-   "versionName": "1.02",
-   "size": 66414,
+   "code": 10,
+   "versionName": "1.06",
+   "size": 74606,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/browser.apk",
-   "changes": "Permissions hub at the top of the browser: Internet and network state with their real live states, plus a Turn-all-on walk — the browser honestly needs no runtime permissions. NEW: choose your search engine (Google, DuckDuckGo or Bing), close all tabs at once, and delete one bookmark or history entry. The text-size picker now shows each size as it will look. File uploads now honour the page's file types and several files at once. A link sent while the browser is already running now opens instead of being dropped. The last-crash dialog is premium glass now.",
-   "ts": 1795083154,
-   "etag": "0x8DF46256D273B3D"
+   "changes": "NEW: a 📖 Guide page — tap Guide in the ⋮ menu for a page explaining every button and feature one by one, from the address bar and tabs to the speed dial, downloads and find-in-page. FIXED: the address bar has room to breathe — Forward and Bookmark moved into the ⋮ menu, so the address itself is readable on a narrow phone. FIXED: the tabs sheet no longer grows past the screen with many tabs — the list scrolls inside it. FIXED: the Downloads page only rebuilds when something actually changed, instead of rebuilding every card every second. FIXED: a speed-dial address or name with a quote or bracket in it no longer breaks the whole dial page. FIXED: tabs are now removed from their parent before being destroyed when the browser closes. The Guide and About pages list all six.",
+   "ts": 1795157436,
+   "etag": "0x8DF46D28A200461"
   },
   {
    "pkg": "hasu.os.calc",
