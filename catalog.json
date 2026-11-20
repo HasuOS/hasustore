@@ -546,13 +546,13 @@
       "name": "HasuMaps",
       "tag": "The HasuOS map — the world, in glass",
       "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-      "code": 27,
-      "versionName": "1.26",
+      "code": 28,
+      "versionName": "1.27",
       "size": 90990,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-      "ts": 1795138140,
-      "etag": "0x8DF46A576D51BE8",
-      "changes": "NEW 📖 Guide page — every button and feature explained one by one in Bangla and English: Search, Locate, Layers, Explore, Directions, navigation, Commute, Home and Work, Saved places and parking, Measure distance, What's here, the place card and Permissions. Open it from the 📖 pill in the header, beside ℹ️ About. About gains the Guide line."
+      "ts": 1795139594,
+      "etag": "0x8DF46A8EAA26630",
+      "changes": "HasuMaps 1.27 removes the header band completely (your order with the screenshot — no black band at the top any more). The screen now starts with the search bar and the map gets the extra space. Nothing is lost: the Permissions toggle, the About (i) button and the Guide button now live in the first row of the More box — tap More and they are right there. The Guide page text is updated to match."
     },
     {
       "pkg": "hasu.os.assist",
