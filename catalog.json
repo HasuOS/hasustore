@@ -553,7 +553,7 @@
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
    "ts": 1795167876,
    "etag": "0x8DF46EAD81CE665",
-   "changes": "NEW: 📍 Search by coordinates — paste \"23.8103, 90.4125\" (or 23°48'37\"N 90°24'45\"E) into the search bar and the map drops a pin on that exact spot, with its name and address; coordinates work in From / To / Stop too. The Guide and About pages list it."
+   "changes": "Search by coordinates: type \"23.8103, 90.4125\" (or 23°48'37\"N 90°24'45\"E, or space-separated DMS) in the search bar and a pin drops on that exact spot, with its name and address; coordinates work in From / To / Stop too. Also in this update: the route card's ✕ now collapses the banner to a slim line instead of hiding it mid-navigation; Locate trusts a fix for 30 seconds only, not 5 minutes; Back closes the open card first; opening a place from Along the route no longer drops the drawn route line; the Commute pill steps aside while navigating."
   },
   {
    "pkg": "hasu.os.assist",
