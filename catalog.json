@@ -210,13 +210,13 @@
       "name": "HasuMusic",
       "tag": "Music player",
       "desc": "Music player — songs, albums and artists from your library, background playback with notification controls, shuffle and repeat.",
-      "code": 12,
-      "versionName": "1.08",
+      "code": 13,
+      "versionName": "1.09",
       "size": 62318,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/music.apk",
-      "changes": "FIXED: a phone call or a voice message now pauses the music, and it resumes by itself when the call ends — until now only a permanent audio loss paused it, so the music kept playing over a call. A pause you tap yourself during the interruption stays paused, and a permanent loss still never resumes. The Guide and About pages list it.",
-      "ts": 1795150479,
-      "etag": "0x8DF46C1FC7B8228"
+      "changes": "FIXED: the Now playing screen now scrolls as one page — on a short or sideways screen the sleep timer, the equalizer and the queue used to sit below the screen and could not be reached at all. NEW: a voice message or a sat-nav prompt now dips the music quieter instead of stopping it — the volume comes back by itself; a phone call still pauses and resumes as before. NEW: the notification now has a ✕ Stop button, so the music can be ended right from the notification. FIXED: a long message in a confirm dialog (for example the crash details) now scrolls too, so its buttons stay reachable. FIXED: the audio focus is now given back when another app takes it for good and when the service stops. The Guide and About pages list all five.",
+      "ts": 1795154993,
+      "etag": "0x8DF46CCCCF52887"
     },
     {
       "pkg": "hasu.os.namaz",
