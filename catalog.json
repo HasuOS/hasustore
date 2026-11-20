@@ -262,13 +262,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 88,
-   "versionName": "10.18",
-   "size": 12038190,
-   "changes": "FIXED: the weather card no longer shows old weather as if it were current — when the data is older than 30 minutes it now says when it was updated, for example 'Updated 9:05 AM', or with the date if it is from an earlier day. FIXED: the exchange widget labels an old rate the same way when it is older than 12 hours. NEW: the Dream clock (always-on clock) now shows AM / PM, so you can tell morning from evening at a glance. About and Guide updated.",
+   "code": 89,
+   "versionName": "10.19",
+   "size": 12042364,
+   "changes": "Update badges on your app icons: when an app has a HasuStore update waiting, an orange update badge appears right on that app's icon corner (folders too) \u2014 so you can see at a glance which app got an update.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795151852,
-   "etag": "0x8DF46C4AE3994BB"
+   "ts": 1795152119,
+   "etag": "0x8DF46C61D75A9B3"
   },
   {
    "pkg": "hasu.os.pdf",
