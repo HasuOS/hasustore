@@ -265,9 +265,9 @@
    "code": 90,
    "versionName": "10.20",
    "size": 12042364,
-   "changes": "Double-tap on empty space is now OFF by default — an accidental double-tap never locks your phone and never asks for Device Admin permission. If you turn the Lock action on yourself in Customize, only then does it ask. The Guide and Permissions pages say the same.",
+   "changes": "Double-tap on empty space is now OFF by default - an accidental double-tap never locks your phone and never asks for Device Admin permission. If you turn the Lock action on yourself in Customize, only then does it ask. The Guide and Permissions pages say the same.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795153454,
+   "ts": 1795153709,
    "etag": "0x8DF46C939FA205B"
   },
   {
@@ -496,13 +496,13 @@
    "name": "HasuOS",
    "tag": "The family showcase",
    "desc": "Every HasuOS app in one place — the whole family with its details, straight from the live catalogue. Tap any app for its story, version and size, and get it through HasuStore.",
-   "code": 5,
-   "versionName": "1.04",
-   "size": 103278,
-   "ts": 1795144693,
-   "etag": "0x8DF46B4D884187C",
+   "code": 6,
+   "versionName": "1.05",
+   "size": 123758,
+   "ts": 1795153709,
+   "etag": "0x8DF46C9836ED833",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
-   "changes": "NEW official HasuOS brand logo: the app now carries the chrome-blue HO orbit logo as its icon. Search now looks inside each app's description too, not just its name - searching \"camera\" finds HasuCam. Turning the phone no longer rebuilds any screen; every screen keeps its place."
+   "changes": "Your brand logo now has a fully transparent background - no black box. The HO mark floats clean on any wallpaper, and the website logo uses the same transparent version."
   },
   {
    "pkg": "hasu.os.hasu",
