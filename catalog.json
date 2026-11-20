@@ -379,13 +379,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 218,
-   "versionName": "2.25",
+   "code": 219,
+   "versionName": "2.26",
    "size": 113032979,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "FIXED: the Recent updates list now shows each update's state on its own line — version and date on one line, then '⬆ Update waiting' in orange (the same orange as the grid's update badge) or '✓ Installed' below it, so an update waiting stands out at a glance; the old single line wrapped mid-fact on long names like HasuCam's. FIXED: the login screen's error line is hidden until a wrong login actually happens, so it no longer leaves a dead gap between Show password and Log in. Bundled copies refreshed to the latest published builds: HasuOS Home 10.17, HasuCam 20.65, HasuBoard 5.25, HasuWall 2.19, HasuFiles 05.09, HasuQuick 2.14, HasuBackup 1.05 and HasuOS 1.04.",
-   "ts": 1795147990,
-   "etag": "0x8DF46BC81FA3753"
+   "changes": "Update notifications now pop on top of the app you are in: the updates channel moved to high importance (the old channel was frozen at default importance, so update cards landed silently in the notification shade and never appeared on top). The new-app card pops on top too.",
+   "ts": 1795149682,
+   "etag": "0x8DF46C06A3FD312"
   },
   {
    "pkg": "hasu.os.tasbih",
