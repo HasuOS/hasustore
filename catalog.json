@@ -379,13 +379,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 221,
-   "versionName": "2.28",
-   "size": 113045267,
+   "code": 222,
+   "versionName": "2.29",
+   "size": 114675475,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "FIXED: the store no longer crashes while auto-downloading updates in the background — the foreground download service is gone entirely; auto-downloads now run on a worker thread like hand-tapped downloads, so the service-start race that killed the store (11:30 AM today) cannot happen again. Bundled copies refreshed to live — 7 were stale: HasuCam 20.65 → 20.68, HasuOS Home 10.17 → 10.19, HasuShot 02.07 → 02.10, HasuSpeed 02.06 → 02.09, HasuClock 1.11 → 1.13, HasuMusic 1.06 → 1.08, HasuNotes 1.05 → 1.07 — so installing any of them offline gives the newest version. The About page's Highlights now mention the home-screen update badge, update notifications arriving over the app you are in, and the crash fix.",
-   "ts": 1795154031,
-   "etag": "0x8DF46CA9948BA66"
+   "changes": "NEW: search now finds apps by what they do, not just their name — \"camera\" finds HasuCam, \"alarm\" finds HasuClock, \"gallery\" finds HasuWall. Bundled copies refreshed to the newest versions — HasuCam 20.73, HasuOS Home 10.22, HasuBrowser 1.06, HasuClock 1.14, HasuMusic 1.09, HasuNotes 1.08, HasuTube 1.06, HasuWeb 1.06 and HasuOS 1.05 — so installing any of them offline gives the newest version. The About page's Highlights mention the smarter search.",
+   "ts": 1795160884,
+   "etag": "0x8DF46DA786BEC1D"
   },
   {
    "pkg": "hasu.os.tasbih",
