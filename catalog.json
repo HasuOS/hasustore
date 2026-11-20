@@ -547,13 +547,13 @@
       "name": "HasuMaps",
       "tag": "The HasuOS map — the world, in glass",
       "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-      "code": 31,
-      "versionName": "1.30",
+      "code": 32,
+      "versionName": "1.31",
       "size": 95086,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-      "ts": 1795145650,
-      "etag": "0x8DF46B71C7AAADC",
-      "changes": "THE BLACK HEADER IS GONE - really gone this time: it was never our layout, it was Android's own title bar showing because the app's theme was never set in the manifest, so it sat on top and hid the route card's top buttons. The theme is set now: no black bar, and the route summary with its Stop and close buttons sits fully in the open. The floating popup also has its own OFF switch now: Permissions -> Floating popup."
+      "ts": 1795146229,
+      "etag": "0x8DF46B84F208F64",
+      "changes": "The Permissions toggle is back where it belongs: the top row of the first screen now carries the HasuMaps name, the Permissions toggle switch, About and Guide - on the glass, no black band anywhere. It was hidden inside the More box while the black header was being hunted; that was our mistake, and it is fixed. From the toggle, every permission acts on the spot, including the floating popup's own OFF switch."
     },
     {
       "pkg": "hasu.os.assist",
