@@ -379,13 +379,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 217,
-   "versionName": "2.24",
-   "size": 112971539,
+   "code": 218,
+   "versionName": "2.25",
+   "size": 113032979,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Design polish, continued: the six circles on the home screen now share one glyph size, so Recent and Search no longer render smaller than Updates and Installed. Recent updates rows now put each app's icon on a glass tile like the grid and the app pages. About's Last check now shows its date with the time, so an old check no longer reads as today, and Highlights now mentions the Recent updates list. Bundled copies refreshed to live: HasuDice 1.12, HasuOS Home 10.16 and HasuQuick 2.13.",
-   "ts": 1795144292,
-   "etag": "0x8DF46B3DDC8D266"
+   "changes": "FIXED: the Recent updates list now shows each update's state on its own line — version and date on one line, then '⬆ Update waiting' in orange (the same orange as the grid's update badge) or '✓ Installed' below it, so an update waiting stands out at a glance; the old single line wrapped mid-fact on long names like HasuCam's. FIXED: the login screen's error line is hidden until a wrong login actually happens, so it no longer leaves a dead gap between Show password and Log in. Bundled copies refreshed to the latest published builds: HasuOS Home 10.17, HasuCam 20.65, HasuBoard 5.25, HasuWall 2.19, HasuFiles 05.09, HasuQuick 2.14, HasuBackup 1.05 and HasuOS 1.04.",
+   "ts": 1795147990,
+   "etag": "0x8DF46BC81FA3753"
   },
   {
    "pkg": "hasu.os.tasbih",
