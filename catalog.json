@@ -209,13 +209,13 @@
       "name": "HasuMusic",
       "tag": "Music player",
       "desc": "Music player — songs, albums and artists from your library, background playback with notification controls, shuffle and repeat.",
-      "code": 6,
-      "versionName": "1.02",
-      "size": 58222,
+      "code": 10,
+      "versionName": "1.06",
+      "size": 62318,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/music.apk",
-      "changes": "NEW: Permissions hub — a 🔐 Permissions toggle at the top of the library opens one screen with every permission and its real live state, plus a ✅ Turn all on walk. Headset buttons and the lock screen now control playback. A file that will not play skips to the next song instead of stopping silently. NEW: ▶ Play all and 🔀 Shuffle all for the whole library (or the open album/artist). The last-crash dialog is now premium glass.",
-      "ts": 1795079491,
-      "etag": "0x8DF461D05FD139F"
+      "changes": "NEW: a 📖 Guide page — tap Guide in the header for a page that explains every button and feature of HasuMusic one by one, from the library tabs to the sleep timer. FIXED: the 🔐 Permissions toggle at the top is honest now — it used to stay blue ON even when a permission was missing; it is grey with the knob on the left until notifications, modify system settings and music access are really granted, and it is repainted on every return to the library. DESIGN: the app icon on the About page now sits on a glass tile.",
+      "ts": 1795134901,
+      "etag": "0x8DF469DD98FD0CD"
     },
     {
       "pkg": "hasu.os.namaz",
