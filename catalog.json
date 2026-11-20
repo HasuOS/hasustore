@@ -572,14 +572,14 @@
    "pkg": "hasu.os.city",
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
-   "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 6,
-   "versionName": "1.05",
-   "size": 111470,
+   "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
+   "code": 7,
+   "versionName": "1.06",
+   "size": 115566,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "1.05 — Hasu and Minu are real people now: rounded bodies and faces drawn from the pictures (beard, glasses, jhumka, long hair), and they stay TOGETHER — the partner follows you everywhere and rides in the passenger seat. Camera drag fixed (right turns right), nothing under a car any more. Plus: streetlights and headlights glow at night, and lit HOME, HOSPITAL, POLICE and MALL signs.",
-   "ts": 1795173543,
-   "etag": "0x8DF46F810106387"
+   "changes": "1.06 — Living weather arrives: clear spells cloud over, rain sweeps in and the roads shine wet under the lamps, and thunderstorms flash lightning over the city. The top panel now shows the weather beside your name.",
+   "ts": 1795174110,
+   "etag": "0x8DF46F95E54F60A"
   }
  ]
 }
