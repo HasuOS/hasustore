@@ -379,13 +379,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 219,
-   "versionName": "2.26",
+   "code": 220,
+   "versionName": "2.27",
    "size": 113032979,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Update notifications now pop on top of the app you are in: the updates channel moved to high importance (the old channel was frozen at default importance, so update cards landed silently in the notification shade and never appeared on top). The new-app card pops on top too.",
-   "ts": 1795149682,
-   "etag": "0x8DF46C06A3FD312"
+   "changes": "The store now shares its pending-update list with HasuOS Home, so an orange update badge appears right on the icon of whichever app has an update waiting \u2014 on your home screen, at a glance.",
+   "ts": 1795151849,
+   "etag": "0x8DF46C577CFA41E"
   },
   {
    "pkg": "hasu.os.tasbih",
