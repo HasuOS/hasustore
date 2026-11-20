@@ -469,13 +469,13 @@
       "name": "HasuWall",
       "tag": "Your gallery & wallpapers",
       "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-      "code": 51,
-      "versionName": "2.14",
+      "code": 52,
+      "versionName": "2.15",
       "size": 165238,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-      "changes": "Three fixes from his reports: (1) the permanent backup save now also lives inside a small picture in Pictures/HasuWall, which the app can always read back with its photo permission — so uninstalling and reinstalling brings the setup and the backed-up list back by themselves (the Downloads copy stays as a second copy; do not delete that picture). (2) Tapping the Waiting card now opens a full page with every waiting photo and video, and tapping one opens it with the gallery's own viewers. (3) In View backup, videos now behave like the gallery: tap pauses or resumes — no controller bar, no starting over.",
-      "ts": 1795135737,
-      "etag": "0x8DF46A00A181D2A"
+      "changes": "The backup screens are rebuilt the way he asked: the backup screen (the cloud button) now shows ONLY the backed-up photos and videos, with a settings button at the top right. Inside settings there are two tabs — Backing up (the photo uploading right now plus the full waiting list; tap a waiting photo to open it) and Settings (status, setup, back up / restore / free up space, options, encryption). And auto backup now starts by itself the moment it is turned on or the app opens — no Back up now press needed; if it is waiting, the status says why in plain words (for example, waiting for Wi-Fi).",
+      "ts": 1795136635,
+      "etag": "0x8DF46A220CE0BF2"
     },
     {
       "pkg": "hasu.os.weather",
