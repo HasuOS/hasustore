@@ -81,13 +81,13 @@
       "name": "HasuCam",
       "tag": "Capture Beyond Limits",
       "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-      "code": 125,
-      "versionName": "20.59",
+      "code": 126,
+      "versionName": "20.60",
       "size": 32732155,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-      "changes": "Photo loading and bundled XML config import now close their files on every path — a corrupt photo or a failed config read no longer leaves a file handle open.",
-      "ts": 1795136291,
-      "etag": "0x8DF46A10AFA63D5"
+      "changes": "A shutter sound preview in Settings no longer keeps playing after you leave Settings, and a picked shutter sound no longer plays on in the background after leaving the camera — the sound now stops the moment you leave the screen.",
+      "ts": 1795137448,
+      "etag": "0x8DF46A3D710C1CF"
     },
     {
       "pkg": "hasu.os.clean",
