@@ -262,13 +262,13 @@
       "name": "HasuOS Home",
       "tag": "Your HasuOS home screen",
       "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-      "code": 86,
-      "versionName": "10.16",
+      "code": 87,
+      "versionName": "10.17",
       "size": 12038190,
-      "changes": "FIXED: the Flashlight widget card now shows the torch's real state — '🔦 Torch: ON' or '🔦 Torch: OFF' — it used to keep saying 'Tap to switch the torch' even while the torch was on, and it now updates on every tap, shake and refresh. FIXED: Search's calculator now handles brackets, so (2+3)*4 gives 20 instead of falling back to a web search. CLEANED UP: the removed Control Centre's leftover code and two unused circle images are gone.",
+      "changes": "FIXED: lock-screen notifications now show when each one arrived — 'WhatsApp · 5m ago', '2h ago' — the same relative time as the Today notifications card; a lock-screen card used to carry no time at all, so there was no telling whether it came just now or hours ago. FIXED: the lock-screen torch shortcut now shows the torch's real state — its button glows warm amber while the torch is on and returns to plain glass when it is off; a torch callback keeps the state honest even when the torch was switched on from the Today card, Quick Settings or a shake.",
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-      "ts": 1795142597,
-      "etag": "0x8DF46AFE899209E"
+      "ts": 1795146118,
+      "etag": "0x8DF46B810CC60CE"
     },
     {
       "pkg": "hasu.os.pdf",
@@ -547,13 +547,13 @@
       "name": "HasuMaps",
       "tag": "The HasuOS map — the world, in glass",
       "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-      "code": 32,
-      "versionName": "1.31",
+      "code": 31,
+      "versionName": "1.30",
       "size": 95086,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-      "ts": 1795146159,
-      "etag": "0x8DF46B84F208F64",
-      "changes": "The Permissions toggle is back where it belongs: the top row of the first screen now carries the HasuMaps name, the Permissions toggle switch, About and Guide - on the glass, no black band anywhere. It was hidden inside the More box while the black header was being hunted; that was our mistake, and it is fixed. From the toggle, every permission acts on the spot, including the floating popup's own OFF switch."
+      "ts": 1795145650,
+      "etag": "0x8DF46B71C7AAADC",
+      "changes": "THE BLACK HEADER IS GONE - really gone this time: it was never our layout, it was Android's own title bar showing because the app's theme was never set in the manifest, so it sat on top and hid the route card's top buttons. The theme is set now: no black bar, and the route summary with its Stop and close buttons sits fully in the open. The floating popup also has its own OFF switch now: Permissions -> Floating popup."
     },
     {
       "pkg": "hasu.os.assist",
