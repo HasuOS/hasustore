@@ -265,7 +265,7 @@
    "code": 92,
    "versionName": "10.22",
    "size": 13635361,
-   "changes": "FIXED: Hasu apps' glow icons no longer sit on a black tile \u2014 the black backing is gone. The white glow glyphs now get the same transparent glass icon look as every other app, following your chosen icon style (home screen, App Library, Search and folders).",
+   "changes": "FIXED: Hasu apps' glow icons no longer sit on a black tile — the black backing is gone. The white glow glyphs now get the same transparent glass icon look as every other app, following your chosen icon style (home screen, App Library, Search and folders).",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
    "ts": 1795157577,
    "etag": "0x8DF46D2DF58E375"
@@ -521,13 +521,13 @@
    "name": "HasuTube",
    "tag": "YouTube, the HasuOS way",
    "desc": "YouTube inside its own HasuOS app: home feed, Shorts, subscriptions and library, built-in search and real full-screen video.",
-   "code": 6,
-   "versionName": "1.05",
-   "size": 41838,
+   "code": 7,
+   "versionName": "1.06",
+   "size": 45934,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tube.apk",
-   "changes": "FIXED: the header no longer shows the title twice — the app was missing its own NoActionBar theme, so Android drew its dark system title bar above the app's own header. The app's theme is applied now, so there is exactly one clean header with the title and the pills fully on screen.",
-   "ts": 1795126944,
-   "etag": "0x8DF468B37D91F59"
+   "changes": "NEW: a 📖 Guide page — tap ℹ️ in the header, then Guide, for a page explaining every button and feature one by one, from the sections and search to picture-in-picture, uploads and the no-connection card. FIXED: searching no longer leaves the wrong section chip highlighted — results light up Home now, instead of leaving the last section lit. The Guide and About pages list both.",
+   "ts": 1795157840,
+   "etag": "0x8DF46D37E38B3AA"
   },
   {
    "pkg": "hasu.os.web",
