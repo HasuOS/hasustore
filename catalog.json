@@ -133,13 +133,13 @@
       "name": "HasuFiles",
       "tag": "File manager",
       "desc": "File manager — browse all storage, categories for images, videos, music, documents & APKs, search, copy/move, zip & extract.",
-      "code": 26,
-      "versionName": "05.07",
-      "size": 330670,
-      "changes": "FIXED: the Permissions toggle at the top of the main screen is honest now — it used to stay blue ON even when a permission was missing; grey + knob left until all-files access and install-unknown-apps are really granted, repainted on every return to the main screen. FIXED: saving an edited photo now frees its full-size copies at once instead of holding them until the next clean-up, and emptying a full bin runs in the background instead of freezing the screen. FIXED: a photo that will not open now says so instead of sitting on a black screen, long audio shows hours (1:05:03, not 65:03), and zipping a folder no longer follows a shortcut to a file outside it. DESIGN: the About page icon now sits on a glass tile.",
+      "code": 27,
+      "versionName": "05.08",
+      "size": 334766,
+      "changes": "NEW: a 📖 Guide page — tap Guide in Settings, above About, for a page that explains every button and feature of HasuFiles one by one, from the Home tab and categories to selecting files, the recycle bin, the media viewers and the editor. FIXED: copying or moving a shortcut now works honestly — a shortcut to a file copies the file's contents instead of reporting success while copying nothing, and a shortcut to a folder is reported as failed instead of being deleted by a Move that copied nothing. FIXED: the video trimmer's time readout now shows hours for videos over an hour (1:05:03, not 65:03).",
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/files.apk",
-      "ts": 1795130848,
-      "etag": "0x8DF4693170A93E8"
+      "ts": 1795140784,
+      "etag": "0x8DF46ABA8FDEDC0"
     },
     {
       "pkg": "hasu.os.gamebox",
