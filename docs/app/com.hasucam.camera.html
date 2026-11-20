@@ -61,7 +61,7 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">20.56</b></span>
+    <span class="chip">Version <b id="v">20.57</b></span>
     <span class="chip" id="sz">31.2 MB</span>
     <span class="chip">com.hasucam.camera</span>
     <span class="chip">Android 8.0+</span>
@@ -71,8 +71,8 @@
     <p>Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR &amp; Night merge, 20 modes.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">20.56</span></h3>
-    <p id="wn">The gyroscope sensor now switches off when you leave the camera — it used to keep running in the background after you pressed Home or switched apps, draining battery for the steady-shot shake check that only matters while you are taking a photo. It now starts when the camera opens and stops the moment you leave, just like the level sensor and location updates already do.</p>
+    <h3>🆕 What's new in v<span id="wnV">20.57</span></h3>
+    <p id="wn">The preview Surface is now released when the camera session closes — every mode switch, filter change and session rebuild used to orphan one native surface until the finalizer ran. A capture session that fails to configure is now closed at once instead of being left open, and Dual mode releases both preview Surfaces when you leave it, instead of leaking one per camera.</p>
   </div>
   <div class="cta">
     <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk">⬇ Download HasuCam</a>
