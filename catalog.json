@@ -469,13 +469,13 @@
       "name": "HasuWall",
       "tag": "Your gallery & wallpapers",
       "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-      "code": 52,
-      "versionName": "2.15",
-      "size": 165238,
+      "code": 53,
+      "versionName": "2.16",
+      "size": 169334,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-      "changes": "The backup screens are rebuilt the way he asked: the backup screen (the cloud button) now shows ONLY the backed-up photos and videos, with a settings button at the top right. Inside settings there are two tabs — Backing up (the photo uploading right now plus the full waiting list; tap a waiting photo to open it) and Settings (status, setup, back up / restore / free up space, options, encryption). And auto backup now starts by itself the moment it is turned on or the app opens — no Back up now press needed; if it is waiting, the status says why in plain words (for example, waiting for Wi-Fi).",
-      "ts": 1795136635,
-      "etag": "0x8DF46A220CE0BF2"
+      "changes": "The backup now never gives up, like Google Photos: if the net drops mid-upload it waits for the connection and carries on by itself (a dropped net no longer ends the run), failed parts retry with growing waits, the run repeats while anything is left, the phone stays awake while it works, and if anything is still left it picks itself back up a few minutes later. Newest photos and videos now back up FIRST, and the backed-up list shows the newest first too. You can also back up from inside any photo or video (the ☁ button at the top) and mark several in the gallery and tap ☁ Backup in the selection bar.",
+      "ts": 1795137604,
+      "etag": "0x8DF46A46220A89E"
     },
     {
       "pkg": "hasu.os.weather",
