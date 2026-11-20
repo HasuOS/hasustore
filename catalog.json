@@ -18,26 +18,26 @@
       "name": "HasuBattery",
       "tag": "Battery & charge alarm",
       "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-      "code": 6,
-      "versionName": "1.04",
+      "code": 8,
+      "versionName": "1.06",
       "size": 50030,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-      "changes": "FIXED: the top of every screen now sits properly below the status bar — the main screen, the About page and the Permissions page all used fixed 20–22 dp top padding, so the Permissions row at the top was half-cut by the status bar, the same bug HasuSpeed had. FIXED: \"Clear history\" now asks first in a glass confirm — one tap used to erase the whole recorded level history with no way back.",
-      "ts": 1795109085,
-      "etag": "0x8DF4661CA42D465"
+      "changes": "NEW: the monitor comes back by itself after a restart or an app update — before this there was no receiver at all, and the \"battery_on\" switch was written by the app and read by nothing, so after either one the monitor was dead while the switch still said ON; it only restarts when it was on. NEW: turn the monitor off from its own notification — a \"Turn off\" action on the battery notification stops it without opening the app. FIXED: the charge alarm can now fire again if the level dips below the target while it is ringing and then climbs back — the fired flag used to stay set, so the alarm could never fire again in the same charge session.",
+      "ts": 1795137695,
+      "etag": "0x8DF46A42EA8F38F"
     },
     {
       "pkg": "hasu.os.keyboard",
       "name": "HasuBoard",
       "tag": "The HasuOS keyboard",
       "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-      "code": 51,
-      "versionName": "5.23",
-      "size": 68612905,
-      "changes": "FIXED: tapping a key sound in the Sound tab can no longer crash the app — the sound preview finishes loading after the menu has already rebuilt itself for the new pick, and playing on the released sound pool used to throw. The preview is guarded now. NEW: the Font tab opens faster — its 14 keyboard fonts are loaded once and reused instead of being re-read from the files on every open.",
+      "code": 52,
+      "versionName": "5.24",
+      "size": 68617001,
+      "changes": "NEW: a 📖 Guide page — tap Guide in the header for a page that explains every button and feature of HasuBoard one by one, from the Setup and Theme tabs to the emoji styles, the vault and voice typing. FIXED: the 🔐 Permissions toggle at the top is honest now — it used to stay blue ON even when something was missing; it is grey with the knob on the left until the keyboard is enabled, selected as the current keyboard and the microphone is allowed, and it is repainted on every return to the main menu.",
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
-      "ts": 1795126944,
-      "etag": "0x8DF468B31A2182C"
+      "ts": 1795137695,
+      "etag": "0x8DF46A42DF4D28C"
     },
     {
       "pkg": "hasu.os.browser",
