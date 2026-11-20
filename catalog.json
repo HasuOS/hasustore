@@ -262,13 +262,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 91,
-   "versionName": "10.21",
-   "size": 13639457,
-   "changes": "NEW: Hasu apps now show their new glow icons on the home screen, in the App Library, Search and folders — white glowing glyphs on dark glass, instead of each app's own old icon. Your own custom icon or icon pack still wins over the glow set. The Guide and About pages list it.",
+   "code": 92,
+   "versionName": "10.22",
+   "size": 13635361,
+   "changes": "FIXED: Hasu apps' glow icons no longer sit on a black tile \u2014 the black backing is gone. The white glow glyphs now get the same transparent glass icon look as every other app, following your chosen icon style (home screen, App Library, Search and folders).",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795157045,
-   "etag": "0x8DF46D1A1B64ADF"
+   "ts": 1795157577,
+   "etag": "0x8DF46D2DF58E375"
   },
   {
    "pkg": "hasu.os.pdf",
