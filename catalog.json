@@ -551,9 +551,9 @@
    "versionName": "1.33",
    "size": 99182,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-   "ts": 1795149908,
-   "etag": "0x8DF46C0FA55797E",
-   "changes": "NEW: 🔍 Along the route — on the route card, find fuel, food, cafés, ATMs, pharmacies, hotels, parking and shops along the road you are on: each place shows how far it sits off the route, nearest first, and while you navigate, places you have already passed stay out. FIXED: the Guide page said the Permissions switch, About and Guide lived in the ⋯ More box — since 1.31 they sit in the top row of the first screen, and the Guide says so now."
+   "ts": 1795150204,
+   "etag": "0x8DF46C1AFA108B7",
+   "changes": "Search along the route: while navigating, search for a place (petrol, food, ATM...) and only the places within 5 km of the road still ahead of you show up, nearest the road first \u2014 places already passed never come back."
   },
   {
    "pkg": "hasu.os.assist",
