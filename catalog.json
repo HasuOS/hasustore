@@ -573,13 +573,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A top-down open-city game, the HasuOS way: a whole city of streets, blocks, parks and buildings to explore on foot or in any car you can grab. Living traffic roams the roads, delivery jobs pay cash, and the police chase you when your wanted stars rise. Day turns to night, the city lights up, and your cash and records are remembered.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 82798,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 86894,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "NEW APP: Hasu City 1.00 — a whole open city in one game. Walk anywhere, get into any car and drive it, follow the yellow beacon to pick up passengers and reach the green drop-off before the timer runs out to earn cash. Living traffic, pedestrians, police chases with wanted stars, a day-and-night cycle, a live minimap, and your cash, jobs and best earnings remembered.",
-   "ts": 1795169982,
-   "etag": "0x8DF46EFC262DD0F"
+   "changes": "Hasu City 1.01 — now with Hasu and Minu, and a much more real city. TWO CHARACTERS: the game opens with a character picker — play as Hasu (navy shirt, beard) or Minu (mustard and cream, glasses, long hair), drawn from the real photos; whoever you do not pick waits for you at the home corner, and you can swap any time from the pause menu. REALISM PASS: textured asphalt and grass, road edge lines and zebra crossings at every junction, sidewalks with paving, buildings with real height — walls, shopfront awnings, doors, rooftop water tanks and AC boxes — streetlights that pool warm light after dark, and detailed cars: sedans, taxis, SUVs and trucks with glass, door seams, headlights and brake lights that flare when a car brakes.",
+   "ts": 1795170483,
+   "etag": "0x8DF46F0EE27AA2C"
   }
  ]
 }
