@@ -379,13 +379,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 222,
-   "versionName": "2.29",
-   "size": 114675475,
+   "code": 223,
+   "versionName": "2.30",
+   "size": 114683667,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "NEW: search now finds apps by what they do, not just their name — \"camera\" finds HasuCam, \"alarm\" finds HasuClock, \"gallery\" finds HasuWall. Bundled copies refreshed to the newest versions — HasuCam 20.73, HasuOS Home 10.22, HasuBrowser 1.06, HasuClock 1.14, HasuMusic 1.09, HasuNotes 1.08, HasuTube 1.06, HasuWeb 1.06 and HasuOS 1.05 — so installing any of them offline gives the newest version. The About page's Highlights mention the smarter search.",
-   "ts": 1795160884,
-   "etag": "0x8DF46DA786BEC1D"
+   "changes": "Bundled copies refreshed to live — HasuCam 20.73 → 20.75 and HasuOS Home 10.22 → 10.24 — so installing either of them offline gives the newest version. FIXED: the Recent updates page now has a Back button like every other page — before, only the system back key could leave it. FIXED: the status line no longer says ‘Up to date’ while the first check is still running — it says ‘Checking for updates…’ until the real state is known. The About page’s Highlights now give the ‘versions read from the real APK files’ line its own icon instead of repeating the search line’s magnifier.",
+   "ts": 1795164139,
+   "etag": "0x8DF46E22141FC79"
   },
   {
    "pkg": "hasu.os.tasbih",
