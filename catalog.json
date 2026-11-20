@@ -379,13 +379,13 @@
       "name": "HasuStore",
       "tag": "The HasuOS app store",
       "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-      "code": 214,
-      "versionName": "2.21",
+      "code": 215,
+      "versionName": "2.22",
       "size": 112963347,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-      "changes": "Fixed to your correction: the top of the store is now SIX CIRCLES together - no wide buttons, no tab-like pills. The three header circles (Online, Refresh, About) stay, and under them three more circles: the download ring, which fills with the live download percent while anything downloads, Recent updates, and Search. The search field stays hidden until the Search circle opens it. The short line under the circles is plain text with the download and update state only.",
-      "ts": 1795142562,
-      "etag": "0x8DF46AFE33056B8"
+      "changes": "One layer, as you ordered: the three short filter buttons - All, Updates, Installed - now sit in front of the three circles, all in ONE single row. No separate filter row underneath any more. The row can slide sideways if a wide font ever needs the room, so nothing is ever clipped or pushed off the screen.",
+      "ts": 1795143054,
+      "etag": "0x8DF46B11089E1A2"
     },
     {
       "pkg": "hasu.os.tasbih",
