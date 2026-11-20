@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 53,
-   "versionName": "5.25",
-   "size": 68617001,
-   "changes": "FIXED: \"Delete all\" in the glass clipboard now asks twice — the first tap only arms it (\"Tap again to delete all\"), so a stray tap can never wipe the whole clipboard, pinned clips included. FIXED: pinning or deleting a clip now matches it by its text, not by its row number — a copy arriving while the clipboard panel is open used to shift the rows, so the tap could pin or delete the wrong clip. The Guide and About pages list both.",
+   "code": 54,
+   "versionName": "5.26",
+   "size": 68625193,
+   "changes": "NEW: a new app icon — a white glowing keyboard, the HasuOS glow style, in place of the old icon. The About and Guide pages list it.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
-   "ts": 1795142817,
-   "etag": "0x8DF46B04E094F26"
+   "ts": 1795165874,
+   "etag": "0x8DF46E631329FE4"
   },
   {
    "pkg": "hasu.os.browser",
