@@ -545,13 +545,13 @@
    "name": "HasuMaps",
    "tag": "The HasuOS map — the world, in glass",
    "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-   "code": 22,
-   "versionName": "1.21",
+   "code": 23,
+   "versionName": "1.22",
    "size": 86894,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-   "ts": 1795135398,
-   "etag": "0x8DF469F3EF2E4BD",
-   "changes": "The Permissions button in the header is now a real toggle switch, like the other HasuOS apps — amber while anything is still off, blue when everything is on — and the Permissions page now really turns things on: if Android has stopped showing the permission popup (after an earlier 'don't ask again'), tapping a row opens the exact Settings page for it instead of doing nothing."
+   "ts": 1795136023,
+   "etag": "0x8DF46A0B38FE21E",
+   "changes": "The Permissions toggle has moved out of the header into its own full-width row right under the HasuMaps title — inside the header row it sat at the right edge where it could be missed. The row shows the switch, the word Permissions, and how much is still off ('2 off — tap to fix', or 'All on'), and tapping it opens the Permissions page."
   },
   {
    "pkg": "hasu.os.assist",
