@@ -82,13 +82,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 142,
-   "versionName": "20.76",
+   "code": 143,
+   "versionName": "20.77",
    "size": 26535607,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "All third-party XML configs are removed. The camera now carries 101 XML files made by HasuCam for this phone, each one a direct look - tap the file and the look applies, no mode picking. 72 brand-new looks: Everyday, Portrait, Night, Travel, Food, Cinema, Mono, Action, Nature, Wedding, Pro and Seasons. Fixed: Mono Drama never really turned black-and-white before - its colour value read as unset; fixed.",
-   "ts": 1795164040,
-   "etag": "0x8DF46E1EF0982B8"
+   "changes": "Direct XML, exactly as asked: when a config file has only one look, the camera's XML popup no longer shows a Profile step at all - tap the file and its look applies directly. Files that truly carry several looks (like HasuCam Perfect) still show their profile list.",
+   "ts": 1795165278,
+   "etag": "0x8DF46E4D338AD84"
   },
   {
    "pkg": "hasu.os.clean",
