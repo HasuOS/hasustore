@@ -287,13 +287,13 @@
       "name": "HasuQuick",
       "tag": "Floating assistive ball",
       "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-      "code": 37,
-      "versionName": "2.12",
-      "size": 775819,
+      "code": 38,
+      "versionName": "2.13",
+      "size": 779915,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-      "changes": "FIXED: the Permissions toggle at the top of the main screen is honest now — it used to stay blue ON even when a permission was missing; it is grey with the knob left until all five permissions (notifications, draw over other apps, accessibility, Do Not Disturb access, modify system settings) are really granted, and it repaints on every return to the main screen. DESIGN: the app icon on the main screen and on the About page now sits on a glass tile, like the store's heroes — it used to sit bare on the gradient. About gains the line.",
-      "ts": 1795129170,
-      "etag": "0x8DF4690B1C36365"
+      "changes": "NEW: a 📖 Guide page — tap Guide above the About card for a page that explains every button and feature of HasuQuick one by one, from the floating ball and the panel controls to the ball size, the themes, the sixteen ball icons and the Samsung Accessibility unlock steps. The About page lists the Guide in its Highlights.",
+      "ts": 1795139063,
+      "etag": "0x8DF46A79C669406"
     },
     {
       "pkg": "hasu.os.radio",
