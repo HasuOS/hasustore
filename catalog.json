@@ -573,13 +573,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 9,
-   "versionName": "1.08",
+   "code": 10,
+   "versionName": "1.09",
    "size": 127854,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "1.08 — The realism overhaul is complete: every surface is textured now — roads, pavements and grass, building walls and roofs, car paint and glass, clothes and hair — with real sun shadows, a gradient sky with a real sun and lumpy clouds, and leafy trees instead of cones. The full control check also found one fix: traffic now keeps to the left on every road, the way Bangladesh drives.",
-   "ts": 1795189533,
-   "etag": "0x8DF471D00E61A97"
+   "changes": "Bug fixes: camera drag now turns the view the same way you drag (drag right goes right, drag left goes left); characters now collide with cars instead of walking straight through them; your partner now runs to the passenger door and gets in properly, instead of standing inside the car with her head over the roof.",
+   "ts": 1795194297,
+   "etag": "0x8DF47285E603B68"
   }
  ]
 }
