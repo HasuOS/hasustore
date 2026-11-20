@@ -107,13 +107,13 @@
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 19,
-   "versionName": "1.13",
+   "code": 20,
+   "versionName": "1.14",
    "size": 1751697,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
-   "changes": "FIXED: a new alarm no longer starts at the wrong time near the top of the hour — at 10:58 it used to offer 10:03 (an hour in the past), now it offers 11:03. FIXED: the stopwatch now counts on the phone's own elapsed clock, so changing the system time can no longer skew it; a stopwatch left running across this update keeps its shown time. FIXED: the World tab no longer builds two date formatters on every one-second tick. The Guide and About pages list all three.",
-   "ts": 1795150479,
-   "etag": "0x8DF46C1AF5CD3E0"
+   "changes": "FIXED: the alarm editor now scrolls — on a short or sideways screen its Save button used to sit below the screen and could not be reached at all. FIXED: a long message in a confirm dialog (for example the crash details) now scrolls too, so its buttons stay reachable. NEW: the World tab says so when no cities are left, instead of showing a blank list. FIXED: the live clock no longer rebuilds its date formatters on every one-second tick. DESIGN: the app icon on the About page now sits on a glass tile. The Guide and About pages list the editor fix.",
+   "ts": 1795153288,
+   "etag": "0x8DF46C8D908B205"
   },
   {
    "pkg": "hasu.os.dice",
@@ -262,13 +262,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 90,
-   "versionName": "10.20",
+   "code": 89,
+   "versionName": "10.19",
    "size": 12042364,
-   "changes": "Double-tap on empty space is now OFF by default \u2014 an accidental double-tap never locks your phone and never asks for Device Admin permission. If you turn the Lock action on yourself in Customize, only then does it ask. The Guide and Permissions pages say the same.",
+   "changes": "Update badges on your app icons: when an app has a HasuStore update waiting, an orange update badge appears right on that app's icon corner (folders too) \u2014 so you can see at a glance which app got an update.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795153454,
-   "etag": "0x8DF46C939FA205B"
+   "ts": 1795152119,
+   "etag": "0x8DF46C61D75A9B3"
   },
   {
    "pkg": "hasu.os.pdf",
