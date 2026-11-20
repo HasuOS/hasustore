@@ -470,13 +470,13 @@
       "name": "HasuWall",
       "tag": "Your gallery & wallpapers",
       "desc": "Your gallery \u2014 photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-      "code": 54,
-      "versionName": "2.17",
-      "size": 173430,
+      "code": 55,
+      "versionName": "2.18",
+      "size": 177526,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-      "changes": "HasuWall 2.17 fixes the crash in your screenshot (ForegroundServiceStartNotAllowedException) \u2014 when Android refuses a background backup start (alarm, instant watcher, app not fully in front), the same upload now runs through a system job instead of crashing, so the backup still happens. Deleting a photo or video from the gallery never touches the backup: the backed-up copy stays safe in Telegram and in the backup view. The backup button is now 'Back up full gallery' \u2014 one tap uploads every photo and video on the phone. New: remove an item from the backup itself \u2014 long-press it in the backup view and it moves to a new Backup bin section inside the Recycle bin for 30 days; from there restore puts it straight back into the backup, and delete-forever removes it from Telegram for good (anything left over 30 days is deleted forever by itself). Restoring a photo from the Recycle bin also queues it for backup right away.",
-      "ts": 1795139375,
-      "etag": "0x8DF46A883729054"
+      "changes": "HasuWall 2.18 adds the backup folder setting you asked for. In Online backup, open Settings and find the new 'What to back up' card: 'Backup my gallery' backs up every folder, or tap 'Choose folders' and switch each folder on or off - folders that are off stay out of the waiting list and out of every automatic backup run. Photos and videos already backed up stay backed up either way, and tapping Back up on a single photo still works even in a folder that is off. Your folder choices are saved in the permanent backup mirror, so they survive an app data clear or a reinstall like the rest of the backup setup.",
+      "ts": 1795140735,
+      "etag": "0x8DF46ABAA33622E"
     },
     {
       "pkg": "hasu.os.weather",
