@@ -249,13 +249,13 @@
    "name": "HasuNotes",
    "tag": "Notes",
    "desc": "Notes — quick private notes with pinning, colours and search. Auto-saves, no account, everything stays on your phone.",
-   "code": 10,
-   "versionName": "1.07",
+   "code": 11,
+   "versionName": "1.08",
    "size": 50030,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/notes.apk",
-   "changes": "FIXED: going back without changing anything no longer claims \"Saved ✓\" — the toast only says so when something really was saved. FIXED: a note with a damaged colour no longer crashes the list — it falls back to a valid colour instead of throwing on the colour array. The Guide and About pages list both.",
-   "ts": 1795150479,
-   "etag": "0x8DF46C24BC81338"
+   "changes": "NEW: ↗ Export — save every note to a text file you choose, with its title, date and checklist marks intact. FIXED: searching a big collection stays smooth — the list is read once and filtered in memory instead of re-reading the file on every letter you type. FIXED: the list no longer rebuilds its date formats for every note on every redraw. The Guide and About pages list all three.",
+   "ts": 1795156820,
+   "etag": "0x8DF46D1078E96A0"
   },
   {
    "pkg": "hasu.os.home",
