@@ -379,13 +379,13 @@
       "name": "HasuStore",
       "tag": "The HasuOS app store",
       "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-      "code": 211,
-      "versionName": "2.18",
-      "size": 112946963,
+      "code": 212,
+      "versionName": "2.19",
+      "size": 112963347,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-      "changes": "Bundled copies refreshed to the live versions: HasuBoard 5.24, HasuCam 20.60, HasuWall 2.16, HasuClock 1.11, HasuDice 1.11, HasuSpeed 02.06, HasuBattery 1.06, HasuLock 1.06, HasuMusic 1.06, HasuNotes 1.05 and HasuKhata 1.05 — offline installs now carry the newest builds. The About page's offline line is fixed: it no longer claims every app is bundled inside the store, since HasuMaps arrives online.",
-      "ts": 1795139668,
-      "etag": "0x8DF46A894A1A34D"
+      "changes": "NEW: the Recent updates button you asked for. A 'Recent updates' button now sits at the top of the home screen, under the status line - one tap opens the list of the latest published updates, newest first: each app with its version, the exact date and time it was published (12-hour, like everywhere in the store) and the start of its What's New text. Tap any app in the list to open its page. An update stays in the list after you install it, so you can always see what changed lately. Bundled copies refreshed to the live versions: HasuWall 2.18, HasuFiles 05.08 and HasuCam 20.62.",
+      "ts": 1795141249,
+      "etag": "0x8DF46AC97557D01"
     },
     {
       "pkg": "hasu.os.tasbih",
