@@ -61,7 +61,7 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.04</b></span>
+    <span class="chip">Version <b id="v">1.06</b></span>
     <span class="chip" id="sz">49 KB</span>
     <span class="chip">hasu.os.battery</span>
     <span class="chip">Android 8.0+</span>
@@ -71,8 +71,8 @@
     <p>Battery level, live power details, charge history graph and a full-charge alarm.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.04</span></h3>
-    <p id="wn">FIXED: the top of every screen now sits properly below the status bar — the main screen, the About page and the Permissions page all used fixed 20–22 dp top padding, so the Permissions row at the top was half-cut by the status bar, the same bug HasuSpeed had. FIXED: &quot;Clear history&quot; now asks first in a glass confirm — one tap used to erase the whole recorded level history with no way back.</p>
+    <h3>🆕 What's new in v<span id="wnV">1.06</span></h3>
+    <p id="wn">NEW: the monitor comes back by itself after a restart or an app update — before this there was no receiver at all, and the &quot;battery_on&quot; switch was written by the app and read by nothing, so after either one the monitor was dead while the switch still said ON; it only restarts when it was on. NEW: turn the monitor off from its own notification — a &quot;Turn off&quot; action on the battery notification stops it without opening the app. FIXED: the charge alarm can now fire again if the level dips below the target while it is ringing and then climbs back — the fired flag used to stay set, so the alarm could never fire again in the same charge session.</p>
   </div>
   <div class="cta">
     <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk">⬇ Download HasuBattery</a>
