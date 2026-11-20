@@ -547,13 +547,13 @@
    "name": "HasuMaps",
    "tag": "The HasuOS map — the world, in glass",
    "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-   "code": 33,
-   "versionName": "1.32",
-   "size": 95086,
+   "code": 34,
+   "versionName": "1.33",
+   "size": 99182,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-   "ts": 1795146421,
-   "etag": "0x8DF46B8EB0A550C",
-   "changes": "The navigation banner shrinks - and it can hide: Follow, Steps and Share ETA now share ONE row instead of three stacked rows, and a Hide button in the banner's top row folds the whole banner down to one slim line (next turn + distance) with a Show button to bring it back, so the map gets its room back. Steps list fixed: a long step can no longer run into its distance - the text now stays inside its own space. And routes no longer start from a stale position: a saved GPS fix older than 30 seconds is not trusted any more (it used to be 5 minutes), so the app stops placing you where you were instead of where you are."
+   "ts": 1795149908,
+   "etag": "0x8DF46C0FA55797E",
+   "changes": "NEW: 🔍 Along the route — on the route card, find fuel, food, cafés, ATMs, pharmacies, hotels, parking and shops along the road you are on: each place shows how far it sits off the route, nearest first, and while you navigate, places you have already passed stay out. FIXED: the Guide page said the Permissions switch, About and Guide lived in the ⋯ More box — since 1.31 they sit in the top row of the first screen, and the Guide says so now."
   },
   {
    "pkg": "hasu.os.assist",
