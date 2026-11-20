@@ -545,13 +545,13 @@
       "name": "HasuMaps",
       "tag": "The HasuOS map — the world, in glass",
       "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-      "code": 24,
-      "versionName": "1.23",
+      "code": 25,
+      "versionName": "1.24",
       "size": 86894,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-      "ts": 1795136590,
-      "etag": "0x8DF46A2073927CA",
-      "changes": "One compact header row, exactly as he asked from his screenshot: the HasuMaps name on the left and the Permissions toggle on the right, in the SAME row — the separate full-width Permissions row is gone and the top takes noticeably less space, so the map gets the room back. The toggle still shows amber while anything is off and blue when all is on, and tapping it opens the Permissions page."
+      "ts": 1795136808,
+      "etag": "0x8DF46A286FC47D8",
+      "changes": "Location is now asked for at the moment it is needed, like Google Maps: tapping Locate, Directions (with your location as the start), Start navigation, Save parking or the map's own locate button brings up the system permission popup there and then, and the action continues as soon as it is allowed. If Android has stopped showing the popup (turned down before), a dialog explains it and its Open Settings button goes to the exact place — no more digging through Settings by hand. Allowing approximate location only now also works."
     },
     {
       "pkg": "hasu.os.assist",
