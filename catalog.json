@@ -82,13 +82,13 @@
       "name": "HasuCam",
       "tag": "Capture Beyond Limits",
       "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-      "code": 127,
-      "versionName": "20.61",
+      "code": 128,
+      "versionName": "20.62",
       "size": 32732155,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-      "changes": "The About page said 21 colour presets, but the app has 29 — the preset list grew over time and About was never updated. The About page now counts its numbers live from the app itself (colour presets, bundled XML configs and shutter sounds), so they can never fall behind again.",
-      "ts": 1795139425,
-      "etag": "0x8DF46A836CF6DF5"
+      "changes": "Leaving a screen while a photo, edit, backup or collage was still finishing used to show the result toast over the next app — and the import could even reopen Settings after you had left it. Now every background task checks whether its screen is still there before showing anything, and the camera's own toast helper does the same.",
+      "ts": 1795140854,
+      "etag": "0x8DF46ABDABEFFA0"
     },
     {
       "pkg": "hasu.os.clean",
