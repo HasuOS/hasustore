@@ -82,13 +82,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 134,
-   "versionName": "20.68",
+   "code": 135,
+   "versionName": "20.69",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Two new watermark styles — Neon glow and Top ribbon — join the 13 you already had, and the Guide now counts the watermark styles live, so it always shows the right number and names. Two new colour presets — Vintage Sepia, a warm faded sepia look, and Emerald Mist, a cool green mist — in the photo presets, video filters and editor.",
-   "ts": 1795151741,
-   "etag": "0x8DF46C4A0BE8878"
+   "changes": "Photo quality fix: processed photos are now saved at full native resolution instead of being downscaled to about 12.5 MP, so photos come out sharper and more detailed; Portrait, Colour Pop and Beauty now process at 6000 px instead of 3200 px; XML configs now save JPEGs at quality 98 or higher instead of 95; and still photos now use the camera's high-quality noise reduction, edge and hot-pixel processing where the phone supports it.",
+   "ts": 1795153585,
+   "etag": "0x8DF46C9811F47E0"
   },
   {
    "pkg": "hasu.os.clean",
@@ -265,7 +265,7 @@
    "code": 89,
    "versionName": "10.19",
    "size": 12042364,
-   "changes": "Update badges on your app icons: when an app has a HasuStore update waiting, an orange update badge appears right on that app's icon corner (folders too) \u2014 so you can see at a glance which app got an update.",
+   "changes": "Update badges on your app icons: when an app has a HasuStore update waiting, an orange update badge appears right on that app's icon corner (folders too) — so you can see at a glance which app got an update.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
    "ts": 1795152119,
    "etag": "0x8DF46C61D75A9B3"
