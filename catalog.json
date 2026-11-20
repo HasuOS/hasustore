@@ -82,13 +82,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 132,
-   "versionName": "20.66",
+   "code": 133,
+   "versionName": "20.67",
    "size": 32732155,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Front-flash and focus-lock shutters can no longer start any capture work after leaving the camera — the 380 ms front-flash delay and the focus wait used to bypass the last update's guard and run a dead capture on a paused screen, and leaving mid-flash could leave the screen at full brightness; the screen brightness is now restored the moment the camera is left. NEW: two colour presets — Mono Chrome, a true black & white look, and Sunset Glow, a warm golden look — in the photo presets, video filters and editor; About now counts 31 presets.",
-   "ts": 1795148827,
-   "etag": "0x8DF46BE5A18CD7F"
+   "changes": "Guide no longer prints hard-coded counts — the video-filter row now counts the colour presets and HasuCam XML profiles live, so it can never show a wrong number again, and About's preset-count fallback is updated too. NEW: two colour presets — Autumn Leaves, a warm amber fall look, and Ocean Blue, a cool sea look — in the photo presets, video filters and editor; About and Guide now count 33 presets.",
+   "ts": 1795149975,
+   "etag": "0x8DF46C0B44FC33B"
   },
   {
    "pkg": "hasu.os.clean",
