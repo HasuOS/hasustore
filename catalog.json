@@ -573,13 +573,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A top-down open-city game, the HasuOS way: a whole city of streets, blocks, parks and buildings to explore on foot or in any car you can grab. Living traffic roams the roads, delivery jobs pay cash, and the police chase you when your wanted stars rise. Day turns to night, the city lights up, and your cash and records are remembered.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 90990,
+   "code": 4,
+   "versionName": "1.03",
+   "size": 107374,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Hasu City 1.02 — REBUILT the way you asked: LANDSCAPE, SIDE VIEW, no more boxes. The camera now stands at street level and you see Hasu and Minu from the side — walking and running with swinging arms and legs, jumping with the ⤴ button — along one long living street: your HOME, a HOSPITAL, shops with real signs and awnings, a HOTEL, the POLICE station, a MALL and a GAS STATION. Cars are drawn from the side too — sedans, taxis, SUVs and trucks with turning wheels, glass, door seams, headlights and brake lights — and you can change lanes as you drive. NEW WEATHER: sun and moon cross a real sky, clouds drift, rain and thunderstorms roll in on their own, the road turns wet and slippery, and at night the windows light up and the streetlights glow. Everything from before is still here: delivery jobs with edge arrows and a strip map, wanted stars, police chases, health, day and night.",
-   "ts": 1795171164,
-   "etag": "0x8DF46F283FCFA98"
+   "changes": "1.03 — REAL 3D! The city is now a true 3D world with a third-person camera: it sits behind you, and dragging the screen swings it all the way around to your face. Real 3D Hasu and Minu, a whole city grid of lit buildings and streets, driveable cars with traffic, and a full day-night sky.",
+   "ts": 1795172061,
+   "etag": "0x8DF46F499FDEBA7"
   }
  ]
 }
