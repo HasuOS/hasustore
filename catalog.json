@@ -470,13 +470,13 @@
    "name": "HasuWall",
    "tag": "Your gallery & wallpapers",
    "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-   "code": 56,
-   "versionName": "2.19",
-   "size": 177526,
+   "code": 57,
+   "versionName": "2.20",
+   "size": 193910,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-   "changes": "NEW: a 📖 Guide page — tap 📖 at the top of the home screen for a page that explains every button and feature of HasuWall one by one, from the gallery tabs and the photo and video viewers to the editors and the online backup. FIXED: a photo that will not load no longer leaves the previous photo on screen with no word — the viewer now clears the picture and says it could not be loaded. DESIGN: the app icon on the About page now sits on a glass tile. The Guide and About pages list the Guide.",
-   "ts": 1795146053,
-   "etag": "0x8DF46B802869974"
+   "changes": "New 🕐 Timeline: the pill beside the backup icon on the home screen opens every photo and video in one stream, grouped by date - the ones on this phone and the backup-only ones together (backup-only items carry a ☁ badge and open straight in the backup viewer). Search by name or date, a ♥ Favourites view that covers backup-only photos too (long-press any photo to favourite it), and a status line that says how many are on the phone, how many are backup only and how many still wait to back up. New glow icon, and the Permissions hub's Notifications row now explains notifications instead of photos.",
+   "ts": 1795168405,
+   "etag": "0x8DF46EC1C5F860A"
   },
   {
    "pkg": "hasu.os.weather",
@@ -553,7 +553,7 @@
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
    "ts": 1795167876,
    "etag": "0x8DF46EAD81CE665",
-   "changes": "Search by coordinates: type \"23.8103, 90.4125\" (or 23°48'37\"N 90°24'45\"E, or space-separated DMS) in the search bar and a pin drops on that exact spot, with its name and address; coordinates work in From / To / Stop too. Also in this update: the route card's ✕ now collapses the banner to a slim line instead of hiding it mid-navigation; Locate trusts a fix for 30 seconds only, not 5 minutes; Back closes the open card first; opening a place from Along the route no longer drops the drawn route line; the Commute pill steps aside while navigating."
+   "changes": "NEW: 📍 Search by coordinates — paste \"23.8103, 90.4125\" (or 23°48'37\"N 90°24'45\"E) into the search bar and the map drops a pin on that exact spot, with its name and address; coordinates work in From / To / Stop too. The Guide and About pages list it."
   },
   {
    "pkg": "hasu.os.assist",
