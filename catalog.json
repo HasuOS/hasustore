@@ -37,7 +37,7 @@
       "changes": "NEW: a 📖 Guide page — tap Guide in the header for a page that explains every button and feature of HasuBoard one by one, from the Setup and Theme tabs to the emoji styles, the vault and voice typing. FIXED: the 🔐 Permissions toggle at the top is honest now — it used to stay blue ON even when something was missing; it is grey with the knob on the left until the keyboard is enabled, selected as the current keyboard and the microphone is allowed, and it is repainted on every return to the main menu.",
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
       "ts": 1795137695,
-      "etag": "0x8DF46A42DF4D28C"
+      "etag": "0x8DF46A56A225E26"
     },
     {
       "pkg": "hasu.os.browser",
