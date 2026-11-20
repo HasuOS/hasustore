@@ -469,13 +469,13 @@
       "name": "HasuWall",
       "tag": "Your gallery & wallpapers",
       "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-      "code": 53,
-      "versionName": "2.16",
-      "size": 169334,
+      "code": 54,
+      "versionName": "2.17",
+      "size": 173430,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-      "changes": "The backup now never gives up, like Google Photos: if the net drops mid-upload it waits for the connection and carries on by itself (a dropped net no longer ends the run), failed parts retry with growing waits, the run repeats while anything is left, the phone stays awake while it works, and if anything is still left it picks itself back up a few minutes later. Newest photos and videos now back up FIRST, and the backed-up list shows the newest first too. You can also back up from inside any photo or video (the ☁ button at the top) and mark several in the gallery and tap ☁ Backup in the selection bar.",
-      "ts": 1795137604,
-      "etag": "0x8DF46A46220A89E"
+      "changes": "HasuWall 2.17 fixes the crash in your screenshot (ForegroundServiceStartNotAllowedException) — when Android refuses a background backup start (alarm, instant watcher, app not fully in front), the same upload now runs through a system job instead of crashing, so the backup still happens. Deleting a photo or video from the gallery never touches the backup: the backed-up copy stays safe in Telegram and in the backup view. The backup button is now 'Back up full gallery' — one tap uploads every photo and video on the phone. New: remove an item from the backup itself — long-press it in the backup view and it moves to a new Backup bin section inside the Recycle bin for 30 days; from there restore puts it straight back into the backup, and delete-forever removes it from Telegram for good (anything left over 30 days is deleted forever by itself). Restoring a photo from the Recycle bin also queues it for backup right away.",
+      "ts": 1795139375,
+      "etag": "0x8DF46A883729054"
     },
     {
       "pkg": "hasu.os.weather",
