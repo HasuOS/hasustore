@@ -379,13 +379,13 @@
       "name": "HasuStore",
       "tag": "The HasuOS app store",
       "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-      "code": 216,
-      "versionName": "2.23",
-      "size": 112963347,
+      "code": 217,
+      "versionName": "2.24",
+      "size": 112971539,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-      "changes": "The words are gone, as you asked: the top row is now six plain icon circles and nothing else - a grid for All, an arrow for Updates, a tick for Installed, then the download ring, Recent and Search. The filter you pick turns blue. No text pills, no crowding, and nothing can be pushed off the edge of the screen again.",
-      "ts": 1795143644,
-      "etag": "0x8DF46B27008EAD5"
+      "changes": "Design polish, continued: the six circles on the home screen now share one glyph size, so Recent and Search no longer render smaller than Updates and Installed. Recent updates rows now put each app's icon on a glass tile like the grid and the app pages. About's Last check now shows its date with the time, so an old check no longer reads as today, and Highlights now mentions the Recent updates list. Bundled copies refreshed to live: HasuDice 1.12, HasuOS Home 10.16 and HasuQuick 2.13.",
+      "ts": 1795144292,
+      "etag": "0x8DF46B3DDC8D266"
     },
     {
       "pkg": "hasu.os.tasbih",
