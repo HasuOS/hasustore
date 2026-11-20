@@ -82,13 +82,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 144,
-   "versionName": "20.78",
+   "code": 145,
+   "versionName": "20.79",
    "size": 26535607,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "The preview frame now takes the exact shape of the picked ratio, exactly like your screenshots: pick 3:4, 9:16 or 1:1 and the viewfinder itself reshapes on the black screen - no more staying full-screen and just zooming when the size changes. A new Full ratio joins the Size & ratio shapes: the preview fills the whole screen and the saved photo is cropped to the screen's own shape, so what you see is exactly what saves.",
-   "ts": 1795165942,
-   "etag": "0x8DF46E65D84F6BD"
+   "changes": "The orientation mode is gone, exactly as you ordered: the camera screen now stays straight (portrait) always - no Auto / Portrait / Landscape / Locked button anywhere, the top bar and the All options sheet no longer carry it, and the screen never tilts again. Photos still save upright however you hold the phone, using the phone's tilt sensor.",
+   "ts": 1795166276,
+   "etag": "0x8DF46E708AB36D1"
   },
   {
    "pkg": "hasu.os.clean",
