@@ -469,13 +469,13 @@
       "name": "HasuWall",
       "tag": "Your gallery & wallpapers",
       "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-      "code": 49,
-      "versionName": "2.12",
+      "code": 50,
+      "versionName": "2.13",
       "size": 165238,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-      "changes": "Backup is now permanent: the setup and the backed-up list are saved in a file in Downloads/HasuWall that clearing app data can never wipe, and the list is also pinned inside your Telegram backup chat — clear data or reinstall and everything restores itself, no setup again. While a photo uploads, a Backing up now card shows that exact photo with live progress. The Waiting card is now compact like Google Photos: only the next 4 photos show, each vanishes as it backs up and the next slides in — tap the card to see the full list.",
-      "ts": 1795131675,
-      "etag": "0x8DF46968A86E6BF"
+      "changes": "The permanent save now happens the moment you open the app — in 2.12 the setup file was only written after a backup run finished, so uninstalling before that still asked for the code. Now opening HasuWall once with your setup in place saves it for good, and the encryption key is saved with it (on this phone only), so clearing data or reinstalling brings the setup, the backed-up list and encryption back by themselves.",
+      "ts": 1795134317,
+      "etag": "0x8DF469CBAB94E0E"
     },
     {
       "pkg": "hasu.os.weather",
