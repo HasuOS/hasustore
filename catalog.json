@@ -119,13 +119,13 @@
    "name": "HasuDice",
    "tag": "Dice & coin",
    "desc": "Dice roller and coin flip — roll 1 to 4 dice with a shuffle animation and a running total, flip a coin with heads and tails tallies, and keep your last rolls on screen.",
-   "code": 11,
-   "versionName": "1.10",
+   "code": 12,
+   "versionName": "1.11",
    "size": 50030,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/dice.apk",
-   "changes": "FIXED: the header no longer shows the title twice — the app was missing its own NoActionBar theme, so Android drew its dark system title bar above the app's own header, doubling the title and pushing the info pill half off the edge. The app's theme is applied now, so there is exactly one clean header with the title and the info pill fully on screen.",
-   "ts": 1795126944,
-   "etag": "0x8DF468B33170FFC"
+   "changes": "NEW: a 📖 Guide page — tap Guide in the header for a page that explains every button and feature of HasuDice one by one, from the dice count and die types to the modifier, the coin flip and shake to roll. DESIGN: the app icon on the About page now sits on a glass tile.",
+   "ts": 1795136105,
+   "etag": "0x8DF46A0D33E302F"
   },
   {
    "pkg": "hasu.os.files",
