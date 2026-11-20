@@ -262,13 +262,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 89,
-   "versionName": "10.19",
+   "code": 90,
+   "versionName": "10.20",
    "size": 12042364,
-   "changes": "Update badges on your app icons: when an app has a HasuStore update waiting, an orange update badge appears right on that app's icon corner (folders too) — so you can see at a glance which app got an update.",
+   "changes": "Double-tap on empty space is now OFF by default — an accidental double-tap never locks your phone and never asks for Device Admin permission. If you turn the Lock action on yourself in Customize, only then does it ask. The Guide and Permissions pages say the same.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795152119,
-   "etag": "0x8DF46C61D75A9B3"
+   "ts": 1795153454,
+   "etag": "0x8DF46C939FA205B"
   },
   {
    "pkg": "hasu.os.pdf",
