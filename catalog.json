@@ -82,13 +82,13 @@
       "name": "HasuCam",
       "tag": "Capture Beyond Limits",
       "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-      "code": 135,
-      "versionName": "20.69",
+      "code": 136,
+      "versionName": "20.70",
       "size": 32732155,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-      "changes": "Photo quality fix: processed photos are now saved at full native resolution instead of being downscaled to about 12.5 MP, so photos come out sharper and more detailed; Portrait, Colour Pop and Beauty now process at 6000 px instead of 3200 px; XML configs now save JPEGs at quality 98 or higher instead of 95; and still photos now use the camera's high-quality noise reduction, edge and hot-pixel processing where the phone supports it.",
-      "ts": 1795153585,
-      "etag": "0x8DF46C9811F47E0"
+      "changes": "Dual mode photos now get the same still-photo quality as the main camera: both the back and front Dual shots are captured at JPEG quality 98 (was 95) and ask the camera for its best noise reduction, edge and hot-pixel processing when the camera supports it, so Dual photos come out sharper with cleaner low-light detail.",
+      "ts": 1795155089,
+      "etag": "0x8DF46CCE6F70FE4"
     },
     {
       "pkg": "hasu.os.clean",
