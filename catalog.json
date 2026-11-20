@@ -6,12 +6,13 @@
       "name": "HasuBackup",
       "tag": "APK backup",
       "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-      "code": 5,
-      "versionName": "1.02",
+      "code": 8,
+      "versionName": "1.05",
       "size": 45934,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
-      "changes": "Permissions hub at the top of the list: see-all-installed-apps and install-unknown-apps with their real live states, plus a Turn-all-on walk. NEW: saved backups now show the date they were made (12-hour). FIXED: Back up all can no longer start twice after a rotation, the first list no longer stutters on package lookups (caches warm off the UI thread), and the last-crash dialog is premium glass now.",
-      "etag": "0x8DF462B16EC62D2"
+      "changes": "NEW: Backup all now tells you when it finishes — a \"Backup finished\" notification (tapping it opens the app) so a long backup is no longer silent if you leave the app while it runs; on Android 13+ it shows once Notifications are allowed, and the Permissions hub lists it. NEW: ↻ Refresh next to the sort pill re-scans your installed apps, so installs and updates show up without reopening the app. FIXED: searching a long list is faster — app icons, APK sizes and versions are now loaded once and cached, instead of re-loading every icon and re-statting every APK on every keystroke.",
+      "etag": "0x8DF46A8822F8744",
+      "ts": 1795139419
     },
     {
       "pkg": "hasu.os.battery",
