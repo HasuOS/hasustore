@@ -496,11 +496,11 @@
    "name": "HasuOS",
    "tag": "The family showcase",
    "desc": "Every HasuOS app in one place — the whole family with its details, straight from the live catalogue. Tap any app for its story, version and size, and get it through HasuStore.",
-   "code": 2,
-   "versionName": "1.01",
-   "size": 50030,
+   "code": 5,
+   "versionName": "1.04",
+   "size": 103278, "ts": 1795144693, "etag": "0x8DF46B4D884187C",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
-   "changes": "Permissions hub at the top of the family list: Internet with its real live state, plus a Turn-all-on walk — the app honestly needs no runtime permissions. FIXED: the last-crash dialog is premium glass now and no longer reads the whole crash file into memory, the offline catalogue no longer lists the deleted test apps, and the live feed connection now closes properly.",
+   "changes": "NEW official HasuOS brand logo: the app now carries the chrome-blue HO orbit logo as its icon. Search now looks inside each app's description too, not just its name - searching \"camera\" finds HasuCam. Turning the phone no longer rebuilds any screen; every screen keeps its place.",
    "etag": "0x8DF462F7B2A4C74"
   },
   {
