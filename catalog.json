@@ -469,13 +469,13 @@
       "name": "HasuWall",
       "tag": "Your gallery & wallpapers",
       "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-      "code": 50,
-      "versionName": "2.13",
+      "code": 51,
+      "versionName": "2.14",
       "size": 165238,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-      "changes": "The permanent save now happens the moment you open the app — in 2.12 the setup file was only written after a backup run finished, so uninstalling before that still asked for the code. Now opening HasuWall once with your setup in place saves it for good, and the encryption key is saved with it (on this phone only), so clearing data or reinstalling brings the setup, the backed-up list and encryption back by themselves.",
-      "ts": 1795134317,
-      "etag": "0x8DF469CBAB94E0E"
+      "changes": "Three fixes from his reports: (1) the permanent backup save now also lives inside a small picture in Pictures/HasuWall, which the app can always read back with its photo permission — so uninstalling and reinstalling brings the setup and the backed-up list back by themselves (the Downloads copy stays as a second copy; do not delete that picture). (2) Tapping the Waiting card now opens a full page with every waiting photo and video, and tapping one opens it with the gallery's own viewers. (3) In View backup, videos now behave like the gallery: tap pauses or resumes — no controller bar, no starting over.",
+      "ts": 1795135737,
+      "etag": "0x8DF46A00A181D2A"
     },
     {
       "pkg": "hasu.os.weather",
