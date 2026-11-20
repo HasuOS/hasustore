@@ -500,7 +500,7 @@
    "versionName": "1.04",
    "size": 103278,
    "ts": 1795144693,
-   "etag": "0x8DF462F7B2A4C74",
+   "etag": "0x8DF46B4D884187C",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
    "changes": "NEW official HasuOS brand logo: the app now carries the chrome-blue HO orbit logo as its icon. Search now looks inside each app's description too, not just its name - searching \"camera\" finds HasuCam. Turning the phone no longer rebuilds any screen; every screen keeps its place."
   },
