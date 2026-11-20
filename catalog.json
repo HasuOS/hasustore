@@ -82,13 +82,13 @@
       "name": "HasuCam",
       "tag": "Capture Beyond Limits",
       "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-      "code": 136,
-      "versionName": "20.70",
+      "code": 135,
+      "versionName": "20.69",
       "size": 32732155,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-      "changes": "Dual mode photos now get the same still-photo quality as the main camera: both the back and front Dual shots are captured at JPEG quality 98 (was 95) and ask the camera for its best noise reduction, edge and hot-pixel processing when the camera supports it, so Dual photos come out sharper with cleaner low-light detail.",
-      "ts": 1795155089,
-      "etag": "0x8DF46CCE6F70FE4"
+      "changes": "Photo quality fix: processed photos are now saved at full native resolution instead of being downscaled to about 12.5 MP, so photos come out sharper and more detailed; Portrait, Colour Pop and Beauty now process at 6000 px instead of 3200 px; XML configs now save JPEGs at quality 98 or higher instead of 95; and still photos now use the camera's high-quality noise reduction, edge and hot-pixel processing where the phone supports it.",
+      "ts": 1795153585,
+      "etag": "0x8DF46C9811F47E0"
     },
     {
       "pkg": "hasu.os.clean",
@@ -210,13 +210,13 @@
       "name": "HasuMusic",
       "tag": "Music player",
       "desc": "Music player — songs, albums and artists from your library, background playback with notification controls, shuffle and repeat.",
-      "code": 13,
-      "versionName": "1.09",
+      "code": 12,
+      "versionName": "1.08",
       "size": 62318,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/music.apk",
-      "changes": "FIXED: the Now playing screen now scrolls as one page — on a short or sideways screen the sleep timer, the equalizer and the queue used to sit below the screen and could not be reached at all. NEW: a voice message or a sat-nav prompt now dips the music quieter instead of stopping it — the volume comes back by itself; a phone call still pauses and resumes as before. NEW: the notification now has a ✕ Stop button, so the music can be ended right from the notification. FIXED: a long message in a confirm dialog (for example the crash details) now scrolls too, so its buttons stay reachable. FIXED: the audio focus is now given back when another app takes it for good and when the service stops. The Guide and About pages list all five.",
-      "ts": 1795154993,
-      "etag": "0x8DF46CCCCF52887"
+      "changes": "FIXED: a phone call or a voice message now pauses the music, and it resumes by itself when the call ends — until now only a permanent audio loss paused it, so the music kept playing over a call. A pause you tap yourself during the interruption stays paused, and a permanent loss still never resumes. The Guide and About pages list it.",
+      "ts": 1795150479,
+      "etag": "0x8DF46C1FC7B8228"
     },
     {
       "pkg": "hasu.os.namaz",
@@ -547,13 +547,13 @@
       "name": "HasuMaps",
       "tag": "The HasuOS map — the world, in glass",
       "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-      "code": 36,
-      "versionName": "1.35",
-      "size": 99182,
+      "code": 37,
+      "versionName": "1.36",
+      "size": 103278,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-      "ts": 1795151013,
-      "etag": "0x8DF46C392AA3AF1",
-      "changes": "The popup no longer turns itself back on: Hide now stays hidden until you turn it back on by hand with the new Popup On/Off button in the navigation banner. A fresh navigation starts with the popup on again."
+      "ts": 1795155139,
+      "etag": "0x8DF46CD242B739F",
+      "changes": "NEW: 🧭 Recent trips — every route you run is now kept in ⭐ Saved, newest first: From → To with its distance, time and date, plus a stop when one was on the way. One tap re-runs the trip, and a trip that started from 'My location' starts from where you are now. Long-press a trip to forget it. A re-route mid-navigation is never recorded. The Guide and About pages list it."
     },
     {
       "pkg": "hasu.os.assist",
