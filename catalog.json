@@ -379,13 +379,13 @@
       "name": "HasuStore",
       "tag": "The HasuOS app store",
       "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-      "code": 215,
-      "versionName": "2.22",
+      "code": 216,
+      "versionName": "2.23",
       "size": 112963347,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-      "changes": "One layer, as you ordered: the three short filter buttons - All, Updates, Installed - now sit in front of the three circles, all in ONE single row. No separate filter row underneath any more. The row can slide sideways if a wide font ever needs the room, so nothing is ever clipped or pushed off the screen.",
-      "ts": 1795143054,
-      "etag": "0x8DF46B11089E1A2"
+      "changes": "The words are gone, as you asked: the top row is now six plain icon circles and nothing else - a grid for All, an arrow for Updates, a tick for Installed, then the download ring, Recent and Search. The filter you pick turns blue. No text pills, no crowding, and nothing can be pushed off the edge of the screen again.",
+      "ts": 1795143644,
+      "etag": "0x8DF46B27008EAD5"
     },
     {
       "pkg": "hasu.os.tasbih",
