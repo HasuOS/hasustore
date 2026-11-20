@@ -82,13 +82,13 @@
       "name": "HasuCam",
       "tag": "Capture Beyond Limits",
       "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-      "code": 126,
-      "versionName": "20.60",
+      "code": 127,
+      "versionName": "20.61",
       "size": 32732155,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-      "changes": "A shutter sound preview in Settings no longer keeps playing after you leave Settings, and a picked shutter sound no longer plays on in the background after leaving the camera — the sound now stops the moment you leave the screen.",
-      "ts": 1795137448,
-      "etag": "0x8DF46A3D710C1CF"
+      "changes": "The About page said 21 colour presets, but the app has 29 — the preset list grew over time and About was never updated. The About page now counts its numbers live from the app itself (colour presets, bundled XML configs and shutter sounds), so they can never fall behind again.",
+      "ts": 1795139425,
+      "etag": "0x8DF46A836CF6DF5"
     },
     {
       "pkg": "hasu.os.clean",
@@ -546,13 +546,13 @@
       "name": "HasuMaps",
       "tag": "The HasuOS map — the world, in glass",
       "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-      "code": 28,
-      "versionName": "1.27",
+      "code": 27,
+      "versionName": "1.26",
       "size": 90990,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-      "ts": 1795139549,
-      "etag": "0x8DF46A8EAA26630",
-      "changes": "HasuMaps 1.27 removes the header band completely (your order with the screenshot — no black band at the top any more). The screen now starts with the search bar and the map gets the extra space. Nothing is lost: the Permissions toggle, the About (i) button and the Guide button now live in the first row of the More box — tap More and they are right there. The Guide page text is updated to match."
+      "ts": 1795138140,
+      "etag": "0x8DF46A576D51BE8",
+      "changes": "NEW 📖 Guide page — every button and feature explained one by one in Bangla and English: Search, Locate, Layers, Explore, Directions, navigation, Commute, Home and Work, Saved places and parking, Measure distance, What's here, the place card and Permissions. Open it from the 📖 pill in the header, beside ℹ️ About. About gains the Guide line."
     },
     {
       "pkg": "hasu.os.assist",
