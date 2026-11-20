@@ -378,13 +378,13 @@
       "name": "HasuStore",
       "tag": "The HasuOS app store",
       "desc": "Your Play Store — every HasuOS app, in one place. Online updates included.",
-      "code": 209,
-      "versionName": "2.16",
-      "size": 112918291,
+      "code": 210,
+      "versionName": "2.17",
+      "size": 112926483,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-      "changes": "FIXED: the About page's 'All HasuOS apps' chips card is gone — HasuStore itself is the app list, so the duplicate name list is removed. The bundled apps are refreshed to the latest published versions — HasuCam 20.56, HasuOS Home 10.14, HasuWall 2.11, HasuBoard 5.23, HasuDice 1.10, HasuHabit 1.06, HasuHealth 1.05, HasuTube 1.05, HasuWeb 1.05, HasuTasbih 1.07 and HasuAssist 1.01 — so installing offline gives you the newest build.",
-      "ts": 1795132876,
-      "etag": "0x8DF469742FCFB7E"
+      "changes": "Two fixes he asked for: (1) the About page's Website row is now the same plain row every other HasuOS app uses — the store's special blue-link button is gone; tapping the row still opens the website. (2) Every app page now shows the latest update's date and time (12-hour) right with its What's new text, permanently — it stays after the update is installed and only the next build's stamp replaces it; the store's own About update card shows the stamp too. Bundled copies refreshed: HasuWall 2.15, HasuOS Home 10.15, HasuCam 20.59.",
+      "ts": 1795137083,
+      "etag": "0x8DF46A31DA7A5DE"
     },
     {
       "pkg": "hasu.os.tasbih",
