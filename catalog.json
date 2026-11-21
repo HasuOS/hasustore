@@ -120,13 +120,13 @@
       "name": "HasuDice",
       "tag": "Dice & coin",
       "desc": "Dice roller and coin flip — roll 1 to 4 dice with a shuffle animation and a running total, flip a coin with heads and tails tallies, and keep your last rolls on screen.",
-      "code": 13,
-      "versionName": "1.12",
+      "code": 14,
+      "versionName": "1.13",
       "size": 54126,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/dice.apk",
-      "changes": "NEW: Advantage and Disadvantage — pick a single D20 and a Normal / Advantage / Disadvantage row appears; Advantage rolls two D20s and keeps the higher, Disadvantage keeps the lower, the dropped die sits faded on screen, the total line shows both rolls (\"Total 17 · 17/12\") and the history records them (\"17/12=17\"); a kept natural 20 or natural 1 is still called out. The choice is remembered, and switching to more dice or another die type goes back to Normal.",
-      "ts": 1795142817,
-      "etag": "0x8DF46B03DC19280"
+      "changes": "NEW: ⭐ Saved rolls — save a roll you use a lot under a name (up to 6); tap it to load that exact setup — dice, die type, modifier and Advantage — and roll it at once, and long-press one to delete it. NEW: the range line now shows your roll in dice notation too, like 2d6+3 or D20 · Advantage, so the setup is clear at a glance. FIXED: the six die-type chips now sit a little closer together, so the row always fits on a narrow phone.",
+      "ts": 1795250375,
+      "etag": "0x8DF47AAF0806CC2"
     },
     {
       "pkg": "hasu.os.files",
