@@ -445,13 +445,13 @@
    "name": "HasuVault",
    "tag": "Private photo vault",
    "desc": "A private vault for photos, videos & PDFs — AES-256 encryption, PIN and fingerprint lock.",
-   "code": 5,
-   "versionName": "1.03",
-   "size": 62386,
+   "code": 7,
+   "versionName": "1.05",
+   "size": 66482,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk",
-   "changes": "NEW: Permissions hub at the top of the main screen — Fingerprint unlock with its real live state (tap the row to flip the vault's own switch, or enrol a fingerprint from the system page) plus Vibration as an install-time grant, and a Turn-all-on walk. SECURITY FIXED: the vault is now hidden from the Recents screen — lock screen, grid and viewer can no longer appear in app-switcher previews — and decrypted PDF copies left in the cache are now wiped (files older than an hour, on every return to the vault and before each new view). FIXED: the main screen, About page and viewer top bars now sit below the status bar for real; the last-crash and delete dialogs are premium glass now; the thumbnail cache is capped instead of growing with every photo; a failed import no longer leaves a half-written encrypted blob behind; crash-report streams now close properly.",
-   "ts": 1795090719,
-   "etag": "0x8DF463717773AD3"
+   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until fingerprint unlock is really on, blue only then, repainted on every return. FIXED: the PIN pad now scrolls on short screens, so every key stays reachable when the phone is turned sideways. FIXED: big photos now open downsampled to your screen in the viewer, so a large photo can no longer run the viewer out of memory.",
+   "ts": 1795263706,
+   "etag": "0x8DF47C9F36BDE71"
   },
   {
    "pkg": "hasu.os.voice",
