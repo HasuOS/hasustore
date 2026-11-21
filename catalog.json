@@ -82,13 +82,13 @@
       "name": "HasuCam",
       "tag": "Capture Beyond Limits",
       "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-      "code": 145,
-      "versionName": "20.79",
+      "code": 146,
+      "versionName": "20.80",
       "size": 26535607,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-      "changes": "The orientation mode is gone, exactly as you ordered: the camera screen now stays straight (portrait) always - no Auto / Portrait / Landscape / Locked button anywhere, the top bar and the All options sheet no longer carry it, and the screen never tilts again. Photos still save upright however you hold the phone, using the phone's tilt sensor.",
-      "ts": 1795166276,
-      "etag": "0x8DF46E708AB36D1"
+      "changes": "The photo viewer no longer crashes after the phone restarts it: if you leave a photo open and come back later, the viewer now remembers which photo you were looking at instead of opening blank and crashing when you tap Edit, Details or Delete. Collages now keep the first photo's details too - date, camera, ISO, exposure and focal length - so the viewer's details work for collages as well.",
+      "ts": 1795252528,
+      "etag": "0x8DF47AF58832379"
     },
     {
       "pkg": "hasu.os.clean",
