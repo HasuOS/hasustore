@@ -82,13 +82,13 @@
       "name": "HasuCam",
       "tag": "Capture Beyond Limits",
       "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-      "code": 146,
-      "versionName": "20.80",
+      "code": 147,
+      "versionName": "20.81",
       "size": 26535607,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-      "changes": "The photo viewer no longer crashes after the phone restarts it: if you leave a photo open and come back later, the viewer now remembers which photo you were looking at instead of opening blank and crashing when you tap Edit, Details or Delete. Collages now keep the first photo's details too - date, camera, ISO, exposure and focal length - so the viewer's details work for collages as well.",
-      "ts": 1795252528,
-      "etag": "0x8DF47AF58832379"
+      "changes": "Big photos no longer risk crashing the editor when opened: if rotating a large photo runs out of memory, the editor now opens the photo unrotated instead of closing, and the same protection covers the photo viewer and collages.",
+      "ts": 1795255262,
+      "etag": "0x8DF47B63AE1717F"
     },
     {
       "pkg": "hasu.os.clean",
