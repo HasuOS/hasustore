@@ -82,13 +82,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 147,
-   "versionName": "20.81",
+   "code": 148,
+   "versionName": "20.82",
    "size": 26535607,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Big photos no longer risk crashing the editor when opened: if rotating a large photo runs out of memory, the editor now opens the photo unrotated instead of closing, and the same protection covers the photo viewer and collages.",
-   "ts": 1795255262,
-   "etag": "0x8DF47B63AE1717F"
+   "changes": "The XML file's info now carries the profile's details too: for a file with a single profile — like the Cinematic or Portrait looks — tapping the file's info button now shows what that profile is for and what its settings do, the same details the profile's own info button showed before the profile list was removed for single-profile files. Files with several profiles keep their profile list and its info buttons, exactly as before.",
+   "ts": 1795263947,
+   "etag": "0x8DF47B73D1DC990"
   },
   {
    "pkg": "hasu.os.clean",
