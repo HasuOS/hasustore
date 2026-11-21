@@ -534,13 +534,13 @@
    "name": "HasuWeb",
    "tag": "The HasuOS website, as an app",
    "desc": "The HasuOS website inside its own app: the same pages and the same live catalogue, served by the website's own server — every app update shows here the moment it reaches the website.",
-   "code": 7,
-   "versionName": "1.06",
-   "size": 54126,
+   "code": 8,
+   "versionName": "1.07",
+   "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/web.apk",
-   "ts": 1795158076,
-   "etag": "0x8DF46D40613355C",
-   "changes": "NEW: a 📖 Guide page — tap ℹ️ in the header, then Guide, for a page explaining every button and feature one by one, from the site itself to find-in-page, pinch to zoom and the no-connection card. FIXED: Find in page no longer flashes Not found while it is still counting matches — it waits until the count is done. DESIGN: the About page icon now sits on a glass tile. The Guide and About pages list all three."
+   "ts": 1795247015,
+   "etag": "0x8DF47A3211212A7",
+   "changes": "NEW: 🔰 Text size — pick Small, Normal, Large or Extra large from the ℹ️ menu; the choice is remembered and applies to every page. NEW: 🌐 Open in browser — send the page you're on to your browser in one tap, from the ℹ️ menu. FIXED: Back now closes the Find bar first, before walking the page history, like a browser. The Guide and About pages list all three."
   },
   {
    "pkg": "hasu.os.maps",
