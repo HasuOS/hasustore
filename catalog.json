@@ -366,13 +366,13 @@
    "name": "HasuSpeed",
    "tag": "Live internet speed",
    "desc": "Live internet speed in your notification — download & upload now, today's totals and per-app usage.",
-   "code": 34,
-   "versionName": "02.09",
+   "code": 35,
+   "versionName": "02.10",
    "size": 66485,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk",
-   "changes": "NEW: 🏆 Peak speed today — the fastest download and upload of the day, shown under the graph; it resets at midnight and survives a restart. FIXED: the notification's drawn pictures now use half the memory — the big panel and the large icon are built in 16-bit colour (their backgrounds are solid, so nothing looks different), instead of allocating a full 32-bit picture on every rebuild. The Guide and About pages list both.",
-   "ts": 1795151922,
-   "etag": "0x8DF46C551CEA3DB"
+   "changes": "NEW: ⏹ Stop the meter right from its own notification — no need to open the app. FIXED: the 🔔 notifications row now says so when notifications are switched off in system settings — tap it to open the switch, instead of asking for a permission you already gave. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only when they all are. FIXED: the daily-limit warning now opens HasuSpeed when you tap it — it used to do nothing. FIXED: the floating bubble can no longer appear off the screen after you turn the phone — its saved spot is now kept inside the screen. The About page lists all five.",
+   "ts": 1795225246,
+   "etag": "0x8DF47705DA7889E"
   },
   {
    "pkg": "hasu.os.store",
