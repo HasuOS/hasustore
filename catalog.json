@@ -353,13 +353,13 @@
       "name": "HasuShot",
       "tag": "Screenshots & recording",
       "desc": "Screenshots & screen recording from a floating button — gallery, crop, edit and recycle bin built in.",
-      "code": 33,
-      "versionName": "02.10",
+      "code": 34,
+      "versionName": "02.11",
       "size": 95231,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shot.apk",
-      "changes": "NEW: a 3-2-1 countdown before a recording starts — the number floats on its own overlay and is never in your video; tap the number to cancel it, or tap Cancel countdown on the Recording tab. FIXED: the crop rectangle now stays in the same place on the picture when you turn the phone — it used to stay in stale coordinates. FIXED: drawn strokes now stay on the right pixels when you turn the phone — strokes are filed against the picture itself now, so turning the phone cannot move them on screen or in the saved file. The Guide and About pages list all three.",
-      "ts": 1795151922,
-      "etag": "0x8DF46C4D2AE4388"
+      "changes": "NEW: a 🎨 Saturation slider in the editor — drain the colour out for black-and-white, or double it; it sits beside Brightness and Contrast. NEW: six draw colours now — White, Red, Yellow, Green, Blue and Black. FIXED: the recycle bin now reuses its thumbnails — opening it again no longer reloads every picture from disk. FIXED: the crop screen's buttons now sit clear of the gesture bar at the bottom. FIXED: a screenshot taken during the 3-2-1 countdown no longer brings the floating button back on screen before the recording starts. The Guide and About pages list all five.",
+      "ts": 1795223122,
+      "etag": "0x8DF476B55830104"
     },
     {
       "pkg": "hasu.os.speed",
