@@ -315,13 +315,13 @@
       "name": "HasuScan",
       "tag": "QR & barcode scanner",
       "desc": "QR & barcode scanner with torch and gallery scan — plus a QR maker for text, links, Wi-Fi and more.",
-      "code": 5,
-      "versionName": "1.03",
-      "size": 267189,
+      "code": 8,
+      "versionName": "1.06",
+      "size": 271285,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/scan.apk",
-      "changes": "Permissions hub at the top of the first screen: Camera with its real live state, plus Vibration as an install-time grant. FIXED: top text now clears the status bar on every phone (it used a fixed 30 dp); clearing history asks first instead of deleting everything on one tap; history times are always 12-hour now; a failed QR save no longer leaves a 0-byte picture and an open stream behind; gallery scans no longer leak the photo stream or the unscaled bitmap; the last-crash dialog is premium glass now.",
-      "etag": "0x8DF4630D9FFF256",
-      "ts": 1795088469
+      "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one (the user order 2026-11-20 ~05:33; HasuScan never had one). NEW: 👁 Hidden network — making a Wi-Fi QR can now say the network is hidden, so a phone knows it does not broadcast its name. FIXED: the About page's top bar now clears the status bar on every phone (it used a fixed 20 dp); the app icon there sits on a glass tile now. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until the camera is really granted, blue only then, repainted on every return (the same bug fixed in Clock 1.15 / Speed 02.10; the drawable was always blue). NEW (from staged 1.05): Email QR codes — a sixth QR type with an optional subject, and the type chips now sit in two rows of three so the sixth is never clipped. FIXED (from staged 1.05): rotation no longer rebuilds any screen — every screen now keeps its state across a turn. NEW (from staged 1.04): search your history — find any past scan in seconds; the QR picture is recycled after use instead of lingering in memory.",
+      "etag": "0x8DF47B76BB74551",
+      "ts": 1795255770
     },
     {
       "pkg": "hasu.os.share",
