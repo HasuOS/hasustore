@@ -144,14 +144,15 @@
     {
       "pkg": "hasu.os.gamebox",
       "name": "HasuGameBox",
-      "tag": "Five games in one box",
-      "desc": "Five games in one box — Tic Tac Toe against the computer, classic Snake, Memory Match, 2048 and Tap Rush. Best scores are kept for every game, all offline.",
-      "code": 6,
-      "versionName": "1.05",
-      "size": 54126,
+      "tag": "Six games in one box",
+      "desc": "Six games in one box — Tic Tac Toe against the computer, classic Snake, Memory Match, 2048, Tap Rush and Minesweeper. Best scores are kept for every game, all offline.",
+      "code": 10,
+      "versionName": "1.09",
+      "size": 62318,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/gamebox.apk",
-      "changes": "Permissions hub at the top of the game list: HasuGameBox honestly needs no permissions at all — the games run entirely on your phone. NEW: Tic Tac Toe difficulty — Easy (random) or Hard (plays to win). FIXED: filling the whole Snake board no longer freezes the game (you win instead), leaving Tap Rush mid-round no longer breaks its clock, a fast New game in Memory Match can no longer hide the new board's cards, and the last-crash dialog is premium glass now.",
-      "etag": "0x8DF462A0CDAFC7B"
+      "changes": "NEW: 📖 Guide page — tap Guide on the About page for every game and button, explained one by one. NEW: a sixth game — Minesweeper: an 8×8 field with 10 mines, tap to clear, long-press to flag, your first tap can never be a mine, and your best clear time is kept on the hub. NEW: every game now buzzes — a tap, a match, a merge, a mine all feel different. FIXED: the Minesweeper clock now counts for real — it used to sit at 0s, so every win recorded a best time of 0s and the hub never showed one; the clock runs from a start timestamp and freezes when you leave. FIXED: rotating the phone no longer loses your game — all six games pick up where you left off.",
+      "etag": "0x8DF47B35AF309F2",
+      "ts": 1795254001
     },
     {
       "pkg": "hasu.os.habit",
