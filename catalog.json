@@ -392,13 +392,13 @@
       "name": "HasuTasbih",
       "tag": "Digital tasbih",
       "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.",
-      "code": 8,
-      "versionName": "1.07",
-      "size": 45934,
+      "code": 9,
+      "versionName": "1.08",
+      "size": 50030,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk",
-      "changes": "FIXED: the header no longer shows the title twice — the app was missing its own NoActionBar theme, so Android drew its dark system title bar above the app's own header. The app's theme is applied now, so there is exactly one clean header with the title and the info pill fully on screen.",
-      "ts": 1795126944,
-      "etag": "0x8DF468B3434790F"
+      "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. NEW: 📅 Today's count — the stats line now shows how many dhikr you have done today, resetting by itself at midnight, while your lifetime total keeps growing. NEW: 🎯 Custom target — tap ＋ beside the targets to count to any number from 10 to 9999; your custom target is remembered as its own chip, and long-press it to clear it. FIXED: Reset and −1 now sit on their own row under the targets, so nothing is squeezed on a narrow phone. DESIGN: the About page icon now sits on a glass tile. The Guide and About pages list all five.",
+      "ts": 1795252168,
+      "etag": "0x8DF47AF194BDD4F"
     },
     {
       "pkg": "hasu.os.task",
