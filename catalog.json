@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 8,
-   "versionName": "1.06",
-   "size": 50030,
+   "code": 9,
+   "versionName": "1.07",
+   "size": 54126,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "NEW: the monitor comes back by itself after a restart or an app update — before this there was no receiver at all, and the \"battery_on\" switch was written by the app and read by nothing, so after either one the monitor was dead while the switch still said ON; it only restarts when it was on. NEW: turn the monitor off from its own notification — a \"Turn off\" action on the battery notification stops it without opening the app. FIXED: the charge alarm can now fire again if the level dips below the target while it is ringing and then climbs back — the fired flag used to stay set, so the alarm could never fire again in the same charge session.",
-   "ts": 1795137695,
-   "etag": "0x8DF46A42EA8F38F"
+   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. NEW: 🔊 Alarm sound — pick the sound the charge alarm rings with; the picker plays each sound when you tap it, so you hear it before you choose, and Silent means vibrate only (a sound that cannot be played falls back to the default alarm sound, so the alarm is never left mute). FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only then, repainted on every return (the drawable was always blue). The Guide and About pages list all three.",
+   "ts": 1795264806,
+   "etag": "0x8DF47CC852FF447"
   },
   {
    "pkg": "hasu.os.keyboard",
