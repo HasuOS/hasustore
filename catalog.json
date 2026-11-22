@@ -344,13 +344,13 @@
       "name": "HasuShikha",
       "tag": "English words",
       "desc": "English words — 120 common words with Bangla meanings and examples. Flip the card, mark what you know, review what you missed.",
-      "code": 5,
-      "versionName": "1.04",
-      "size": 54126,
+      "code": 7,
+      "versionName": "1.06",
+      "size": 58222,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shikha.apk",
-      "changes": "NEW: Quiz mode — the test loop flashcards alone cannot give. Ten questions per round: a Bangla meaning, four English words, pick the right one. Right answers turn green, wrong ones red with the correct word shown, and the round ends with your score, your best score kept, and a Play-again button. It sits on the main screen as its own pill, next to Listen and All words.",
-      "ts": 1795109085,
-      "etag": "0x8DF4661AAF78E45"
+      "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one (the user order 2026-11-20 ~05:33; HasuShikha never had one). FIXED: flipping the quiz direction after answering no longer lets one question score twice — the ⇄ button now waits until the next question. FIXED: the quiz never shows two identical Bangla answers together — five meanings are shared by two words each (আগে, শিশু, পেছনে, পরিষ্কার, প্রত্যেক), so a twin is now skipped when picking the wrong answers. FIXED: Reset all progress no longer wipes your quiz best score — only the Know / Don’t know marks are cleared, as the confirm says. FIXED: tapping Listen twice quickly no longer loses the word — the second tap waits for the speech engine to be ready. DESIGN: the app icon on the About page now sits on a glass tile. FOLDED IN (never published before): staged 1.05 — the quiz now runs both ways, and rotation no longer rebuilds any screen.",
+      "ts": 1795323375,
+      "etag": "0x8DF4854E171D653"
     },
     {
       "pkg": "hasu.os.shot",
