@@ -292,13 +292,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 42,
-   "versionName": "2.17",
+   "code": 43,
+   "versionName": "2.18",
    "size": 784011,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "2.17: a 📸 Screenshot button at the right end of the volume row, as you asked. The panel closes first, then the picture is taken and saved to Pictures/HasuQuick (Android shows its screen-share approval when Accessibility is off; with it on, the shot is instant). The button hides while the all-sounds view is open and returns with the panel, and Panel controls has its own on/off switch for it.",
-   "ts": 1795329070,
-   "etag": "0x8DF486225BE9DC7"
+   "changes": "2.18: the 📸 screenshot button now takes you straight to instant screenshots. Android only allows instant, prompt-free screenshots through Accessibility — every other way, it shows its screen-share approval on every single shot, and no app can skip that. So with Accessibility off, the first tap now opens the Accessibility switch for HasuQuick instead of the approval prompt: turn it on once and every shot after that is instant.",
+   "ts": 1795330194,
+   "etag": "0x8DF4864CD093828"
   },
   {
    "pkg": "hasu.os.radio",
