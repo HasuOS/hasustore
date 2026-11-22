@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 223,
-   "versionName": "2.30",
-   "size": 114683667,
+   "code": 225,
+   "versionName": "2.32",
+   "size": 114687763,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Bundled copies refreshed to live — HasuCam 20.73 → 20.75 and HasuOS Home 10.22 → 10.24 — so installing either of them offline gives the newest version. FIXED: the Recent updates page now has a Back button like every other page — before, only the system back key could leave it. FIXED: the status line no longer says ‘Up to date’ while the first check is still running — it says ‘Checking for updates…’ until the real state is known. The About page’s Highlights now give the ‘versions read from the real APK files’ line its own icon instead of repeating the search line’s magnifier.",
-   "ts": 1795164139,
-   "etag": "0x8DF46E22141FC79"
+   "changes": "2.32: three things you asked for. UNINSTALL IS DIRECT now: tapping Uninstall brings the system's uninstall prompt straight up, exactly like Install brings its prompt — no App info page in between. NOT INSTALLED APPS: an app you uninstall now appears at the very top of the home page in its own 'Not installed apps' list (newest first), ready to install again; installing it takes it off the list. CATEGORY-WISE HOME: the home page now shows the apps grouped under their category headings — Games, Social, Phone, Photo & Video, Music & Web, Study & Religion, Tools, Daily Life, HasuOS — instead of one long mixed list.",
+   "ts": 1795333339,
+   "etag": "0x8DF486B39D559CC"
   },
   {
    "pkg": "hasu.os.tasbih",
