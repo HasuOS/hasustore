@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 29,
-   "versionName": "1.28",
+   "code": 30,
+   "versionName": "1.29",
    "size": 140142,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "Lists snap in fast now: profile pictures decode once and are cached (before, every row re-decoded its picture — a video frame took ~100 ms each), and the first pictures warm up in the background before the list paints. The SIM chooser opens with who you are calling — profile photo or playing video, small and round on the left, name beside it, number underneath. The bottom tabs are icons only now, and the dialpad sits pinned to the exact bottom of the screen: suggestions open above it, the keys never move.",
-   "ts": 1795339530,
-   "etag": "0x8DF487A88785A7A"
+   "changes": "The top of the app is one clean line now: the separate Permissions row is gone — its toggle lives in the header, right beside Settings. And a premium pass over the whole app: every pill and button glyph glows like the app icons, pill gradients are richer three-stop glass, the call-type arrows in Recents sit on glass discs, and the dial digits carry a soft shadow.",
+   "ts": 1795339807,
+   "etag": "0x8DF487B2E5E046F"
   },
   {
    "pkg": "hasu.os.cell",
