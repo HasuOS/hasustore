@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 19,
-   "versionName": "1.18",
-   "size": 131950,
+   "code": 20,
+   "versionName": "1.19",
+   "size": 136046,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "Bug fix: the Call screen background card's Photo/Video buttons were wired to the profile slot, so call-background picks overwrote the profile picture and the call screen fell back to the cover. Each of the three slots now saves to its own place.",
-   "ts": 1795335965,
-   "etag": "0x8DF48723AA21EB5"
+   "changes": "Dual SIM: tapping Call now asks SIM 1 or SIM 2 (remember per number; change it on the profile page). The call screen's round face now plays a profile video, not just a still frame. Add/Edit contact opens the new HasuCell contacts app.",
+   "ts": 1795336369,
+   "etag": "0x8DF48732C53646F"
   }
  ]
 }
