@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 98,
-   "versionName": "10.28",
-   "size": 16019911,
-   "changes": "NEW Updates widget: the widget stack now shows which apps have a HasuStore update waiting (with their names) — tap it to open HasuStore; when nothing waits it says everything is up to date. In the App Library A-Z list, apps installed in the last 14 days now carry a blue NEW pill beside their name. Guide updated (45 widgets, 50 wallpapers).",
+   "code": 99,
+   "versionName": "10.29",
+   "size": 16024007,
+   "changes": "Templates fixed your way: each template now arranges ALL the home pages, not one — every page designed with widgets sitting between the apps, ten layouts. Colours are NOT touched: your wallpaper, glass and icon look stay exactly yours. Tap a template to preview every page, then apply. Plus icon-pack masks: a pack set from HasuPack now restyles every app on the phone.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795348761,
-   "etag": "0x8DF488FE07ABA4B"
+   "ts": 1795349872,
+   "etag": "0x8DF489276FE1CA8"
   },
   {
    "pkg": "hasu.os.pdf",
@@ -761,13 +761,13 @@
    "name": "HasuPack",
    "tag": "Icon packs for HasuOS Home",
    "desc": "Six icon packs drawn for the HasuOS family — Glow, Neon Blue, Royal Gold, Sunset, Mono Tile and Pastel. Tap Set in HasuPack and HasuOS Home wears the pack at once.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 7531538,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 8204556,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pack.apk",
-   "changes": "NEW APP: six icon packs for HasuOS Home (Glow, Neon Blue, Royal Gold, Sunset, Mono Tile, Pastel), each covering all 58 family apps with icons drawn here — never copied. Open a pack, tap Set, and HasuOS Home changes its icons at once; the HasuOS default card brings the original look back.",
-   "ts": 1795348366,
-   "etag": "0x8DF488EDDCB6024",
+   "changes": "Six genuinely different pack designs (not colour swaps): HasuOS Glow, Tile Pop (each icon on its own colour tile), Ring (glowing ring on dark glass), Duo (two-tone gradient glyphs), Glass Cube and Sticker (thick white border). And every pack now covers EVERY app on your phone: apps without a drawn icon keep their own picture inside the pack's shape, so the whole home matches.",
+   "ts": 1795349872,
+   "etag": "0x8DF489277EA90E5",
    "cat": "HasuOS"
   }
  ]
