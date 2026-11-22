@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 109,
-   "versionName": "10.39",
-   "size": 16048583,
-   "changes": "YOUR OWN TEMPLATES: the Templates page now starts with 'Save my current layout' — it keeps the home you have right now (every page, every widget and the dock, exactly as they are) as your own named template. Your templates sit above the ten designs with a star; tap one to preview it in the same full swipe preview, Apply restores it exactly, and the orange x deletes it. Saving the same name again updates it. Your previous arrangement is still auto-saved before any apply, as always",
+   "code": 110,
+   "versionName": "10.40",
+   "size": 17139847,
+   "changes": "Your whole list, done: 4 new widgets (Compass, Ayat of the day, Stopwatch, Weather by hour), full home-setup Backup & restore in Settings, 4 new templates (Gaming Arena, Business Desk, Dark Pro, Kids Corner), 24 new wallpapers (74 total), 3 new icon shapes (Teardrop, Hexagon, Leaf), 3 new lock clock faces, swipe-down gesture choice, Flip page animation, icon label size — and the Recent apps widget now wears your icon pack like everywhere else.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795364574,
-   "etag": "0x8DF48B4B6A87163"
+   "ts": 1795365836,
+   "etag": "0x8DF48B7A00CB1E4"
   },
   {
    "pkg": "hasu.os.pdf",
