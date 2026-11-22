@@ -292,13 +292,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 44,
-   "versionName": "2.19",
-   "size": 788107,
+   "code": 43,
+   "versionName": "2.18",
+   "size": 784011,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "2.19: the extra buttons now have their OWN switches, one by one, as you asked — Panel controls lists Back, Recents, Notifications, Screenshot tile, Lock, Power and Quick settings separately. Turn any of them off and only that button leaves the panel; the rest stay. (They still appear only while Accessibility is on, since they work through it.)",
-   "ts": 1795330646,
-   "etag": "0x8DF4865DAC8F8A7"
+   "changes": "2.18: the 📸 screenshot button now takes you straight to instant screenshots. Android only allows instant, prompt-free screenshots through Accessibility — every other way, it shows its screen-share approval on every single shot, and no app can skip that. So with Accessibility off, the first tap now opens the Accessibility switch for HasuQuick instead of the approval prompt: turn it on once and every shot after that is instant.",
+   "ts": 1795330194,
+   "etag": "0x8DF4864CD093828"
   },
   {
    "pkg": "hasu.os.radio",
@@ -720,13 +720,13 @@
    "name": "HasuCall",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 7,
-   "versionName": "1.06",
+   "code": 8,
+   "versionName": "1.07",
    "size": 86894,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "1.06: names now stay in their place in every language — a name written in Arabic (or any right-to-left letters) no longer jumps to the right side of the row; Recents, Contacts and the call screen all keep the name where it belongs. Call recording hardened: if the phone refuses the voice-call microphone source, recording retries on the plain microphone instead of failing, and recording file names no longer contain a colon, so they copy cleanly to a computer. Recordings save in Music/HasuCall.",
-   "ts": 1795330430,
-   "etag": "0x8DF486558B75D07"
+   "changes": "1.07: the real reason HasuCall was missing from the Default phone app list — Android checks eligibility by asking which apps handle the Dial action with NO number attached, and HasuCall's Dial filter only answered when a number was attached, so the system never counted it. A bare Dial filter is added: update to 1.07, then open the Default phone app page again — HasuCall is listed now and can be picked. (Carries the 1.05 call-screen service fix and all of 1.06.)",
+   "ts": 1795330808,
+   "etag": "0x8DF48663A98CB7E"
   }
  ]
 }
