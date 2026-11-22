@@ -188,13 +188,13 @@
       "name": "HasuKhata",
       "tag": "Income & expense ledger",
       "desc": "Daily hisab in taka: month summary, categories and day-by-day entries.",
-      "code": 7,
-      "versionName": "1.05",
-      "size": 50030,
+      "code": 8,
+      "versionName": "1.06",
+      "size": 54126,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/khata.apk",
-      "changes": "FIXED: the main screen now scrolls as one — the summary card, the category bars and the entry list used to sit in a fixed stack above the list, so in landscape the list was pushed off the bottom of the screen and could not be reached at all; the whole screen scrolls now. FIXED: the entry editor also scrolls, so its Save and Cancel buttons are reachable on a short screen. NEW: tap a category bar to filter the list by that category, across all months — the ✕ in the search box clears it again. FIXED: a failed export no longer leaves a half-written file in Downloads, and its stream now always closes. FIXED: the category chips in an incomplete last row no longer stretch to half the row. The About page icon now sits on a glass tile.",
-      "etag": "0x8DF4696C66665AE",
-      "ts": 1795132397
+      "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: tap the month name to jump straight back to this month, however far you have flipped away with ‹ ›. The Guide and About pages list both.",
+      "etag": "0x8DF483955766FAD",
+      "ts": 1795311553
     },
     {
       "pkg": "hasu.os.lock",
