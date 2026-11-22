@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 95,
-   "versionName": "10.25",
-   "size": 14332758,
-   "changes": "NEW Templates (his order): Home hub → Templates — 10 ready-made, fully decorated home screens (HasuOS Aurora, Midnight Pro, Purple Dusk, Emerald Calm, Sunset Glow, Graphite Stealth, One UI Aurora, Ocean Breeze, Peach Sorbet, Lavender Haze). Each card previews the real look — wallpaper, clock, icons, dock — and one tap on Apply sets the whole look at once. Your apps and dock stay exactly where they are. Also: the newest Hasu apps' glow icons are now bundled.",
+   "code": 96,
+   "versionName": "10.26",
+   "size": 14336854,
+   "changes": "THEMES, fixed and rebuilt (his three reports): 1) APPLY WORKS NOW — applying a theme did nothing until the app was restarted; the reload signal was being dropped on the way in. It applies the moment you tap now. 2) FASTER ENTRY — the App Library page is no longer built while Home opens; it builds itself the first time you swipe to it, so entering Home is quick. 3) THEMES, not just looks — Templates are renamed Themes, and each of the 10 is now a full home-screen decoration: its own look PLUS a different arrangement of apps and widgets and its own dock. Your own arrangement is saved automatically before a theme applies — restore it in one tap from the card at the top of the Themes page.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795343472,
-   "etag": "0x8DF4883A4FC20A9"
+   "ts": 1795344693,
+   "etag": "0x8DF48866A088AF0"
   },
   {
    "pkg": "hasu.os.pdf",
