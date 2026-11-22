@@ -720,13 +720,13 @@
    "name": "HasuCall",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 4,
-   "versionName": "1.03",
-   "size": 82798,
+   "code": 5,
+   "versionName": "1.04",
+   "size": 86894,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "1.03: the keypad is rebuilt — every key is now one centred button with the number big in the middle and its letters small underneath, all inside the pill. The old keys drew the number at the top-left corner with the letters spilling below the button (your screenshot).",
-   "ts": 1795328596,
-   "etag": "0x8DF48611442BDB6"
+   "changes": "1.04: call recording is here. New 🎙 Records tab: turn Auto-record on and every call records by itself (while HasuCall is the default phone app), or tap 🎙 Record on the call screen. Recordings save to Music/HasuCall and play in the tab. Honest limit, set by Android: apps cannot hear the call's own sound line, so recording uses the microphone — the other side is clearest on speaker. Also carries the 1.03 keypad fix: numbers now sit centred in their buttons.",
+   "ts": 1795328850,
+   "etag": "0x8DF4861AB6E6916"
   }
  ]
 }
