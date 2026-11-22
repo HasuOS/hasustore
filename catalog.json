@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 13,
-   "versionName": "1.12",
+   "code": 14,
+   "versionName": "1.13",
    "size": 131950,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "All features added: T9 contact matches while you type on the keypad, speed dial (long-press 2-9, 1 = voicemail), favourites on top of Contacts, block numbers + block unknown callers, flash blinks on incoming calls, in-call Hold, in-call keypad (DTMF), Add call, decline with a ready-made message, Recents filter (All / Missed) and clear-all history, add/edit contact from the profile page.",
-   "ts": 1795334519,
-   "etag": "0x8DF486EDC2C688E"
+   "changes": "Premium pass: deep three-stop night gradient, every contact gets their own jewel-gradient avatar circle, keypad keys bounce with a soft haptic tick, screens fade in, the Recents tab shows a live missed-call count, and the call screen's avatar breathes while the phone rings.",
+   "ts": 1795334873,
+   "etag": "0x8DF486FB24CD129"
   }
  ]
 }
