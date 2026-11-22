@@ -717,16 +717,16 @@
   },
   {
    "pkg": "hasu.os.call",
-   "name": "HasuCall",
+   "name": "HasuTalk",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 9,
-   "versionName": "1.08",
-   "size": 111470,
+   "code": 10,
+   "versionName": "1.09",
+   "size": 119662,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "1.08: the new app icon you picked (design A — the classic glowing handset, fully inside the frame). The old icon was drawn overflowing its canvas, so only a white sliver of the handset showed; this one is the complete design. Everything from 1.05–1.07 is inside: the default phone app fixes, names staying in place in every language, and the hardened call recording.",
-   "ts": 1795330986,
-   "etag": "0x8DF4866A4BE11A7"
+   "changes": "1.09: the premium build — and a new name, HasuTalk (you picked it). NEW: every number has its own profile page — tap a number in Recents or Contacts to open it, set a profile photo or video and a cover photo or video for that number, call from there, and see its recent calls. The call screen is rebuilt: the cover fills the screen, the round profile photo sits on top, with round glass buttons. NEW ⚙ Settings page (top right): default phone app, auto-record, microphone, ringtone & sound, Permissions — and the 🏷 App name changer: all seven suggested names (HasuTalk, HasuCall, HasuDial, HasuPhone, HasuRing, HasuLine, HasuConnect) — switch the app's home-screen name whenever you like. Auto-record and microphone moved from the Records tab into Settings.",
+   "ts": 1795331697,
+   "etag": "0x8DF48684C467693"
   }
  ]
 }
