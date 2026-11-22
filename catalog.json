@@ -727,6 +727,20 @@
    "changes": "Dual SIM: tapping Call now asks SIM 1 or SIM 2 (remember per number; change it on the profile page). The call screen's round face now plays a profile video, not just a still frame. Add/Edit contact opens the new HasuCell contacts app.",
    "ts": 1795336369,
    "etag": "0x8DF48732C53646F"
+  },
+  {
+   "pkg": "hasu.os.cell",
+   "name": "HasuCell",
+   "tag": "Contacts, connected with HasuPhone",
+   "desc": "Your address book in HasuOS glass: search, favourites, and a page for every person. Connected with HasuPhone — contacts saved here appear there at once, calls open in HasuPhone with the SIM 1 / SIM 2 choice, and HasuPhone's Add/Edit opens this editor.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 62318,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cell.apk",
+   "changes": "First release: full contact list with search, favourites strip, per-person page (call/message/edit/share/delete), and an editor that saves into the phone's address book — connected with HasuPhone both ways.",
+   "ts": 1795336600,
+   "etag": "0x8DF4873B39C4DB2",
+   "cat": "Phone"
   }
  ]
 }
