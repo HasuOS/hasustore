@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 97,
-   "versionName": "10.27",
+   "code": 98,
+   "versionName": "10.28",
    "size": 16019911,
-   "changes": "TEMPLATES are back (the Themes name is gone): tapping a template opens a FULL home-screen preview exactly as it will look — apps arranged, widgets in between — and Apply works from there. The Settings hub's classic cards are now premium glass tiles with drawn icons. 50 bundled wallpapers. NEW Home icon (your pick) plus 10 more of our own drawn designs — switch anytime in Settings, Icon packs. HasuPack icon packs now apply from the HasuPack app.",
+   "changes": "NEW Updates widget: the widget stack now shows which apps have a HasuStore update waiting (with their names) — tap it to open HasuStore; when nothing waits it says everything is up to date. In the App Library A-Z list, apps installed in the last 14 days now carry a blue NEW pill beside their name. Guide updated (45 widgets, 50 wallpapers).",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795348366,
-   "etag": "0x8DF488EDCB0AA35"
+   "ts": 1795348761,
+   "etag": "0x8DF488FE07ABA4B"
   },
   {
    "pkg": "hasu.os.pdf",
