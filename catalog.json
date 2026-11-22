@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 104,
-   "versionName": "10.34",
-   "size": 16032199,
-   "changes": "NEW: HasuOS Home now updates ITSELF — a built-in update section (Settings hub → App update) checks HasuStore for Home's own update, notifies you like the store does, downloads with Pause/Stop and full verification, and installs it. No need to open HasuStore for Home updates any more",
+   "code": 105,
+   "versionName": "10.35",
+   "size": 16036295,
+   "changes": "Templates: EVERY page now carries widgets — guaranteed, no page is left bare. SIX new widgets join the family (52 kinds in all): Today's agenda (your calendar), Mini calendar, Battery health, Signal, Bluetooth and Net speed — and every template weaves the new ones in too. This build also brings Home's own update section (Settings hub → App update): Home checks HasuStore, downloads and installs its own updates itself",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795362056,
-   "etag": "0x8DF48AECB6EF7BB"
+   "ts": 1795362355,
+   "etag": "0x8DF48AF8EB4D362"
   },
   {
    "pkg": "hasu.os.pdf",
