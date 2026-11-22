@@ -694,13 +694,13 @@
    "name": "HasuSMS",
    "tag": "Text messaging",
    "desc": "The phone's SMS in HasuOS glass — every conversation, chat bubbles, sending, and a path to becoming the default SMS app.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 70510,
+   "code": 4,
+   "versionName": "1.03",
+   "size": 82869,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/sms.apk",
-   "changes": "1.02: a guide card for Android's restricted settings. Because HasuSMS is installed from HasuStore rather than Google Play, Android may answer \"denied access to SMS\" — the gate screen now walks you through the one-time fix (App info → ⋮ → Allow restricted settings) with a button that opens the exact page.",
-   "ts": 1795328266,
-   "etag": "0x8DF48603FF69B8D"
+   "changes": "Sending is honest now: a message waits as Sending, then shows Sent or Delivered — and if it cannot go out it stays marked Not sent with the real reason (no service, radio off, or the carrier refusing, which is usually no balance on the SIM). Tap a failed message to send it again. With two SIMs you choose which SIM sends to each number (remembered, changeable from the SIM chip in the chat), and every sent message names its SIM. Categories from HasuPhone and HasuCell work here too — filter the list by the chips, set one on any chat. Inside a chat: call through HasuPhone, edit the contact in HasuCell. Search no longer loses the keyboard, and the icons are now the family's drawn Font Awesome glyphs.",
+   "ts": 1795342037,
+   "etag": "0x8DF48805D40C3AA"
   },
   {
    "pkg": "hasu.os.edit",
