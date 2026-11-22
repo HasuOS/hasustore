@@ -701,6 +701,19 @@
    "changes": "NEW APP: HasuSMS 1.00 — the phone's text messages in HasuOS glass. Every conversation from Android's own message store with contact names, last-message snippets, 12-hour times and unread dots; chat bubbles grouped by day; sending (long messages split by themselves); a new-message screen with a contact picker; search; and notifications when a message arrives. A card offers to make HasuSMS the default SMS app, which unlocks deleting and mark-as-read, exactly as Android requires. 📖 Guide page and 🔐 Permissions hub included — messages never leave this phone.",
    "ts": 1795326252,
    "etag": "0x8DF485B9CAAA532"
+  },
+  {
+   "pkg": "hasu.os.edit",
+   "name": "HasuEdit",
+   "tag": "Photo & video editor",
+   "desc": "Edit photos with filters, drawing and draggable overlays — and videos with one-layer merge, trim and overlays burned into every frame.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 95086,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/edit.apk",
+   "changes": "NEW APP: HasuEdit 1.00 — a photo and video editor. Photo editor: filters (B&W, Warm, Cool, Vivid, Fade), brightness/contrast/saturation, rotate, flip, crop, finger drawing, and OVERLAYS — lay text or a second picture over your photo, drag it into place, set its size and opacity. Video tools: 🧩 Merge lays several clips end to end in ONE layer with no re-encoding (clips must share size and format), ✂ Trim keeps one stretch, and 🖼 Overlay burns a picture or text into every frame with the sound kept. Edits save as new files — Pictures/HasuEdit and Movies/HasuEdit — originals never change. 📖 Guide page and 🔐 Permissions hub included.",
+   "ts": 1795326894,
+   "etag": "0x8DF485D1AB80EE7"
   }
  ]
 }
