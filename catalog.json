@@ -36,8 +36,8 @@
    "versionName": "5.28",
    "size": 68625193,
    "changes": "The HasuBoard word at the top-left of the main screen is removed — the header is now just the buttons, so nothing wraps top-to-bottom",
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795361081,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
+   "ts": 1795352605,
    "etag": "0x8DF4898BD52465F"
   },
   {
@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 102,
-   "versionName": "10.32",
+   "code": 103,
+   "versionName": "10.33",
    "size": 16028103,
-   "changes": "Templates rebuilt the way you asked: every template is now made from ALL the apps on your phone — your apps counted, a beautiful widget woven onto every page, as many pages as your apps need, and an app you removed never shows. The preview shows exactly that, page by page",
+   "changes": "Templates: the empty pages are fixed — the preview strip was only one page wide and Android clipped every later page away to nothing, however far you swiped; the strip now spans all pages. Widgets are also woven in twice as often (about every 8 apps), so every page carries more of them",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795358978,
-   "etag": "0x8DF48A7AF85E43E"
+   "ts": 1795361262,
+   "etag": "0x8DF48AD01556D13"
   },
   {
    "pkg": "hasu.os.pdf",
