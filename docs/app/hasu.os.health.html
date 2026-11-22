@@ -62,8 +62,8 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.05</b></span>
-    <span class="chip" id="sz">49 KB</span>
+    <span class="chip">Version <b id="v">1.06</b></span>
+    <span class="chip" id="sz">53 KB</span>
     <span class="chip">hasu.os.health</span>
     <span class="chip">Android 8.0+</span>
   </div>
@@ -72,8 +72,8 @@
     <p>Health — step counter with 7-day history, daily water tracker with a goal, and a BMI calculator. All on your phone.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.05</span></h3>
-    <p id="wn">FIXED: steps now keep counting in the background — before, the step sensor was listened to only while the app was open, so a morning walk before opening HasuHealth was lost (the day&#x27;s baseline was set from the counter on first open). A new low-power step service keeps the counter alive all day and restarts after a reboot or an update, so the daily total is right even if you never open the app. The service&#x27;s notification is the honest control: &quot;Stop counting&quot; stops it and remembers the choice, and the steps card offers to turn it back on. The step accounting itself is unchanged and was unit-tested standalone (8 cases: day flow, counter resets after reboots, idempotent re-feeds).</p>
+    <h3>🆕 What's new in v<span id="wnV">1.06</span></h3>
+    <p id="wn">NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only then, repainted on every return (the drawable was always blue). FIXED: tapping the Notifications row now opens the notification settings when the permission is already granted but the system switch is off — before, the row still read ON while no water reminder could ever show. FIXED: &#x27;✅ Turn all on&#x27; no longer claims &#x27;All permissions are on&#x27; when exact alarms are off or the notification switch is off — it opens the right settings page instead, and only says all are on when everything really is. FIXED: the day&#x27;s steps, water and weight now roll over at Dhaka midnight even if the phone is set to another timezone — the date was formatted in the phone&#x27;s own timezone before. The Guide and About pages list all five.</p>
   </div>
   <div class="cta">
     <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/health.apk">⬇ Download HasuHealth</a>
