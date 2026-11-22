@@ -733,13 +733,13 @@
    "name": "HasuCell",
    "tag": "Contacts, connected with HasuPhone",
    "desc": "Your address book in HasuOS glass: search, favourites, and a page for every person. Connected with HasuPhone — contacts saved here appear there at once, calls open in HasuPhone with the SIM 1 / SIM 2 choice, and HasuPhone's Add/Edit opens this editor.",
-   "code": 6,
-   "versionName": "1.05",
+   "code": 7,
+   "versionName": "1.06",
    "size": 86965,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cell.apk",
-   "changes": "The contact page is now an exact clone of HasuPhone's profile page: cover photo or video, profile photo or video, a separate call-screen background, every number with its own Call and Message, favourite, block, speed dial, share, delete, recent calls — and the person's call recordings, playable on the page. The pictures and settings are shared with HasuPhone: set a profile video here and HasuPhone's call screen wears it, and the other way round.",
-   "ts": 1795341270,
-   "etag": "0x8DF487E7DC60DF7",
+   "changes": "Categories arrived here too — the same ones as HasuPhone: Family, Father, Mother, Wife, Son, Friends, Business, plus your own. Set a contact's category on their page (the Category row), and filter the list by the chips under the search box. A category set here shows in HasuPhone and HasuSMS too.",
+   "ts": 1795341901,
+   "etag": "0x8DF48800DFA9B31",
    "cat": "Phone"
   }
  ]
