@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 26,
-   "versionName": "1.25",
+   "code": 27,
+   "versionName": "1.26",
    "size": 140142,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "SPEED: the 🎙 Records tab now loads on a worker thread like Recents and Contacts — opening it no longer freezes the screen while the recordings list is read (the player, play/pause and delete all work exactly as before).",
-   "ts": 1795338532,
-   "etag": "0x8DF4878278369DD"
+   "changes": "Premium dialpad + icons everywhere: round glass dial keys, a glowing number display, one big green call circle and a glass delete circle (no text), the bottom tabs are icons only (the open tab shows its name), the call-screen buttons are icons only, the Permissions entry is just the lock icon + switch — and that switch now shows ON only when EVERYTHING is on, including being the default phone app. The Records tab also opens fast now (cached, no more waiting).",
+   "ts": 1795338935,
+   "etag": "0x8DF48791A5BF92E"
   },
   {
    "pkg": "hasu.os.cell",
