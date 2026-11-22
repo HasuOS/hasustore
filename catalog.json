@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 100,
-   "versionName": "10.30",
+   "code": 101,
+   "versionName": "10.31",
    "size": 16024007,
-   "changes": "Template preview is now page by page: swipe left and right through a template's pages exactly as they will sit on your home screen, built from the apps on your phone; a template's dock apps now stay on their pages exactly as previewed, and every widget in a template now appears on its page",
+   "changes": "Icon packs fixed: Home now reads a pack's own back and shape (the first ones in its file), so every app on the phone wears the selected pack's design — no more dark tiles on apps without a drawn icon; the icon cache also keeps packs separate now",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795352605,
-   "etag": "0x8DF4898BF523E7D"
+   "ts": 1795356718,
+   "etag": "0x8DF48A252832C6C"
   },
   {
    "pkg": "hasu.os.pdf",
@@ -761,13 +761,13 @@
    "name": "HasuPack",
    "tag": "Icon packs for HasuOS Home",
    "desc": "Six icon packs drawn for the HasuOS family — Glow, Neon Blue, Royal Gold, Sunset, Mono Tile and Pastel. Tap Set in HasuPack and HasuOS Home wears the pack at once.",
-   "code": 3,
-   "versionName": "1.02",
+   "code": 4,
+   "versionName": "1.03",
    "size": 21119458,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pack.apk",
-   "changes": "100 more drawn icons — every pack now redraws 158 apps (the Hasu family plus WhatsApp, YouTube, Facebook, Instagram, Chrome, Gmail, Spotify, Netflix, the Samsung apps and more), and setting a pack now shows an Applying card counting 0% to 100% while the icons change at once",
-   "ts": 1795352605,
-   "etag": "0x8DF4898C1809F37",
+   "changes": "Bug fix: every pack file carried the Glow pack's dark back three times, so apps without a drawn icon wore dark tiles instead of the pack's own design — each pack now carries exactly its own back, shape and scale",
+   "ts": 1795356718,
+   "etag": "0x8DF48A2501B2D49",
    "cat": "HasuOS"
   }
  ]
