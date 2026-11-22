@@ -720,13 +720,13 @@
    "name": "HasuCall",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 8,
-   "versionName": "1.07",
-   "size": 86894,
+   "code": 9,
+   "versionName": "1.08",
+   "size": 111470,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "1.07: the real reason HasuCall was missing from the Default phone app list — Android checks eligibility by asking which apps handle the Dial action with NO number attached, and HasuCall's Dial filter only answered when a number was attached, so the system never counted it. A bare Dial filter is added: update to 1.07, then open the Default phone app page again — HasuCall is listed now and can be picked. (Carries the 1.05 call-screen service fix and all of 1.06.)",
-   "ts": 1795330808,
-   "etag": "0x8DF48663A98CB7E"
+   "changes": "1.08: the new app icon you picked (design A — the classic glowing handset, fully inside the frame). The old icon was drawn overflowing its canvas, so only a white sliver of the handset showed; this one is the complete design. Everything from 1.05–1.07 is inside: the default phone app fixes, names staying in place in every language, and the hardened call recording.",
+   "ts": 1795330986,
+   "etag": "0x8DF4866A4BE11A7"
   }
  ]
 }
