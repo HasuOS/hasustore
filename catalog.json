@@ -694,39 +694,39 @@
    "name": "HasuSMS",
    "tag": "Text messaging",
    "desc": "The phone's SMS in HasuOS glass — every conversation, chat bubbles, sending, and a path to becoming the default SMS app.",
-   "code": 1,
-   "versionName": "1.00",
+   "code": 2,
+   "versionName": "1.01",
    "size": 70510,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/sms.apk",
-   "changes": "NEW APP: HasuSMS 1.00 — the phone's text messages in HasuOS glass. Every conversation from Android's own message store with contact names, last-message snippets, 12-hour times and unread dots; chat bubbles grouped by day; sending (long messages split by themselves); a new-message screen with a contact picker; search; and notifications when a message arrives. A card offers to make HasuSMS the default SMS app, which unlocks deleting and mark-as-read, exactly as Android requires. 📖 Guide page and 🔐 Permissions hub included — messages never leave this phone.",
-   "ts": 1795326252,
-   "etag": "0x8DF485B9CAAA532"
+   "changes": "FIXED 1.01: HasuSMS would not open at all — it closed instantly with Android's 'this app has a bug' message. The cause was inside the app package, and it is fixed: the app now opens normally. Sorry for the broken first release.",
+   "ts": 1795327739,
+   "etag": "0x8DF485F07029120"
   },
   {
    "pkg": "hasu.os.edit",
    "name": "HasuEdit",
    "tag": "Photo & video editor",
    "desc": "Edit photos with filters, drawing and draggable overlays — and videos with one-layer merge, trim and overlays burned into every frame.",
-   "code": 1,
-   "versionName": "1.00",
+   "code": 2,
+   "versionName": "1.01",
    "size": 95086,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/edit.apk",
-   "changes": "NEW APP: HasuEdit 1.00 — a photo and video editor. Photo editor: filters (B&W, Warm, Cool, Vivid, Fade), brightness/contrast/saturation, rotate, flip, crop, finger drawing, and OVERLAYS — lay text or a second picture over your photo, drag it into place, set its size and opacity. Video tools: 🧩 Merge lays several clips end to end in ONE layer with no re-encoding (clips must share size and format), ✂ Trim keeps one stretch, and 🖼 Overlay burns a picture or text into every frame with the sound kept. Edits save as new files — Pictures/HasuEdit and Movies/HasuEdit — originals never change. 📖 Guide page and 🔐 Permissions hub included.",
-   "ts": 1795326894,
-   "etag": "0x8DF485D1AB80EE7"
+   "changes": "FIXED 1.01: HasuEdit would not open at all — it closed instantly with Android's 'this app has a bug' message. The cause was inside the app package, and it is fixed: the app now opens normally. Sorry for the broken first release.",
+   "ts": 1795327739,
+   "etag": "0x8DF485F0C73F84E"
   },
   {
    "pkg": "hasu.os.call",
    "name": "HasuCall",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 1,
-   "versionName": "1.00",
+   "code": 2,
+   "versionName": "1.01",
    "size": 78702,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "NEW APP: HasuCall 1.00 — the phone app in HasuOS glass. Recents from the phone's own call log (incoming ↗ green, outgoing blue, missed red, 12-hour times and durations; tap to call back, long-press to remove an entry), Contacts with live search and tap-to-call, and a dial pad with real key tones (long-press 0 for +). A card offers to make HasuCall the default phone app — then its own call screen handles every call with the caller's name, a running timer, and Answer, Reject, Speaker, Mute and End buttons. 📖 Guide page and 🔐 Permissions hub included — call history never leaves this phone.",
-   "ts": 1795327343,
-   "etag": "0x8DF485E19466A9B"
+   "changes": "FIXED 1.01: HasuCall would not open at all — it closed instantly with Android's 'this app has a bug' message. The cause was inside the app package, and it is fixed: the app now opens normally. Sorry for the broken first release.",
+   "ts": 1795327739,
+   "etag": "0x8DF485F0D9031DA"
   }
  ]
 }
