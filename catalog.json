@@ -292,13 +292,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 43,
-   "versionName": "2.18",
-   "size": 784011,
+   "code": 44,
+   "versionName": "2.19",
+   "size": 788107,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "2.18: the 📸 screenshot button now takes you straight to instant screenshots. Android only allows instant, prompt-free screenshots through Accessibility — every other way, it shows its screen-share approval on every single shot, and no app can skip that. So with Accessibility off, the first tap now opens the Accessibility switch for HasuQuick instead of the approval prompt: turn it on once and every shot after that is instant.",
-   "ts": 1795330194,
-   "etag": "0x8DF4864CD093828"
+   "changes": "2.19: the extra buttons now have their OWN switches, one by one, as you asked — Panel controls lists Back, Recents, Notifications, Screenshot tile, Lock, Power and Quick settings separately. Turn any of them off and only that button leaves the panel; the rest stay. (They still appear only while Accessibility is on, since they work through it.)",
+   "ts": 1795330646,
+   "etag": "0x8DF4865DAC8F8A7"
   },
   {
    "pkg": "hasu.os.radio",
