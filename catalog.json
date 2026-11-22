@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 101,
-   "versionName": "10.31",
-   "size": 16024007,
-   "changes": "Icon packs fixed: Home now reads a pack's own back and shape (the first ones in its file), so every app on the phone wears the selected pack's design — no more dark tiles on apps without a drawn icon; the icon cache also keeps packs separate now",
+   "code": 102,
+   "versionName": "10.32",
+   "size": 16028103,
+   "changes": "Templates rebuilt the way you asked: every template is now made from ALL the apps on your phone — your apps counted, a beautiful widget woven onto every page, as many pages as your apps need, and an app you removed never shows. The preview shows exactly that, page by page",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795356718,
-   "etag": "0x8DF48A252832C6C"
+   "ts": 1795358978,
+   "etag": "0x8DF48A7AF85E43E"
   },
   {
    "pkg": "hasu.os.pdf",
