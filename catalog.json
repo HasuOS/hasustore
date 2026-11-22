@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 14,
-   "versionName": "1.13",
+   "code": 15,
+   "versionName": "1.14",
    "size": 131950,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "Premium pass: deep three-stop night gradient, every contact gets their own jewel-gradient avatar circle, keypad keys bounce with a soft haptic tick, screens fade in, the Recents tab shows a live missed-call count, and the call screen's avatar breathes while the phone rings.",
-   "ts": 1795334873,
-   "etag": "0x8DF486FB24CD129"
+   "changes": "Every screen beautified: diagonal three-stop glass cards, jewel-gradient accent buttons, gradient scrim and a readable name shadow on the call screen, airy letter spacing on the keypad. Names now stay on the LEFT in every script — Arabic names no longer jump to the right.",
+   "ts": 1795335195,
+   "etag": "0x8DF48706D36BB68"
   }
  ]
 }
