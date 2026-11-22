@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 32,
-   "versionName": "1.31",
-   "size": 148405,
+   "code": 33,
+   "versionName": "1.32",
+   "size": 152501,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "Real premium icons at last: the emoji are gone — every icon in the app is now a drawn Font Awesome glyph (the same family the other HasuOS apps use) with the white glow treatment, and the cards wear frostier transparent glass. Tabs, Settings and About buttons, the dialpad, the call screen, every row. And the Records tab is removed: the recording function lives in Settings, and a person's saved recordings now play right on their own page — tap their number.",
-   "ts": 1795340519,
-   "etag": "0x8DF487CBC639F37"
+   "changes": "The Contacts tab is fast now: it builds its rows in pages of 60 with a Show more pill, instead of building hundreds of rows at once. And HasuPhone now shares its per-number world with HasuCell — profile photos and videos, covers, call backgrounds, favourites, blocked numbers and speed dial — so HasuCell's contact page can be an exact clone of this one (HasuCell 1.05).",
+   "ts": 1795341048,
+   "etag": "0x8DF487E1170FA00"
   },
   {
    "pkg": "hasu.os.cell",
