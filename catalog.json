@@ -331,13 +331,13 @@
       "name": "HasuShare",
       "tag": "Offline file sharing",
       "desc": "Offline file sharing — pick files, share them over WiFi or hotspot, and the other phone downloads them from your browser address. No internet needed.",
-      "code": 5,
-      "versionName": "1.04",
-      "size": 271214,
+      "code": 7,
+      "versionName": "1.06",
+      "size": 275310,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/share.apk",
-      "changes": "NEW: the share address now shows as a QR code — the other phone just scans it instead of typing an IP address by hand (any camera reads it; HasuScan opens it straight into the browser). The code renders once per address, off the UI thread, and hides the moment sharing stops. FIXED: the sharing notification now carries HasuShare's own icon instead of a system share glyph. The Receive page now tells the other phone to scan the code.",
-      "ts": 1795109085,
-      "etag": "0x8DF4661AFB7F6C8"
+      "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until notifications are really allowed, blue only then, repainted on every return. DESIGN: the About page icon now sits on a glass tile. FIXED: rotation no longer rebuilds any screen — the share address, QR code and download count keep going through a turn instead of the whole screen restarting. The Guide and About pages list them all.",
+      "ts": 1795322261,
+      "etag": "0x8DF48523CC19550"
     },
     {
       "pkg": "hasu.os.shikha",
