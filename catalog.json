@@ -720,26 +720,26 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 23,
-   "versionName": "1.22",
+   "code": 24,
+   "versionName": "1.23",
    "size": 140142,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "Fix: Android was hiding HasuCell from HasuPhone, so Edit fell back to the phone's own saver. HasuCell is now declared, and Edit/Add opens HasuCell directly (update HasuCell to 1.01 too).",
-   "ts": 1795337486,
-   "etag": "0x8DF4875C1FA0DA8"
+   "changes": "Speed: the call log and address book are now read on a background thread and cached — the app opens at once and tabs switch instantly, instead of re-reading everything on the spot every time.",
+   "ts": 1795337917,
+   "etag": "0x8DF4876C5864BBF"
   },
   {
    "pkg": "hasu.os.cell",
    "name": "HasuCell",
    "tag": "Contacts, connected with HasuPhone",
    "desc": "Your address book in HasuOS glass: search, favourites, and a page for every person. Connected with HasuPhone — contacts saved here appear there at once, calls open in HasuPhone with the SIM 1 / SIM 2 choice, and HasuPhone's Add/Edit opens this editor.",
-   "code": 3,
-   "versionName": "1.02",
+   "code": 4,
+   "versionName": "1.03",
    "size": 62318,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cell.apk",
-   "changes": "Contacts with no phone number now appear too (the list reads the whole address book, not only numbered entries), and search matches any of a person's numbers.",
-   "ts": 1795337792,
-   "etag": "0x8DF4876709A4A2B",
+   "changes": "Speed: the address book loads in the background and is cached, and contact photos are decoded once at avatar size — the app opens at once instead of re-reading and re-decoding everything on every visit.",
+   "ts": 1795337917,
+   "etag": "0x8DF4876C612DB35",
    "cat": "Phone"
   }
  ]
