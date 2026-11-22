@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 21,
-   "versionName": "1.20",
-   "size": 136046,
+   "code": 22,
+   "versionName": "1.21",
+   "size": 140142,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "The profile page now shows the contact's full details: every number the address book holds for them (each with its own Call button) and their email.",
-   "ts": 1795337001,
-   "etag": "0x8DF4874A4D65C24"
+   "changes": "The number's page is now a full contact page: every number with Call and Message buttons, email, Share contact and Delete contact — alongside the profile/cover/call-background pictures, favourites, blocking and speed dial.",
+   "ts": 1795337087,
+   "etag": "0x8DF4874D98D5309"
   },
   {
    "pkg": "hasu.os.cell",
