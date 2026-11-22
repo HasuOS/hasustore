@@ -720,13 +720,13 @@
    "name": "HasuCall",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 3,
-   "versionName": "1.02",
+   "code": 4,
+   "versionName": "1.03",
    "size": 82798,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "1.02: a guide card for Android's restricted settings. Because HasuCall is installed from HasuStore rather than Google Play, Android may block call log access — the Allow screens now walk you through the one-time fix (App info → ⋮ → Allow restricted settings) with a button that opens the exact page.",
-   "ts": 1795328266,
-   "etag": "0x8DF48604120ACF1"
+   "changes": "1.03: the keypad is rebuilt — every key is now one centred button with the number big in the middle and its letters small underneath, all inside the pill. The old keys drew the number at the top-left corner with the letters spilling below the button (your screenshot).",
+   "ts": 1795328596,
+   "etag": "0x8DF48611442BDB6"
   }
  ]
 }
