@@ -761,13 +761,13 @@
    "name": "HasuPack",
    "tag": "Icon packs for HasuOS Home",
    "desc": "Six icon packs drawn for the HasuOS family — Glow, Neon Blue, Royal Gold, Sunset, Mono Tile and Pastel. Tap Set in HasuPack and HasuOS Home wears the pack at once.",
-   "code": 4,
-   "versionName": "1.03",
-   "size": 21119458,
+   "code": 5,
+   "versionName": "1.04",
+   "size": 72556331,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pack.apk",
-   "changes": "Bug fix: every pack file carried the Glow pack's dark back three times, so apps without a drawn icon wore dark tiles instead of the pack's own design — each pack now carries exactly its own back, shape and scale",
-   "ts": 1795356718,
-   "etag": "0x8DF48A2501B2D49",
+   "changes": "NEW pack: Delta Icons — a real downloaded open-source icon pack (13,000+ icons, 19,000+ app mappings) built right into HasuPack, as you ordered. Open the Delta Icons card and tap Set: thousands of popular apps get Delta's own drawn icons at once. Apps Delta doesn't know keep their own icon untouched (Delta has no mask system). The six drawn packs are still there",
+   "ts": 1795363866,
+   "etag": "0x8DF48B30FC4AF70",
    "cat": "HasuOS"
   }
  ]
