@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 12,
-   "versionName": "1.11",
-   "size": 119662,
+   "code": 13,
+   "versionName": "1.12",
+   "size": 131950,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "1.11: THE default phone app fix — found and corrected at last. The call service carried the wrong system permission line (BIND_INCALL_EXPERIENCE, which belongs to wearable extensions); Android only lists a phone app whose call service declares BIND_INCALL_SERVICE — the line every working dialer uses. It is corrected in this build, so after installing 1.11, HasuPhone appears in Settings → Apps → Default apps → Phone app, and choosing it turns on the app's own call screen and call recording. Sorry for the rounds this took.",
-   "ts": 1795333756,
-   "etag": "0x8DF486D1718191A"
+   "changes": "All features added: T9 contact matches while you type on the keypad, speed dial (long-press 2-9, 1 = voicemail), favourites on top of Contacts, block numbers + block unknown callers, flash blinks on incoming calls, in-call Hold, in-call keypad (DTMF), Add call, decline with a ready-made message, Recents filter (All / Missed) and clear-all history, add/edit contact from the profile page.",
+   "ts": 1795334519,
+   "etag": "0x8DF486EDC2C688E"
   }
  ]
 }
