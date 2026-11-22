@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 103,
-   "versionName": "10.33",
-   "size": 16028103,
-   "changes": "Templates: the empty pages are fixed — the preview strip was only one page wide and Android clipped every later page away to nothing, however far you swiped; the strip now spans all pages. Widgets are also woven in twice as often (about every 8 apps), so every page carries more of them",
+   "code": 104,
+   "versionName": "10.34",
+   "size": 16032199,
+   "changes": "NEW: HasuOS Home now updates ITSELF — a built-in update section (Settings hub → App update) checks HasuStore for Home's own update, notifies you like the store does, downloads with Pause/Stop and full verification, and installs it. No need to open HasuStore for Home updates any more",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795361262,
-   "etag": "0x8DF48AD01556D13"
+   "ts": 1795362056,
+   "etag": "0x8DF48AECB6EF7BB"
   },
   {
    "pkg": "hasu.os.pdf",
