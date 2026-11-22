@@ -733,13 +733,13 @@
    "name": "HasuCell",
    "tag": "Contacts, connected with HasuPhone",
    "desc": "Your address book in HasuOS glass: search, favourites, and a page for every person. Connected with HasuPhone — contacts saved here appear there at once, calls open in HasuPhone with the SIM 1 / SIM 2 choice, and HasuPhone's Add/Edit opens this editor.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 62318,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cell.apk",
-   "changes": "Fix: HasuPhone and HasuSMS are now declared, so Call opens in HasuPhone (with the SIM choice) and Message in HasuSMS instead of the system apps.",
-   "ts": 1795337486,
-   "etag": "0x8DF4875C2B950A2",
+   "changes": "Contacts with no phone number now appear too (the list reads the whole address book, not only numbered entries), and search matches any of a person's numbers.",
+   "ts": 1795337792,
+   "etag": "0x8DF4876709A4A2B",
    "cat": "Phone"
   }
  ]
