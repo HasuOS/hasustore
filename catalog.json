@@ -688,6 +688,19 @@
    "changes": "NEW APP: HasuDown 1.00 — a download manager for every file. Paste a link or share one in from any app; up to three downloads run at once with live progress and speed while the rest queue and start by themselves. Pause and resume from the exact byte, even after the app closes, and finished files are saved to Downloads/HasuDown ready to open. 📖 Guide page and 🔐 Permissions hub included — no runtime permissions.",
    "ts": 1795325354,
    "etag": "0x8DF48597C2C77AC"
+  },
+  {
+   "pkg": "hasu.os.sms",
+   "name": "HasuSMS",
+   "tag": "Text messaging",
+   "desc": "The phone's SMS in HasuOS glass — every conversation, chat bubbles, sending, and a path to becoming the default SMS app.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 70510,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/sms.apk",
+   "changes": "NEW APP: HasuSMS 1.00 — the phone's text messages in HasuOS glass. Every conversation from Android's own message store with contact names, last-message snippets, 12-hour times and unread dots; chat bubbles grouped by day; sending (long messages split by themselves); a new-message screen with a contact picker; search; and notifications when a message arrives. A card offers to make HasuSMS the default SMS app, which unlocks deleting and mark-as-read, exactly as Android requires. 📖 Guide page and 🔐 Permissions hub included — messages never leave this phone.",
+   "ts": 1795326252,
+   "etag": "0x8DF485B9CAAA532"
   }
  ]
 }
