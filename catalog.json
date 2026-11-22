@@ -707,13 +707,13 @@
    "name": "HasuEdit",
    "tag": "Photo & video editor",
    "desc": "Edit photos with filters, drawing and draggable overlays — and videos with one-layer merge, trim and overlays burned into every frame.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 95086,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/edit.apk",
-   "changes": "FIXED 1.01: HasuEdit would not open at all — it closed instantly with Android's 'this app has a bug' message. The cause was inside the app package, and it is fixed: the app now opens normally. Sorry for the broken first release.",
-   "ts": 1795327739,
-   "etag": "0x8DF485F0C73F84E"
+   "changes": "1.02: the video overlay now shows a LIVE PREVIEW — the video's first frame with your text or picture drawn at the exact spot and size that will be burned in, so you see the change before you apply it. The export engine was also fixed: it now waits properly for the encoder to finish (the old code could lose the end of the video) and checks the finished file before calling it saved — an empty result is reported honestly, never saved as a success.",
+   "ts": 1795329285,
+   "etag": "0x8DF4862AF6265E5"
   },
   {
    "pkg": "hasu.os.call",
