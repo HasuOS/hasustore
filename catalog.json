@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 33,
-   "versionName": "1.32",
+   "code": 34,
+   "versionName": "1.33",
    "size": 152501,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "The Contacts tab is fast now: it builds its rows in pages of 60 with a Show more pill, instead of building hundreds of rows at once. And HasuPhone now shares its per-number world with HasuCell — profile photos and videos, covers, call backgrounds, favourites, blocked numbers and speed dial — so HasuCell's contact page can be an exact clone of this one (HasuCell 1.05).",
-   "ts": 1795341048,
-   "etag": "0x8DF487E1170FA00"
+   "changes": "Numbers now have categories: Family, Father, Mother, Wife, Son, Friends, Business — plus any category you create yourself. Set one on a number's own page (the Category row in Quick actions), and filter the Contacts tab by the chips under the search box. The categories are shared: HasuCell and HasuSMS show the same ones.",
+   "ts": 1795341837,
+   "etag": "0x8DF487FC5FE9D1A"
   },
   {
    "pkg": "hasu.os.cell",
