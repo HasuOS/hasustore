@@ -421,14 +421,14 @@
    "pkg": "hasu.os.tools",
    "name": "HasuTools",
    "tag": "Pocket tools",
-   "desc": "Tools — compass, bubble level, real-size ruler and a torch with strobe and SOS modes.",
-   "code": 6,
-   "versionName": "1.02",
-   "size": 54126,
+   "desc": "Tools — compass, bubble level, real-size ruler, torch with strobe and SOS, and a sound meter.",
+   "code": 9,
+   "versionName": "1.05",
+   "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tools.apk",
-   "changes": "NEW: Permissions hub at the top of the main screen — Camera and Microphone with their real live states, plus Vibration as an install-time grant, and a Turn-all-on walk. FIXED: Strobe and SOS no longer keep blinking after you leave the Torch tab with no way to stop them — leaving the tab stops the blinking (a steady torch stays on); the torch button now always shows the torch's real state. The torch asks for the Camera permission on the spot instead of failing silently, the microphone is asked once per session instead of on every Sound visit, and the last-crash dialog is premium glass now.",
-   "ts": 1795090719,
-   "etag": "0x8DF463721FFEF98"
+   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every tool and button, explained one by one. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until Camera and Microphone are both really on, blue only then, repainted on every return (the drawable was always blue). FIXED: Strobe and SOS on a phone with no flash no longer repeat the 'No flash on this phone' message — they stop after the first one. DESIGN: the About page icon now sits on a glass tile. FOLDED IN (never published before): SOS now flashes true Morse timing — three short, three long, three short — and the Strobe and SOS buttons stay lit while their mode is running; the ruler now measures from the screen's vertical density, so a centimetre on screen is a real centimetre; rotation no longer rebuilds any screen. The Guide and About pages list the Guide and the honest toggle.",
+   "ts": 1795326139,
+   "etag": "0x8DF485B45EBE7EE"
   },
   {
    "pkg": "hasu.os.usage",
