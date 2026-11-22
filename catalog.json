@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 55,
-   "versionName": "5.27",
+   "code": 56,
+   "versionName": "5.28",
    "size": 68625193,
-   "changes": "SMOOTH TYPING (his report: typing felt heavy next to Samsung Keyboard): the suggestion engine no longer scans all 10,000 English + 20,000 Bangla words on every keystroke — both dictionaries are now indexed by their first letters, so each key only checks the handful of words that can match. Same suggestions, same order — typing answers instantly.",
+   "changes": "The HasuBoard word at the top-left of the main screen is removed — the header is now just the buttons, so nothing wraps top-to-bottom",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
-   "ts": 1795344381,
-   "etag": "0x8DF4885B20DBA9B"
+   "ts": 1795352605,
+   "etag": "0x8DF4898BD52465F"
   },
   {
    "pkg": "hasu.os.browser",
@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 99,
-   "versionName": "10.29",
+   "code": 100,
+   "versionName": "10.30",
    "size": 16024007,
-   "changes": "Templates fixed your way: each template now arranges ALL the home pages, not one — every page designed with widgets sitting between the apps, ten layouts. Colours are NOT touched: your wallpaper, glass and icon look stay exactly yours. Tap a template to preview every page, then apply. Plus icon-pack masks: a pack set from HasuPack now restyles every app on the phone.",
+   "changes": "Template preview is now page by page: swipe left and right through a template's pages exactly as they will sit on your home screen, built from the apps on your phone; a template's dock apps now stay on their pages exactly as previewed, and every widget in a template now appears on its page",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795349872,
-   "etag": "0x8DF489276FE1CA8"
+   "ts": 1795352605,
+   "etag": "0x8DF4898BF523E7D"
   },
   {
    "pkg": "hasu.os.pdf",
@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 226,
-   "versionName": "2.33",
+   "code": 227,
+   "versionName": "2.34",
    "size": 114687763,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "DOWNLOAD FIX (his screenshot: HasuBoard reached 100% then showed 'Download failed'): a downloaded file that fails verification is now wiped and downloaded once more from zero automatically, a complete temp file is verified instead of being thrown away and re-downloaded, and a close-time hiccup can no longer throw away a finished download. The Update button itself now shows the live percent while downloading.",
-   "ts": 1795348366,
-   "etag": "0x8DF488EDB00B951"
+   "changes": "Download fixed properly: a finished download is now checked by its exact size and a full file read, so 100% no longer fails or restarts from 0%; a download that ends early resumes on the next attempt instead of starting over, and a failed auto-download waits 30 minutes instead of looping forever",
+   "ts": 1795352605,
+   "etag": "0x8DF4898B789A261"
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -761,13 +761,13 @@
    "name": "HasuPack",
    "tag": "Icon packs for HasuOS Home",
    "desc": "Six icon packs drawn for the HasuOS family — Glow, Neon Blue, Royal Gold, Sunset, Mono Tile and Pastel. Tap Set in HasuPack and HasuOS Home wears the pack at once.",
-   "code": 2,
-   "versionName": "1.01",
-   "size": 8204556,
+   "code": 3,
+   "versionName": "1.02",
+   "size": 21119458,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pack.apk",
-   "changes": "Six genuinely different pack designs (not colour swaps): HasuOS Glow, Tile Pop (each icon on its own colour tile), Ring (glowing ring on dark glass), Duo (two-tone gradient glyphs), Glass Cube and Sticker (thick white border). And every pack now covers EVERY app on your phone: apps without a drawn icon keep their own picture inside the pack's shape, so the whole home matches.",
-   "ts": 1795349872,
-   "etag": "0x8DF489277EA90E5",
+   "changes": "100 more drawn icons — every pack now redraws 158 apps (the Hasu family plus WhatsApp, YouTube, Facebook, Instagram, Chrome, Gmail, Spotify, Netflix, the Samsung apps and more), and setting a pack now shows an Applying card counting 0% to 100% while the icons change at once",
+   "ts": 1795352605,
+   "etag": "0x8DF4898C1809F37",
    "cat": "HasuOS"
   }
  ]
