@@ -240,13 +240,13 @@
       "name": "HasuNews",
       "tag": "Bangla news",
       "desc": "Bangla news — Prothom Alo and BBC Bangla headlines, articles open inside the app, and last headlines stay saved for offline reading.",
-      "code": 5,
-      "versionName": "1.03",
-      "size": 45934,
+      "code": 7,
+      "versionName": "1.05",
+      "size": 50030,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/news.apk",
-      "changes": "NEW: add your own RSS feeds — tap ＋ Feed, give it a name and address, and it appears as a new tab next to Prothom Alo and BBC Bangla; long-press a feed's tab to remove it. Caches are now keyed by each feed's address, so removing a feed can never hand another feed's headlines over. NEW: a ✕ button on the search box clears it in one tap. FIXED: the app's web identity now carries its real version instead of a hardcoded old one.",
-      "ts": 1795109085,
-      "etag": "0x8DF4661B972A8DE"
+      "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: Atom feeds now work — the parser only understood RSS <item> entries with the link as text, so a custom Atom feed (articles in <entry>, links as <link href=\"…\"/> attributes, dates in <updated>) loaded zero articles and looked empty. All three are read now. FIXED: removing a custom feed while its headlines are still loading no longer crashes the app — the stale load is dropped instead of reaching for the feed that is gone. FIXED: rotation no longer rebuilds any screen — every screen now keeps its state across a turn. DESIGN: the About page icon now sits on a glass tile. The Guide and About pages list them all.",
+      "ts": 1795315228,
+      "etag": "0x8DF4841E92D402C"
     },
     {
       "pkg": "hasu.os.notes",
