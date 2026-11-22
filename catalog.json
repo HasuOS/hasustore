@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 30,
-   "versionName": "1.29",
+   "code": 31,
+   "versionName": "1.30",
    "size": 140142,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "The top of the app is one clean line now: the separate Permissions row is gone — its toggle lives in the header, right beside Settings. And a premium pass over the whole app: every pill and button glyph glows like the app icons, pill gradients are richer three-stop glass, the call-type arrows in Recents sit on glass discs, and the dial digits carry a soft shadow.",
-   "ts": 1795339807,
-   "etag": "0x8DF487B2E5E046F"
+   "changes": "The Records tab is now only your recordings — the list and the player. The recording function itself (auto-record, microphone, and the honest note about how recording works) lives in Settings, where it belongs; the two explanation cards that opened the tab are gone.",
+   "ts": 1795339968,
+   "etag": "0x8DF487B8E648E01"
   },
   {
    "pkg": "hasu.os.cell",
