@@ -720,26 +720,26 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 22,
-   "versionName": "1.21",
+   "code": 23,
+   "versionName": "1.22",
    "size": 140142,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "The number's page is now a full contact page: every number with Call and Message buttons, email, Share contact and Delete contact — alongside the profile/cover/call-background pictures, favourites, blocking and speed dial.",
-   "ts": 1795337087,
-   "etag": "0x8DF4874D98D5309"
+   "changes": "Fix: Android was hiding HasuCell from HasuPhone, so Edit fell back to the phone's own saver. HasuCell is now declared, and Edit/Add opens HasuCell directly (update HasuCell to 1.01 too).",
+   "ts": 1795337486,
+   "etag": "0x8DF4875C1FA0DA8"
   },
   {
    "pkg": "hasu.os.cell",
    "name": "HasuCell",
    "tag": "Contacts, connected with HasuPhone",
    "desc": "Your address book in HasuOS glass: search, favourites, and a page for every person. Connected with HasuPhone — contacts saved here appear there at once, calls open in HasuPhone with the SIM 1 / SIM 2 choice, and HasuPhone's Add/Edit opens this editor.",
-   "code": 1,
-   "versionName": "1.00",
+   "code": 2,
+   "versionName": "1.01",
    "size": 62318,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cell.apk",
-   "changes": "First release: full contact list with search, favourites strip, per-person page (call/message/edit/share/delete), and an editor that saves into the phone's address book — connected with HasuPhone both ways.",
-   "ts": 1795336600,
-   "etag": "0x8DF4873B39C4DB2",
+   "changes": "Fix: HasuPhone and HasuSMS are now declared, so Call opens in HasuPhone (with the SIM choice) and Message in HasuSMS instead of the system apps.",
+   "ts": 1795337486,
+   "etag": "0x8DF4875C2B950A2",
    "cat": "Phone"
   }
  ]
