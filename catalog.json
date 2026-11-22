@@ -292,13 +292,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 41,
-   "versionName": "2.16",
-   "size": 779915,
+   "code": 42,
+   "versionName": "2.17",
+   "size": 784011,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "FIXED: switching Ring → Vibrate → Silent no longer makes the popup jump — the ringer button used to close the whole panel and reopen it on every tap, so the popup flickered while the other buttons stayed calm; the ringer tile now updates in place (new icon, name and lit background) and the panel stays exactly where it was. Your video or music sound is still never touched by it. The Guide and About pages note it.",
-   "ts": 1795224319,
-   "etag": "0x8DF476E477303F6"
+   "changes": "2.17: a 📸 Screenshot button at the right end of the volume row, as you asked. The panel closes first, then the picture is taken and saved to Pictures/HasuQuick (Android shows its screen-share approval when Accessibility is off; with it on, the shot is instant). The button hides while the all-sounds view is open and returns with the panel, and Panel controls has its own on/off switch for it.",
+   "ts": 1795329070,
+   "etag": "0x8DF486225BE9DC7"
   },
   {
    "pkg": "hasu.os.radio",
