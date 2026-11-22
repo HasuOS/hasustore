@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 24,
-   "versionName": "1.23",
+   "code": 25,
+   "versionName": "1.24",
    "size": 140142,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "Speed: the call log and address book are now read on a background thread and cached — the app opens at once and tabs switch instantly, instead of re-reading everything on the spot every time.",
-   "ts": 1795337917,
-   "etag": "0x8DF4876C5864BBF"
+   "changes": "The tab bar (Recents / Contacts / Keypad / Records) now sits at the BOTTOM of the screen in its own glass bar, like every phone app — it was at the top.",
+   "ts": 1795338110,
+   "etag": "0x8DF487738B0DF1C"
   },
   {
    "pkg": "hasu.os.cell",
