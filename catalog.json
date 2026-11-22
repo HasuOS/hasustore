@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 227,
-   "versionName": "2.34",
+   "code": 228,
+   "versionName": "2.35",
    "size": 114687763,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Download fixed properly: a finished download is now checked by its exact size and a full file read, so 100% no longer fails or restarts from 0%; a download that ends early resumes on the next attempt instead of starting over, and a failed auto-download waits 30 minutes instead of looping forever",
-   "ts": 1795352605,
-   "etag": "0x8DF4898B789A261"
+   "changes": "The HasuBoard fix: hand-started downloads now hold the same wake lock as auto-downloads, so the phone sleeping no longer freezes a big download near the end (why every app updated except HasuBoard). NEW: Pause and Stop buttons on the download card — Pause keeps the downloaded part and Resume continues from it; downloads also check free space first and say so plainly",
+   "ts": 1795360275,
+   "etag": "0x8DF48AAA442324C"
   },
   {
    "pkg": "hasu.os.tasbih",
