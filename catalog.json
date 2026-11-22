@@ -720,13 +720,13 @@
    "name": "HasuCall",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 6,
-   "versionName": "1.05",
+   "code": 7,
+   "versionName": "1.06",
    "size": 86894,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "1.05: FIXED why HasuCall would not become the default phone app — its call-screen service carried a wrong permission name, so Android refused to count HasuCall as a real phone app at all. It is corrected now: update, open HasuCall, tap \"Make HasuCall default\" on the Recents card and pick HasuCall. A second button on that card opens the Default apps settings as a manual route. Once default, HasuCall's own call screen and auto-recording work.",
-   "ts": 1795329952,
-   "etag": "0x8DF48643CDD54A1"
+   "changes": "1.06: names now stay in their place in every language — a name written in Arabic (or any right-to-left letters) no longer jumps to the right side of the row; Recents, Contacts and the call screen all keep the name where it belongs. Call recording hardened: if the phone refuses the voice-call microphone source, recording retries on the plain microphone instead of failing, and recording file names no longer contain a colon, so they copy cleanly to a computer. Recordings save in Music/HasuCall.",
+   "ts": 1795330430,
+   "etag": "0x8DF486558B75D07"
   }
  ]
 }
