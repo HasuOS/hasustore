@@ -720,13 +720,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 17,
-   "versionName": "1.16",
+   "code": 18,
+   "versionName": "1.17",
    "size": 131950,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "Names locked to the left for good: every name is shown with an invisible left-to-right lock, and the call screen's name box is now only as wide as the name itself — Arabic names can no longer drift to the right side.",
-   "ts": 1795335640,
-   "etag": "0x8DF48717A8440FE"
+   "changes": "Three separate pictures now: the profile picture, the cover (profile page only), and a NEW third slot — the call screen background, set per number on its profile page. The call screen uses its own background first.",
+   "ts": 1795335701,
+   "etag": "0x8DF48719D4C252A"
   }
  ]
 }
