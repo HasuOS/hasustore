@@ -738,8 +738,8 @@
       "size": 66414,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cell.apk",
       "changes": "1.04: set a contact's photo right from the editor — tap the round photo at the top of a new or existing contact, pick a picture from your gallery, and it is saved into the phone's address book itself, so HasuPhone shows it too; ✕ Remove photo takes it off again. The Guide now says how.",
-      "ts": 1795337917,
-      "etag": "0x8DF4876C612DB35",
+      "ts": 1795340495,
+      "etag": "0x8DF487C9A018FDE",
       "cat": "Phone"
     }
   ]
