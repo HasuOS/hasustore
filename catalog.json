@@ -292,13 +292,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 45,
-   "versionName": "2.20",
-   "size": 788107,
+   "code": 46,
+   "versionName": "2.21",
+   "size": 784011,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "2.20: the 'Change system settings' toggle that could never be turned on is fixed. The app used that permission everywhere (brightness slider, Permissions hub) but the permission itself was missing from the app's declaration — and Android greys the switch out for any app that does not declare it, which is why other apps could be turned on and this one could not. It is declared now: update, open the brightness permission again, and the switch turns on. (Also carries 2.19: every extra button with its own on/off switch.)",
-   "ts": 1795332019,
-   "etag": "0x8DF4868F85CFFE4"
+   "changes": "2.21: the screenshot button at the end of the volume row is removed (your order) — the panel now has exactly one screenshot button: the 📸 Shot tile in the extra row at the bottom, with its own switch in Panel controls (Extra · Screenshot tile). Nothing lives in two places. Its Panel controls row and the Guide text were tidied to match.",
+   "ts": 1795332531,
+   "etag": "0x8DF486A3C9BCB09"
   },
   {
    "pkg": "hasu.os.radio",
