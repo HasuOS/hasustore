@@ -62,7 +62,7 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.06</b></span>
+    <span class="chip">Version <b id="v">1.07</b></span>
     <span class="chip" id="sz">85 KB</span>
     <span class="chip">hasu.os.call</span>
     <span class="chip">Android 8.0+</span>
@@ -72,8 +72,8 @@
     <p>The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.06</span></h3>
-    <p id="wn">1.06: names now stay in their place in every language — a name written in Arabic (or any right-to-left letters) no longer jumps to the right side of the row; Recents, Contacts and the call screen all keep the name where it belongs. Call recording hardened: if the phone refuses the voice-call microphone source, recording retries on the plain microphone instead of failing, and recording file names no longer contain a colon, so they copy cleanly to a computer. Recordings save in Music/HasuCall.</p>
+    <h3>🆕 What's new in v<span id="wnV">1.07</span></h3>
+    <p id="wn">1.07: the real reason HasuCall was missing from the Default phone app list — Android checks eligibility by asking which apps handle the Dial action with NO number attached, and HasuCall&#x27;s Dial filter only answered when a number was attached, so the system never counted it. A bare Dial filter is added: update to 1.07, then open the Default phone app page again — HasuCall is listed now and can be picked. (Carries the 1.05 call-screen service fix and all of 1.06.)</p>
   </div>
   <div class="cta">
     <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/call.apk">⬇ Download HasuCall</a>
