@@ -292,13 +292,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 46,
-   "versionName": "2.21",
-   "size": 784011,
+   "code": 47,
+   "versionName": "2.22",
+   "size": 796299,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "2.21: the screenshot button at the end of the volume row is removed (your order) — the panel now has exactly one screenshot button: the 📸 Shot tile in the extra row at the bottom, with its own switch in Panel controls (Extra · Screenshot tile). Nothing lives in two places. Its Panel controls row and the Guide text were tidied to match.",
-   "ts": 1795332531,
-   "etag": "0x8DF486A3C9BCB09"
+   "changes": "HasuQuick now updates itself: an App update card on the main screen opens its own update page — latest version, Posted date, What's new, Download with Pause/Resume/Stop, then Install — the same system as HasuStore, inside the app. Update notifications arrive on their own too. (Internet is now used only for this update check and download.)",
+   "ts": 1795397600,
+   "etag": "0x8DF49019C2D6FE2"
   },
   {
    "pkg": "hasu.os.radio",
