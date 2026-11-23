@@ -1,0 +1,222 @@
+{
+ "version": 1,
+ "generatedAt": 1795444892,
+ "items": [
+  {
+   "subject": "computer",
+   "exam": "Sub-Assistant Engineer (Computer/IT) — লিখিত",
+   "question": "TCP/IP মডেল ও OSI মডেলের স্তরগুলো তুলনামূলকভাবে বর্ণনা করুন।",
+   "points": [
+    "OSI মডেলের ৭টি স্তর: Physical, Data Link, Network, Transport, Session, Presentation, Application",
+    "TCP/IP মডেলের ৪টি স্তর: Network Access, Internet, Transport, Application",
+    "OSI-র Session, Presentation ও Application স্তর TCP/IP-তে একসাথে Application স্তর",
+    "প্রধান প্রোটোকল: Transport স্তরে TCP/UDP, Internet স্তরে IP",
+    "OSI মূলত তাত্ত্বিক মডেল, TCP/IP বাস্তবে ব্যবহৃত প্রোটোকল স্যুট"
+   ]
+  },
+  {
+   "subject": "computer",
+   "exam": "Sub-Assistant Engineer (Computer/IT) — লিখিত",
+   "question": "ডেটাবেস নরমালাইজেশন (Normalization) বলতে কী বোঝায়? 1NF, 2NF ও 3NF উদাহরণসহ ব্যাখ্যা করুন।",
+   "points": [
+    "উদ্দেশ্য: অপ্রয়োজনীয় পুনরাবৃত্তি (redundancy) কমানো এবং insert/update/delete anomaly দূর করা",
+    "1NF: প্রতিটি ঘরের মান atomic, repeating group থাকবে না",
+    "2NF: 1NF + composite key-র কোনো অংশের ওপর আংশিক নির্ভরতা (partial dependency) থাকবে না",
+    "3NF: 2NF + transitive dependency থাকবে না (non-key attribute অন্য non-key-এর ওপর নির্ভরশীল নয়)",
+    "প্রতিটি ধাপে একটি ছোট উদাহরণ ছক দেখাতে হবে"
+   ]
+  },
+  {
+   "subject": "computer",
+   "exam": "Sub-Assistant Programmer — লিখিত",
+   "question": "অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং (OOP)-এর চারটি মূল ধারণা উদাহরণসহ ব্যাখ্যা করুন।",
+   "points": [
+    "Encapsulation: data ও method একসাথে রাখা, access modifier দিয়ে বাইরের প্রবেশ নিয়ন্ত্রণ",
+    "Inheritance: parent class-এর বৈশিষ্ট্য child class-এ পুনঃব্যবহার",
+    "Polymorphism: একই নামের ভিন্ন আচরণ — method overloading ও overriding",
+    "Abstraction: শুধু প্রয়োজনীয় অংশ দেখানো, abstract class/interface দিয়ে বাস্তবায়ন",
+    "প্রতিটির একটি করে ছোট code-ধাঁচের উদাহরণ"
+   ]
+  },
+  {
+   "subject": "computer",
+   "exam": "Sub-Assistant Programmer — লিখিত",
+   "question": "SDLC (Software Development Life Cycle)-এর ধাপগুলো বর্ণনা করুন।",
+   "points": [
+    "Requirement Analysis: ব্যবহারকারীর চাহিদা সংগ্রহ ও বিশ্লেষণ",
+    "System Design: কাঠামো, ডেটাবেস ও ইন্টারফেসের নকশা",
+    "Implementation: নকশা অনুযায়ী coding",
+    "Testing: ত্রুটি খুঁজে বের করা ও ঠিক করা (unit, integration, system testing)",
+    "Deployment: ব্যবহারকারীর কাছে চালু করা",
+    "Maintenance: চালুর পর সংশোধন ও উন্নয়ন",
+    "Waterfall ও Agile মডেলের মূল পার্থক্য সংক্ষেপে"
+   ]
+  },
+  {
+   "subject": "computer",
+   "exam": "Sub-Assistant Engineer (Computer/IT) — লিখিত",
+   "question": "Process ও Thread-এর মধ্যে পার্থক্য লিখুন। Multithreading-এর সুবিধা কী?",
+   "points": [
+    "Process: চলমান প্রোগ্রামের স্বতন্ত্র instance, নিজস্ব memory space থাকে",
+    "Thread: একটি process-এর ভিতরের execution unit, একই process-এর thread-রা memory ভাগ করে",
+    "Thread-এর context switching process-এর তুলনায় হালকা ও দ্রুত",
+    "Multithreading-এর সুবিধা: responsiveness বাড়ে, resource sharing, multi-core-এ parallelism"
+   ]
+  },
+  {
+   "subject": "computer",
+   "exam": "Sub-Assistant Engineer (Computer/IT) — লিখিত",
+   "question": "নেটওয়ার্ক টপোলজি কী? Bus, Star ও Ring টপোলজির সুবিধা-অসুবিধা তুলনা করুন।",
+   "points": [
+    "সংজ্ঞা: নেটওয়ার্কে কম্পিউটারগুলো যেভাবে পরস্পর যুক্ত থাকে তার কাঠামোই টপোলজি",
+    "Bus: একটি backbone cable, খরচ কম; backbone নষ্ট হলে পুরো নেটওয়ার্ক বন্ধ",
+    "Star: কেন্দ্রীয় switch/hub; একটি node নষ্ট হলে বাকিরা চলে, কেন্দ্র নষ্ট হলে সব বন্ধ; বর্তমানে সবচেয়ে বহুল ব্যবহৃত",
+    "Ring: প্রতিটি node দুই পাশের node-এর সাথে যুক্ত, token passing পদ্ধতিতে data চলে"
+   ]
+  },
+  {
+   "subject": "computer",
+   "exam": "Sub-Assistant Programmer — লিখিত",
+   "question": "SQL-এ JOIN বলতে কী বোঝায়? INNER, LEFT, RIGHT ও FULL JOIN-এর পার্থক্য উদাহরণসহ লিখুন।",
+   "points": [
+    "JOIN: একাধিক table থেকে সম্পর্কিত data একসাথে আনার পদ্ধতি",
+    "INNER JOIN: দুই table-এই মিল আছে এমন row-ই আসে",
+    "LEFT JOIN: বাম table-এর সব row + ডান table-এর মিলে যাওয়া অংশ",
+    "RIGHT JOIN: ডান table-এর সব row + বাম table-এর মিলে যাওয়া অংশ",
+    "FULL JOIN: দুই table-এর সব row",
+    "প্রতিটির একটি করে SQL syntax উদাহরণ"
+   ]
+  },
+  {
+   "subject": "computer",
+   "exam": "Sub-Assistant Maintenance Engineer — লিখিত",
+   "question": "ফায়ারওয়াল (Firewall) ও এনক্রিপশন (Encryption)-এর কাজ ব্যাখ্যা করুন। Symmetric ও Asymmetric encryption-এর পার্থক্য লিখুন।",
+   "points": [
+    "Firewall: নির্ধারিত নিয়ম অনুযায়ী network traffic যাচাই করে অননুমোদিত প্রবেশ রোধ করে",
+    "Encryption: plaintext-কে ciphertext-এ রূপান্তর করে তথ্যের গোপনীয়তা রক্ষা করে",
+    "Symmetric: encrypt ও decrypt-এ একই key (যেমন AES), দ্রুত কিন্তু key ভাগ করা ঝুঁকিপূর্ণ",
+    "Asymmetric: public/private key জোড়া (যেমন RSA), key exchange নিরাপদ কিন্তু তুলনামূলক ধীর"
+   ]
+  },
+  {
+   "subject": "computer",
+   "exam": "Sub-Assistant Maintenance Engineer — লিখিত",
+   "question": "একটি কম্পিউটার চালু হচ্ছে না — IT সাপোর্ট কর্মী হিসেবে আপনার ট্রাবলশুটিং ধাপগুলো ক্রমানুসারে লিখুন।",
+   "points": [
+    "Power cable, switch ও indicator light যাচাই",
+    "Monitor/display-এর সংযোগ ও power যাচাই",
+    "POST beep code বা error message লক্ষ্য করা",
+    "RAM খুলে পরিষ্কার করে আবার বসানো (reseat), একটা করে stick পরীক্ষা",
+    "অতিরিক্ত peripheral আলাদা করে চালু করে দেখা",
+    "HDD/SSD ও PSU বদলে পরীক্ষা, প্রয়োজনে safe mode-এ boot",
+    "সমস্যা ও গৃহীত পদক্ষেপ লগ করে ঊর্ধ্বতন কর্মকর্তাকে জানানো"
+   ]
+  },
+  {
+   "subject": "computer",
+   "exam": "সাধারণ লিখিত — সব পদ",
+   "question": "ই-গভর্ন্যান্স (e-Governance) কী? সরকারি সেবা জনগণের দোরগোড়ায় পৌঁছে দিতে ICT-এর ভূমিকা আলোচনা করুন।",
+   "points": [
+    "সংজ্ঞা: তথ্যপ্রযুক্তি ব্যবহার করে সরকারি সেবা প্রদান ও প্রশাসনিক কাজ সম্পাদন",
+    "উদাহরণ: জাতীয় তথ্য বাতায়ন (bangladesh.gov.bd), অনলাইন জন্ম নিবন্ধন, ই-নথি, অনলাইন চাকরির আবেদন (Teletalk), ইউনিয়ন ডিজিটাল সেন্টার",
+    "সুবিধা: সময় ও খরচ সাশ্রয়, স্বচ্ছতা, মধ্যস্বত্বভোগী ও দুর্নীতি হ্রাস",
+    "চ্যালেঞ্জ: সব জায়গায় ইন্টারনেট পৌঁছানো, ডিজিটাল সাক্ষরতা, তথ্য নিরাপত্তা"
+   ]
+  },
+  {
+   "subject": "bangla",
+   "exam": "সাধারণ লিখিত — সব পদ",
+   "question": "‘তথ্যপ্রযুক্তিই আধুনিক সভ্যতার চালিকাশক্তি’ — বিষয়টি অবলম্বনে একটি প্রবন্ধের মূল বক্তব্য ও রূপরেখা লিখুন।",
+   "points": [
+    "ভূমিকা: সভ্যতার অগ্রগতিতে প্রযুক্তির স্থান",
+    "শিক্ষা, চিকিৎসা, কৃষি ও ব্যবসা-বাণিজ্যে তথ্যপ্রযুক্তির প্রভাব",
+    "বাংলাদেশের অগ্রগতি: মোবাইল ব্যাংকিং, অনলাইন সরকারি সেবা, ফ্রিল্যান্সিং",
+    "অপব্যবহার ও চ্যালেঞ্জ: আসক্তি, সাইবার অপরাধ, কর্মসংস্থানে প্রভাব",
+    "উপসংহার: সঠিক ব্যবহারেই প্রযুক্তি আশীর্বাদ"
+   ]
+  },
+  {
+   "subject": "bangla",
+   "exam": "সাধারণ লিখিত — সব পদ",
+   "question": "সমাস কাকে বলে? দ্বন্দ্ব ও তৎপুরুষ সমাসের পার্থক্য উদাহরণসহ লিখুন।",
+   "points": [
+    "সংজ্ঞা: অর্থের মিল আছে এমন দুই বা ততোধিক পদ এক পদে পরিণত হওয়াকে সমাস বলে",
+    "দ্বন্দ্ব সমাস: উভয় পদের অর্থই প্রধান (যেমন: মাতা-পিতা, ভাই-বোন)",
+    "তৎপুরুষ সমাস: পরপদের অর্থ প্রধান এবং পূর্বপদের বিভক্তি লোপ পায় (যেমন: রাজপুত্র = রাজার পুত্র)",
+    "ব্যাসবাক্য (বিগ্রহ বাক্য) দিয়ে প্রতিটি উদাহরণ ভেঙে দেখাতে হবে"
+   ]
+  },
+  {
+   "subject": "english",
+   "exam": "General Written — all posts",
+   "question": "Write a paragraph on ‘The Uses of Computer in Modern Life’.",
+   "points": [
+    "A clear opening sentence naming the topic",
+    "Uses in education and research",
+    "Uses in office, banking and business",
+    "Uses in communication and healthcare",
+    "A closing sentence — about 150 words, with linking words (firstly, moreover, finally)"
+   ]
+  },
+  {
+   "subject": "english",
+   "exam": "General Written — all posts",
+   "question": "Translate into English: ‘পরিশ্রমই সৌভাগ্যের প্রসূতি। যে জাতি পরিশ্রমী, সে জাতি উন্নত। আমাদের দেশের মানুষ পরিশ্রমী, কিন্তু সঠিক পরিকল্পনার অভাবে আমরা পিছিয়ে আছি।’ অনুবাদের সময় কোন বিষয়গুলো খেয়াল রাখতে হয়, তাও লিখুন।",
+   "points": [
+    "‘Industry is the mother of good luck’ — প্রবাদটির সমতুল্য ইংরেজি রূপ ব্যবহার করতে হয়",
+    "‘The nation that is industrious is prosperous’",
+    "‘The people of our country are hard-working, but we are lagging behind for want of proper planning’",
+    "খেয়ালের বিষয়: শব্দে শব্দে না করে ভাবানুবাদ, tense-এর ধারাবাহিকতা, প্রবাদ-প্রবচনের সমতুল্য রূপ"
+   ]
+  },
+  {
+   "subject": "math",
+   "exam": "সাধারণ লিখিত — সব পদ",
+   "question": "একটি দ্রব্য ১২% লাভে বিক্রয় করা হলো। দ্রব্যটির ক্রয়মূল্য ২,৫০০ টাকা হলে বিক্রয়মূল্য নির্ণয় করুন এবং লাভ-ক্ষতির শতকরা হিসাবের সূত্রগুলো লিখুন।",
+   "points": [
+    "লাভ = ২,৫০০ × ১২% = ৩০০ টাকা",
+    "বিক্রয়মূল্য = ২,৫০০ + ৩০০ = ২,৮০০ টাকা",
+    "সূত্র: লাভ% = (লাভ ÷ ক্রয়মূল্য) × ১০০",
+    "সূত্র: বিক্রয়মূল্য = ক্রয়মূল্য × (১০০ + লাভ%) ÷ ১০০"
+   ]
+  },
+  {
+   "subject": "math",
+   "exam": "সাধারণ লিখিত — সব পদ",
+   "question": "বার্ষিক ৮% সরল সুদে ৫,০০০ টাকা ৩ বছরে সুদে-আসলে কত হবে? সরল সুদ ও চক্রবৃদ্ধি সুদের পার্থক্য লিখুন।",
+   "points": [
+    "সরল সুদ I = Prt/১০০ = ৫,০০০ × ৮ × ৩ / ১০০ = ১,২০০ টাকা",
+    "সুদে-আসলে = ৫,০০০ + ১,২০০ = ৬,২০০ টাকা",
+    "সরল সুদে প্রতিবছর শুধু মূল আসলের ওপর সুদ হিসাব হয়",
+    "চক্রবৃদ্ধি সুদে আগের সুদের ওপরও সুদ হয়, তাই একই হারে পরিমাণ বেশি হয়"
+   ]
+  },
+  {
+   "subject": "gk",
+   "exam": "সাধারণ লিখিত — সব পদ",
+   "question": "বাংলাদেশের মুক্তিযুদ্ধের প্রধান ঘটনাপ্রবাহ (মার্চ–ডিসেম্বর ১৯৭১) সংক্ষেপে বর্ণনা করুন।",
+   "points": [
+    "৭ মার্চ ১৯৭১: রেসকোর্স ময়দানে বঙ্গবন্ধুর ঐতিহাসিক ভাষণ",
+    "২৫ মার্চ কালরাত্রি: ‘অপারেশন সার্চলাইট’ গণহত্যা",
+    "২৬ মার্চ: স্বাধীনতার ঘোষণা",
+    "১০ এপ্রিল মুজিবনগর সরকার গঠন, ১৭ এপ্রিল শপথ গ্রহণ",
+    "যুদ্ধ পরিচালনায় বাংলাদেশকে ১১টি সেক্টরে ভাগ করা হয়",
+    "১৪ ডিসেম্বর: বুদ্ধিজীবী হত্যাকাণ্ড",
+    "১৬ ডিসেম্বর: পাকিস্তানি বাহিনীর আত্মসমর্পণ ও মহান বিজয়"
+   ]
+  },
+  {
+   "subject": "gk",
+   "exam": "সাধারণ লিখিত — সব পদ",
+   "question": "বাংলাদেশের সংবিধানে বর্ণিত রাষ্ট্র পরিচালনার মূলনীতি চারটি ব্যাখ্যা করুন।",
+   "points": [
+    "সংবিধানের ৮নং অনুচ্ছেদে মূলনীতি চারটি ঘোষিত",
+    "জাতীয়তাবাদ: ভাষা ও সংস্কৃতির ঐক্যের ভিত্তিতে জাতীয় পরিচয়",
+    "সমাজতন্ত্র: অর্থনৈতিক ও সামাজিক ন্যায়বিচার প্রতিষ্ঠা",
+    "গণতন্ত্র: জনগণের শাসন ও নির্বাচিত প্রতিনিধির মাধ্যমে রাষ্ট্র পরিচালনা",
+    "ধর্মনিরপেক্ষতা: কোনো ধর্মের প্রতি পক্ষপাত নয়, সব ধর্মের স্বাধীনতা",
+    "মূলনীতিগুলো রাষ্ট্রের আইন প্রণয়নের পথনির্দেশক"
+   ]
+  }
+ ]
+}
