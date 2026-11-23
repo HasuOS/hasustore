@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795434149,
+  "generatedAt": 1795445943,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -100,6 +100,26 @@
       "category": "ICT",
       "location": "খুলনা",
       "pdfUrl": "https://careers.kuet.ac.bd/api/v1/circulars/cmvnl0t0q00341dqqxo56andw/files/official-circular"
+    },
+    {
+      "id": "bpc-sub-assistant-engineer-2026",
+      "title": "বাংলাদেশ পেট্রোলিয়াম কর্পোরেশন নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Bangladesh Petroleum Corporation (BPC)",
+      "posts": "উপসহকারী প্রকৌশলী (পরিকল্পনা ও উন্নয়ন) — ১টি • উপসহকারী প্রকৌশলী (সাধারণ কর্মশাখা) — ১টি",
+      "vacancy": 2,
+      "qualification": "Diploma in Engineering — the circular requires only 'ডিপ্লোমা ডিগ্রিধারী প্রকৌশলী' (Diploma degree holder engineer) with no technology named, so a Diploma in Computer Engineering qualifies. Relevant experience is an added qualification. Age up to 32 (as of 19 Dec 2026). One candidate may apply for only ONE post in this circular.",
+      "salary": "Grade-10 — ৳32,000–77,300 (National Pay Scale 2026)",
+      "startDate": "2026-11-19",
+      "deadline": "2026-12-19",
+      "fee": "৳223 (Teletalk)",
+      "applyUrl": "https://bpc.teletalk.com.bd",
+      "sourceUrl": "https://govtjobcircular.com/bpc-job-circular/",
+      "published": "2026-11-19",
+      "note": "This circular (memo 28.03.0000.000.010.04.0001.17.52, 19 Nov 2026) covers 19 posts in 14 categories at BPC, Chattogram — of them, these two Sub-Assistant Engineer posts are the ones open to Diploma in Engineering holders. Apply online at bpc.teletalk.com.bd and pay the ৳223 fee by Teletalk SMS within 72 hours.",
+      "grade": "Grade-10",
+      "category": "Engineering",
+      "location": "চট্টগ্রাম",
+      "pdfUrl": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpc/2026/10/5b5a6993-504c-4795-8bd8-977e91378e58.pdf"
     }
   ]
 }
