@@ -36,7 +36,7 @@
    "versionName": "5.28",
    "size": 68625193,
    "changes": "The HasuBoard word at the top-left of the main screen is removed — the header is now just the buttons, so nothing wraps top-to-bottom",
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/board.apk",
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
    "ts": 1795352605,
    "etag": "0x8DF4898BD52465F"
   },
@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 110,
-   "versionName": "10.40",
+   "code": 112,
+   "versionName": "10.42",
    "size": 17139847,
-   "changes": "Your whole list, done: 4 new widgets (Compass, Ayat of the day, Stopwatch, Weather by hour), full home-setup Backup & restore in Settings, 4 new templates (Gaming Arena, Business Desk, Dark Pro, Kids Corner), 24 new wallpapers (74 total), 3 new icon shapes (Teardrop, Hexagon, Leaf), 3 new lock clock faces, swipe-down gesture choice, Flip page animation, icon label size — and the Recent apps widget now wears your icon pack like everywhere else.",
+   "changes": "Two fixes for this app's own update page: Install now opens the installer the same proven way HasuStore does (it failed before), and the Posted date shows the real date and time. Also: Settings → Icons now has a HasuPack card that opens the HasuPack app — packs set there or here are the same packs.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795365836,
-   "etag": "0x8DF48B7A00CB1E4"
+   "ts": 1795368458,
+   "etag": "0x8DF48BDBD7E20F9"
   },
   {
    "pkg": "hasu.os.pdf",
@@ -761,13 +761,13 @@
    "name": "HasuPack",
    "tag": "Icon packs for HasuOS Home",
    "desc": "Six icon packs drawn for the HasuOS family — Glow, Neon Blue, Royal Gold, Sunset, Mono Tile and Pastel. Tap Set in HasuPack and HasuOS Home wears the pack at once.",
-   "code": 5,
-   "versionName": "1.04",
-   "size": 72556331,
+   "code": 6,
+   "versionName": "1.05",
+   "size": 76401954,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pack.apk",
-   "changes": "NEW pack: Delta Icons — a real downloaded open-source icon pack (13,000+ icons, 19,000+ app mappings) built right into HasuPack, as you ordered. Open the Delta Icons card and tap Set: thousands of popular apps get Delta's own drawn icons at once. Apps Delta doesn't know keep their own icon untouched (Delta has no mask system). The six drawn packs are still there",
-   "ts": 1795363866,
-   "etag": "0x8DF48B30FC4AF70",
+   "changes": "Tap any pack and a full page opens: scroll sideways through every icon in the pack, and the Apply button sits at the top-right corner — one tap applies the whole pack. NEW pack: Diamond — a violet diamond tile with a neon edge. 3 more apps drawn: Wikipedia, Google Assistant and Khan Academy (161 apps drawn in every style). More icons keep coming.",
+   "ts": 1795370973,
+   "etag": "0x8DF48C39616CEA1",
    "cat": "HasuOS"
   }
  ]
