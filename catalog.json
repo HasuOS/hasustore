@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 9,
-   "versionName": "1.07",
-   "size": 54126,
+   "code": 10,
+   "versionName": "1.08",
+   "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. NEW: 🔊 Alarm sound — pick the sound the charge alarm rings with; the picker plays each sound when you tap it, so you hear it before you choose, and Silent means vibrate only (a sound that cannot be played falls back to the default alarm sound, so the alarm is never left mute). FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only then, repainted on every return (the drawable was always blue). The Guide and About pages list all three.",
-   "ts": 1795264806,
-   "etag": "0x8DF47CC852FF447"
+   "changes": "NEW: ⚡ Charging time notification — plug in and a silent notification shows only how many minutes are left until full (plus the clock time it will be full), read from the phone's own charging estimate with an honest session-rate fallback when the system won't say yet — no percentage in it, and it disappears by itself when you unplug. It has its own On/Off switch on the new Charging time card, and the app's live time-to-full line now uses the same estimate. The Guide page explains it.",
+   "ts": 1795433112,
+   "etag": "0x8DF495467AA8FA8"
   },
   {
    "pkg": "hasu.os.keyboard",
