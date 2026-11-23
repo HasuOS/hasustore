@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 21,
-   "versionName": "1.19",
-   "size": 99635,
+   "code": 22,
+   "versionName": "1.20",
+   "size": 120182,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "Back to ONE charging notification: the extra slim row from 1.18 is removed — the premium card alone carries the minutes-number icon, the steady anchored countdown and the temperature, health and voltage inside, and Bring back after clear governs the card as before. NEW: Voice alerts — a voice speaks when charging starts, and again when the battery is full, asking you to unplug the charger; one switch on the Charging time card controls both.",
-   "ts": 1795439149,
-   "etag": "0x8DF4962729EE008"
+   "changes": "Voice alerts complete — the voice now follows YOUR percentages: \"Battery full. Please unplug the charger.\" speaks when charging reaches your charge-alarm target (80%, 90% or 100%), \"Battery low. Please charge your phone.\" speaks when the battery drops to your low-battery level, and \"Charging started.\" still speaks on plug-in — one Voice alerts switch controls all three. If your phone's own battery protection stops the charge below 100%, the full line speaks when the charge settles at that limit too, and the card settles as complete. The charging countdown now aims at your set target: set 80% and it counts down to Full (80%) and settles as complete there.",
+   "ts": 1795439796,
+   "etag": "0x8DF4963EE39EE1D"
   },
   {
    "pkg": "hasu.os.keyboard",
