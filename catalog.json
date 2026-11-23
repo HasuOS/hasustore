@@ -19,13 +19,13 @@
       "name": "HasuBattery",
       "tag": "Battery & charge alarm",
       "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-      "code": 10,
-      "versionName": "1.08",
+      "code": 11,
+      "versionName": "1.09",
       "size": 58222,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-      "changes": "NEW: ⚡ Charging time notification — plug in and a silent notification shows only how many minutes are left until full (plus the clock time it will be full), read from the phone's own charging estimate with an honest session-rate fallback when the system won't say yet — no percentage in it, and it disappears by itself when you unplug. It has its own On/Off switch on the new Charging time card, and the app's live time-to-full line now uses the same estimate. The Guide page explains it.",
-      "ts": 1795433112,
-      "etag": "0x8DF495467AA8FA8"
+      "changes": "CHANGED: the charging-time notification’s status-bar icon is now the minutes number itself, with a small M beside it — no more lightning bolt. It shows -- while the estimate is still being worked out and 0 when the charge is full. Everything else is exactly as in 1.08.",
+      "ts": 1795433384,
+      "etag": "0x8DF4955051579B8"
     },
     {
       "pkg": "hasu.os.keyboard",
