@@ -84,13 +84,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 148,
-   "versionName": "20.82",
+   "code": 149,
+   "versionName": "20.83",
    "size": 26535607,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "The XML file's info now carries the profile's details too: for a file with a single profile — like the Cinematic or Portrait looks — tapping the file's info button now shows what that profile is for and what its settings do, the same details the profile's own info button showed before the profile list was removed for single-profile files. Files with several profiles keep their profile list and its info buttons, exactly as before.",
-   "ts": 1795263947,
-   "etag": "0x8DF47B73D1DC990"
+   "changes": "FIXED (photo quality): tap-to-focus now meters the photo itself, not just the preview — before, every still was exposed (and on some phones focused) for the whole frame, so a subject you tapped against a bright or dark background could come out dark or soft. The spot you tap is now carried into the still capture. The rest of the quality pass stands: JPEG quality 98, full-resolution capture, high-quality noise reduction and sharpening.",
+   "ts": 1795429467,
+   "etag": "0x8DF494BE4F74D9B"
   },
   {
    "pkg": "hasu.os.clean",
@@ -110,13 +110,13 @@
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 21,
-   "versionName": "1.15",
-   "size": 1751697,
+   "code": 22,
+   "versionName": "1.16",
+   "size": 3247013,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
-   "changes": "NEW: ⏸ Pause and ▶ Resume for the timer — pause freezes the countdown where it is, so a paused timer never rings, and resume picks it up with exactly what was left; a timer left paused survives a restart. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only when they all are, repainted on every return (the Guide already described it this way; the drawable was always blue). FIXED: the alarm editor's day chips now read Mo Tu We Th Fr Sa Su — Tuesday and Thursday were both just \"T\" before, so the chips could not be told apart. The Guide and About pages list all three.",
-   "ts": 1795226221,
-   "etag": "0x8DF4772A1F274CB"
+   "changes": "NEW: four alarm tones recorded from real life — 🌊 Ocean Waves, 🌧 Gentle Rain, 🐦 Dawn Birds and 🏞 Forest Stream (CC0 recordings, built into the app) — the built-in set is now 14 tones, and the timer can use them too. Each is a 30-second level-normalised loop with a gentle fade, so it rings smoothly until you stop it. The Guide and About pages list them.",
+   "ts": 1795429467,
+   "etag": "0x8DF494BDB477669"
   },
   {
    "pkg": "hasu.os.dice",
@@ -474,26 +474,26 @@
    "name": "HasuWall",
    "tag": "Your gallery & wallpapers",
    "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-   "code": 57,
-   "versionName": "2.20",
-   "size": 193910,
+   "code": 58,
+   "versionName": "2.21",
+   "size": 4884694,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-   "changes": "New 🕐 Timeline: the pill beside the backup icon on the home screen opens every photo and video in one stream, grouped by date - the ones on this phone and the backup-only ones together (backup-only items carry a ☁ badge and open straight in the backup viewer). Search by name or date, a ♥ Favourites view that covers backup-only photos too (long-press any photo to favourite it), and a status line that says how many are on the phone, how many are backup only and how many still wait to back up. New glow icon, and the Permissions hub's Notifications row now explains notifications instead of photos.",
-   "ts": 1795168405,
-   "etag": "0x8DF46EC1C5F860A"
+   "changes": "NEW: ✨ Picks — twelve wallpapers built into the app itself (Moraine Lake, Alpenglow Peaks, Aurora Night, Beach Parasols, Foggy Forest, Sunflower Sunset, Deep Nebula, Coral Reef, Cherry Blossom, Autumn Path, Tropical Shore, City Mono), all public-domain / CC0 photographs from Wikimedia Commons, cropped to a full phone screen. Tap ✨ Picks on the bottom bar, tap any one to preview, edit, favourite and set it — no download, no internet, no permission. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only then, repainted on every return (the drawable was always blue). The Guide and About pages list both.",
+   "ts": 1795429467,
+   "etag": "0x8DF494BD6AB649A"
   },
   {
    "pkg": "hasu.os.weather",
    "name": "HasuWeather",
    "tag": "Weather",
    "desc": "Weather — current conditions and a 7-day forecast for any city on earth, powered by Open-Meteo.",
-   "code": 5,
-   "versionName": "1.02",
-   "size": 50030,
+   "code": 7,
+   "versionName": "1.04",
+   "size": 54126,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/weather.apk",
-   "changes": "NEW: Permissions hub at the top of the main screen — Location with its real live state, plus Internet and Network state as install-time grants, and a Turn-all-on walk. NEW: a 📍 My location button — the weather where you are, with the place named on the map (last fix reused when fresh, one fresh fix with a timeout otherwise). FIXED: a damaged saved coordinate can no longer crash the app on launch (it falls back to Dhaka); the network reader now closes properly even when a download fails; sunrise and sunset can no longer fall back to a 24-hour stamp; the no-internet screen is now a glass card with a working ↻ Retry button; the last-crash dialog is premium glass now; crash-report streams now close properly.",
-   "ts": 1795090719,
-   "etag": "0x8DF463711F68336"
+   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until Location is really on, blue only then, repainted on every return (the drawable was always blue). FIXED: the place line no longer ends in a dangling comma when My location cannot name the country. DESIGN: the About page icon now sits on a glass tile. FOLDED IN (never published before): the staged 1.03 — pressure and visibility cards, a ✕ clear on the search box and Enter searches too, rotation keeps the search text and the forecast, the hourly strip never labels a past hour \"Now\", and an unparseable sunrise or sunset shows a dash instead of a 24-hour stamp. The Guide and About pages list the Guide and the honest toggle.",
+   "ts": 1795429467,
+   "etag": "0x8DF494BCCFD6C0E"
   },
   {
    "pkg": "hasu.os.hasuos",
@@ -513,12 +513,13 @@
    "name": "Hasu",
    "tag": "Portfolio",
    "desc": "Hasu's whole details in one app — a living portfolio: name, role, story, work and contact, all editable on the phone. The developer behind HasuOS.",
-   "code": 4,
-   "versionName": "1.03",
-   "size": 78772,
+   "code": 8,
+   "versionName": "1.07",
+   "size": 82868,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasu.apk",
-   "changes": "Permissions hub at the top of the portfolio: Hasu honestly needs no permissions at all. NEW: share your details as text from the main page. FIXED: the website row in Contact was dead — it opens the site now; a corrupt photo no longer crashes the editor (and its streams close properly); the last-crash dialog is premium glass now.",
-   "etag": "0x8DF462A79182731"
+   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: 📱 Open the HasuOS app now really opens the HasuOS app when it is installed — Android could not see the app from Hasu before, so the button could only ever offer the APK download. DESIGN: the About page icon now sits on a glass tile. FOLDED IN (never published before): the staged 1.04–1.06 — a saved photo can be removed on the Edit page so the default photo shows again, shared details no longer list a contact line you cleared, the profile photo is decoded sampled and cached so the page rebuilds fast, and rotation no longer rebuilds any screen. The Guide and About pages list the Guide and the HasuOS app fix.",
+   "etag": "0x8DF494BD2638D3C",
+   "ts": 1795429467
   },
   {
    "pkg": "hasu.os.tube",
@@ -789,13 +790,13 @@
    "name": "HasuWidget",
    "tag": "Every HasuOS Home widget, one tap to add",
    "desc": "The widget gallery for HasuOS Home: all 66 widget kinds in one glass list — every row now shows a live preview of the widget itself, plus search, categories and favourites. Tap Add on any widget and it appears on your home screen.",
-   "code": 8,
-   "versionName": "1.07",
-   "size": 86894,
+   "code": 9,
+   "versionName": "1.08",
+   "size": 107445,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/widget.apk",
-   "changes": "Control Home widgets from here: see the widgets on your home, remove them or clear all, and apply ready widget templates that land on Home exactly as shown. Needs HasuOS Home 10.52.",
-   "ts": 1795410183,
-   "etag": "0x8DF491F0A680E79",
+   "changes": "FIXED: every widget preview now shows the widget exactly as it sits on HasuOS Home — same size, same layout, same values (all 66 previews rebuilt from Home's own rendering) — and the Widget ↔ Home connection is fixed end to end: placed widgets report their real sizes, the music widget no longer goes missing from the list, and previews use Home's real grid size. DESIGN: more premium — real Font Awesome glyphs, gradient Add and Apply buttons, glass chips.",
+   "ts": 1795429467,
+   "etag": "0x8DF494BC9450FD4",
    "cat": "HasuOS"
   }
  ]
