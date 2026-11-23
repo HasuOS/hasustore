@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 8,
-   "versionName": "1.07",
-   "size": 517895,
+   "code": 9,
+   "versionName": "1.08",
+   "size": 542471,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "NEW ＋ Add: found a circular somewhere else? Paste its link at the top and apply with the full machinery — your links stay on your phone under আমার যোগ করা. The form fill now completes the whole Teletalk form: both upazilas, the SSC examination and group, and the diploma group are filled too (they were left blank before). Circulars that arrived since your last visit wear a নতুন chip, and the তথ্য tab shows the ২৪ ঘণ্টা hunt line with the feed's real update time.",
-   "ts": 1795437935,
-   "etag": "0x8DF495F9E080642",
+   "changes": "The whole application lifecycle, inside the app: downloads happen in the browser with your session (Applicant's Copy, admit cards) and PDFs open in the built-in viewer; 💳 ফি পরিশোধ pays the Teletalk fee by SMS to 16222 from your Teletalk SIM — exact message shown before every send, never sent without your tap; 📋 আমার আবেদন tracks every application (started → complete → fee paid → admit), a completed circular leaves the home list, and the 16222 confirmation SMS marks the fee paid and saves your application Password. Every stored PDF can be shared.",
+   "ts": 1795438418,
+   "etag": "0x8DF4960C7047197",
    "cat": "Tools"
   }
  ]
