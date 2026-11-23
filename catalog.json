@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 123,
-   "versionName": "10.53",
+   "code": 124,
+   "versionName": "10.54",
    "size": 17152135,
-   "changes": "Fixed: app icons refresh right after an app updates — the old icon no longer stays on the home screen until a restart. Also brings the HasuWidget control fixes.",
+   "changes": "Search and Library backgrounds are now fully opaque (they were slightly see-through), and Search now also finds Home's own settings — type \"wallpaper\", \"widget\" or \"dock\" to jump straight to that setting.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795417795,
-   "etag": "0x8DF4930C3D7C253"
+   "ts": 1795452039,
+   "etag": "0x8DF49806F868D0C"
   },
   {
    "pkg": "hasu.os.pdf",
