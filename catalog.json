@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 10,
-   "versionName": "1.09",
-   "size": 571212,
+   "code": 11,
+   "versionName": "1.10",
+   "size": 583500,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "NEW 📚 পড়াশোনা — a study wing for your government-job preparation: MCQ practice with instant answers and explanations in বাংলা, English, গণিত, সাধারণ জ্ঞান and Computer/ICT (250 starter questions inside, and the bank grows from a live feed — no app update needed), timed model tests (25 questions, 25 minutes) with a full answer review, a saved results history with per-subject accuracy, and the official exam and portal links in one place.",
-   "ts": 1795438778,
-   "etag": "0x8DF49619D861D4A",
+   "changes": "NEW 🔍 Already-applied import — আমার আবেদন now scans your Downloads for Applicant's Copy PDFs from applications you finished in a browser (BOGMC_…, BPS_…, BPSC copies), attaches each to its circular as ✅ Complete with the User ID saved from the filename, and those circulars leave the home list. NEW 🪄 Fill completes the whole form — Care Of on both addresses, your parents' names in Bengali, the Passport box, and Quota / Departmental Status (your None matched to the form's Not Applicable), from 13 new profile answers. NEW 🔍⏷ Search and filters moved behind the top icons — the circular list gets the full screen, with one small chip naming the active filter.",
+   "ts": 1795439725,
+   "etag": "0x8DF4963CDEBC45F",
    "cat": "Tools"
   }
  ]
