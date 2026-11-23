@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 12,
-   "versionName": "1.10",
+   "code": 13,
+   "versionName": "1.11",
    "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "Charging-time notification icon: the minutes are now BIG plain bold digits filling the icon, with a small M — readable at a glance.",
-   "ts": 1795434098,
-   "etag": "0x8DF4956B570A3E2"
+   "changes": "Fixed: the charging-time notification now comes back when you unplug and plug in again — it restarts reliably and retries on its own if the phone delays the start.",
+   "ts": 1795434687,
+   "etag": "0x8DF49580ABA66C3"
   },
   {
    "pkg": "hasu.os.keyboard",
@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 231,
-   "versionName": "2.38",
+   "code": 232,
+   "versionName": "2.39",
    "size": 114818912,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "NEW: the HasuOS icon inside HasuStore now always shows your final brand logo — the store takes the icon from your installed HasuOS whenever it is the newest build, its bundled HasuOS is updated to 1.10, and any pre-logo HasuOS copy kept on the phone is cleared on first run.",
-   "ts": 1795411601,
-   "etag": "0x8DF492256FAC1DC"
+   "changes": "FIXED: Uninstall — tapping Uninstall on an installed app now brings up the system's uninstall prompt directly, just like Install (before, the tap could silently do nothing).",
+   "ts": 1795434973,
+   "etag": "0x8DF4957AE0A7F49"
   },
   {
    "pkg": "hasu.os.tasbih",
