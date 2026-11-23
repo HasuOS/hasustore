@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 19,
-   "versionName": "1.17",
+   "code": 20,
+   "versionName": "1.18",
    "size": 66727,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "One card while charging: the premium countdown card now also shows the temperature, health, voltage and battery type — the monitor's own card steps aside until you unplug. The countdown now ticks down steadily, second by second, anchored to the full moment instead of hopping with the phone's estimate. New in Settings: Bring back after clear — On brings a swiped-away card straight back; Off keeps it away until the next plug-in.",
-   "ts": 1795437971,
-   "etag": "0x8DF495FAF687388"
+   "changes": "The status-bar minutes icon now never leaves while you charge: it rides on its own tiny notification, separate from the card — clear the card, switch Bring back after clear off, the number still stays until you unplug. The premium card is unchanged (steady anchored countdown, with the temperature, health and voltage inside), and that switch now governs the card alone.",
+   "ts": 1795438480,
+   "etag": "0x8DF4960D93941FD"
   },
   {
    "pkg": "hasu.os.keyboard",
