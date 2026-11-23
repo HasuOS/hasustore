@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 17,
-   "versionName": "1.15",
-   "size": 58222,
+   "code": 18,
+   "versionName": "1.16",
+   "size": 62631,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "The charging-time card now carries a live countdown that ticks down second by second to the moment it will be full — so, exactly like HasuSpeed's ever-changing card, it stays put for the whole charge instead of leaving and coming back when swiped.",
-   "ts": 1795436270,
-   "etag": "0x8DF495BBCF2BEA7"
+   "changes": "NEW: the charging card is now a premium panel — a big live countdown ticking second by second until full, the clock time it will be full, and a slim charge-level bar. The minutes icon stays in your status bar for the whole charge, and all app text is now in English.",
+   "ts": 1795437036,
+   "etag": "0x8DF495D8B85C033"
   },
   {
    "pkg": "hasu.os.keyboard",
