@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 230,
-   "versionName": "2.37",
-   "size": 114675475,
+   "code": 231,
+   "versionName": "2.38",
+   "size": 114818912,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Fixed: the HasuOS app icon in the store now shows the new brand logo — a stale downloaded copy no longer shadows the bundled build, and the bundled HasuOS is now the latest 1.09.",
-   "ts": 1795409545,
-   "etag": "0x8DF491D8AB8CBD6"
+   "changes": "NEW: the HasuOS icon inside HasuStore now always shows your final brand logo — the store takes the icon from your installed HasuOS whenever it is the newest build, its bundled HasuOS is updated to 1.10, and any pre-logo HasuOS copy kept on the phone is cleared on first run.",
+   "ts": 1795411601,
+   "etag": "0x8DF492256FAC1DC"
   },
   {
    "pkg": "hasu.os.tasbih",
