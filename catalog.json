@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 6,
-   "versionName": "1.05",
-   "size": 505607,
+   "code": 7,
+   "versionName": "1.06",
+   "size": 509703,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "The upload sheet now shows your actual photo and signature as pictures — photo on the photo row, signature on the signature row — so you tap the right file at once when a form asks for an upload. (Everything from 1.04 stays: portals load inside the app, fill lands directly in the real form fields, Import, Bengali retry screen.)",
-   "ts": 1795435294,
-   "etag": "0x8DF49597FB2DCAC",
+   "changes": "Import fixed — it failed before because the reader closed the file mid-read; it now reads fully and says exactly what is wrong if a file is bad. NEW ⚡ Auto Import: one tap finds hasujobs-import.zip in Downloads and fills everything, no file browsing. The apply browser gains Back, Forward and Refresh buttons under the header (Refresh becomes ✕ stop while a page loads).",
+   "ts": 1795436927,
+   "etag": "0x8DF495D4C639D5D",
    "cat": "Tools"
   }
  ]
