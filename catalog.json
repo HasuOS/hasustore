@@ -227,13 +227,13 @@
    "name": "HasuNamaz",
    "tag": "Prayer times",
    "desc": "Prayer times for Bangladesh — offline calculation, next-waqt countdown, Qibla compass and per-waqt alarms.",
-   "code": 7,
-   "versionName": "1.05",
-   "size": 58222,
+   "code": 8,
+   "versionName": "1.06",
+   "size": 66414,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/namaz.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one: the city picker, the next-prayer countdown, the waqt alarms, the month timetable, the Qibla compass and the Hijri date. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only then, repainted on every return (the drawable was always blue). FIXED: the month timetable no longer pushes its Close button off the bottom on a short or sideways screen — the list is capped at just over half the screen height.",
-   "ts": 1795313390,
-   "etag": "0x8DF483DA62A2558"
+   "changes": "NEW: 📍 Location-true prayer times — with location on, every waqt is calculated for the place you are in now (GPS) and refreshed as you move; the home screen always says which place the times are for, and the city picker stays as the honest manual fallback, labelled manual. NEW: 🕌 Azan alarm — a master Azan switch over the per-waqt bells; at the waqt a full-screen alarm page opens over the lock screen with a big Stop button, and the sound plays on the alarm channel until stopped (or five minutes). Alarms re-schedule themselves for the new place when you travel and re-arm after a restart, as before.",
+   "ts": 1795447354,
+   "etag": "0x8DF497592310824"
   },
   {
    "pkg": "hasu.os.news",
