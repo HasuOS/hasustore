@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 117,
-   "versionName": "10.47",
-   "size": 17143943,
-   "changes": "Fixed the dead 'Change system settings' toggle (your screenshot): Home never asked Android for that permission, so the switch was greyed out — it now works, and the control-panel brightness slider can really change brightness. The Dynamic Island card also tells the truth now: if the island is on but 'Display over other apps' is not allowed yet, the card says so — tap it and it opens exactly that page; allow it, come back, and the island appears.",
+   "code": 118,
+   "versionName": "10.48",
+   "size": 17148039,
+   "changes": "Six new widgets, from the collection you sent (built fresh in HasuOS glass): Analog clock with a live second hand, Dot clock in dot-matrix style, Battery ring, Quick toggles (Wi-Fi, torch, ringer, flight mode — one tap), Favourite contact (your starred contact, tap to call) and Google apps (Chrome, YouTube, Gmail, Maps, Photos, Drive). Widgets are now 62 kinds — find them in the widget picker.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795400288,
-   "etag": "0x8DF4907DDC0F14F"
+   "ts": 1795400681,
+   "etag": "0x8DF4908C1475A5A"
   },
   {
    "pkg": "hasu.os.pdf",
