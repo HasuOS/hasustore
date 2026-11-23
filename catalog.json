@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 22,
-   "versionName": "1.20",
-   "size": 120182,
+   "code": 23,
+   "versionName": "1.21",
+   "size": 116086,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "Voice alerts complete — the voice now follows YOUR percentages: \"Battery full. Please unplug the charger.\" speaks when charging reaches your charge-alarm target (80%, 90% or 100%), \"Battery low. Please charge your phone.\" speaks when the battery drops to your low-battery level, and \"Charging started.\" still speaks on plug-in — one Voice alerts switch controls all three. If your phone's own battery protection stops the charge below 100%, the full line speaks when the charge settles at that limit too, and the card settles as complete. The charging countdown now aims at your set target: set 80% and it counts down to Full (80%) and settles as complete there.",
-   "ts": 1795439796,
-   "etag": "0x8DF4963EE39EE1D"
+   "changes": "The voice IS the alarm now — the alarm tone and its sound picker are gone. At your charge target, \"Battery full. Please unplug the charger.\" repeats until you stop it; at your low-battery level, \"Battery low. Please charge your phone.\" repeats the same way. Stop it from the shade: the alert notification and the charging card carry a Stop button — no need to open the app. Unplug ends the full voice; plugging in ends the low voice. \"Charging started.\" still speaks once on plug-in. Voice alerts off: the alarms fire silently — notification and vibration only.",
+   "ts": 1795441190,
+   "etag": "0x8DF49672B17C196"
   },
   {
    "pkg": "hasu.os.keyboard",
