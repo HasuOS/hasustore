@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 119,
-   "versionName": "10.49",
+   "code": 120,
+   "versionName": "10.50",
    "size": 17148039,
-   "changes": "The Dynamic Island finally shows: the island was crashing silently the moment it started (one panel was added twice in the rebuild, and Android kills the island before it can appear). That line is removed — turn the island on and the pill appears at the top of your screen.",
+   "changes": "The connection release: the Dynamic Island now has its own app, HasuIsland — when it is installed, Home hands the island over to it (no doubles) and the island card opens the app. And HasuWidget's Add button now works with Home: tap Add there and the widget lands on your current home page.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795401440,
-   "etag": "0x8DF490A87556FC5"
+   "ts": 1795402332,
+   "etag": "0x8DF490C98759561"
   },
   {
    "pkg": "hasu.os.pdf",
@@ -768,6 +768,34 @@
    "changes": "Tap any pack and a full page opens: scroll sideways through every icon in the pack, and the Apply button sits at the top-right corner — one tap applies the whole pack. NEW pack: Diamond — a violet diamond tile with a neon edge. 3 more apps drawn: Wikipedia, Google Assistant and Khan Academy (161 apps drawn in every style). More icons keep coming.",
    "ts": 1795370973,
    "etag": "0x8DF48C39616CEA1",
+   "cat": "HasuOS"
+  },
+  {
+   "pkg": "hasu.os.island",
+   "name": "HasuIsland",
+   "tag": "The Dynamic Island, as its own app",
+   "desc": "The Dynamic Island in its own app, connected to HasuOS Home: time, your song with play/pause, charging, incoming calls, timer and stopwatch — floating over every app. Living in its own app, a launcher restart can never take it down.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 58293,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/island.apk",
+   "changes": "First release: the Dynamic Island as its own app. One switch, the overlay permission and the music-info access on one glass page. When HasuIsland is installed, HasuOS Home hands its island over to this app.",
+   "ts": 1795402332,
+   "etag": "0x8DF490C9917E32F",
+   "cat": "HasuOS"
+  },
+  {
+   "pkg": "hasu.os.widget",
+   "name": "HasuWidget",
+   "tag": "Every HasuOS Home widget, one tap to add",
+   "desc": "The widget gallery for HasuOS Home: all 62 widget kinds in one glass list. Tap Add on any widget and it appears on your home screen — no digging through menus. Needs no permissions at all.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 50030,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/widget.apk",
+   "changes": "First release: all 62 of Home's widgets in one gallery — tap Add and the widget lands on your current home page.",
+   "ts": 1795402332,
+   "etag": "0x8DF490C99D7F78F",
    "cat": "HasuOS"
   }
  ]
