@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 13,
-   "versionName": "1.11",
+   "code": 12,
+   "versionName": "1.10",
    "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "Fixed: the charging-time notification now comes back when you unplug and plug in again — it restarts reliably and retries on its own if the phone delays the start.",
-   "ts": 1795434687,
-   "etag": "0x8DF49580ABA66C3"
+   "changes": "Charging-time notification icon: the minutes are now BIG plain bold digits filling the icon, with a small M — readable at a glance.",
+   "ts": 1795434098,
+   "etag": "0x8DF4956B570A3E2"
   },
   {
    "pkg": "hasu.os.keyboard",
@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 232,
-   "versionName": "2.39",
+   "code": 231,
+   "versionName": "2.38",
    "size": 114818912,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "FIXED: Uninstall — tapping Uninstall on an installed app now brings up the system's uninstall prompt directly, just like Install (before, the tap could silently do nothing).",
-   "ts": 1795434834,
-   "etag": "0x8DF4957AE0A7F49"
+   "changes": "NEW: the HasuOS icon inside HasuStore now always shows your final brand logo — the store takes the icon from your installed HasuOS whenever it is the newest build, its bundled HasuOS is updated to 1.10, and any pre-logo HasuOS copy kept on the phone is cleared on first run.",
+   "ts": 1795411601,
+   "etag": "0x8DF492256FAC1DC"
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -409,13 +409,13 @@
    "name": "HasuTask",
    "tag": "To-dos & reminders",
    "desc": "To-dos — tasks with a date, time and priority, and reminders that fire on time. Filter by Today, All or Done.",
-   "code": 8,
-   "versionName": "1.06",
+   "code": 9,
+   "versionName": "1.07",
    "size": 62531,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk",
-   "changes": "NEW: 📋 প্রতিদিনের রুটিন — your whole day in one tap (user order 2026-11-23): tap the routine pill under the sort row and HasuTask adds all 12 items of your daily routine as daily-repeating tasks with reminders — ফজর ও দিন শুরু 5:00 AM, সকালের পড়া (ভার্সিটির বই) 6:30 AM, University 10 AM–1 PM, দুপুরের খাবার + যোহর + বিশ্রাম 1:30 PM, Job Apply 3–4 PM, আসর 4:15 PM, Typing practice (keyboard) 4:30 PM, মাগরিব 5:15 PM, Job Read 6–10 PM (বই rotation) 6:00 PM, এশা + রাতের খাবার 8:00 PM, আগামীকালের plan 10:00 PM, ঘুম 10:30 PM. Check one off and tomorrow's copy appears by itself; adding the routine again only adds what is missing, never doubles. Guide page explains it.",
-   "ts": 1795434393,
-   "etag": "0x8DF49575FCF1790"
+   "changes": "Winter routine: the daily checklist now matches the winter sheet — Fajr 5:15 AM, later start, afternoon walk, Varsity Book rotation, sleep 11 PM",
+   "ts": 1795434836,
+   "etag": "0x8DF4958694A6239"
   },
   {
    "pkg": "hasu.os.tools",
@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 497415,
+   "code": 4,
+   "versionName": "1.03",
+   "size": 505607,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "NEW icon — the design you picked: a job circular under a magnifier, with your exact chrome HasuOS logo set into the lens. (Icon only — everything else is the 1.01 build.)",
-   "ts": 1795434298,
-   "etag": "0x8DF4956B07DCA12",
+   "changes": "FIXED the in-app apply browser — new-window Teletalk pages now open inside the app, plain-http portals load, and 'Fill from my info' puts your saved answers directly into the real form fields (district, then upazila when its list loads, board, result — 39 fields on the live BPSC/BOGMC forms in testing). NEW: Import in আমার তথ্য — one hasujobs-import.zip sets your info, photo and signature at once. Copy panel added to the browser menu.",
+   "ts": 1795434776,
+   "etag": "0x8DF49584A821D45",
    "cat": "Tools"
   }
  ]
