@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 112,
-   "versionName": "10.42",
+   "code": 113,
+   "versionName": "10.43",
    "size": 17139847,
-   "changes": "Two fixes for this app's own update page: Install now opens the installer the same proven way HasuStore does (it failed before), and the Posted date shows the real date and time. Also: Settings → Icons now has a HasuPack card that opens the HasuPack app — packs set there or here are the same packs.",
+   "changes": "The full premium pass you ordered: every card and panel is now transparent liquid glass — search, app library, panels, dialogs, the clock and music cards, folders, the lock screen and the island all got the glass gradient with a bright edge (the flat plain cards are gone). And text can no longer overlap or spill: long names, titles and values now trim cleanly everywhere.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795368458,
-   "etag": "0x8DF48BDBD7E20F9"
+   "ts": 1795397241,
+   "etag": "0x8DF4900BEC50AE7"
   },
   {
    "pkg": "hasu.os.pdf",
