@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 13,
-   "versionName": "1.12",
-   "size": 587596,
+   "code": 14,
+   "versionName": "1.13",
+   "size": 595788,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "USER ID NOW FILLS ITSELF — the payment page no longer opens with an empty User ID: the Applicant's Copy scan now reads the ID the copy itself prints (BPSC copies included), portal filename codes are read more faithfully, and copies attached by older versions get their missing ID filled in on the next scan. The ID also has its own row on the application page. SIM — the Teletalk SIM now picks itself: the fee page asks for the Phone permission right there and selects Teletalk the moment it is granted, no manual step. PDF VIEWER — pinch to zoom with pan, double-tap to zoom, pages rendered sharp at up to 3×. SAMSUNG SMS BLOCK — when One UI's restricted-settings rule stops an SMS permission, the app shows the exact one-time fix (App info → ⋮ → Allow restricted settings) instead of a bare failure.",
-   "ts": 1795441696,
-   "etag": "0x8DF4967EBC3D9A4",
+   "changes": "TWO PEOPLE IN ONE APP — the switch at the very top of the home screen, আমি (Me) / বোন (Sister), chooses whose app this is. Each person has their own profile (information, photo, signature), their own form fill, their own applications, User IDs, fees and model-test results; an Import lands only in the mode that is on, a circular one person completed still shows for the other, and the circular list stays shared. Everything you already had stays exactly where it was — Sister's side simply starts empty. THE FEE PAGE IS NOW A LIVE CHAT WITH 16222 — this application's messages appear on the payment page itself as they arrive, the PIN Teletalk replies with fills itself into step 2 (you only tap SMS 2 পাঠান), and a failed payment — balance নেই, an invalid reply — shows plainly above the chat instead of failing silently. RECHARGE DOOR — Recharge করুন (by the SIM row, and under a balance warning) opens the bKash app or the dialer with *247# / *167# filled in; the recharge itself happens inside bKash or Nagad.",
+   "ts": 1795442393,
+   "etag": "0x8DF4969FEF54088",
    "cat": "Tools"
   }
  ]
