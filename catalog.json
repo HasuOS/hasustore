@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 232,
-   "versionName": "2.39",
+   "code": 231,
+   "versionName": "2.38",
    "size": 114818912,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "FIXED: Uninstall works directly now — tap Uninstall on any app's page and the system's uninstall prompt comes straight up, with the same one-tap feel as Install. If the prompt ever can't open, the store now tells you instead of staying silent. HasuStore also no longer offers an Uninstall button on its own page.",
-   "ts": 1795434513,
-   "etag": "0x8DF4957AE0A7F49"
+   "changes": "NEW: the HasuOS icon inside HasuStore now always shows your final brand logo — the store takes the icon from your installed HasuOS whenever it is the newest build, its bundled HasuOS is updated to 1.10, and any pre-logo HasuOS copy kept on the phone is cleared on first run.",
+   "ts": 1795411601,
+   "etag": "0x8DF492256FAC1DC"
   },
   {
    "pkg": "hasu.os.tasbih",
