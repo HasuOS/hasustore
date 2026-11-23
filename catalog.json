@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 115,
-   "versionName": "10.45",
+   "code": 116,
+   "versionName": "10.46",
    "size": 17143943,
-   "changes": "The Dynamic Island is rebuilt: a pure-black pill with a coloured disc and a drawn icon for each state — violet for music, green for charging and calls, orange for the timer, blue for the stopwatch, red when time is up. No emoji anywhere. Idle it is one clean line (the time); tap it and it now MORPHS wider with a spring into the full card: round music buttons, timer and stopwatch chips, tidy labels.",
+   "changes": "Fixed: the Dynamic Island never appeared after turning it on — it started before the 'Display over other apps' permission was granted and nothing ever started it again. It now starts whenever you return to Home. Plus the widgets premium pass: every widget title is now a clean letter-spaced label (no emoji on any of the 56 widgets), and value lines no longer carry emoji prefixes — battery, torch, water, streak, focus timer, qibla, sunrise & sunset all read clean.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795398593,
-   "etag": "0x8DF4903E82E9CA1"
+   "ts": 1795399075,
+   "etag": "0x8DF49050648D14E"
   },
   {
    "pkg": "hasu.os.pdf",
