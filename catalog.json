@@ -500,13 +500,13 @@
    "name": "HasuOS",
    "tag": "The family showcase",
    "desc": "Every HasuOS app in one place — the whole family with its details, straight from the live catalogue. Tap any app for its story, version and size, and get it through HasuStore.",
-   "code": 7,
-   "versionName": "1.06",
-   "size": 37742,
-   "ts": 1795405281,
-   "etag": "0x8DF4913977FE1D7",
+   "code": 8,
+   "versionName": "1.07",
+   "size": 62318,
+   "ts": 1795405742,
+   "etag": "0x8DF4914B053B936",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
-   "changes": "New brand icon — the F logo you picked (house-h mark) is now the HasuOS app icon, and the same logo is on the website."
+   "changes": "Your chosen company logo is finally in place - the F Badge (black ring, bold H, violet dots) on a clean white background is now the HasuOS app icon, and the same logo is on the website."
   },
   {
    "pkg": "hasu.os.hasu",
