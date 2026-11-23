@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 121,
-   "versionName": "10.51",
+   "code": 122,
+   "versionName": "10.52",
    "size": 17152135,
-   "changes": "Five NEW widgets — 66 kinds now: Lock screen (one tap locks), Battery temperature (with health + voltage), Device uptime, Do Not Disturb (tap to toggle silence) and Auto-rotate (tap to toggle). HasuWidget adds them all too. The Guide's widget count is corrected to 66.",
+   "changes": "Widgets can now be controlled from the HasuWidget app: see what is on your home, remove widgets, or apply a whole widget template at once.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795403488,
-   "etag": "0x8DF490F4EF0AD71"
+   "ts": 1795409985,
+   "etag": "0x8DF491E922A566E"
   },
   {
    "pkg": "hasu.os.pdf",
