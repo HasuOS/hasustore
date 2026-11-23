@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 116,
-   "versionName": "10.46",
+   "code": 117,
+   "versionName": "10.47",
    "size": 17143943,
-   "changes": "Fixed: the Dynamic Island never appeared after turning it on — it started before the 'Display over other apps' permission was granted and nothing ever started it again. It now starts whenever you return to Home. Plus the widgets premium pass: every widget title is now a clean letter-spaced label (no emoji on any of the 56 widgets), and value lines no longer carry emoji prefixes — battery, torch, water, streak, focus timer, qibla, sunrise & sunset all read clean.",
+   "changes": "Fixed the dead 'Change system settings' toggle (your screenshot): Home never asked Android for that permission, so the switch was greyed out — it now works, and the control-panel brightness slider can really change brightness. The Dynamic Island card also tells the truth now: if the island is on but 'Display over other apps' is not allowed yet, the card says so — tap it and it opens exactly that page; allow it, come back, and the island appears.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795399075,
-   "etag": "0x8DF49050648D14E"
+   "ts": 1795400288,
+   "etag": "0x8DF4907DDC0F14F"
   },
   {
    "pkg": "hasu.os.pdf",
