@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 12,
-   "versionName": "1.10",
+   "code": 13,
+   "versionName": "1.11",
    "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "Charging-time notification icon: the minutes are now BIG plain bold digits filling the icon, with a small M — readable at a glance.",
-   "ts": 1795434098,
-   "etag": "0x8DF4956B570A3E2"
+   "changes": "Fixed: the charging-time notification now comes back when you unplug and plug in again — it restarts reliably and retries on its own if the phone delays the start.",
+   "ts": 1795434687,
+   "etag": "0x8DF49580ABA66C3"
   },
   {
    "pkg": "hasu.os.keyboard",
