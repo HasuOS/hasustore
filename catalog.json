@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 23,
-   "versionName": "1.21",
+   "code": 24,
+   "versionName": "1.22",
    "size": 116086,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "The voice IS the alarm now — the alarm tone and its sound picker are gone. At your charge target, \"Battery full. Please unplug the charger.\" repeats until you stop it; at your low-battery level, \"Battery low. Please charge your phone.\" repeats the same way. Stop it from the shade: the alert notification and the charging card carry a Stop button — no need to open the app. Unplug ends the full voice; plugging in ends the low voice. \"Charging started.\" still speaks once on plug-in. Voice alerts off: the alarms fire silently — notification and vibration only.",
-   "ts": 1795441190,
-   "etag": "0x8DF49672B17C196"
+   "changes": "FIXED: the charging card is permanent again. Clearing or swiping it away while charging now undoes itself within about a second — every second the app checks the card is really in the shade, and if it is missing it posts a fresh one (with \"Bring back after clear\" on, as before; turn that switch off and a cleared card still stays away for that charge). Nothing else changes: the voice alerts, the Stop buttons and the countdown work exactly as in 1.21.",
+   "ts": 1795441643,
+   "etag": "0x8DF4967F74C655E"
   },
   {
    "pkg": "hasu.os.keyboard",
@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 13,
-   "versionName": "1.12",
-   "size": 587596,
+   "code": 12,
+   "versionName": "1.11",
+   "size": 583500,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "USER ID NOW FILLS ITSELF — the payment page no longer opens with an empty User ID: the Applicant's Copy scan now reads the ID the copy itself prints (BPSC copies included), portal filename codes are read more faithfully, and copies attached by older versions get their missing ID filled in on the next scan. The ID also has its own row on the application page. SIM — the Teletalk SIM now picks itself: the fee page asks for the Phone permission right there and selects Teletalk the moment it is granted, no manual step. PDF VIEWER — pinch to zoom with pan, double-tap to zoom, pages rendered sharp at up to 3×. SAMSUNG SMS BLOCK — when One UI's restricted-settings rule stops an SMS permission, the app shows the exact one-time fix (App info → ⋮ → Allow restricted settings) instead of a bare failure.",
-   "ts": 1795441495,
-   "etag": "0x8DF4967EBC3D9A4",
+   "changes": "FIXED 🏠 Applied circulars now leave the home list by themselves — the Applicant's Copy scan runs right on the home screen (not only inside আমার আবেদন), searches PDFs more widely, and offers the one-time file-access Settings trip when Android blocks the read. HONEST STEPS — an application in hand no longer reads as all finished: every record shows its steps separately (আবেদন ✓ · ফি ⏳ বাকি · Admit), and the application page is now the one hub — the Copy at the top, the circular's facts, the step states, your 16222 payment messages and the fee door (paying itself still happens on the payment page).",
+   "ts": 1795440518,
+   "etag": "0x8DF4965A5984F37",
    "cat": "Tools"
   }
  ]
