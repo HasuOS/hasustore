@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 32,
-   "versionName": "1.31",
+   "code": 33,
+   "versionName": "1.32",
    "size": 723607,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "প্রতিটা application-এর page-এ এখন শুধু তার নিজের message — অন্য application-এর message কোথাও ঢুকবে না (fee page-এর list-এও); Applicant's Copy Download button এখন সব অবস্থায় একই নামে পরিষ্কার দেখা যায়, website-এ ID/Password apply-form-এর মতোই auto বসে; app খোলা আগের চেয়ে হালকা ও দ্রুত।",
-   "ts": 1795460434,
-   "etag": "0x8DF4994014E93FF",
+   "changes": "Teletalk-এর আসল success message-এর সব রূপ এখন চেনে — 'payment completed' বললেও payment ধরা পড়বে (Parliament-এর payment এতদিন এই কারণেই বাকি দেখাত); 'Pass:' আকারে আসা password-ও ঠিকমতো বসবে; balance না থাকার বাংলা message-ও এখন ব্যর্থ হিসেবে চেনে।",
+   "ts": 1795461157,
+   "etag": "0x8DF4995B11B6D66",
    "cat": "Tools"
   }
  ]
