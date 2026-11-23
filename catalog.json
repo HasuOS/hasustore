@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 26,
-   "versionName": "1.25",
-   "size": 707223,
+   "code": 28,
+   "versionName": "1.27",
+   "size": 711319,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "Payment fix — Teletalk-এর 10-digit PIN এখন পুরোটা auto বসবে (আগে শেষের digit কেটে যেত); আর আসল success message ('Congrats … paid by …') app এখন চিনবে — fee দিলেই নিজে থেকে 'পরিশোধ' দেখাবে, টাকার হিসাব থেকে কমে যাবে।",
-   "ts": 1795456380,
-   "etag": "0x8DF498A989ABD06",
+   "changes": "ফাইনাল ফিনিশিং — সব ফাংশন working: 'lost' password repair; Backup এবার সত্যি বলবে — আসল folder path, শেষ backup-এর সময়, Telegram অবস্থা, 'এখনই backup করো' button (আগে page ভুল folder দেখাত, তাই খালি লাগত); 16222 Chat এখন আলাদা আসল messaging screen-এ।",
+   "ts": 1795457110,
+   "etag": "0x8DF498C3C446227",
    "cat": "Tools"
   }
  ]
