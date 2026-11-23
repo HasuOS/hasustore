@@ -227,13 +227,13 @@
    "name": "HasuNamaz",
    "tag": "Prayer times",
    "desc": "Prayer times for Bangladesh — offline calculation, next-waqt countdown, Qibla compass and per-waqt alarms.",
-   "code": 8,
-   "versionName": "1.06",
-   "size": 66414,
+   "code": 9,
+   "versionName": "1.07",
+   "size": 627628,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/namaz.apk",
-   "changes": "NEW: 📍 Location-true prayer times — with location on, every waqt is calculated for the place you are in now (GPS) and refreshed as you move; the home screen always says which place the times are for, and the city picker stays as the honest manual fallback, labelled manual. NEW: 🕌 Azan alarm — a master Azan switch over the per-waqt bells; at the waqt a full-screen alarm page opens over the lock screen with a big Stop button, and the sound plays on the alarm channel until stopped (or five minutes). Alarms re-schedule themselves for the new place when you travel and re-arm after a restart, as before.",
-   "ts": 1795447354,
-   "etag": "0x8DF497592310824"
+   "changes": "NEW: \ud83d\udd4c The recorded azan is now bundled in the app \u2014 at each waqt the alarm plays the real azan recording (the one you provided) on the alarm channel, repeating until you tap Stop (or five minutes), with the same full-screen alarm page over the lock screen. Location-true prayer times from 1.06 stay exactly as they were.",
+   "ts": 1795447909,
+   "etag": "0x8DF4976D09680D7"
   },
   {
    "pkg": "hasu.os.news",
