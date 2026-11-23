@@ -19,13 +19,13 @@
       "name": "HasuBattery",
       "tag": "Battery & charge alarm",
       "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-      "code": 11,
-      "versionName": "1.09",
+      "code": 12,
+      "versionName": "1.10",
       "size": 58222,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-      "changes": "CHANGED: the charging-time notification’s status-bar icon is now the minutes number itself, with a small M beside it — no more lightning bolt. It shows -- while the estimate is still being worked out and 0 when the charge is full. Everything else is exactly as in 1.08.",
-      "ts": 1795433384,
-      "etag": "0x8DF4955051579B8"
+      "changes": "Charging-time notification icon: the minutes are now BIG plain bold digits filling the icon, with a small M — readable at a glance.",
+      "ts": 1795434098,
+      "etag": "0x8DF4956B570A3E2"
     },
     {
       "pkg": "hasu.os.keyboard",
@@ -804,13 +804,13 @@
       "name": "HasuJobs",
       "tag": "Govt circulars • Diploma in Computer",
       "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-      "code": 2,
-      "versionName": "1.01",
-      "size": 521991,
+      "code": 3,
+      "versionName": "1.02",
+      "size": 497415,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-      "changes": "NEW custom icon (glass briefcase with the chrome h) and the full apply-inside-the-app upgrade: Apply now opens the official page INSIDE HasuJobs — uploads work, and the chooser offers your prepared exact files first. NEW আমার তথ্য vault (third tab): your standard form answers saved on this phone only, plus photo prepared exactly 300x300 (max 100 KB) and signature 300x80 (max 60 KB); the fill assistant fills empty form fields from it and never submits (captcha stays yours). NEW তথ্য tab: a live dashboard — open circulars, total vacancies, newest, closing soon, next deadline, and your readiness. Filter the list by Grade, Category and Location with a live result count; detail pages show grade/category/location and a Circular PDF button when a verified official PDF exists (BPSC circular has it). Feed v2: grade/category/location/PDF on every circular; BPSC Sub-Assistant Maintenance Engineer (7 posts, deadline 30 Nov 2026) and Purana Mogaltuli HS ICT Teacher + Computer Lab Operator (deadline 12 Dec 2026).",
-      "ts": 1795433265,
-      "etag": "0x8DF4954C0F1DDFE",
+      "changes": "NEW icon — the design you picked: a job circular under a magnifier, with your exact chrome HasuOS logo set into the lens. (Icon only — everything else is the 1.01 build.)",
+      "ts": 1795434298,
+      "etag": "0x8DF4956B07DCA12",
       "cat": "Tools"
     }
   ]
