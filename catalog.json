@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 114,
-   "versionName": "10.44",
-   "size": 17139847,
-   "changes": "The update prompt and the one-time permission prompt are now liquid glass too — no plain system dialog left anywhere in Home. The Guide page is corrected and complete: 14 templates plus your own saved templates, 56 widget kinds, the full Backup & restore, the swipe-down choices, and a new App update section covering the update page and HasuPack.",
+   "code": 115,
+   "versionName": "10.45",
+   "size": 17143943,
+   "changes": "The Dynamic Island is rebuilt: a pure-black pill with a coloured disc and a drawn icon for each state — violet for music, green for charging and calls, orange for the timer, blue for the stopwatch, red when time is up. No emoji anywhere. Idle it is one clean line (the time); tap it and it now MORPHS wider with a spring into the full card: round music buttons, timer and stopwatch chips, tidy labels.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795397944,
-   "etag": "0x8DF490266989CD8"
+   "ts": 1795398593,
+   "etag": "0x8DF4903E82E9CA1"
   },
   {
    "pkg": "hasu.os.pdf",
