@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 234,
-   "versionName": "2.41",
-   "size": 114818912,
+   "code": 235,
+   "versionName": "2.42",
+   "size": 115111095,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "FIXED: cancelling an uninstall is silent now, as it should be — open the uninstall confirmation and press Back, and nothing happens at all (before, a scary 'Uninstall failed' message appeared and you were dumped on the App info page). A real failure still tells you plainly and opens App info so you can finish there.",
-   "ts": 1795436498,
-   "etag": "0x8DF495C2A451896"
+   "changes": "Fixed an update that could download but never install; added the missing icons for 18 newer apps; added a Guide page; small download-card fixes.",
+   "ts": 1795453224,
+   "etag": "0x8DF49831E177BFC"
   },
   {
    "pkg": "hasu.os.tasbih",
