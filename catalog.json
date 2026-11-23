@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 24,
-   "versionName": "1.22",
+   "code": 25,
+   "versionName": "1.23",
    "size": 116086,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "FIXED: the charging card is permanent again. Clearing or swiping it away while charging now undoes itself within about a second — every second the app checks the card is really in the shade, and if it is missing it posts a fresh one (with \"Bring back after clear\" on, as before; turn that switch off and a cleared card still stays away for that charge). Nothing else changes: the voice alerts, the Stop buttons and the countdown work exactly as in 1.21.",
-   "ts": 1795441643,
-   "etag": "0x8DF4967F74C655E"
+   "changes": "NEW: the charging card and the status-bar minutes icon are now separate. Clear the card and it stays away for the rest of that charge — but the minutes icon in your status bar is permanent: it belongs to a small silent carrier notification whose only job is to hold it, so it stays for the whole charge while Charging time is on, whatever you clear, and leaves only when you unplug or switch the feature off. The 'Bring back after clear' switch is gone — there is nothing to choose anymore. The countdown text now shows minutes AND seconds (29 min 41 sec left), ticking every second. Voice alerts, the Stop buttons, the anchored countdown and the charge-limit detection work exactly as before.",
+   "ts": 1795442649,
+   "etag": "0x8DF496A88A6FA3F"
   },
   {
    "pkg": "hasu.os.keyboard",
@@ -370,13 +370,13 @@
    "name": "HasuSpeed",
    "tag": "Live internet speed",
    "desc": "Live internet speed in your notification — download & upload now, today's totals and per-app usage.",
-   "code": 37,
-   "versionName": "02.12",
+   "code": 36,
+   "versionName": "02.11",
    "size": 66485,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk",
-   "changes": "FIXED: 🔢 The status-bar speed number now stays in its place — it no longer jumps to the front of the icon row every time the speed changes. The number is now its own tiny silent notification that only ever updates in place, and the big detail card is separate: swipe it away and it stays away until you open the app again, while the number keeps updating. Turn the meter off and both go away.",
-   "ts": 1795442635,
-   "etag": "0x8DF496A883E7AF7"
+   "changes": "NEW: 🔢 The status-bar speed icon is now bigger and clearer — plain bold digits filling the whole icon, with the unit small beside them, readable from a distance. Same live speed and the same meter — only the icon changed. The About page lists it.",
+   "ts": 1795434154,
+   "etag": "0x8DF4956D416005E"
   },
   {
    "pkg": "hasu.os.store",
