@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 118,
-   "versionName": "10.48",
+   "code": 119,
+   "versionName": "10.49",
    "size": 17148039,
-   "changes": "Six new widgets, from the collection you sent (built fresh in HasuOS glass): Analog clock with a live second hand, Dot clock in dot-matrix style, Battery ring, Quick toggles (Wi-Fi, torch, ringer, flight mode — one tap), Favourite contact (your starred contact, tap to call) and Google apps (Chrome, YouTube, Gmail, Maps, Photos, Drive). Widgets are now 62 kinds — find them in the widget picker.",
+   "changes": "The Dynamic Island finally shows: the island was crashing silently the moment it started (one panel was added twice in the rebuild, and Android kills the island before it can appear). That line is removed — turn the island on and the pill appears at the top of your screen.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795400681,
-   "etag": "0x8DF4908C1475A5A"
+   "ts": 1795401440,
+   "etag": "0x8DF490A87556FC5"
   },
   {
    "pkg": "hasu.os.pdf",
