@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 11,
-   "versionName": "1.10",
+   "code": 12,
+   "versionName": "1.11",
    "size": 583500,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "NEW 🔍 Already-applied import — আমার আবেদন now scans your Downloads for Applicant's Copy PDFs from applications you finished in a browser (BOGMC_…, BPS_…, BPSC copies), attaches each to its circular as ✅ Complete with the User ID saved from the filename, and those circulars leave the home list. NEW 🪄 Fill completes the whole form — Care Of on both addresses, your parents' names in Bengali, the Passport box, and Quota / Departmental Status (your None matched to the form's Not Applicable), from 13 new profile answers. NEW 🔍⏷ Search and filters moved behind the top icons — the circular list gets the full screen, with one small chip naming the active filter.",
-   "ts": 1795439725,
-   "etag": "0x8DF4963CDEBC45F",
+   "changes": "FIXED 🏠 Applied circulars now leave the home list by themselves — the Applicant's Copy scan runs right on the home screen (not only inside আমার আবেদন), searches PDFs more widely, and offers the one-time file-access Settings trip when Android blocks the read. HONEST STEPS — an application in hand no longer reads as all finished: every record shows its steps separately (আবেদন ✓ · ফি ⏳ বাকি · Admit), and the application page is now the one hub — the Copy at the top, the circular's facts, the step states, your 16222 payment messages and the fee door (paying itself still happens on the payment page).",
+   "ts": 1795440518,
+   "etag": "0x8DF4965A5984F37",
    "cat": "Tools"
   }
  ]
