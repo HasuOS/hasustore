@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795431823,
+  "generatedAt": 1795432840,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -16,7 +16,11 @@
       "applyUrl": "https://bpsc.teletalk.com.bd",
       "sourceUrl": "https://bdgovt.info/bpsc-non-cadre-job-circular/",
       "published": "2026-10-19",
-      "note": "This BPSC non-cadre circular covers 147 posts in 19 categories — of them, this is the post open to you: Sub-Assistant Maintenance Engineer accepts a 4-year Diploma in Computer Engineering. Apply online at bpsc.teletalk.com.bd and pay the ৳200 fee by Teletalk."
+      "note": "This BPSC non-cadre circular covers 147 posts in 19 categories — of them, this is the post open to you: Sub-Assistant Maintenance Engineer accepts a 4-year Diploma in Computer Engineering. Apply online at bpsc.teletalk.com.bd and pay the ৳200 fee by Teletalk.",
+      "grade": "Grade-10",
+      "category": "Engineering",
+      "location": "সারা দেশ",
+      "pdfUrl": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2026/9/a274b033-05fd-4b5a-8ec8-32b792d6cc09.pdf"
     },
     {
       "id": "dscc-purana-mogaltuli-2026",
@@ -31,7 +35,11 @@
       "applyUrl": "https://www.dscc.gov.bd",
       "sourceUrl": "https://jobresultbd.com/circular/dhaka-south-city-corporation-dscc-gov-job-circular-2026",
       "published": "2026-11-10",
-      "note": "Both posts accept your BTEB Diploma in Computer Science. This application is NOT online: send a written application by post to the Head Teacher, Purana Mogaltuli High School, so it arrives by the deadline. The Apply button opens the DSCC website, where the corporation posts its notices."
+      "note": "Both posts accept your BTEB Diploma in Computer Science. This application is NOT online: send a written application by post to the Head Teacher, Purana Mogaltuli High School, so it arrives by the deadline. The Apply button opens the DSCC website, where the corporation posts its notices.",
+      "grade": "Grade-10 / Grade-16",
+      "category": "Teaching",
+      "location": "ঢাকা",
+      "pdfUrl": ""
     }
   ]
 }
