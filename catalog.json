@@ -19,13 +19,13 @@
       "name": "HasuBattery",
       "tag": "Battery & charge alarm",
       "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-      "code": 15,
-      "versionName": "1.13",
+      "code": 16,
+      "versionName": "1.14",
       "size": 58222,
       "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-      "changes": "Fixed: clearing notifications no longer makes the charging-time minutes blink away — like HasuSpeed, it is back within about a second while you are still plugged in, so it never visibly hides.",
-      "ts": 1795435520,
-      "etag": "0x8DF4959E730EE80"
+      "changes": "The charging-time notification now stays exactly like HasuSpeed's: while you are plugged in it cannot be swiped or cleared away — dismissing it brings it straight back instantly, and it still leaves for good the moment you unplug or switch it off.",
+      "ts": 1795435920,
+      "etag": "0x8DF495AECDA6731"
     },
     {
       "pkg": "hasu.os.keyboard",
