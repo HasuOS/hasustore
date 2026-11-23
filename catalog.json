@@ -84,13 +84,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 149,
-   "versionName": "20.83",
+   "code": 150,
+   "versionName": "20.84",
    "size": 26535607,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "FIXED (photo quality): tap-to-focus now meters the photo itself, not just the preview — before, every still was exposed (and on some phones focused) for the whole frame, so a subject you tapped against a bright or dark background could come out dark or soft. The spot you tap is now carried into the still capture. The rest of the quality pass stands: JPEG quality 98, full-resolution capture, high-quality noise reduction and sharpening.",
-   "ts": 1795429467,
-   "etag": "0x8DF494BE4F74D9B"
+   "changes": "Flash photos are now metered before the shot, so flash pictures no longer come out dark. Faster focus lock, and the app now tells you honestly if a camera session ever has to drop to smaller photos. Full-resolution 50 MP capture at JPEG quality 98, as before.",
+   "ts": 1795451711,
+   "etag": "0x8DF497FA869AA03"
   },
   {
    "pkg": "hasu.os.clean",
