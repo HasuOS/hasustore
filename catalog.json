@@ -370,13 +370,13 @@
    "name": "HasuSpeed",
    "tag": "Live internet speed",
    "desc": "Live internet speed in your notification — download & upload now, today's totals and per-app usage.",
-   "code": 36,
-   "versionName": "02.11",
+   "code": 37,
+   "versionName": "02.12",
    "size": 66485,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk",
-   "changes": "NEW: 🔢 The status-bar speed icon is now bigger and clearer — plain bold digits filling the whole icon, with the unit small beside them, readable from a distance. Same live speed and the same meter — only the icon changed. The About page lists it.",
-   "ts": 1795434154,
-   "etag": "0x8DF4956D416005E"
+   "changes": "FIXED: 🔢 The status-bar speed number now stays in its place — it no longer jumps to the front of the icon row every time the speed changes. The number is now its own tiny silent notification that only ever updates in place, and the big detail card is separate: swipe it away and it stays away until you open the app again, while the number keeps updating. Turn the meter off and both go away.",
+   "ts": 1795442796,
+   "etag": "0x8DF496A883E7AF7"
   },
   {
    "pkg": "hasu.os.store",
