@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 12,
-   "versionName": "1.11",
-   "size": 583500,
+   "code": 13,
+   "versionName": "1.12",
+   "size": 587596,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "FIXED 🏠 Applied circulars now leave the home list by themselves — the Applicant's Copy scan runs right on the home screen (not only inside আমার আবেদন), searches PDFs more widely, and offers the one-time file-access Settings trip when Android blocks the read. HONEST STEPS — an application in hand no longer reads as all finished: every record shows its steps separately (আবেদন ✓ · ফি ⏳ বাকি · Admit), and the application page is now the one hub — the Copy at the top, the circular's facts, the step states, your 16222 payment messages and the fee door (paying itself still happens on the payment page).",
-   "ts": 1795440518,
-   "etag": "0x8DF4965A5984F37",
+   "changes": "USER ID NOW FILLS ITSELF — the payment page no longer opens with an empty User ID: the Applicant's Copy scan now reads the ID the copy itself prints (BPSC copies included), portal filename codes are read more faithfully, and copies attached by older versions get their missing ID filled in on the next scan. The ID also has its own row on the application page. SIM — the Teletalk SIM now picks itself: the fee page asks for the Phone permission right there and selects Teletalk the moment it is granted, no manual step. PDF VIEWER — pinch to zoom with pan, double-tap to zoom, pages rendered sharp at up to 3×. SAMSUNG SMS BLOCK — when One UI's restricted-settings rule stops an SMS permission, the app shows the exact one-time fix (App info → ⋮ → Allow restricted settings) instead of a bare failure.",
+   "ts": 1795441495,
+   "etag": "0x8DF4967EBC3D9A4",
    "cat": "Tools"
   }
  ]
