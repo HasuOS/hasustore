@@ -789,13 +789,13 @@
    "name": "HasuWidget",
    "tag": "Every HasuOS Home widget, one tap to add",
    "desc": "The widget gallery for HasuOS Home: all 66 widget kinds in one glass list — every row now shows a live preview of the widget itself, plus search, categories and favourites. Tap Add on any widget and it appears on your home screen.",
-   "code": 5,
-   "versionName": "1.04",
-   "size": 90990,
+   "code": 6,
+   "versionName": "1.05",
+   "size": 82798,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/widget.apk",
-   "changes": "Previews are now shown at each widget's REAL size — wide widgets wide, square widgets square, standard widgets standard — drawn like the real widget cards, not tiny boxes.",
-   "ts": 1795404413,
-   "etag": "0x8DF49117D54AEA0",
+   "changes": "The icon goes FULL white too — a clean white tile with the four widget tiles and the blue plus, matching HasuIsland.",
+   "ts": 1795404600,
+   "etag": "0x8DF4911E7F046EC",
    "cat": "HasuOS"
   }
  ]
