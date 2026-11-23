@@ -798,6 +798,20 @@
    "ts": 1795429467,
    "etag": "0x8DF494BC9450FD4",
    "cat": "HasuOS"
+  },
+  {
+   "pkg": "hasu.os.jobs",
+   "name": "HasuJobs",
+   "tag": "Govt circulars • Diploma in Computer",
+   "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
+   "code": 1,
+   "versionName": "1.00",
+   "size": 476935,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
+   "changes": "NEW APP: HasuJobs — government job circulars for Diploma in Computer Science / CSE holders. Live feed: new circulars arrive in the app by themselves, no app update needed. Every card shows the deadline with a days-left chip (red in the last 3 days) and a NEW chip on fresh circulars; search plus Closing soon / New filters; a full page per circular with posts, vacancies, qualification, salary and fee; Apply opens the official application page, Source opens the official notice; works offline with the saved feed; Guide and honest Permissions pages. First feed: BPSC Non-Cadre — Sub-Assistant Maintenance Engineer, 7 posts, apply by 30 Nov 2026; and Purana Mogaltuli High School (DSCC) — ICT Teacher + Computer Lab Operator, by 12 Dec 2026.",
+   "ts": 1795431823,
+   "etag": "0x8DF495162BC2057",
+   "cat": "Tools"
   }
  ]
 }

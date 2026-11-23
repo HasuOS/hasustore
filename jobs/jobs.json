@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "generatedAt": 1795431823,
+  "jobs": [
+    {
+      "id": "bpsc-non-cadre-2026",
+      "title": "নন-ক্যাডার নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Bangladesh Public Service Commission (BPSC)",
+      "posts": "সাব-এসিস্ট্যান্ট মেইন্টেন্যান্স ইঞ্জিনিয়ার (Sub-Assistant Maintenance Engineer)",
+      "vacancy": 7,
+      "qualification": "4-year Diploma in Computer Engineering from a recognized polytechnic institute (Electrical / Electronics / Mechanical / Software diplomas also accepted for this post). Aptitude test required. Age up to 32.",
+      "salary": "Grade-10 — ৳32,000–77,300 (National Pay Scale 2026)",
+      "startDate": "2026-11-01",
+      "deadline": "2026-11-30",
+      "fee": "৳200 (Teletalk)",
+      "applyUrl": "https://bpsc.teletalk.com.bd",
+      "sourceUrl": "https://bdgovt.info/bpsc-non-cadre-job-circular/",
+      "published": "2026-10-19",
+      "note": "This BPSC non-cadre circular covers 147 posts in 19 categories — of them, this is the post open to you: Sub-Assistant Maintenance Engineer accepts a 4-year Diploma in Computer Engineering. Apply online at bpsc.teletalk.com.bd and pay the ৳200 fee by Teletalk."
+    },
+    {
+      "id": "dscc-purana-mogaltuli-2026",
+      "title": "পুরান মোগলটুলি উচ্চ বিদ্যালয়ে নিয়োগ বিজ্ঞপ্তি",
+      "org": "Purana Mogaltuli High School (Dhaka South City Corporation)",
+      "posts": "সহকারী শিক্ষক (আইসিটি) — ১টি • কম্পিউটার ল্যাব অপারেটর — ১টি",
+      "vacancy": 2,
+      "qualification": "ICT Teacher: a BTEB 3-year Diploma in Computer Science is accepted (as an alternative to a Computer Science degree). Computer Lab Operator: BTEB 3-year Computer Diploma, or HSC (Science) with ICT. Age up to 35 (as of 1 Dec 2026).",
+      "salary": "ICT Teacher: Grade-10 ৳16,000–38,640 / Grade-11 ৳12,500–30,230 • Lab Operator: Grade-16 ৳9,300–22,490",
+      "startDate": "2026-11-10",
+      "deadline": "2026-12-12",
+      "applyUrl": "https://www.dscc.gov.bd",
+      "sourceUrl": "https://jobresultbd.com/circular/dhaka-south-city-corporation-dscc-gov-job-circular-2026",
+      "published": "2026-11-10",
+      "note": "Both posts accept your BTEB Diploma in Computer Science. This application is NOT online: send a written application by post to the Head Teacher, Purana Mogaltuli High School, so it arrives by the deadline. The Apply button opens the DSCC website, where the corporation posts its notices."
+    }
+  ]
+}
