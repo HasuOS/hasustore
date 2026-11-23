@@ -500,13 +500,13 @@
    "name": "HasuOS",
    "tag": "The family showcase",
    "desc": "Every HasuOS app in one place — the whole family with its details, straight from the live catalogue. Tap any app for its story, version and size, and get it through HasuStore.",
-   "code": 11,
-   "versionName": "1.10",
-   "size": 267907,
-   "ts": 1795410177,
-   "etag": "0x8DF491EFF7DE4C3",
+   "code": 12,
+   "versionName": "1.11",
+   "size": 272003,
+   "ts": 1795417613,
+   "etag": "0x8DF493053446B38",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
-   "changes": "FIXED: the icon is now your exact brand logo in EVERY slot — all densities, the round icon, and the adaptive icon (logo on white) that Android 16 actually uses."
+   "changes": "New Guide page, and the built-in app list is refreshed to the current catalogue."
   },
   {
    "pkg": "hasu.os.hasu",
