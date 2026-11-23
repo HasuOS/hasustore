@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 17,
-   "versionName": "1.16",
-   "size": 640917,
+   "code": 18,
+   "versionName": "1.17",
+   "size": 665493,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "NEAREST EXAM FIRST — the study wing now leads with what your closest exam needs: subjects of the application with the nearest known exam date come first (🔥 চলতি পরীক্ষার জন্য জরুরি), then the subjects of this month's open circulars; set an exam date on any application page and the ordering follows it — no date is ever invented. WRITTEN QUESTIONS — a new লিখিত প্রশ্ন section in পড়াশোনা: descriptive questions for your posts (Computer/ICT first) from the live feed, each opening to the key points a good answer must cover, with a per-person চর্চা হয়েছে mark; the bank keeps growing without an app update. SISTER'S SIDE IS CLEANED FOR GOOD — the one leaked record that survived (a Secretariat application that was never hers) is removed by a stronger rule: while her profile holds no data at all, no application record can belong to her, so every such record is cleared; your own records are never touched. AUTOMATIC BACKUP, BOTH WAYS — everything (both people's applications, fee states, deadlines, profiles, saved circulars, test results) now backs itself up with no button to press: a backup file refreshes itself in Downloads/HasuJobs whenever your data changes, and once you connect your own Telegram bot on the Backup page (About → Backup ও Restore — paste the bot token once), the same backup also goes to your Telegram automatically and a fresh install pulls it straight back from Telegram by itself. Until you connect, the Downloads file carries the safety duty on its own.",
-   "ts": 1795445772,
-   "etag": "0x8DF4971D6CCD377",
+   "changes": "SEPARATE, ORGANISED BACKUPS — the two people's backups are now truly separate and folder-wise, the way HasuWall organises its backup: Downloads/HasuJobs/Backup holds a Me folder and a Sister folder, each with profile, applications, copies and study folders inside, and on Telegram the same files travel as separate documents — one per file, captioned with its person and category — under one small pinned index. Restoring or deleting one person's backup never touches the other's, each person's backup refreshes and restores by itself, and a 1.16 combined backup still restores exactly as before. UPDATE FROM INSIDE THE APP — About → ⬆ App update: the app now checks for its own new version, shows what changed, downloads with pause/resume, fully verifies the file (exact size and version) and hands it to the system installer — and honestly says সর্বশেষ version-ই আছে when you are current. PROFILE PAGE HEALS ITSELF — fields your first import predates (blood group, care of and the other later answers) now fill themselves from your Downloads import ZIP when you open the তথ্য page — only empty fields are filled, nothing you already have is ever overwritten; ⚡ Auto Import works the same fill-only-missing way, and an old page copy can no longer wipe a newer imported value.",
+   "ts": 1795446730,
+   "etag": "0x8DF49741B4AED58",
    "cat": "Tools"
   }
  ]
