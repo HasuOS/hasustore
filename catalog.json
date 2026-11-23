@@ -500,13 +500,13 @@
    "name": "HasuOS",
    "tag": "The family showcase",
    "desc": "Every HasuOS app in one place — the whole family with its details, straight from the live catalogue. Tap any app for its story, version and size, and get it through HasuStore.",
-   "code": 10,
-   "versionName": "1.09",
-   "size": 107374,
-   "ts": 1795407309,
-   "etag": "0x8DF49181B3B4DAC",
+   "code": 11,
+   "versionName": "1.10",
+   "size": 267907,
+   "ts": 1795410177,
+   "etag": "0x8DF491EFF7DE4C3",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
-   "changes": "NEW: your own brand logo — the glossy chrome h you sent — is now the HasuOS icon, exactly as you gave it, and the same logo now sits on the website too."
+   "changes": "FIXED: the icon is now your exact brand logo in EVERY slot — all densities, the round icon, and the adaptive icon (logo on white) that Android 16 actually uses."
   },
   {
    "pkg": "hasu.os.hasu",
@@ -789,13 +789,13 @@
    "name": "HasuWidget",
    "tag": "Every HasuOS Home widget, one tap to add",
    "desc": "The widget gallery for HasuOS Home: all 66 widget kinds in one glass list — every row now shows a live preview of the widget itself, plus search, categories and favourites. Tap Add on any widget and it appears on your home screen.",
-   "code": 7,
-   "versionName": "1.06",
-   "size": 82798,
+   "code": 8,
+   "versionName": "1.07",
+   "size": 86894,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/widget.apk",
-   "changes": "All 66 widgets now premium liquid transparent glass — layered sheen, bright rim, soft glow on every preview",
-   "ts": 1795409087,
-   "etag": "0x8DF491C78393983",
+   "changes": "Control Home widgets from here: see the widgets on your home, remove them or clear all, and apply ready widget templates that land on Home exactly as shown. Needs HasuOS Home 10.52.",
+   "ts": 1795410183,
+   "etag": "0x8DF491F0A680E79",
    "cat": "HasuOS"
   }
  ]
