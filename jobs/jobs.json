@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "generatedAt": 1795524812,
+    "generatedAt": 1795532521,
     "jobs": [
         {
             "id": "bpsc-non-cadre-2026",
@@ -232,6 +232,69 @@
             "track": "graduate",
             "location": "ঢাকা",
             "pdfUrl": "https://bps.teletalk.com.bd/docs/20261110.pdf"
+        },
+        {
+            "id": "mod-steno-typist-computer-operator-2026",
+            "title": "প্রতিরক্ষা মন্ত্রণালয় নিয়োগ বিজ্ঞপ্তি ২০২৬",
+            "org": "Ministry of Defence (প্রতিরক্ষা মন্ত্রণালয়)",
+            "posts": "সাঁট-মুদ্রাক্ষরিক-কাম-কম্পিউটার অপারেটর (Steno-Typist cum Computer Operator) — ৩টি",
+            "vacancy": 3,
+            "qualification": "Bachelor's degree or equivalent from a recognised university; computer training certificate; shorthand English 70 / Bengali 45 wpm; computer typing English 30 / Bengali 25 wpm; proficiency in word processing, e-mail and fax operation. Age 18–32 (as of 12 Nov 2026).",
+            "salary": "Grade-13 — ৳24,000–58,000 (National Pay Scale 2026)",
+            "startDate": "2026-11-12",
+            "deadline": "2026-12-03",
+            "fee": "৳112 (Teletalk)",
+            "applyUrl": "https://mod.teletalk.com.bd",
+            "sourceUrl": "https://alljobs.teletalk.com.bd/jobs/government/482?jobId=15286&allow=YES",
+            "published": "2026-11-08",
+            "note": "Circular (ADV no. 23.00.0000.000.110.11.0067.26.1515, 8 Nov 2026; confirmed live on the official alljobs.teletalk.com.bd portal) advertises 10 posts in 3 categories at the Ministry of Defence — of them, the Steno-Typist cum Computer Operator post (3 posts) is open to any bachelor's-degree holder with computer training and the prescribed shorthand/typing speeds. The other posts in this circular need HSC or SSC only. Apply online at mod.teletalk.com.bd and pay ৳112 by Teletalk SMS within 72 hours.",
+            "grade": "Grade-13",
+            "category": "ICT",
+            "track": "graduate",
+            "location": "ঢাকা",
+            "pdfUrl": ""
+        },
+        {
+            "id": "dgbpo-stenotypist-computer-operator-2026",
+            "title": "ডাক অধিদপ্তর নিয়োগ বিজ্ঞপ্তি ২০২৬",
+            "org": "Department of Posts (ডাক অধিদপ্তর)",
+            "posts": "সাঁট-মুদ্রাক্ষরিক-কাম-কম্পিউটার অপারেটর (Stenotypist cum Computer Operator) — ১৭টি",
+            "vacancy": 17,
+            "qualification": "Minimum 2nd class / equivalent CGPA in a bachelor's degree from a recognised university; computer operating skills; shorthand English 70 / Bengali 45 wpm; typing English 30 / Bengali 25 wpm. Age 18–32 (as of 10 Dec 2026).",
+            "salary": "Grade-14 — ৳23,500–56,800 (National Pay Scale 2026)",
+            "startDate": "2026-11-10",
+            "deadline": "2026-12-10",
+            "fee": "৳112 (Teletalk)",
+            "applyUrl": "https://dgbpo.teletalk.com.bd",
+            "sourceUrl": "https://students.bd/en/job/bdpost-job-circular-2026-apply-online-dgbpoteletalkcombd",
+            "published": "2026-11-09",
+            "note": "Circular (ref 14.31.0000.000.029.11.0006.26.59, 9 Nov 2026; published in Daily Amardesh) advertises 169 posts in 36 categories at the Department of Posts — of them, the Stenotypist cum Computer Operator post (17 posts) is open to any bachelor's-degree holder (2nd class) with computer skills and the prescribed shorthand/typing speeds. Candidates from all districts may apply. Apply online at dgbpo.teletalk.com.bd and pay ৳112 by Teletalk SMS within 72 hours.",
+            "grade": "Grade-14",
+            "category": "ICT",
+            "track": "graduate",
+            "location": "সারা দেশ",
+            "pdfUrl": ""
+        },
+        {
+            "id": "bcps-computer-operator-2026",
+            "title": "বাংলাদেশ কলেজ অব ফিজিশিয়ানস্ এন্ড সার্জনস্ নিয়োগ বিজ্ঞপ্তি ২০২৬",
+            "org": "Bangladesh College of Physicians & Surgeons (BCPS)",
+            "posts": "কম্পিউটার অপারেটর (Computer Operator) — ১২টি",
+            "vacancy": 12,
+            "qualification": "Bachelor's degree or equivalent from a recognised university AND a diploma in computer from a recognised institute; MS Office proficiency preferred. Age up to 32 (as of 22 Nov 2026).",
+            "salary": "সর্বসাকুল্যে ৳20,212/month (outsourcing — no grade / pay scale)",
+            "startDate": "2026-11-23",
+            "deadline": "2026-12-15",
+            "fee": "৳500 (bank draft / pay order, non-refundable)",
+            "applyUrl": "",
+            "sourceUrl": "https://bdgovt.info/bcps-job-circular/",
+            "published": "2026-11-23",
+            "note": "This is an OUTSOURCING service engagement, NOT a permanent government post: fully temporary, fixed monthly consolidated pay ৳20,212, no grade or pay scale. Circular memo বিসিপিএস নং-৭৭৬/২০২৬/২৭৪৫১, 22 Nov 2026 (Daily Star, 23 Nov 2026) advertises 22 posts in 4 categories — of them, the Computer Operator post (12 posts) needs a bachelor's degree plus a computer diploma from a recognised institute. No prescribed application form: write the application on plain paper with a full CV and send it by registered post, courier or in person with a ৳500 bank draft / pay order to the Secretary, BCPS, 67 Shahid Tajuddin Ahmed Sarani, Mohakhali, Dhaka-1212, so it arrives by 15 Dec 2026, 2:00 PM. One candidate may apply for only one post.",
+            "grade": "Outsourcing",
+            "category": "ICT",
+            "track": "graduate",
+            "location": "ঢাকা",
+            "pdfUrl": ""
         }
     ]
 }
