@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 237,
-   "versionName": "2.44",
+   "code": 238,
+   "versionName": "2.45",
    "size": 115115191,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "FIXED: the login page now always shows first \u2014 every page of the store checks the login, so reopening the store can no longer slip past it.",
-   "ts": 1795526331,
-   "etag": "0x8DF4A2D6513382B"
+   "changes": "Forgot password is email only now: one ready-written email to the owner \u2014 tap Email and the mail is already addressed and written; just add your name or ID and send. No Facebook row.",
+   "ts": 1795533538,
+   "etag": "0x8DF4A3E1D6D9BA3"
   },
   {
    "pkg": "hasu.os.tasbih",
