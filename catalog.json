@@ -409,13 +409,13 @@
    "name": "HasuTask",
    "tag": "To-dos & reminders",
    "desc": "To-dos — tasks with a date, time and priority, and reminders that fire on time. Filter by Today, All or Done.",
-   "code": 9,
-   "versionName": "1.07",
-   "size": 62531,
+   "code": 10,
+   "versionName": "1.08",
+   "size": 66627,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk",
-   "changes": "Winter routine: the daily checklist now matches the winter sheet — Fajr 5:15 AM, later start, afternoon walk, Varsity Book rotation, sleep 11 PM",
-   "ts": 1795434836,
-   "etag": "0x8DF4958694A6239"
+   "changes": "NEW: your full daily routine is added as tasks — a reminder at every block's start time, including the weekly rotation (this replaces the old routine list). FIXED: repeating task reminders now keep firing — a daily task that is not marked done reminds again the next day instead of going silent, and reminders survive reboots.",
+   "ts": 1795522719,
+   "etag": "0x8DF4A24F56D145D"
   },
   {
    "pkg": "hasu.os.tools",
