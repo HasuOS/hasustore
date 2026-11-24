@@ -748,13 +748,13 @@
    "name": "HasuWallet",
    "tag": "Your passwords & cards, in HasuOS glass",
    "desc": "A full password vault that lives only on your phone: master password + fingerprint unlock, AES-256 encryption, and — once you make it the default autofill service in its Settings — auto fill and auto save for logins across apps and websites. Cards, notes, favourites, search and a strong-password generator. No account, no cloud, no internet.",
-   "code": 3,
-   "versionName": "1.02",
+   "code": 4,
+   "versionName": "1.03",
    "size": 78986,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wallet.apk",
-   "changes": "NEW: HasuWallet can now be your phone's Default wallet app — it appears in Settings \u2192 Default wallet app and can be selected there. Honest note: the vault holds no bank cards, so tap-to-pay payment still needs a bank-linked wallet; HasuWallet's job is your passwords, app logins and autofill — all unchanged.",
-   "ts": 1795526423,
-   "etag": "0x8DF4A2D5EDAFC16",
+   "changes": "NEW: keyboard autofill - with HasuWallet as your autofill service and HasuBoard as your keyboard, the HasuJobs and HasuStore ADMIN logins can now also appear as a suggestion chip inside the keyboard's own strip on those two login screens; one tap fills, and while the vault is locked the chip opens the same unlock & fill door. The User logins stay copy-only and are never offered. Everything else - the vault, App logins and the default-wallet listing - is unchanged.",
+   "ts": 1795526773,
+   "etag": "0x8DF4A2E7703D1A9",
    "cat": "Tools"
   },
   {
