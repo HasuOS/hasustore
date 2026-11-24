@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 45,
-   "versionName": "1.44",
-   "size": 793372,
+   "code": 46,
+   "versionName": "1.45",
+   "size": 802108,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "১.৪৪: Recharge sheet এবার ঠিক দুইটা door — bKash আর Nagad, একটা করে row; app থাকলে app-ই খুলবে, না থাকলে USSD code dialer-এ যাবে। Fee-র ঘাটতি এবার সংখ্যায়: Teletalk balance কম থাকলে home-এর fee line আর fee page — দুই জায়গাতেই 'আরো ৳X recharge লাগবে' (পুরো টাকায় হিসাব)। GitHub backup-এ repo-র head সরে গেলে (422) app নিজে থেকে আরেকবার চেষ্টা করবে; তাও না হলে কঠিন API শব্দ ছাড়া সহজ ভাষায় জানাবে। Widget এবার নিজের পুরো জায়গাটাই ভরে — বড় করলে বাকি কাজগুলো আসল row হয়ে আসে, নিচে খালি জায়গা থাকে না। আর আবেদন করা circular-এর admit card বা result বের হলেই notification আসবে — একবারই, পুরনো খবরে নয়।",
-   "ts": 1795499912,
-   "etag": "0x8DF49EFE4183791",
+   "changes": "১.৪৫: Widget-এর আসল গলদটা ছিল HasuOS Home-এ — Home widget-কে তার জায়গার মাপ কোনোদিন জানাতই না, তাই widget নিজের জায়গা ভরতে পারত না; Home 10.55-এর সাথে মিলিয়ে এবার ঠিক (দুটোই update করুন)। নতুন আরো ৩টা widget: সবচেয়ে কাছের deadline-এর live countdown, fee বাকি + balance-এর হিসাব, আর আজকের পড়া বনাম লক্ষ্য (progress সহ)। Balance এবার হিসাব করা: শেষ balance message-এর পরে fee দেওয়া হলে সেই fee বাদ দিয়ে দেখায় — 'fee বাদ দিয়ে হিসাব করা' লেখা থাকে। BPC-র paid copy এবার portal-এর আসল section থেকে নিজে খুঁজে নেয় (User ID/Password নিজে বসে), আর মরা cached ঠিকানা দ্বিতীয়বার খোলে না।",
+   "ts": 1795500955,
+   "etag": "0x8DF49F258D6609A",
    "cat": "Tools"
   }
  ]
