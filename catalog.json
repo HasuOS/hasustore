@@ -748,13 +748,13 @@
    "name": "HasuWallet",
    "tag": "Your passwords & cards, in HasuOS glass",
    "desc": "A full password vault that lives only on your phone: master password + fingerprint unlock, AES-256 encryption, and — once you make it the default autofill service in its Settings — auto fill and auto save for logins across apps and websites. Cards, notes, favourites, search and a strong-password generator. No account, no cloud, no internet.",
-   "code": 6,
-   "versionName": "1.05",
+   "code": 7,
+   "versionName": "1.06",
    "size": 83082,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wallet.apk",
-   "changes": "FIXED: the 'Master password on fill' switch now does exactly what it says in both positions. In 1.04 the switch was bypassed whenever the vault had been opened in the last couple of minutes - which is always, since reaching the switch means unlocking the vault first - so fills went through without asking in both positions. Now ON means every fill asks for the master password (or fingerprint) first, even right after opening the vault; OFF means the HasuJobs / HasuStore ADMIN logins fill without asking, and the Settings card now shows whether the no-ask copy is actually ready on this phone (it is made when you next unlock the vault - until then fills still ask, never silently nothing). Everything else - vault, App logins, keyboard chips, default-wallet listing - is unchanged.",
-   "ts": 1795527690,
-   "etag": "0x8DF4A305EA99BC5",
+   "changes": "NEW: the vault now lives inside HasuBoard too. HasuBoard's 🔐 tool opens this vault's login list right inside the keyboard — names and IDs only — and tapping one types the ID and password into the login screen together, on any app. The list and the pair come from HasuWallet at that moment, over a channel only family-signed apps can open; the keyboard stores nothing. The list appears only while the vault is unlocked — while it is locked, the keyboard shows an unlock door that opens HasuWallet, and the master password is only ever typed here. Cards, notes and the two copy-only USER app logins stay out of the keyboard list. If 'Master password on fill' is ON, tapping an item in the keyboard does not fill — it sends you to the unlock door so the ask happens properly; turn it OFF and a tap fills at once while the vault is open. Everything else — the fill switch, App logins, autofill, default-wallet listing — is unchanged.",
+   "ts": 1795528797,
+   "etag": "0x8DF4A33289304AA",
    "cat": "Tools"
   },
   {
