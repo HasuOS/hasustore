@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 124,
-   "versionName": "10.54",
+   "code": 125,
+   "versionName": "10.55",
    "size": 17152135,
-   "changes": "Search and Library backgrounds are now fully opaque (they were slightly see-through), and Search now also finds Home's own settings — type \"wallpaper\", \"widget\" or \"dock\" to jump straight to that setting.",
+   "changes": "10.55: FIXED — widgets placed on Home now learn their real size. Home never told a widget how big its placed area was, so size-fitted widgets (like HasuJobs' pending-work widget) rendered for their default size and left the rest of the area empty — the 'widget doesn't fill' problem. Home now reports every hosted widget's placed size when its page is built or resized, and re-reports whenever the size changes. Update HasuJobs to 1.45 as well: the full widget fix plus its three new widgets (deadline countdown, fees + balance, today's study).",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795452039,
-   "etag": "0x8DF49806F868D0C"
+   "ts": 1795501370,
+   "etag": "0x8DF49F357223CA3"
   },
   {
    "pkg": "hasu.os.pdf",
