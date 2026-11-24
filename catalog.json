@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 239,
-   "versionName": "2.46",
+   "code": 240,
+   "versionName": "2.47",
    "size": 115115191,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Readymade mail fixed: tapping Email on the Forgot password page now opens your mail app with the subject and the full ready-written mail already filled in \u2014 just add your name or ID and send.",
-   "ts": 1795534445,
-   "etag": "0x8DF4A3FE1D15AD1"
+   "changes": "Log in once and stay logged in \u2014 HasuStore now remembers your login (never the password) and opens straight in, even after a phone restart, until you tap Log out under the main screen header. The main screen also shows who is logged in.",
+   "ts": 1795535561,
+   "etag": "0x8DF4A42C60790EA"
   },
   {
    "pkg": "hasu.os.tasbih",
