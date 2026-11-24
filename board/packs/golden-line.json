@@ -1,0 +1,8 @@
+{
+  "id": "golden-line",
+  "name": "Golden Line",
+  "kind": "drawn",
+  "stroke": 2.2,
+  "color": "#FFD60A",
+  "glow": true
+}
