@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 48,
-   "versionName": "1.47",
-   "size": 806277,
+   "code": 50,
+   "versionName": "1.49",
+   "size": 810373,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "১.৪৭: Copy page-এর লিঙ্ক এবার live feed থেকে আসে — portal-এর আসল ঠিকানা (যেমন BPC-র officer section-এর copy page) এখন app update ছাড়াই ঠিক করা যায়। পুরনো ভুল cached লিঙ্ক এই update-এ নিজে থেকে মুছে গেছে; কোনো ঠিকানা যাচাই করা না হলে page-এ তা লেখা থাকবে, আর portal-এ মরে যাওয়া ঠিকানা app আর খুলবে না — আসলটা খুঁজে দেখাবে।",
-   "ts": 1795502552,
-   "etag": "0x8DF49F612340E3D",
+   "changes": "১.৪৯ (FINAL): বোনের side-এ ভুল আবেদন দেখানোর সমস্যা একদম বন্ধ — ওর profile খালি থাকলে ওর কোনো আবেদনই দেখাবে না, backup restore করলেও ফিরবে না। দুজনের circular pool এখন আলাদা: তোমারটা CSE diploma দিয়ে আবেদন করা যায় এমন সব সরকারি পদ, ওরটা শুধু graduate grade-এর সরকারি computer পদ। ওর profile-এ HSC, Honours, Master's আর চাকরির ঘর যোগ হয়েছে — graduate form-এ university, subject, year, result নিজে থেকে বসবে। খালি প্রশ্ন-bank-এ study tab-এ আর ফাঁকা header দেখাবে না।",
+   "ts": 1795507607,
+   "etag": "0x8DF4A01D6C23994",
    "cat": "Tools"
   }
  ]
