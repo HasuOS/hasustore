@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795507642171,
+ "generatedAt": 1795513650,
  "jobs": [
   {
    "id": "bpsc-non-cadre-2026",
@@ -39,7 +39,7 @@
    "note": "Both posts accept your BTEB Diploma in Computer Science. This application is NOT online: send a written application by post to the Head Teacher, Purana Mogaltuli High School, so it arrives by the deadline (12 Dec 2026).",
    "grade": "Grade-10 / Grade-16",
    "category": "Teaching",
-   "track": "both",
+   "track": "diploma",
    "location": "ঢাকা",
    "pdfUrl": ""
   },
@@ -102,7 +102,7 @@
    "note": "Apply on KUET's own job portal: create an account, fill in your profile once, then apply for the post and pay the ৳800 fee online (card or mobile banking). This circular (memo খুপ্রবি/সওপ্র/১৪৯৬/১০০, 18 Oct 2026) advertises 62 posts — this Sub-Assistant Programmer post at the Central Computer Centre is the one open to Diploma in Computer holders.",
    "grade": "Grade-10",
    "category": "ICT",
-   "track": "both",
+   "track": "diploma",
    "location": "খুলনা",
    "pdfUrl": "https://careers.kuet.ac.bd/api/v1/circulars/cmvnl0t0q00341dqqxo56andw/files/official-circular"
   },
