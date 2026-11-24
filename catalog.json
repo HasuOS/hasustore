@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 240,
-   "versionName": "2.47",
+   "code": 241,
+   "versionName": "2.48",
    "size": 115115191,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Log in once and stay logged in \u2014 HasuStore now remembers your login (never the password) and opens straight in, even after a phone restart, until you tap Log out under the main screen header. The main screen also shows who is logged in.",
-   "ts": 1795535561,
-   "etag": "0x8DF4A42C60790EA"
+   "changes": "Log out moved to Settings \u2014 the Log out button now sits at the top of the Settings card on the About page, there for both User and Admin logins. The login itself is unchanged: log in once and stay logged in until you tap Log out.",
+   "ts": 1795535874,
+   "etag": "0x8DF4A4392D6BB5D"
   },
   {
    "pkg": "hasu.os.tasbih",
