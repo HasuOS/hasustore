@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 235,
-   "versionName": "2.42",
-   "size": 115111095,
+   "code": 236,
+   "versionName": "2.43",
+   "size": 115115191,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Fixed an update that could download but never install; added the missing icons for 18 newer apps; added a Guide page; small download-card fixes.",
-   "ts": 1795453224,
-   "etag": "0x8DF49831E177BFC"
+   "changes": "NEW: User and Admin logins \u2014 the login page asks which one you are; Settings now opens for the Admin login only. Forgot password opens the owner\u2019s contact page.",
+   "ts": 1795525439,
+   "etag": "0x8DF4A2B5229BD70"
   },
   {
    "pkg": "hasu.os.tasbih",
