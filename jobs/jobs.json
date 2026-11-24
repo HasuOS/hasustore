@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "generatedAt": 1795532521,
+    "generatedAt": 1795532680,
     "jobs": [
         {
             "id": "bpsc-non-cadre-2026",
@@ -273,27 +273,6 @@
             "category": "ICT",
             "track": "graduate",
             "location": "সারা দেশ",
-            "pdfUrl": ""
-        },
-        {
-            "id": "bcps-computer-operator-2026",
-            "title": "বাংলাদেশ কলেজ অব ফিজিশিয়ানস্ এন্ড সার্জনস্ নিয়োগ বিজ্ঞপ্তি ২০২৬",
-            "org": "Bangladesh College of Physicians & Surgeons (BCPS)",
-            "posts": "কম্পিউটার অপারেটর (Computer Operator) — ১২টি",
-            "vacancy": 12,
-            "qualification": "Bachelor's degree or equivalent from a recognised university AND a diploma in computer from a recognised institute; MS Office proficiency preferred. Age up to 32 (as of 22 Nov 2026).",
-            "salary": "সর্বসাকুল্যে ৳20,212/month (outsourcing — no grade / pay scale)",
-            "startDate": "2026-11-23",
-            "deadline": "2026-12-15",
-            "fee": "৳500 (bank draft / pay order, non-refundable)",
-            "applyUrl": "",
-            "sourceUrl": "https://bdgovt.info/bcps-job-circular/",
-            "published": "2026-11-23",
-            "note": "This is an OUTSOURCING service engagement, NOT a permanent government post: fully temporary, fixed monthly consolidated pay ৳20,212, no grade or pay scale. Circular memo বিসিপিএস নং-৭৭৬/২০২৬/২৭৪৫১, 22 Nov 2026 (Daily Star, 23 Nov 2026) advertises 22 posts in 4 categories — of them, the Computer Operator post (12 posts) needs a bachelor's degree plus a computer diploma from a recognised institute. No prescribed application form: write the application on plain paper with a full CV and send it by registered post, courier or in person with a ৳500 bank draft / pay order to the Secretary, BCPS, 67 Shahid Tajuddin Ahmed Sarani, Mohakhali, Dhaka-1212, so it arrives by 15 Dec 2026, 2:00 PM. One candidate may apply for only one post.",
-            "grade": "Outsourcing",
-            "category": "ICT",
-            "track": "graduate",
-            "location": "ঢাকা",
             "pdfUrl": ""
         }
     ]
