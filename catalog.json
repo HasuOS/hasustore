@@ -804,13 +804,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 63,
- "versionName": "1.62",
- "size": 867787,
+ "code": 64,
+ "versionName": "1.63",
+ "size": 871883,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "১.৬২: ⚙️ About-এর নাম এখন Settings — header-এর ⚙️ gear চাপলেই সেই page: Person, ⬆ App update, 📖 Guide, 💾 Backup ও Restore আগের মতোই। 🚪 Log out এখন এই Settings page-এই — সব button-এর একদম শেষে, নিচের বড় তথ্যের তালিকার উপরে; Permissions page থেকে Log out সরিয়ে দেওয়া হয়েছে। ভিতরের সবকিছু আগের মতোই — শুধু নাম, icon আর Log out-এর জায়গা বদলেছে।",
- "ts": 1795536904,
- "etag": "0x8DF4A45FF696646",
+ "changes": "১.৬৩: 📚 পড়াশোনা tab এখন আলাদা আলাদা page — home-এ শুধু hero, ছয়টা section-এর grid আর আগের বছরের প্রশ্নের card; প্রতিটা section-এ চাপলেই তার নিজের page খোলে (নিজের header ও backসহ), subject বদলালেও page-এর scroll জায়গাতেই থাকে — লাফ দিয়ে উপরে ওঠা বন্ধ। ⚙️ About-এর নাম এখন Settings (gear icon), আর 🚪 Log out Permissions থেকে সরে এই Settings page-এ এসেছে — সব button-এর শেষে, বড় তথ্যের তালিকার উপরে।",
+ "ts": 1795537432,
+ "etag": "0x8DF4A474AE5A398",
  "cat": "Tools"
 }
  ]
