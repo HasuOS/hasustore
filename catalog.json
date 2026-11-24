@@ -162,13 +162,13 @@
    "name": "HasuHabit",
    "tag": "Habit tracker",
    "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.",
-   "code": 8,
-   "versionName": "1.07",
-   "size": 58436,
+   "code": 9,
+   "versionName": "1.08",
+   "size": 62532,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one (the user order 2026-11-20 ~05:33; HasuHabit never had one). FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only then, repainted on every return (the same bug fixed in Clock 1.15 / Speed 02.10 / Assist 1.02 / Battery 1.07 / Backup 1.06 / Calendar 1.06 / Clean 1.07; the drawable was always blue). FIXED: tapping a permission row for Notifications now opens the notification settings when the permission is already granted but the system switch is off — before, the row still read ON while no reminder could ever show. FIXED: '✅ Turn all on' no longer claims 'All permissions are on' when exact alarms are off — it opens the exact-alarm settings page instead, and only says all are on when everything really is.",
-   "ts": 1795309034,
-   "etag": "0x8DF48337F491DCE"
+   "changes": "NEW: your full daily routine is added as habits — every block with a notification at its start time (Fajr, exercise, meals, varsity study, Job Apply, Job Read, typing practice and the rest). The blocks are ordinary habits: mark, edit, re-time or delete them like any other.",
+   "ts": 1795522422,
+   "etag": "0x8DF4A2451B9E76B"
   },
   {
    "pkg": "hasu.os.health",
