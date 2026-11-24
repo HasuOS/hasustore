@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 242,
-   "versionName": "2.49",
+   "code": 243,
+   "versionName": "2.50",
    "size": 115115191,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "The About section is now Settings \u2014 the \u2699 button at the top of the store opens the Settings page: the same page as before, with the Log out button at the top of its Settings card for both User and Admin. Nothing else changes \u2014 log in once and stay logged in until you tap Log out.",
-   "ts": 1795536964,
-   "etag": "0x8DF4A460878E389"
+   "changes": "Permissions header is honest now \u2014 every row counts, and an unreadable state reads OFF, never ON \u00b7 App icons never show blank: a brand-new app gets a drawn initial until its real icon arrives \u00b7 Search now finds categories too (try games or tools) \u00b7 The store's own update waits for the same settle + ETag check as every other app, so a download never fails its version check \u00b7 Duplicate Settings card title fixed \u2014 the info card is now App info.",
+   "ts": 1795545310,
+   "etag": "0x8DF4A597FCE7CE8"
   },
   {
    "pkg": "hasu.os.tasbih",
