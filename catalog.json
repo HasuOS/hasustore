@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 238,
-   "versionName": "2.45",
+   "code": 239,
+   "versionName": "2.46",
    "size": 115115191,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Forgot password is email only now: one ready-written email to the owner \u2014 tap Email and the mail is already addressed and written; just add your name or ID and send. No Facebook row.",
-   "ts": 1795533538,
-   "etag": "0x8DF4A3E1D6D9BA3"
+   "changes": "Readymade mail fixed: tapping Email on the Forgot password page now opens your mail app with the subject and the full ready-written mail already filled in \u2014 just add your name or ID and send.",
+   "ts": 1795534305,
+   "etag": "0x8DF4A3FE1D15AD1"
   },
   {
    "pkg": "hasu.os.tasbih",
