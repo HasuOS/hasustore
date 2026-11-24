@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "generatedAt": 1795517983,
+    "generatedAt": 1795524812,
     "jobs": [
         {
             "id": "bpsc-non-cadre-2026",
@@ -137,6 +137,7 @@
             "salary": "মাসিক সেবা মূল্য ৳20,212 (fixed monthly service fee — not a pay scale)",
             "startDate": "2026-11-13",
             "deadline": "2026-11-26",
+            "deadlineTime": "16:00",
             "fee": "কোনো ফি নেই (No fee)",
             "applyUrl": "",
             "sourceUrl": "https://www.prothomalo.com/chakri/employment/8ja58e0sue",
