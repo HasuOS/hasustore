@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 239,
-   "versionName": "2.46",
+   "code": 238,
+   "versionName": "2.45",
    "size": 115115191,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Readymade mail fixed: tapping Email on the Forgot password page now opens your mail app with the subject and the full ready-written mail already filled in \u2014 just add your name or ID and send.",
-   "ts": 1795534305,
-   "etag": "0x8DF4A3FE1D15AD1"
+   "changes": "Forgot password is email only now: one ready-written email to the owner \u2014 tap Email and the mail is already addressed and written; just add your name or ID and send. No Facebook row.",
+   "ts": 1795533538,
+   "etag": "0x8DF4A3E1D6D9BA3"
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -804,13 +804,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 60,
- "versionName": "1.59",
+ "code": 61,
+ "versionName": "1.60",
  "size": 867787,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "১.৫৯: 📚 আগের বছরের প্রশ্ন — আসল পুরনো প্রশ্নের set, organisation ধরে সাজানো (এখন BPSC Junior Instructor ২০২৩-এর ৫০টি যাচাই-করা প্রশ্ন), মডেল টেস্টের মতোই খেলা যায়, ফলাফল scoreboard-এ জমা হয়। ✍️🎤 আবেদন করা চাকরির written/viva তারিখ এলে notification আসবে আর application page-এ তারিখ দেখা যাবে। 🏆 Result door — কোনো portal-এর verified result route feed-এ এলেই User ID ভরা অবস্থায় খুলবে (এখনো কোনো portal-এ verified route নেই, তাই ভুয়া button নেই)। 🔐 Login এখন strict: app ছেড়ে গেলেই session শেষ — Home, Recents বা screen off, যত তাড়াতাড়িই ফিরুন login চাইবে; শুধু app-এর নিজের পাঠানো picker, permission, share আর payment যাত্রা ছাড়। 📜 পড়াশোনা tab-এ section বদলালে content আর লাফায় না — scroll ঠিক জায়গাতেই থাকে। 🔔 Notification এখন person-independent: নতুন সার্কুলার, নতুন প্রশ্ন, admit/written/viva/result-এর খবর — দুজনেরটাই আসবে, যে mode-এই থাকুন, প্রতিটায় নাম লেখা (আমি / বোন)। 💸 নতুন সার্কুলারের fee যদি জানা Teletalk balance-এ না কুলায়, ঠিক কত কম আছে জানিয়ে recharge-এর alert আসবে।",
- "ts": 1795531996,
- "etag": "0x8DF4A3A996DCB26",
+ "changes": "১.৬০: 🛡️ ভুয়া-আবেদন seal — যে সার্কুলার আপনার track-এর নয়, তা কখনোই আপনার আবেদন হতে পারবে না; circular PDF কখনোই Applicant's Copy হিসেবে বসবে না (আসল copy-র নিজের প্রমাণ থাকলেই শুধু বসবে); date-নামের ফাইলের নম্বর আর User ID হবে না; আগের কোনো ভুয়া record থেকে থাকলে app নিজেই তা মুছে ঠিক করে দেবে। 🔐 Login এখন ঠিক HasuStore-এর মতো: ID + password শুধু fresh launch-এ — Recents থেকে সরালে বা process বন্ধ হলে; Home/Back চেপে ফিরলে আর চাইবে না। 📚 আগের বছরের প্রশ্ন এখন পড়াশোনা tab-এর একদম উপরে — কোনো section না খুলেই দেখা যায়। 🧭 পুরো app সহজ করা হয়েছে: Downloads আর পরীক্ষার দিনের checklist এখন তথ্য tab-এর উপরেই নিজের card-এ — কিছুই আর অন্য feature-এর ভিতরে লুকানো নেই। 📜 লিখিত / অগ্রগতি / লিংক-সহ সব section-এই scroll ঠিক জায়গায় থাকে। ✉️ Password ভুলে গেলে Email row-তেই ready mail — subject/body লেখাই আছে, শুধু নাম/ID বসালেই হবে (Facebook সরিয়ে দেওয়া হয়েছে)।",
+ "ts": 1795534368,
+ "etag": "0x8DF4A402153A389",
  "cat": "Tools"
 }
  ]
