@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 57,
-   "versionName": "5.29",
+   "code": 59,
+   "versionName": "5.31",
    "size": 68637481,
-   "changes": "HasuBoard now updates itself: the Setup tab has an App update button opening its own update page — latest version, Posted date, What's new, Download with Pause/Resume/Stop, then Install — the same system as HasuStore, inside the app. Update notifications arrive on their own too.",
+   "changes": "HasuBoard now heals itself: if the tools-bar icon font or the big English/Bangla dictionaries ever fail to load once, the keyboard retries on the next open instead of staying stuck — the tools bar can no longer come up blank and word suggestions can no longer stay starved.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795396607,
-   "etag": "0x8DF48FF38EACF14"
+   "ts": 1795506645,
+   "etag": "0x8DF49FF9083B120"
   },
   {
    "pkg": "hasu.os.browser",
