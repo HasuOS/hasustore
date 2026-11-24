@@ -804,13 +804,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 57,
- "versionName": "1.56",
- "size": 830853,
+ "code": 58,
+ "versionName": "1.57",
+ "size": 839045,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "১.৫৬: পড়াশোনার অংশ এখন subject-wise tab-এ সাজানো — অনুশীলনী আর মডেল টেস্টে প্রতিটা বিষয়ের আলাদা tab, গায়ে প্রশ্নের সংখ্যা; লম্বা list ধরে scroll করতে হয় না। Countdown এখন সত্যিই live — app-এর ভিতরে, notification-এ আর widget-এ নিজে নিজে second ধরে চলে, refresh লাগে না। Refresh button-ই তুলে দেওয়া হয়েছে — নতুন circular, প্রশ্ন, সংখ্যা সব নিজে নিজে এসে page-এ বসে যায়।",
- "ts": 1795527600,
- "etag": "0x8DF4A305820766A",
+ "changes": "১.৫৭: 🏛️ পরীক্ষার হল — ১০০ প্রশ্ন, ১০০ নম্বর, ১০০ মিনিট, প্রতিটি ভুলে −০.২৫ (negative marking); জমা দেওয়ার আগে কোনো উত্তর নয়, শেষে নম্বরসহ পূর্ণ পর্যালোচনা। 🔁 আজকের Revision — ভুলের খাতা, ★ প্রশ্ন আর তোমার দুর্বল বিষয় মিলিয়ে প্রতিদিনের revision set নিজে থেকে তৈরি হয়। Panel notification-এ এখন প্রতি item-এর নিজের line-এ তার নিজের বাকি সময় লেখা থাকে (কয় ঘণ্টা, কয় মিনিট, কয় সেকেন্ড বাকি) — কোনো item দুইবার আসে না। Login এখন app ছেড়ে ~৩০ সেকেন্ডের বেশি বাইরে থাকলেই আবার চাইবে।",
+ "ts": 1795528542,
+ "etag": "0x8DF4A32843E0434",
  "cat": "Tools"
 }
  ]
