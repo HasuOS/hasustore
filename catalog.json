@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 51,
-   "versionName": "1.50",
-   "size": 810373,
+   "code": 52,
+   "versionName": "1.51",
+   "size": 814469,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "১.৫০: বোনের side-এর ভুল আবেদন এবার পরিচয় দিয়ে চেনা হয় — ওর নিজের হাতে করা আবেদন ছাড়া ওর side-এ কোনো আবেদনই থাকতে পারবে না, profile-এ যাই থাকুক। পুরনো জমে থাকা ভুল রেকর্ড অ্যাপ খুললেই মুছে যাবে, backup restore করলেও ফিরবে না। তোমার চারটা আবেদন আগের মতোই আছে।",
-   "ts": 1795508568,
-   "etag": "0x8DF4A041864835B",
+   "changes": "১.৫১: প্রোফাইল এবার পুরোপুরি আলাদা — তোমার তথ্যে শুধু তোমার section-ই দেখাবে (HSC / অনার্স / মাস্টার্স / চাকরি আর নয়), বোনের তথ্যে শুধু ওর section (ডিপ্লোমা নয়)। বোনের profile-এ তোমার তথ্য ঢুকে গিয়েছিল — সব মুছে এখন একদম খালি, আর import / restore যেভাবেই আসুক তোমার তথ্য শুধু তোমার কাছেই যাবে, ওর তথ্য শুধু ওর কাছে।",
+   "ts": 1795514532,
+   "etag": "0x8DF4A11DCF7D9B7",
    "cat": "Tools"
   }
  ]
