@@ -748,13 +748,13 @@
    "name": "HasuWallet",
    "tag": "Your passwords & cards, in HasuOS glass",
    "desc": "A full password vault that lives only on your phone: master password + fingerprint unlock, AES-256 encryption, and — once you make it the default autofill service in its Settings — auto fill and auto save for logins across apps and websites. Cards, notes, favourites, search and a strong-password generator. No account, no cloud, no internet.",
-   "code": 6,
-   "versionName": "1.05",
+   "code": 5,
+   "versionName": "1.04",
    "size": 83082,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wallet.apk",
-   "changes": "FIXED: the 'Master password on fill' switch now does exactly what it says in both positions. In 1.04 the switch was bypassed whenever the vault had been opened in the last couple of minutes - which is always, since reaching the switch means unlocking the vault first - so fills went through without asking in both positions. Now ON means every fill asks for the master password (or fingerprint) first, even right after opening the vault; OFF means the HasuJobs / HasuStore ADMIN logins fill without asking, and the Settings card now shows whether the no-ask copy is actually ready on this phone (it is made when you next unlock the vault - until then fills still ask, never silently nothing). Everything else - vault, App logins, keyboard chips, default-wallet listing - is unchanged.",
-   "ts": 1795527593,
-   "etag": "0x8DF4A305EA99BC5",
+   "changes": "FIXED: the autofill offer now appears when you tap the ID field too, not only the password field (the unlock row was anchored to the password field alone). NEW: a Settings switch, 'Master password on fill' - turn it off and the HasuJobs / HasuStore ADMIN logins fill without the unlock step; the trade-off is stated honestly right on the switch, the vault itself still locks as usual, and the User logins stay copy-only. The keyboard suggestion chips from 1.03 are unchanged.",
+   "ts": 1795526993,
+   "etag": "0x8DF4A2EFBBE2A02",
    "cat": "Tools"
   },
   {
@@ -804,13 +804,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 56,
- "versionName": "1.55",
- "size": 826757,
+ "code": 57,
+ "versionName": "1.56",
+ "size": 830853,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "১.৫৫: এখন app না খুললেও নতুন প্রশ্নের খবর নিজে নিজে আসে — প্রায় প্রতি ৪৫ মিনিটে app নিজেই feed check করে, প্রশ্ন বাড়লে notification দেয়, panel আর widget-ও নিজে update হয়ে যায়; admit/result-এর খবরও background-এ check হয়। নতুন login page — User / Admin বেছে ID + password দিতে হবে, প্রতিবার app খুললেই চাইবে; Permissions page আর Backup ও Restore শুধু Admin login-এ খোলে; password ভুলে গেলে মালিকের সাথে যোগাযোগের page আসে।",
- "ts": 1795526667,
- "etag": "0x8DF4A2E27BAAA7D",
+ "changes": "১.৫৬: পড়াশোনার অংশ এখন subject-wise tab-এ সাজানো — অনুশীলনী আর মডেল টেস্টে প্রতিটা বিষয়ের আলাদা tab, গায়ে প্রশ্নের সংখ্যা; লম্বা list ধরে scroll করতে হয় না। Countdown এখন সত্যিই live — app-এর ভিতরে, notification-এ আর widget-এ নিজে নিজে second ধরে চলে, refresh লাগে না। Refresh button-ই তুলে দেওয়া হয়েছে — নতুন circular, প্রশ্ন, সংখ্যা সব নিজে নিজে এসে page-এ বসে যায়।",
+ "ts": 1795527600,
+ "etag": "0x8DF4A305820766A",
  "cat": "Tools"
 }
  ]
