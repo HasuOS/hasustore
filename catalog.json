@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 44,
-   "versionName": "1.43",
+   "code": 45,
+   "versionName": "1.44",
    "size": 793384,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "১.৪৩: Download-এ এবার portal-এর নিজের file name-টাই থাকে — BPC_<UserID>.pdf-এর মতো নাম আর হারাবে না, আর download হওয়ার সঙ্গে সঙ্গেই User ID record-এ বসে যায়, fee page নিজে থেকেই ভরে থাকে। BPC-র User ID সরাসরি ঠিক করে দেওয়া হয়েছে — Profile page খুললেই fix নিজে থেকে এসে fee page ভরে দেবে, তোমাকে কিচ্ছু করতে হবে না। পুরনো copy file-গুলো নিজে থেকেই <UserID>.pdf নামে সাজিয়ে নেবে। Notification আর widget এবার ছোট summary: 'ফি বাকি — Nটা', 'আবেদন বাকি — Nটা' আর প্রতিটা কাজের এক লাইন — নাম আর কত সময় বাকি; পুরো detail app-এর ভেতরেই।",
-   "ts": 1795498737,
-   "etag": "0x8DF49ED2D094036",
+   "changes": "১.৪৪: Recharge sheet এবার ঠিক দুইটা door — bKash আর Nagad, একটা করে row; app থাকলে app-ই খুলবে, না থাকলে USSD code dialer-এ যাবে। Fee-র ঘাটতি এবার সংখ্যায়: Teletalk balance কম থাকলে home-এর fee line আর fee page — দুই জায়গাতেই 'আরো ৳X recharge লাগবে' (পুরো টাকায় হিসাব)। GitHub backup-এ repo-র head সরে গেলে (422) app নিজে থেকে আরেকবার চেষ্টা করবে; তাও না হলে কঠিন API শব্দ ছাড়া সহজ ভাষায় জানাবে।",
+   "ts": 1795499383,
+   "etag": "0x8DF49EEB43C7338",
    "cat": "Tools"
   }
  ]
