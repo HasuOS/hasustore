@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 61,
-   "versionName": "5.33",
-   "size": 68641577,
-   "changes": "NEW: Wallet autofill inside the keyboard — with HasuWallet set as your autofill service, its saved login for an app (like the HasuJobs and HasuStore Admin logins) now appears as a chip in the strip above the keys on login fields; one tap fills the username and password, the Samsung Pass way. The keyboard never sees or stores those passwords, and the chips only ever come from your autofill app. Turn it off any time in the app's Typing tab. Everything else — the drawn tools bar, vault, GIFs, fonts and themes — works exactly as before.",
+   "code": 62,
+   "versionName": "5.34",
+   "size": 68649769,
+   "changes": "FIXED: typing could go dead on a login screen - an autofill chip that belonged to another app could arrive late and land on the wrong screen, over the keys. Autofill offers are now tied to the field that asked for them, and a late one is dropped. NEW: the vault tool now opens your HasuWallet logins right inside the keyboard - tap one and both the ID and the password are typed for you, on any app's login screen. The wallet stays the only place passwords live and the keyboard never sees your master password; this lights up with the coming HasuWallet bridge update - until then the panel says so plainly, and the keyboard's own vault is one tap inside it. CHANGED: copied text no longer appears as a suggestion above the keys - it lives only in the clipboard panel. The 5.33 autofill chips, the drawn tools bar and everything else work exactly as before.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795527220,
-   "etag": "0x8DF4A2F7884B182"
+   "ts": 1795528453,
+   "etag": "0x8DF4A3247E5DEFD"
   },
   {
    "pkg": "hasu.os.browser",
