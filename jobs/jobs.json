@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795488992,
+ "generatedAt": 1795507642171,
  "jobs": [
   {
    "id": "bpsc-non-cadre-2026",
@@ -19,6 +19,7 @@
    "note": "This BPSC non-cadre circular covers 147 posts in 19 categories — of them, this is the post open to you: Sub-Assistant Maintenance Engineer accepts a 4-year Diploma in Computer Engineering. Apply online at bpsc.teletalk.com.bd and pay the ৳200 fee by Teletalk.",
    "grade": "Grade-10",
    "category": "Engineering",
+   "track": "diploma",
    "location": "সারা দেশ",
    "pdfUrl": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpsc/2026/9/a274b033-05fd-4b5a-8ec8-32b792d6cc09.pdf"
   },
@@ -38,6 +39,7 @@
    "note": "Both posts accept your BTEB Diploma in Computer Science. This application is NOT online: send a written application by post to the Head Teacher, Purana Mogaltuli High School, so it arrives by the deadline (12 Dec 2026).",
    "grade": "Grade-10 / Grade-16",
    "category": "Teaching",
+   "track": "both",
    "location": "ঢাকা",
    "pdfUrl": ""
   },
@@ -58,6 +60,7 @@
    "note": "This circular (memo 28.02.0000.000.011.26.0027.26.453, 29 Sep 2026) covers 753 posts in 36 categories at Petrobangla and its companies — of them, this is the post open to you: Sub-Assistant Engineer (Computer/IT), 8 posts. At BGFCL the same post is titled Assistant Technical Officer. The deadline was extended from 17 Nov to 30 Nov 2026 (5:00 PM). Apply online at bogmc.teletalk.com.bd and pay the fee by Teletalk SMS within 72 hours.",
    "grade": "Grade-10",
    "category": "Engineering",
+   "track": "diploma",
    "location": "সারা দেশ",
    "pdfUrl": "http://bogmc.teletalk.com.bd/bogmc_2026/docs/20260929.pdf"
   },
@@ -78,6 +81,7 @@
    "note": "Circular no. 11.00.0000.000.804.11.0004.26.646 (10 Nov 2026) advertises 155 posts in 28 categories at the Parliament Secretariat, Sher-e-Bangla Nagar, Dhaka — the two Technician posts above are the ones open to Diploma in Computer holders. Apply online at bps.teletalk.com.bd and pay ৳112 by Teletalk SMS within 72 hours. Posts are temporary under the revenue budget.",
    "grade": "Grade-13",
    "category": "ICT",
+   "track": "diploma",
    "location": "ঢাকা",
    "pdfUrl": "https://bps.teletalk.com.bd/docs/20261110.pdf"
   },
@@ -98,6 +102,7 @@
    "note": "Apply on KUET's own job portal: create an account, fill in your profile once, then apply for the post and pay the ৳800 fee online (card or mobile banking). This circular (memo খুপ্রবি/সওপ্র/১৪৯৬/১০০, 18 Oct 2026) advertises 62 posts — this Sub-Assistant Programmer post at the Central Computer Centre is the one open to Diploma in Computer holders.",
    "grade": "Grade-10",
    "category": "ICT",
+   "track": "both",
    "location": "খুলনা",
    "pdfUrl": "https://careers.kuet.ac.bd/api/v1/circulars/cmvnl0t0q00341dqqxo56andw/files/official-circular"
   },
@@ -118,6 +123,7 @@
    "note": "This circular (memo 28.03.0000.000.010.04.0001.17.52, 19 Nov 2026) covers 19 posts in 14 categories at BPC, Chattogram — of them, these two Sub-Assistant Engineer posts are the ones open to Diploma in Engineering holders. Apply online at bpc.teletalk.com.bd and pay the ৳223 fee by Teletalk SMS within 72 hours.",
    "grade": "Grade-10",
    "category": "Engineering",
+   "track": "diploma",
    "location": "চট্টগ্রাম",
    "pdfUrl": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpc/2026/10/5b5a6993-504c-4795-8bd8-977e91378e58.pdf"
   },
@@ -138,6 +144,7 @@
    "note": "This is an OUTSOURCING service contract, NOT a permanent government post: 2-year term from 1 Jan 2027 (subject to Finance Division approval), monthly service fee ৳20,212, and appointees get no priority for any permanent BANBEIS post. Circular memo 37.20.0000.001.11.331.26 (Part-2)/498, 9 Nov 2026, covers 273 service workers in 14 categories — of them, only the Server Technician post (1) is open to Diploma in Computer Engineering holders. This application is NOT online: download the form from banbeis.gov.bd and send it directly or by post to the Director General, BANBEIS, 1 Zahir Raihan Road (Palashi-Nilkhet), Dhaka-1205, so it arrives by 26 Nov 2026, 4:00 PM. One candidate may apply for only one post.",
    "grade": "Category-1",
    "category": "ICT",
+   "track": "diploma",
    "location": "ঢাকা",
    "pdfUrl": ""
   }
