@@ -388,8 +388,8 @@
    "size": 115115191,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
    "changes": "NEW: User and Admin logins \u2014 the login page asks which one you are; Settings now opens for the Admin login only. Forgot password opens the owner\u2019s contact page.",
-   "ts": 1795525439,
-   "etag": "0x8DF4A2B5229BD70"
+   "ts": 1795525681,
+   "etag": "0x8DF4A2BD743A0F2"
   },
   {
    "pkg": "hasu.os.tasbih",
