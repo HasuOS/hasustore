@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 66,
-   "versionName": "5.38",
-   "size": 68786886,
-   "changes": "THE FINAL BOARD — the complete audit list in one version. PHOTO BACKGROUND FIXED: your photo now really shows behind the keys (the plain glass was being repainted over it on every open). FLOATING and ONE-HANDED modes now apply the moment you reopen the keyboard; split still splits in landscape. KEY SOUNDS PREVIEW: tap a sound in the Sound tab and hear it at once — the sound you pick is the sound the keys play. THE MENU REMEMBERS YOUR TAB across closes, restarts and updates. RESTORE DELETED moved into the Edit panel as a proper button — the suggestion strip shows suggestions only. PERMISSIONS completed: update-alert notifications and install-updates now appear with their real state, and the header entry is the family lock + live toggle. ABOUT rebuilt to the premium standard — glass rows and honest lines (the HasuWallet panel is live, not 'coming'). Emoji style picker restyled: the sample is the hero, names in a clean regular weight. Plus everything from 5.36/5.37: the Icons & Theme system (glow icon + 5 backdrops, 6 suggested tool-icon sets, downloadable packs), the 20,005-word Bengali dictionary, the completed Guide, the Website button and the English/header sweeps.",
+   "code": 67,
+   "versionName": "5.39",
+   "size": 68930313,
+   "changes": "YOUR VERDICTS, FIXED. THE TOP ROW IS REBUILT: Guide, About, Permissions and theme are now four even glass pills of one height and one style, with drawn Font Awesome glyphs — and the 🔐 switch sits inside its pill instead of spilling out. SKIN TONES ARE PROPER CHIPS NOW: six even chips, each with its real colour swatch and a short name — nothing wraps onto two lines or grows taller. EVERY KEY SOUND PLAYS: the sound engine was rebuilt — all 29 effects load up front, each load is tracked on its own, a failed load retries, and a key press only counts as played when it truly sounds (before, whole effects could silently die in the keyboard while their previews sang). ICON SETS APPLY WHEN YOU TAP: pick a set and the keyboard wears it on its next open — before, the tap changed nothing on the keys themselves. ICON PACKS ARRIVE BY THEMSELVES: new packs sync from the feed automatically when the app or keyboard runs (about once a day) and join the picker — the download button is gone, like you ordered. AND YOUR BRAND LOGO — your exact glossy chrome 'h', untouched — now heads the About page.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795542936,
-   "etag": "0x8DF4A54170D4F60"
+   "ts": 1795544188,
+   "etag": "0x8DF4A57002D4584"
   },
   {
    "pkg": "hasu.os.browser",
