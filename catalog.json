@@ -500,13 +500,13 @@
    "name": "HasuOS",
    "tag": "The family showcase",
    "desc": "Every HasuOS app in one place — the whole family with its details, straight from the live catalogue. Tap any app for its story, version and size, and get it through HasuStore.",
-   "code": 13,
-   "versionName": "1.12",
+   "code": 14,
+   "versionName": "1.13",
    "size": 292483,
-   "ts": 1795459471,
-   "etag": "0x8DF4991CB31E6BB",
+   "ts": 1795536729,
+   "etag": "0x8DF4A457F1AAE79",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
-   "changes": "Update flow fixed: the app now checks the live catalogue, shows which apps have updates, and installs them with the same verified download as HasuStore (before, its download button handed an unverified file to the browser and the installer refused it). Offline list is now labelled honestly when versions may be old."
+   "changes": "The About section is now Settings: the \u2139 button in the header is now a \u2699 gear, and the page it opens is titled Settings. Everything on the page is exactly as before \u2014 same app details, Highlights, Guide and website link."
   },
   {
    "pkg": "hasu.os.hasu",
