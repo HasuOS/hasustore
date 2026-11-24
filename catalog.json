@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 236,
-   "versionName": "2.43",
+   "code": 237,
+   "versionName": "2.44",
    "size": 115115191,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "NEW: User and Admin logins \u2014 the login page asks which one you are; Settings now opens for the Admin login only. Forgot password opens the owner\u2019s contact page.",
-   "ts": 1795525681,
-   "etag": "0x8DF4A2BD743A0F2"
+   "changes": "FIXED: the login page now always shows first \u2014 every page of the store checks the login, so reopening the store can no longer slip past it.",
+   "ts": 1795526331,
+   "etag": "0x8DF4A2D6513382B"
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -748,13 +748,13 @@
    "name": "HasuWallet",
    "tag": "Your passwords & cards, in HasuOS glass",
    "desc": "A full password vault that lives only on your phone: master password + fingerprint unlock, AES-256 encryption, and — once you make it the default autofill service in its Settings — auto fill and auto save for logins across apps and websites. Cards, notes, favourites, search and a strong-password generator. No account, no cloud, no internet.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 78986,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 78917,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wallet.apk",
-   "changes": "NEW: HasuWallet can now be your phone's Default wallet app — it appears in Settings \u2192 Default wallet app and can be selected there. Honest note: the vault holds no bank cards, so tap-to-pay payment still needs a bank-linked wallet; HasuWallet's job is your passwords, app logins and autofill — all unchanged.",
-   "ts": 1795526308,
-   "etag": "0x8DF4A2D5EDAFC16",
+   "changes": "NEW: App logins — your HasuJobs and HasuStore logins on their own page (tap App logins on the vault home). Each pair is a card: the ID with one-tap copy, the password behind the eye with one-tap copy. The two Admin logins also fill themselves on the HasuJobs and HasuStore login screens when HasuWallet is your autofill service; the two User logins stay copy-only and are typed by hand, always.",
+   "ts": 1795525379,
+   "etag": "0x8DF4A2B32A6C52D",
    "cat": "Tools"
   },
   {
