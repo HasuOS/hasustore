@@ -84,13 +84,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 150,
-   "versionName": "20.84",
+   "code": 151,
+   "versionName": "20.85",
    "size": 26535607,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Flash photos are now metered before the shot, so flash pictures no longer come out dark. Faster focus lock, and the app now tells you honestly if a camera session ever has to drop to smaller photos. Full-resolution 50 MP capture at JPEG quality 98, as before.",
-   "ts": 1795451711,
-   "etag": "0x8DF497FA869AA03"
+   "changes": "Options sheet fixed \u2014 the blank first row is now one labelled Flash row showing the live state (Auto / Torch on / Off), and the duplicate hidden torch control is gone: one flash control only \u00b7 NEW: Permissions section in Settings \u2014 Camera, Microphone, Location, Notifications and Photos & videos rows show the real on/off state and act on tap (request on the spot, or the system page when permanently denied) \u00b7 Full audit pass: everything else verified as-is.",
+   "ts": 1795545430,
+   "etag": "0x8DF4A59E108C7F7"
   },
   {
    "pkg": "hasu.os.clean",
