@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 38,
-   "versionName": "1.37",
-   "size": 744087,
+   "code": 39,
+   "versionName": "1.38",
+   "size": 748328,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "সকালের সব fix একসাথে: BPSC-র আসল Copy লিঙ্ক এখন যাচাই করে বসে; profile-এর খালি ঘরগুলো তোমার file থেকে পূরণ হয়; বোনের দিকের ভুয়া record স্থায়ীভাবে পরিষ্কার; Backup-এ GitHub channel যোগ হয়েছে আর সব তথ্য ফেরত আনার (Restore) ব্যবস্থা এসেছে; যেই circular-এর আবেদন ডাকযোগে, সেখানে মরা লিঙ্ক না খুলে ডাকযোগের নিয়ম দেখায়; panel-এ এখন আবেদন-বাকি circular গুলো deadline সহ দেখায় — আর যেই circular-এ apply করা হয়ে গেছে, সেটা আর বাকি বলে দেখায় না।",
-   "ts": 1795487334,
-   "etag": "0x8DF49D29C0A3108",
+   "changes": "তোমার বলা কাজগুলো একসাথে: app খুললেই logo-র loading screen আর আসে না — সোজা page খোলে; About page-এ Guide, Backup ও Restore আর Website বাটন তিনটা একদম উপরে; App update page খুললেই সাথে সাথে নতুন update খোঁজে; home-এর তালিকায় আর তথ্য tab-এ যেই circular-এ apply করা হয়ে গেছে সেটা আর বাকি বলে দেখায় না (✓ আবেদন সম্পন্ন); home-এর উপরের অংশ এখন অনেক ছোট — টাকার হিসাবের সব তথ্যই আছে, শুধু জায়গা কম খায়, আর সার্কুলার যোগ করা এখন + আইকনে; পড়াশোনায় এখন সেট — অনুশীলনী ২৫টা করে, মডেল টেস্ট ৫০টা করে সেটে সাজানো; Telegram/GitHub connection এখন phone-এর backup-এও থাকে — app আবার install করে Restore দিলেই connection ফিরে আসে; আর Permissions page-এ Device admin — ON করলে ভুলে uninstall হবে না।",
+   "ts": 1795489712,
+   "etag": "0x8DF49D8275E368B",
    "cat": "Tools"
   }
  ]
