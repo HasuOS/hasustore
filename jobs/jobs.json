@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": 1795486465,
+ "generatedAt": 1795488992,
  "jobs": [
   {
    "id": "bpsc-non-cadre-2026",
@@ -120,6 +120,26 @@
    "category": "Engineering",
    "location": "চট্টগ্রাম",
    "pdfUrl": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpc/2026/10/5b5a6993-504c-4795-8bd8-977e91378e58.pdf"
+  },
+  {
+   "id": "banbeis-server-technician-2026",
+   "title": "বাংলাদেশ শিক্ষাতথ্য ও পরিসংখ্যান ব্যুরো (ব্যানবেইস) নিয়োগ বিজ্ঞপ্তি ২০২৬",
+   "org": "Bangladesh Bureau of Educational Information and Statistics (BANBEIS)",
+   "posts": "সার্ভার টেকনিশিয়ান সেবা (Server Technician Service) — ১টি",
+   "vacancy": 1,
+   "qualification": "SSC or equivalent + Diploma in Computer Engineering + 1 year relevant work experience. Age 18–60 (as of 26 Nov 2026).",
+   "salary": "মাসিক সেবা মূল্য ৳20,212 (fixed monthly service fee — not a pay scale)",
+   "startDate": "2026-11-13",
+   "deadline": "2026-11-26",
+   "fee": "কোনো ফি নেই (No fee)",
+   "applyUrl": "",
+   "sourceUrl": "https://www.prothomalo.com/chakri/employment/8ja58e0sue",
+   "published": "2026-11-13",
+   "note": "This is an OUTSOURCING service contract, NOT a permanent government post: 2-year term from 1 Jan 2027 (subject to Finance Division approval), monthly service fee ৳20,212, and appointees get no priority for any permanent BANBEIS post. Circular memo 37.20.0000.001.11.331.26 (Part-2)/498, 9 Nov 2026, covers 273 service workers in 14 categories — of them, only the Server Technician post (1) is open to Diploma in Computer Engineering holders. This application is NOT online: download the form from banbeis.gov.bd and send it directly or by post to the Director General, BANBEIS, 1 Zahir Raihan Road (Palashi-Nilkhet), Dhaka-1205, so it arrives by 26 Nov 2026, 4:00 PM. One candidate may apply for only one post.",
+   "grade": "Category-1",
+   "category": "ICT",
+   "location": "ঢাকা",
+   "pdfUrl": ""
   }
  ]
 }
