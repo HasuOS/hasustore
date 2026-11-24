@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 39,
-   "versionName": "1.38",
+   "code": 40,
+   "versionName": "1.39",
    "size": 748328,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "তোমার বলা কাজগুলো একসাথে: app খুললেই logo-র loading screen আর আসে না — সোজা page খোলে; About page-এ Guide, Backup ও Restore আর Website বাটন তিনটা একদম উপরে; App update page খুললেই সাথে সাথে নতুন update খোঁজে; home-এর তালিকায় আর তথ্য tab-এ যেই circular-এ apply করা হয়ে গেছে সেটা আর বাকি বলে দেখায় না (✓ আবেদন সম্পন্ন); home-এর উপরের অংশ এখন অনেক ছোট — টাকার হিসাবের সব তথ্যই আছে, শুধু জায়গা কম খায়, আর সার্কুলার যোগ করা এখন + আইকনে; পড়াশোনায় এখন সেট — অনুশীলনী ২৫টা করে, মডেল টেস্ট ৫০টা করে সেটে সাজানো; Telegram/GitHub connection এখন phone-এর backup-এও থাকে — app আবার install করে Restore দিলেই connection ফিরে আসে; আর Permissions page-এ Device admin — ON করলে ভুলে uninstall হবে না।",
-   "ts": 1795489712,
-   "etag": "0x8DF49D8275E368B",
+   "changes": "যেই ভুলগুলো ধরিয়ে দিলে সেগুলোই ঠিক হলো: স্কুলের সার্কুলারে মিথ্যা “আবেদন সম্পন্ন” আর আসবে না — অফলাইন (ডাকযোগে) সার্কুলার শুধু তুমি নিজে আবেদন সম্পন্ন বললেই সম্পন্ন হবে, অন্য সার্কুলারের Copy দিয়ে কখনো নয়; BPC-র Applicant's Copy এখন app নিজে চিনে নেয় — BPC আমার আবেদনে যোগ হয়, আর তার ৳২২৩ ফি টাকার হিসাবে ও প্যানেলে ফি-বাকি হিসেবে দেখায়, SMS-এ payment হলেই পরিশোধ হয়ে যায়; Copy এখন থেকে app দিয়ে download হলে User ID-র নামে (<UserID>.pdf) সেভ হয়, Admit Card <UserID>-admit.pdf — আগের তিনটা application-এর Copy-ও scan চিনে একই নামে কপি রেখে দেয় (আসল ফাইল যেমন ছিল তেমনই থাকে); form fill এখন বাবা-মায়ের বাংলা নাম, passport-এ No, quota আর departmental-এ Not Applicable, দুই ঠিকানার care-of, diploma-র subject (Computer Science and Engineering Technology) আর experience-এর No — সব বসায়; profile-এর খালি ঘরগুলো এখন ফোনের যেকোনো জায়গার import ফাইল খুঁজে নিজে নিজে ভরে যায়, আর নতুন photo/signature দিলে সেটাও নিজে থেকে বদলে যায়।",
+   "ts": 1795491610,
+   "etag": "0x8DF49DC8AA912C2",
    "cat": "Tools"
   }
  ]
