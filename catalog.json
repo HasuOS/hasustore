@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 41,
-   "versionName": "1.40",
-   "size": 760616,
+   "code": 42,
+   "versionName": "1.41",
+   "size": 785192,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "এবার BPC-র Copy চেনার আসল সমস্যাটাই ধরা পড়ল: এই portal-এর PDF-এর ভেতরের লেখা app পড়তেই পারে না, তাই ফাইলের নামে কোনো চিহ্ন না থাকলে (যেমন download (2).pdf) Copy চেনা যেত না। এখন — (১) app দিয়ে আবেদন submit-এর পর নামানো PDF নিজে থেকেই সেই আবেদনের Copy হয়ে বসে যায়; (২) চেনা Copy Downloads তালিকায় User ID-র নামেই (<UserID>.pdf) rename হয় — পাশে raw নামের duplicate থাকে না; (৩) scan ফাইল দেখতেই না পেলে আর মিথ্যা “পাইনি” বলবে না, permission-এর কথা বলবে; আর PDF-র লেখা পড়া না গেলে “file বেছে দিন” আসবে — file বেছে দিলে Copy পড়ে ঠিক সার্কুলারে বসে, text না মিললে নিজে circular বেছে বসানো যায়, BPC-র ৳২২৩ ফি-বাকিসহ পুরো chain চলে; (৪) Apply page-এ নতুন ভাসমান “আমার তথ্য” button: আগে form-এর ঘরটা চাপ দিয়ে বেছে নাও, তারপর তালিকা থেকে মানটা চাপ দিলেই সেই ঘরে বসে যায় — select বা radio হলে মিলিয়ে ঠিক option-টাই বসে; (৫) profile import এখন নিজেই হিসাব দেয় — এই file-এ কয়টা ঘর ছিল, কয়টা বসেছে; পুরনো কম-ঘরের file হলে সেটা নিজেই বলে দেবে।",
-   "ts": 1795493507,
-   "etag": "0x8DF49E0A0286834",
+   "changes": "১.৪১: Profile এবার নিজে থেকেই পূর্ণ হবে — তোমার private GitHub backup থেকে পুরো file নিজে নেমে আসবে। file পৌঁছানোর আগেও form fill আর আমার তথ্য picker ঠিকঠাক কাজ করবে (passport/quota/departmental-এর উত্তর, diploma subject, experience-এ No — vault-এ না থাকলেও)। Import-এ ছবি/signature byte-exact থাকবে, সঙ্গে app-এর ভিতরেই পূর্ণ image editor (মাপ + size ঠিক করা)। BPC-র Copy এবার download record দেখে নিজে চিনবে, নইলে circular-এর page-এই 'Copy যোগ করুন'। Copy বসানোর সময় User ID চাইবে — fee page আর খালি থাকবে না। Home আর fee page-এ Teletalk ব্যালেন্স। Panel-এর ভুল count ঠিক (শুধু যাকে বেছেছ তারটাই)। নতুন: আমার অগ্রগতি (Scoreboard + পড়ার সময়), ভুলের খাতা, ★ কঠিন প্রশ্ন, লিখিত উত্তরে নিজের উত্তর সেভ, পরীক্ষার countdown, admit/result-এর খবর, আবেদনের checklist, আগের দিনের জোর reminder আর সন্ধ্যায় পড়ার reminder। Refresh বোতামে এবার আসল ফলাফল দেখাবে।",
+   "ts": 1795495864,
+   "etag": "0x8DF49E67534EC5E",
    "cat": "Tools"
   }
  ]
