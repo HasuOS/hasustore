@@ -1,6 +1,6 @@
 {
-    "version": 36,
-    "generatedAt": 1795542323,
+    "version": 37,
+    "generatedAt": 1795544293,
     "subjects": [
         {
             "id": "bangla",
@@ -9920,6 +9920,479 @@
                     ],
                     "answer": 0,
                     "why": "'সোজন বাদিয়ার ঘাট' জসীমউদ্দীনের কাব্যগ্রন্থ (১৯৩৩)।"
+                },
+                {
+                    "q": "'রাজা' শব্দের সমার্থক কোনটি?",
+                    "options": [
+                        "প্রজা",
+                        "নৃপ",
+                        "মন্ত্রী",
+                        "সেনা"
+                    ],
+                    "answer": 1,
+                    "why": "'রাজা' শব্দের সমার্থক 'নৃপ'।"
+                },
+                {
+                    "q": "'সাপ' শব্দের সমার্থক কোনটি?",
+                    "options": [
+                        "সর্প",
+                        "ব্যাঙ",
+                        "মাছ",
+                        "পাখি"
+                    ],
+                    "answer": 0,
+                    "why": "'সাপ' শব্দের সমার্থক 'সর্প'।"
+                },
+                {
+                    "q": "'হাতি' শব্দের সমার্থক কোনটি?",
+                    "options": [
+                        "ঘোড়া",
+                        "গজ",
+                        "গরু",
+                        "মহিষ"
+                    ],
+                    "answer": 1,
+                    "why": "'হাতি' শব্দের সমার্থক 'গজ'।"
+                },
+                {
+                    "q": "'ঘোড়া' শব্দের সমার্থক কোনটি?",
+                    "options": [
+                        "গজ",
+                        "অশ্ব",
+                        "গরু",
+                        "ছাগল"
+                    ],
+                    "answer": 1,
+                    "why": "'ঘোড়া' শব্দের সমার্থক 'অশ্ব'।"
+                },
+                {
+                    "q": "'মাছ' শব্দের সমার্থক কোনটি?",
+                    "options": [
+                        "মীন",
+                        "সাপ",
+                        "ব্যাঙ",
+                        "কাঁকড়া"
+                    ],
+                    "answer": 0,
+                    "why": "'মাছ' শব্দের সমার্থক 'মীন'।"
+                },
+                {
+                    "q": "'সত্য' শব্দের বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "ন্যায়",
+                        "মিথ্যা",
+                        "ধর্ম",
+                        "শান্তি"
+                    ],
+                    "answer": 1,
+                    "why": "'সত্য' শব্দের বিপরীত শব্দ 'মিথ্যা'।"
+                },
+                {
+                    "q": "'উঁচু' শব্দের বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "নিচু",
+                        "বড়",
+                        "লম্বা",
+                        "প্রশস্ত"
+                    ],
+                    "answer": 0,
+                    "why": "'উঁচু' শব্দের বিপরীত শব্দ 'নিচু'।"
+                },
+                {
+                    "q": "'ভালো' শব্দের বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "মন্দ",
+                        "সুন্দর",
+                        "ভালোবাসা",
+                        "উত্তম"
+                    ],
+                    "answer": 0,
+                    "why": "'ভালো' শব্দের বিপরীত শব্দ 'মন্দ'।"
+                },
+                {
+                    "q": "'সফল' শব্দের বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "ব্যর্থ",
+                        "সাফল্য",
+                        "জয়",
+                        "বিজয়"
+                    ],
+                    "answer": 0,
+                    "why": "'সফল' শব্দের বিপরীত শব্দ 'ব্যর্থ'।"
+                },
+                {
+                    "q": "'দিন' শব্দের বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "রাত",
+                        "সকাল",
+                        "দুপুর",
+                        "সন্ধ্যা"
+                    ],
+                    "answer": 0,
+                    "why": "'দিন' শব্দের বিপরীত শব্দ 'রাত'।"
+                },
+                {
+                    "q": "যা সহ্য করা যায় না তাকে এক কথায় কী বলে?",
+                    "options": [
+                        "অসহ্য",
+                        "অদৃশ্য",
+                        "অনির্বচনীয়",
+                        "অজানা"
+                    ],
+                    "answer": 0,
+                    "why": "যা সহ্য করা যায় না তাকে 'অসহ্য' বলে।"
+                },
+                {
+                    "q": "মরতে ইচ্ছুক ব্যক্তিকে এক কথায় কী বলে?",
+                    "options": [
+                        "মুমূর্ষু",
+                        "জীবিত",
+                        "মৃত",
+                        "অসুস্থ"
+                    ],
+                    "answer": 0,
+                    "why": "মরতে ইচ্ছুক ব্যক্তিকে 'মুমূর্ষু' বলে।"
+                },
+                {
+                    "q": "যে নারীর স্বামী মারা গেছে তাকে এক কথায় কী বলে?",
+                    "options": [
+                        "বিধবা",
+                        "কুমারী",
+                        "সধবা",
+                        "তালাকপ্রাপ্তা"
+                    ],
+                    "answer": 0,
+                    "why": "যে নারীর স্বামী মারা গেছে তাকে 'বিধবা' বলে।"
+                },
+                {
+                    "q": "যার কোনো উপায় নেই তাকে এক কথায় কী বলে?",
+                    "options": [
+                        "নিরুপায়",
+                        "অসহায়",
+                        "দুর্বল",
+                        "গরিব"
+                    ],
+                    "answer": 0,
+                    "why": "যার কোনো উপায় নেই তাকে 'নিরুপায়' বলে।"
+                },
+                {
+                    "q": "যা অতীত হয়েছে তাকে এক কথায় কী বলে?",
+                    "options": [
+                        "অতীত",
+                        "ভবিষ্যৎ",
+                        "বর্তমান",
+                        "পুরনো"
+                    ],
+                    "answer": 0,
+                    "why": "যা অতীত হয়েছে তাকে 'অতীত' বলে।"
+                },
+                {
+                    "q": "ইতিহাস জানে এমন ব্যক্তিকে এক কথায় কী বলে?",
+                    "options": [
+                        "ঐতিহাসিক",
+                        "দার্শনিক",
+                        "বৈজ্ঞানিক",
+                        "সাহিত্যিক"
+                    ],
+                    "answer": 0,
+                    "why": "ইতিহাস জানে এমন ব্যক্তিকে 'ঐতিহাসিক' বলে।"
+                },
+                {
+                    "q": "'সোনায় সোহাগা' বাগধারাটির অর্থ কী?",
+                    "options": [
+                        "সোনার গয়না",
+                        "ভালোর ওপর ভালো",
+                        "সোনার দাম",
+                        "সোহাগ করা"
+                    ],
+                    "answer": 1,
+                    "why": "'সোনায় সোহাগা' অর্থ ভালোর ওপর ভালো।"
+                },
+                {
+                    "q": "'মাথার ঘাম পায়ে ফেলা' বাগধারাটির অর্থ কী?",
+                    "options": [
+                        "অলসতা",
+                        "কঠোর পরিশ্রম",
+                        "ঘুমানো",
+                        "বিশ্রাম"
+                    ],
+                    "answer": 1,
+                    "why": "'মাথার ঘাম পায়ে ফেলা' অর্থ কঠোর পরিশ্রম করা।"
+                },
+                {
+                    "q": "'সজ্জন' শব্দের সন্ধি বিচ্ছেদ কোনটি?",
+                    "options": [
+                        "সৎ + জন",
+                        "সজ + জন",
+                        "স + জ্জন",
+                        "সৎ + জণ"
+                    ],
+                    "answer": 0,
+                    "why": "'সজ্জন' = সৎ + জন।"
+                },
+                {
+                    "q": "'সংবাদ' শব্দের সন্ধি বিচ্ছেদ কোনটি?",
+                    "options": [
+                        "সম্ + বাদ",
+                        "সং + বাদ",
+                        "স + ংবাদ",
+                        "সম + বাদ"
+                    ],
+                    "answer": 0,
+                    "why": "'সংবাদ' = সম্ + বাদ।"
+                },
+                {
+                    "q": "'আমি পড়ছি' — এ বাক্যে ক্রিয়ার কাল কোনটি?",
+                    "options": [
+                        "অতীত কাল",
+                        "বর্তমান কাল",
+                        "ভবিষ্যৎ কাল",
+                        "নিত্যবৃত্ত কাল"
+                    ],
+                    "answer": 1,
+                    "why": "'পড়ছি' ঘটমান বর্তমান কাল — তাই বর্তমান কাল।"
+                },
+                {
+                    "q": "'সে গতকাল ঢাকা গিয়েছিল' — এ বাক্যে ক্রিয়ার কাল কোনটি?",
+                    "options": [
+                        "বর্তমান কাল",
+                        "অতীত কাল",
+                        "ভবিষ্যৎ কাল",
+                        "ঘটমান বর্তমান"
+                    ],
+                    "answer": 1,
+                    "why": "'গিয়েছিল' অতীত কালের ক্রিয়া।"
+                },
+                {
+                    "q": "'আমি আগামীকাল স্কুলে যাব' — এ বাক্যে ক্রিয়ার কাল কোনটি?",
+                    "options": [
+                        "বর্তমান কাল",
+                        "অতীত কাল",
+                        "ভবিষ্যৎ কাল",
+                        "পুরাঘটিত বর্তমান"
+                    ],
+                    "answer": 2,
+                    "why": "'যাব' ভবিষ্যৎ কালের ক্রিয়া।"
+                },
+                {
+                    "q": "'রহিম বইটি পড়ল' — এ বাক্যে কর্তা কে?",
+                    "options": [
+                        "বইটি",
+                        "রহিম",
+                        "পড়ল",
+                        "বই"
+                    ],
+                    "answer": 1,
+                    "why": "যে কাজ করে সে কর্তা — এখানে কর্তা 'রহিম'।"
+                },
+                {
+                    "q": "'আমি ভাত খাই' — এ বাক্যে কর্ম কোনটি?",
+                    "options": [
+                        "আমি",
+                        "ভাত",
+                        "খাই",
+                        "ভাত খাই"
+                    ],
+                    "answer": 1,
+                    "why": "ক্রিয়ার কাজ যার ওপর পড়ে তা কর্ম — এখানে কর্ম 'ভাত'।"
+                },
+                {
+                    "q": "'সে হাসছে' — এ বাক্যটি কোন ধরনের বাক্য?",
+                    "options": [
+                        "প্রশ্নবোধক",
+                        "বিস্ময়সূচক",
+                        "বিবৃতিমূলক",
+                        "অনুজ্ঞাসূচক"
+                    ],
+                    "answer": 2,
+                    "why": "'সে হাসছে' একটি বিবৃতি — তাই বিবৃতিমূলক বাক্য।"
+                },
+                {
+                    "q": "'তুমি কি স্কুলে যাবে?' — এ বাক্যটি কোন ধরনের বাক্য?",
+                    "options": [
+                        "বিবৃতিমূলক",
+                        "প্রশ্নবোধক",
+                        "অনুজ্ঞাসূচক",
+                        "বিস্ময়সূচক"
+                    ],
+                    "answer": 1,
+                    "why": "প্রশ্ন করা হয়েছে — তাই প্রশ্নবোধক বাক্য।"
+                },
+                {
+                    "q": "'বইটি পড়ো' — এ বাক্যটি কোন ধরনের বাক্য?",
+                    "options": [
+                        "বিবৃতিমূলক",
+                        "প্রশ্নবোধক",
+                        "অনুজ্ঞাসূচক",
+                        "বিস্ময়সূচক"
+                    ],
+                    "answer": 2,
+                    "why": "আদেশ করা হয়েছে — তাই অনুজ্ঞাসূচক বাক্য।"
+                },
+                {
+                    "q": "'কী সুন্দর ফুল!' — এ বাক্যটি কোন ধরনের বাক্য?",
+                    "options": [
+                        "বিবৃতিমূলক",
+                        "প্রশ্নবোধক",
+                        "অনুজ্ঞাসূচক",
+                        "বিস্ময়সূচক"
+                    ],
+                    "answer": 3,
+                    "why": "বিস্ময় প্রকাশ করা হয়েছে — তাই বিস্ময়সূচক বাক্য।"
+                },
+                {
+                    "q": "'বন্দী শিবির থেকে' কাব্যগ্রন্থের কবি কে?",
+                    "options": [
+                        "শামসুর রাহমান",
+                        "সুফিয়া কামাল",
+                        "আহসান হাবীব",
+                        "আল মাহমুদ"
+                    ],
+                    "answer": 0,
+                    "why": "'বন্দী শিবির থেকে' শামসুর রাহমানের কাব্যগ্রন্থ (১৯৭২)।"
+                },
+                {
+                    "q": "'সাঁঝের মায়া' কাব্যগ্রন্থের কবি কে?",
+                    "options": [
+                        "সুফিয়া কামাল",
+                        "শামসুর রাহমান",
+                        "জসীমউদ্দীন",
+                        "জীবনানন্দ দাশ"
+                    ],
+                    "answer": 0,
+                    "why": "'সাঁঝের মায়া' সুফিয়া কামালের কাব্যগ্রন্থ (১৯৩৮)।"
+                },
+                {
+                    "q": "'সোনালি কাবিন' কাব্যগ্রন্থের কবি কে?",
+                    "options": [
+                        "আল মাহমুদ",
+                        "শামসুর রাহমান",
+                        "নির্মলেন্দু গুণ",
+                        "সুকান্ত ভট্টাচার্য"
+                    ],
+                    "answer": 0,
+                    "why": "'সোনালি কাবিন' আল মাহমুদের কাব্যগ্রন্থ (১৯৭৩)।"
+                },
+                {
+                    "q": "'প্রেমাংশুর রক্ত চাই' কাব্যগ্রন্থের কবি কে?",
+                    "options": [
+                        "নির্মলেন্দু গুণ",
+                        "আল মাহমুদ",
+                        "শামসুর রাহমান",
+                        "আহসান হাবীব"
+                    ],
+                    "answer": 0,
+                    "why": "'প্রেমাংশুর রক্ত চাই' নির্মলেন্দু গুণের কাব্যগ্রন্থ (১৯৭০)।"
+                },
+                {
+                    "q": "'নন্দিত নরকে' উপন্যাসের লেখক কে?",
+                    "options": [
+                        "হুমায়ূন আহমেদ",
+                        "শওকত ওসমান",
+                        "আখতারুজ্জামান ইলিয়াস",
+                        "সেলিনা হোসেন"
+                    ],
+                    "answer": 0,
+                    "why": "'নন্দিত নরকে' হুমায়ূন আহমেদের প্রথম উপন্যাস (১৯৭২)।"
+                },
+                {
+                    "q": "'হাঙর নদী গ্রেনেড' উপন্যাসের লেখক কে?",
+                    "options": [
+                        "সেলিনা হোসেন",
+                        "শওকত ওসমান",
+                        "জহির রায়হান",
+                        "সৈয়দ শামসুল হক"
+                    ],
+                    "answer": 0,
+                    "why": "'হাঙর নদী গ্রেনেড' সেলিনা হোসেনের উপন্যাস (১৯৭৬)।"
+                },
+                {
+                    "q": "'সুলতানার স্বপ্ন' গ্রন্থের লেখক কে?",
+                    "options": [
+                        "বেগম রোকেয়া",
+                        "সুফিয়া কামাল",
+                        "সেলিনা হোসেন",
+                        "জাহানারা ইমাম"
+                    ],
+                    "answer": 0,
+                    "why": "'সুলতানার স্বপ্ন' বেগম রোকেয়ার গ্রন্থ (১৯০৫)।"
+                },
+                {
+                    "q": "'বর্ণপরিচয়' গ্রন্থের লেখক কে?",
+                    "options": [
+                        "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                        "দীনবন্ধু মিত্র"
+                    ],
+                    "answer": 0,
+                    "why": "'বর্ণপরিচয়' ঈশ্বরচন্দ্র বিদ্যাসাগরের গ্রন্থ (১৮৫৫)।"
+                },
+                {
+                    "q": "'দেশে বিদেশে' গ্রন্থের লেখক কে?",
+                    "options": [
+                        "সৈয়দ মুজতবা আলী",
+                        "সৈয়দ ওয়ালীউল্লাহ",
+                        "শওকত ওসমান",
+                        "আখতারুজ্জামান ইলিয়াস"
+                    ],
+                    "answer": 0,
+                    "why": "'দেশে বিদেশে' সৈয়দ মুজতবা আলীর ভ্রমণকাহিনি (১৯৪৯)।"
+                },
+                {
+                    "q": "'জননী' উপন্যাসের লেখক কে?",
+                    "options": [
+                        "শওকত ওসমান",
+                        "সৈয়দ ওয়ালীউল্লাহ",
+                        "জহির রায়হান",
+                        "আবু ইসহাক"
+                    ],
+                    "answer": 0,
+                    "why": "'জননী' শওকত ওসমানের উপন্যাস (১৯৫৮)।"
+                },
+                {
+                    "q": "'সমাচার দর্পণ' প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৮১৮ সালে",
+                        "১৮৫৮ সালে",
+                        "১৮৭২ সালে",
+                        "১৯২৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'সমাচার দর্পণ' ১৮১৮ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "একুশে পদক কবে চালু হয়?",
+                    "options": [
+                        "১৯৭৬ সালে",
+                        "১৯৬০ সালে",
+                        "১৯৭৭ সালে",
+                        "১৯৭২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "একুশে পদক ১৯৭৬ সালে চালু হয়।"
+                },
+                {
+                    "q": "বাংলা একাডেমি পুরস্কার কবে চালু হয়?",
+                    "options": [
+                        "১৯৬০ সালে",
+                        "১৯৭৬ সালে",
+                        "১৯৭৭ সালে",
+                        "১৯৭২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলা একাডেমি পুরস্কার ১৯৬০ সালে চালু হয়।"
+                },
+                {
+                    "q": "স্বাধীনতা পুরস্কার কবে চালু হয়?",
+                    "options": [
+                        "১৯৭৭ সালে",
+                        "১৯৭৬ সালে",
+                        "১৯৬০ সালে",
+                        "১৯৭২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "স্বাধীনতা পুরস্কার ১৯৭৭ সালে চালু হয়।"
                 }
             ]
         },
@@ -18859,6 +19332,567 @@
                     ],
                     "answer": 0,
                     "why": "Present simple: 'I get up early every morning.'"
+                },
+                {
+                    "q": "Choose the synonym of 'Sad'.",
+                    "options": [
+                        "Happy",
+                        "Gloomy",
+                        "Glad",
+                        "Bright"
+                    ],
+                    "answer": 1,
+                    "why": "'Sad' means gloomy."
+                },
+                {
+                    "q": "Choose the synonym of 'Angry'.",
+                    "options": [
+                        "Calm",
+                        "Furious",
+                        "Happy",
+                        "Gentle"
+                    ],
+                    "answer": 1,
+                    "why": "'Angry' means furious."
+                },
+                {
+                    "q": "Choose the synonym of 'Big'.",
+                    "options": [
+                        "Small",
+                        "Huge",
+                        "Tiny",
+                        "Little"
+                    ],
+                    "answer": 1,
+                    "why": "'Big' means huge."
+                },
+                {
+                    "q": "Choose the synonym of 'Small'.",
+                    "options": [
+                        "Big",
+                        "Tiny",
+                        "Huge",
+                        "Large"
+                    ],
+                    "answer": 1,
+                    "why": "'Small' means tiny."
+                },
+                {
+                    "q": "Choose the synonym of 'Fast'.",
+                    "options": [
+                        "Slow",
+                        "Quick",
+                        "Late",
+                        "Lazy"
+                    ],
+                    "answer": 1,
+                    "why": "'Fast' means quick."
+                },
+                {
+                    "q": "Choose the synonym of 'Slow'.",
+                    "options": [
+                        "Fast",
+                        "Sluggish",
+                        "Quick",
+                        "Rapid"
+                    ],
+                    "answer": 1,
+                    "why": "'Slow' means sluggish."
+                },
+                {
+                    "q": "Choose the synonym of 'Polite'.",
+                    "options": [
+                        "Rude",
+                        "Courteous",
+                        "Harsh",
+                        "Proud"
+                    ],
+                    "answer": 1,
+                    "why": "'Polite' means courteous."
+                },
+                {
+                    "q": "Choose the synonym of 'Strong'.",
+                    "options": [
+                        "Weak",
+                        "Powerful",
+                        "Feeble",
+                        "Frail"
+                    ],
+                    "answer": 1,
+                    "why": "'Strong' means powerful."
+                },
+                {
+                    "q": "Choose the synonym of 'Weak'.",
+                    "options": [
+                        "Strong",
+                        "Feeble",
+                        "Mighty",
+                        "Firm"
+                    ],
+                    "answer": 1,
+                    "why": "'Weak' means feeble."
+                },
+                {
+                    "q": "Choose the synonym of 'End'.",
+                    "options": [
+                        "Start",
+                        "Finish",
+                        "Begin",
+                        "Open"
+                    ],
+                    "answer": 1,
+                    "why": "'End' means finish."
+                },
+                {
+                    "q": "Choose the synonym of 'Help'.",
+                    "options": [
+                        "Hinder",
+                        "Assist",
+                        "Harm",
+                        "Block"
+                    ],
+                    "answer": 1,
+                    "why": "'Help' means assist."
+                },
+                {
+                    "q": "Choose the synonym of 'Ask'.",
+                    "options": [
+                        "Answer",
+                        "Enquire",
+                        "Reply",
+                        "Tell"
+                    ],
+                    "answer": 1,
+                    "why": "'Ask' means enquire."
+                },
+                {
+                    "q": "Choose the synonym of 'Answer'.",
+                    "options": [
+                        "Question",
+                        "Reply",
+                        "Ask",
+                        "Ignore"
+                    ],
+                    "answer": 1,
+                    "why": "'Answer' means reply."
+                },
+                {
+                    "q": "Choose the synonym of 'Buy'.",
+                    "options": [
+                        "Sell",
+                        "Purchase",
+                        "Lend",
+                        "Borrow"
+                    ],
+                    "answer": 1,
+                    "why": "'Buy' means purchase."
+                },
+                {
+                    "q": "Choose the synonym of 'Love'.",
+                    "options": [
+                        "Hate",
+                        "Adore",
+                        "Dislike",
+                        "Ignore"
+                    ],
+                    "answer": 1,
+                    "why": "'Love' means adore."
+                },
+                {
+                    "q": "Choose the antonym of 'Happy'.",
+                    "options": [
+                        "Joyful",
+                        "Sad",
+                        "Glad",
+                        "Cheerful"
+                    ],
+                    "answer": 1,
+                    "why": "'Happy' means joyful; its antonym is 'sad'."
+                },
+                {
+                    "q": "Choose the antonym of 'Love'.",
+                    "options": [
+                        "Adore",
+                        "Hate",
+                        "Like",
+                        "Admire"
+                    ],
+                    "answer": 1,
+                    "why": "'Love' means deep affection; its antonym is 'hate'."
+                },
+                {
+                    "q": "Choose the antonym of 'Hot'.",
+                    "options": [
+                        "Warm",
+                        "Cold",
+                        "Boiling",
+                        "Heated"
+                    ],
+                    "answer": 1,
+                    "why": "'Hot' means having high temperature; its antonym is 'cold'."
+                },
+                {
+                    "q": "Choose the antonym of 'Light'.",
+                    "options": [
+                        "Bright",
+                        "Dark",
+                        "Clear",
+                        "Shining"
+                    ],
+                    "answer": 1,
+                    "why": "'Light' means brightness; its antonym is 'dark'."
+                },
+                {
+                    "q": "Choose the antonym of 'Hard'.",
+                    "options": [
+                        "Tough",
+                        "Soft",
+                        "Solid",
+                        "Firm"
+                    ],
+                    "answer": 1,
+                    "why": "'Hard' means firm; its antonym is 'soft'."
+                },
+                {
+                    "q": "Choose the antonym of 'Fast'.",
+                    "options": [
+                        "Quick",
+                        "Slow",
+                        "Rapid",
+                        "Swift"
+                    ],
+                    "answer": 1,
+                    "why": "'Fast' means quick; its antonym is 'slow'."
+                },
+                {
+                    "q": "Choose the antonym of 'Truth'.",
+                    "options": [
+                        "Fact",
+                        "Falsehood",
+                        "Reality",
+                        "Honesty"
+                    ],
+                    "answer": 1,
+                    "why": "'Truth' means what is real; its antonym is 'falsehood'."
+                },
+                {
+                    "q": "Choose the antonym of 'War'.",
+                    "options": [
+                        "Battle",
+                        "Peace",
+                        "Fight",
+                        "Conflict"
+                    ],
+                    "answer": 1,
+                    "why": "'War' means armed conflict; its antonym is 'peace'."
+                },
+                {
+                    "q": "Choose the antonym of 'Early'.",
+                    "options": [
+                        "Soon",
+                        "Late",
+                        "Quick",
+                        "Prompt"
+                    ],
+                    "answer": 1,
+                    "why": "'Early' means before the usual time; its antonym is 'late'."
+                },
+                {
+                    "q": "Choose the passive form: 'He will help you.'",
+                    "options": [
+                        "You are helped by him.",
+                        "You were helped by him.",
+                        "You will be helped by him.",
+                        "You have been helped by him."
+                    ],
+                    "answer": 2,
+                    "why": "Future passive: will be + past participle — 'You will be helped by him.'"
+                },
+                {
+                    "q": "Choose the passive form: 'We are watching a movie.'",
+                    "options": [
+                        "A movie is watched by us.",
+                        "A movie is being watched by us.",
+                        "A movie was watched by us.",
+                        "A movie has been watched by us."
+                    ],
+                    "answer": 1,
+                    "why": "Present continuous passive: is being + past participle — 'A movie is being watched by us.'"
+                },
+                {
+                    "q": "Choose the indirect speech: She said, 'I am happy.'",
+                    "options": [
+                        "She said that she is happy.",
+                        "She said that she was happy.",
+                        "She said that I was happy.",
+                        "She said that she had been happy."
+                    ],
+                    "answer": 1,
+                    "why": "In indirect speech the present simple shifts to past simple: 'She said that she was happy.'"
+                },
+                {
+                    "q": "Choose the indirect speech: 'I have finished my work,' said Rahim.",
+                    "options": [
+                        "Rahim said that he has finished his work.",
+                        "Rahim said that he had finished his work.",
+                        "Rahim said that I had finished my work.",
+                        "Rahim said that he has been finishing his work."
+                    ],
+                    "answer": 1,
+                    "why": "Present perfect shifts to past perfect: 'Rahim said that he had finished his work.'"
+                },
+                {
+                    "q": "Fill in the blank: She is proud ___ her son.",
+                    "options": [
+                        "of",
+                        "in",
+                        "at",
+                        "for"
+                    ],
+                    "answer": 0,
+                    "why": "'Proud of' is the correct phrase."
+                },
+                {
+                    "q": "Fill in the blank: I believe ___ God.",
+                    "options": [
+                        "in",
+                        "on",
+                        "at",
+                        "to"
+                    ],
+                    "answer": 0,
+                    "why": "'Believe in' is the correct phrase."
+                },
+                {
+                    "q": "Fill in the blank: She is ___ best student in the class.",
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                    ],
+                    "answer": 2,
+                    "why": "Superlative degree takes 'the' — 'the best student'."
+                },
+                {
+                    "q": "Fill in the blank: I saw ___ elephant in the zoo.",
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                    ],
+                    "answer": 1,
+                    "why": "'Elephant' begins with a vowel sound, so 'an' is used."
+                },
+                {
+                    "q": "Fill in the blank: They ___ (play) in the field now.",
+                    "options": [
+                        "play",
+                        "are playing",
+                        "played",
+                        "plays"
+                    ],
+                    "answer": 1,
+                    "why": "'Now' shows present continuous: 'are playing'."
+                },
+                {
+                    "q": "Fill in the blank: I ___ (finish) my work yesterday.",
+                    "options": [
+                        "finish",
+                        "finished",
+                        "finishes",
+                        "finishing"
+                    ],
+                    "answer": 1,
+                    "why": "'Yesterday' shows past simple: 'finished'."
+                },
+                {
+                    "q": "Fill in the blank: She ___ (read) a book now.",
+                    "options": [
+                        "reads",
+                        "is reading",
+                        "read",
+                        "reading"
+                    ],
+                    "answer": 1,
+                    "why": "'Now' shows present continuous: 'is reading'."
+                },
+                {
+                    "q": "Fill in the blank: We ___ (live) here since 2010.",
+                    "options": [
+                        "live",
+                        "have lived",
+                        "lived",
+                        "are living"
+                    ],
+                    "answer": 1,
+                    "why": "'Since' with a duration needs present perfect: 'have lived'."
+                },
+                {
+                    "q": "Fill in the blank: This is the ___ (tall) boy in the class.",
+                    "options": [
+                        "taller",
+                        "tallest",
+                        "tall",
+                        "more tall"
+                    ],
+                    "answer": 1,
+                    "why": "Superlative degree: 'tallest'."
+                },
+                {
+                    "q": "Fill in the blank: She is ___ (wise) than her sister.",
+                    "options": [
+                        "wise",
+                        "wiser",
+                        "wisest",
+                        "more wise"
+                    ],
+                    "answer": 1,
+                    "why": "Comparative degree: 'wiser'."
+                },
+                {
+                    "q": "Fill in the blank: He is the ___ (good) student in the school.",
+                    "options": [
+                        "better",
+                        "best",
+                        "good",
+                        "more good"
+                    ],
+                    "answer": 1,
+                    "why": "Superlative of 'good' is 'best'."
+                },
+                {
+                    "q": "What does 'look up' mean?",
+                    "options": [
+                        "To search for information",
+                        "To look at the sky",
+                        "To stand up",
+                        "To wake up"
+                    ],
+                    "answer": 0,
+                    "why": "'Look up' means to search for information (in a book or online)."
+                },
+                {
+                    "q": "What does 'call off' mean?",
+                    "options": [
+                        "To cancel",
+                        "To phone someone",
+                        "To shout",
+                        "To invite"
+                    ],
+                    "answer": 0,
+                    "why": "'Call off' means to cancel."
+                },
+                {
+                    "q": "What is the plural of 'man'?",
+                    "options": [
+                        "mans",
+                        "men",
+                        "mens",
+                        "manes"
+                    ],
+                    "answer": 1,
+                    "why": "The plural of 'man' is 'men'."
+                },
+                {
+                    "q": "What is the feminine of 'king'?",
+                    "options": [
+                        "queen",
+                        "princess",
+                        "lady",
+                        "heroine"
+                    ],
+                    "answer": 0,
+                    "why": "The feminine of 'king' is 'queen'."
+                },
+                {
+                    "q": "What is the feminine of 'lion'?",
+                    "options": [
+                        "lioness",
+                        "tigress",
+                        "lion",
+                        "she-lion"
+                    ],
+                    "answer": 0,
+                    "why": "The feminine of 'lion' is 'lioness'."
+                },
+                {
+                    "q": "A flock of —",
+                    "options": [
+                        "sheep",
+                        "bees",
+                        "cattle",
+                        "wolves"
+                    ],
+                    "answer": 0,
+                    "why": "A group of sheep is called a flock."
+                },
+                {
+                    "q": "A swarm of —",
+                    "options": [
+                        "sheep",
+                        "bees",
+                        "cattle",
+                        "ships"
+                    ],
+                    "answer": 1,
+                    "why": "A group of bees is called a swarm."
+                },
+                {
+                    "q": "A herd of —",
+                    "options": [
+                        "bees",
+                        "cattle",
+                        "wolves",
+                        "keys"
+                    ],
+                    "answer": 1,
+                    "why": "A group of cattle is called a herd."
+                },
+                {
+                    "q": "A fleet of —",
+                    "options": [
+                        "sheep",
+                        "bees",
+                        "ships",
+                        "keys"
+                    ],
+                    "answer": 2,
+                    "why": "A group of ships is called a fleet."
+                },
+                {
+                    "q": "Choose the correct translation: 'আমি একজন ছাত্র।'",
+                    "options": [
+                        "I is a student.",
+                        "I am a student.",
+                        "I are a student.",
+                        "I be a student."
+                    ],
+                    "answer": 1,
+                    "why": "The correct translation is 'I am a student.'"
+                },
+                {
+                    "q": "Choose the correct translation: 'তারা মাঠে খেলছে।'",
+                    "options": [
+                        "They play in the field.",
+                        "They are playing in the field.",
+                        "They played in the field.",
+                        "They plays in the field."
+                    ],
+                    "answer": 1,
+                    "why": "The correct translation is 'They are playing in the field.'"
+                },
+                {
+                    "q": "Choose the correct translation: 'সে গতকাল ঢাকা গিয়েছিল।'",
+                    "options": [
+                        "He goes to Dhaka yesterday.",
+                        "He went to Dhaka yesterday.",
+                        "He go to Dhaka yesterday.",
+                        "He is going to Dhaka yesterday."
+                    ],
+                    "answer": 1,
+                    "why": "The correct translation is 'He went to Dhaka yesterday.'"
                 }
             ]
         },
@@ -28006,6 +29040,545 @@
                     ],
                     "answer": 1,
                     "why": "ক্ষুদ্রতম চার অঙ্কের সংখ্যা ১০০০।"
+                },
+                {
+                    "q": "৫০০-এর ৪০% কত?",
+                    "options": [
+                        "১৫০",
+                        "১৮০",
+                        "২০০",
+                        "২৫০"
+                    ],
+                    "answer": 2,
+                    "why": "৫০০ × ৪০/১০০ = ২০০।"
+                },
+                {
+                    "q": "৮০০-এর ১২.৫% কত?",
+                    "options": [
+                        "৮০",
+                        "৯০",
+                        "১০০",
+                        "১২০"
+                    ],
+                    "answer": 2,
+                    "why": "৮০০ × ১২.৫/১০০ = ১০০।"
+                },
+                {
+                    "q": "৯০-এর ১০% কত?",
+                    "options": [
+                        "৬",
+                        "৯",
+                        "১২",
+                        "১৫"
+                    ],
+                    "answer": 1,
+                    "why": "৯০ × ১০/১০০ = ৯।"
+                },
+                {
+                    "q": "৫০০ টাকায় কিনে ৬০০ টাকায় বিক্রি করলে লাভের হার কত?",
+                    "options": [
+                        "১০%",
+                        "১৫%",
+                        "২০%",
+                        "২৫%"
+                    ],
+                    "answer": 2,
+                    "why": "লাভ ১০০ টাকা; লাভের হার = ১০০/৫০০ × ১০০ = ২০%।"
+                },
+                {
+                    "q": "৪০০ টাকায় কিনে ৩৬০ টাকায় বিক্রি করলে ক্ষতির হার কত?",
+                    "options": [
+                        "৫%",
+                        "১০%",
+                        "১৫%",
+                        "২০%"
+                    ],
+                    "answer": 1,
+                    "why": "ক্ষতি ৪০ টাকা; ক্ষতির হার = ৪০/৪০০ × ১০০ = ১০%।"
+                },
+                {
+                    "q": "৮০০ টাকায় কিনে ২০% লাভে বিক্রি করলে বিক্রয়মূল্য কত?",
+                    "options": [
+                        "৯০০ টাকা",
+                        "৯৬০ টাকা",
+                        "১০০০ টাকা",
+                        "৮৮০ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "বিক্রয়মূল্য = ৮০০ × ১২০/১০০ = ৯৬০ টাকা।"
+                },
+                {
+                    "q": "১০০০ টাকার জিনিস ১০% ক্ষতিতে বিক্রি করলে বিক্রয়মূল্য কত?",
+                    "options": [
+                        "৮৫০ টাকা",
+                        "৯০০ টাকা",
+                        "৯৫০ টাকা",
+                        "৯২০ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "বিক্রয়মূল্য = ১০০০ × ৯০/১০০ = ৯০০ টাকা।"
+                },
+                {
+                    "q": "৪, ৮, ১২ ও ১৬-এর গড় কত?",
+                    "options": [
+                        "৮",
+                        "১০",
+                        "১২",
+                        "১৪"
+                    ],
+                    "answer": 1,
+                    "why": "গড় = (৪+৮+১২+১৬)/৪ = ৪০/৪ = ১০।"
+                },
+                {
+                    "q": "প্রথম ৭টি বিজোড় সংখ্যার গড় কত?",
+                    "options": [
+                        "৫",
+                        "৬",
+                        "৭",
+                        "৮"
+                    ],
+                    "answer": 2,
+                    "why": "প্রথম ৭টি বিজোড় সংখ্যা ১, ৩, ৫, ৭, ৯, ১১, ১৩; গড় = ৪৯/৭ = ৭।"
+                },
+                {
+                    "q": "পিতার বয়স ৪৫ বছর ও পুত্রের বয়স ১৫ বছর। ১০ বছর পর তাদের বয়সের অনুপাত কত হবে?",
+                    "options": [
+                        "২:১",
+                        "১১:৫",
+                        "৩:১",
+                        "৫:২"
+                    ],
+                    "answer": 1,
+                    "why": "১০ বছর পর পিতা ৫৫, পুত্র ২৫; অনুপাত ৫৫:২৫ = ১১:৫।"
+                },
+                {
+                    "q": "মা ও মেয়ের বয়সের অনুপাত ৫:২ এবং তাদের বয়সের যোগফল ৩৫ বছর। মেয়ের বয়স কত?",
+                    "options": [
+                        "৮ বছর",
+                        "১০ বছর",
+                        "১২ বছর",
+                        "১৫ বছর"
+                    ],
+                    "answer": 1,
+                    "why": "মেয়ের বয়স = ৩৫ × ২/(৫+২) = ৩৫ × ২/৭ = ১০ বছর।"
+                },
+                {
+                    "q": "রহিমের বয়স ২৪ বছর। তার ছোট ভাই তার অর্ধেক বয়সী। ছোট ভাইয়ের বয়স কত?",
+                    "options": [
+                        "১০ বছর",
+                        "১২ বছর",
+                        "১৪ বছর",
+                        "১৬ বছর"
+                    ],
+                    "answer": 1,
+                    "why": "ছোট ভাইয়ের বয়স = ২৪/২ = ১২ বছর।"
+                },
+                {
+                    "q": "৫ বছর আগে পিতার বয়স পুত্রের বয়সের ৪ গুণ ছিল। পুত্রের বর্তমান বয়স ১০ বছর হলে পিতার বর্তমান বয়স কত?",
+                    "options": [
+                        "২৫ বছর",
+                        "৩০ বছর",
+                        "৩৫ বছর",
+                        "৪০ বছর"
+                    ],
+                    "answer": 0,
+                    "why": "৫ বছর আগে পুত্রের বয়স ছিল ৫ বছর, পিতার ২০ বছর; বর্তমানে পিতার বয়স ২৫ বছর।"
+                },
+                {
+                    "q": "২:৩ অনুপাতে ৫০ ভাগ করলে ছোট অংশ কত?",
+                    "options": [
+                        "১৫",
+                        "২০",
+                        "২৫",
+                        "৩০"
+                    ],
+                    "answer": 1,
+                    "why": "ছোট অংশ = ৫০ × ২/(২+৩) = ৫০ × ২/৫ = ২০।"
+                },
+                {
+                    "q": "১২০-কে ৩:৫ অনুপাতে ভাগ করলে ছোট অংশ কত?",
+                    "options": [
+                        "৩০",
+                        "৪৫",
+                        "৬০",
+                        "৭৫"
+                    ],
+                    "answer": 1,
+                    "why": "ছোট অংশ = ১২০ × ৩/(৩+৫) = ১২০ × ৩/৮ = ৪৫।"
+                },
+                {
+                    "q": "দুটি সংখ্যার অনুপাত ৪:৭ এবং তাদের যোগফল ১২১। বড় সংখ্যাটি কত?",
+                    "options": [
+                        "৭০",
+                        "৭৭",
+                        "৮৪",
+                        "৯১"
+                    ],
+                    "answer": 1,
+                    "why": "বড় সংখ্যা = ১২১ × ৭/(৪+৭) = ১২১ × ৭/১১ = ৭৭।"
+                },
+                {
+                    "q": "A ও B-এর টাকার অনুপাত ৫:৪। A-এর কাছে ৫০০ টাকা থাকলে B-এর কাছে কত?",
+                    "options": [
+                        "৩৫০ টাকা",
+                        "৪০০ টাকা",
+                        "৪৫০ টাকা",
+                        "৫০০ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "B-এর টাকা = ৫০০ × ৪/৫ = ৪০০ টাকা।"
+                },
+                {
+                    "q": "৮ ও ১৪-এর লসাগু কত?",
+                    "options": [
+                        "২৮",
+                        "৫৬",
+                        "১১২",
+                        "৪২"
+                    ],
+                    "answer": 1,
+                    "why": "৮ ও ১৪-এর লসাগু ৫৬।"
+                },
+                {
+                    "q": "৪২ ও ৫৬-এর গসাগু কত?",
+                    "options": [
+                        "৭",
+                        "১৪",
+                        "২১",
+                        "২৮"
+                    ],
+                    "answer": 1,
+                    "why": "৪২ ও ৫৬-এর গসাগু ১৪।"
+                },
+                {
+                    "q": "ধারাটির পরের সংখ্যা কত? ২, ৬, ১৮, ৫৪, …",
+                    "options": [
+                        "১০৮",
+                        "১২২",
+                        "১৬২",
+                        "১৮০"
+                    ],
+                    "answer": 2,
+                    "why": "প্রতিটি সংখ্যা আগেরটির ৩ গুণ — পরেরটি ১৬২।"
+                },
+                {
+                    "q": "ধারাটির পরের সংখ্যা কত? ১০, ১৭, ২৬, ৩৭, …",
+                    "options": [
+                        "৪৮",
+                        "৫০",
+                        "৫২",
+                        "৫৫"
+                    ],
+                    "answer": 1,
+                    "why": "পার্থক্য ৭, ৯, ১১, ১৩ — পরেরটি ৩৭+১৩ = ৫০।"
+                },
+                {
+                    "q": "√৯০০ = কত?",
+                    "options": [
+                        "২০",
+                        "৩০",
+                        "৪০",
+                        "৯০"
+                    ],
+                    "answer": 1,
+                    "why": "৩০ × ৩০ = ৯০০, তাই √৯০০ = ৩০।"
+                },
+                {
+                    "q": "√১০০০০ = কত?",
+                    "options": [
+                        "১০",
+                        "৫০",
+                        "১০০",
+                        "১০০০"
+                    ],
+                    "answer": 2,
+                    "why": "১০০ × ১০০ = ১০০০০, তাই √১০০০০ = ১০০।"
+                },
+                {
+                    "q": "৪³ = কত?",
+                    "options": [
+                        "১৬",
+                        "৩২",
+                        "৬৪",
+                        "৮১"
+                    ],
+                    "answer": 2,
+                    "why": "৪ × ৪ × ৪ = ৬৪।"
+                },
+                {
+                    "q": "x = ৫ হলে ৩x + ৭ = কত?",
+                    "options": [
+                        "২০",
+                        "২২",
+                        "২৫",
+                        "২৮"
+                    ],
+                    "answer": 1,
+                    "why": "৩ × ৫ + ৭ = ২২।"
+                },
+                {
+                    "q": "২x − ৩ = ৭ হলে x = কত?",
+                    "options": [
+                        "৩",
+                        "৪",
+                        "৫",
+                        "৬"
+                    ],
+                    "answer": 2,
+                    "why": "২x = ১০; x = ৫।"
+                },
+                {
+                    "q": "x + ৮ = ১৫ হলে x = কত?",
+                    "options": [
+                        "৫",
+                        "৬",
+                        "৭",
+                        "৮"
+                    ],
+                    "answer": 2,
+                    "why": "x = ১৫ − ৮ = ৭।"
+                },
+                {
+                    "q": "৪x = ৩২ হলে x = কত?",
+                    "options": [
+                        "৬",
+                        "৭",
+                        "৮",
+                        "৯"
+                    ],
+                    "answer": 2,
+                    "why": "x = ৩২/৪ = ৮।"
+                },
+                {
+                    "q": "x = ২, y = ৩ হলে x² + y² = কত?",
+                    "options": [
+                        "১০",
+                        "১৩",
+                        "১৫",
+                        "২৫"
+                    ],
+                    "answer": 1,
+                    "why": "৪ + ৯ = ১৩।"
+                },
+                {
+                    "q": "২০০০ টাকা ৫% হারে ৩ বছরের সরল সুদ কত?",
+                    "options": [
+                        "২০০ টাকা",
+                        "২৫০ টাকা",
+                        "৩০০ টাকা",
+                        "৩৫০ টাকা"
+                    ],
+                    "answer": 2,
+                    "why": "সরল সুদ = ২০০০ × ৫/১০০ × ৩ = ৩০০ টাকা।"
+                },
+                {
+                    "q": "৫০০০ টাকা ১০% হারে ১ বছরের সরল সুদ কত?",
+                    "options": [
+                        "৪০০ টাকা",
+                        "৪৫০ টাকা",
+                        "৫০০ টাকা",
+                        "৬০০ টাকা"
+                    ],
+                    "answer": 2,
+                    "why": "সরল সুদ = ৫০০০ × ১০/১০০ × ১ = ৫০০ টাকা।"
+                },
+                {
+                    "q": "১০০০ টাকা ১০% হারে ৩ বছরে চক্রবৃদ্ধি সুদে কত হবে?",
+                    "options": [
+                        "১২১০ টাকা",
+                        "১৩০০ টাকা",
+                        "১৩৩১ টাকা",
+                        "১৪০০ টাকা"
+                    ],
+                    "answer": 2,
+                    "why": "১০০০ × (১.১)³ = ১৩৩১ টাকা।"
+                },
+                {
+                    "q": "একটি গাড়ি ৯০ কিমি/ঘণ্টা বেগে ৩ ঘণ্টায় কত কিমি যাবে?",
+                    "options": [
+                        "২৪০ কিমি",
+                        "২৫০ কিমি",
+                        "২৭০ কিমি",
+                        "৩০০ কিমি"
+                    ],
+                    "answer": 2,
+                    "why": "দূরত্ব = ৯০ × ৩ = ২৭০ কিমি।"
+                },
+                {
+                    "q": "৫৪ কিমি/ঘণ্টা = কত মিটার/সেকেন্ড?",
+                    "options": [
+                        "১০ মি/সে",
+                        "১২ মি/সে",
+                        "১৫ মি/সে",
+                        "১৮ মি/সে"
+                    ],
+                    "answer": 2,
+                    "why": "৫৪ × ৫/১৮ = ১৫ মি/সে।"
+                },
+                {
+                    "q": "৩০ লিটার দ্রবণে দুধ ও পানির অনুপাত ৪:১। দ্রবণে দুধ কত লিটার?",
+                    "options": [
+                        "২০ লিটার",
+                        "২৪ লিটার",
+                        "২৫ লিটার",
+                        "২৬ লিটার"
+                    ],
+                    "answer": 1,
+                    "why": "দুধ = ৩০ × ৪/(৪+১) = ৩০ × ৪/৫ = ২৪ লিটার।"
+                },
+                {
+                    "q": "৬০ লিটার মিশ্রণে দুধ ও পানির অনুপাত ৩:২। মিশ্রণে পানি কত লিটার?",
+                    "options": [
+                        "২০ লিটার",
+                        "২৪ লিটার",
+                        "৩০ লিটার",
+                        "৩৬ লিটার"
+                    ],
+                    "answer": 1,
+                    "why": "পানি = ৬০ × ২/(৩+২) = ৬০ × ২/৫ = ২৪ লিটার।"
+                },
+                {
+                    "q": "৬০০ টাকার জিনিসে ১৫% ছাড় দিলে বিক্রয়মূল্য কত?",
+                    "options": [
+                        "৪৯০ টাকা",
+                        "৫০০ টাকা",
+                        "৫১০ টাকা",
+                        "৫৪০ টাকা"
+                    ],
+                    "answer": 2,
+                    "why": "ছাড় ৯০ টাকা; বিক্রয়মূল্য ৬০০ − ৯০ = ৫১০ টাকা।"
+                },
+                {
+                    "q": "৫২টি তাস থেকে লাল তাস পাওয়ার সম্ভাবনা কত?",
+                    "options": [
+                        "১/২",
+                        "১/৪",
+                        "১/৩",
+                        "১/১৩"
+                    ],
+                    "answer": 0,
+                    "why": "৫২টি তাসের মধ্যে লাল তাস ২৬টি — সম্ভাবনা ২৬/৫২ = ১/২।"
+                },
+                {
+                    "q": "'PEN' শব্দের অক্ষরগুলো কতভাবে সাজানো যায়?",
+                    "options": [
+                        "৩",
+                        "৪",
+                        "৬",
+                        "৯"
+                    ],
+                    "answer": 2,
+                    "why": "৩টি ভিন্ন অক্ষরের বিন্যাস ৩! = ৬।"
+                },
+                {
+                    "q": "ঘড়িতে ৯টা বাজলে কাঁটাদ্বয়ের মধ্যবর্তী কোণ কত?",
+                    "options": [
+                        "৬০°",
+                        "৯০°",
+                        "১২০°",
+                        "১৮০°"
+                    ],
+                    "answer": 1,
+                    "why": "৯টায় কাঁটাদ্বয়ের মধ্যবর্তী কোণ ৯০°।"
+                },
+                {
+                    "q": "বাহু ৬ সেমি বর্গক্ষেত্রের ক্ষেত্রফল কত?",
+                    "options": [
+                        "২৪ বর্গসেমি",
+                        "৩০ বর্গসেমি",
+                        "৩৬ বর্গসেমি",
+                        "৪২ বর্গসেমি"
+                    ],
+                    "answer": 2,
+                    "why": "ক্ষেত্রফল = ৬ × ৬ = ৩৬ বর্গসেমি।"
+                },
+                {
+                    "q": "বাহু ৬ সেমি বর্গক্ষেত্রের পরিসীমা কত?",
+                    "options": [
+                        "১৮ সেমি",
+                        "২৪ সেমি",
+                        "৩০ সেমি",
+                        "৩৬ সেমি"
+                    ],
+                    "answer": 1,
+                    "why": "পরিসীমা = ৪ × ৬ = ২৪ সেমি।"
+                },
+                {
+                    "q": "১০০-এর ২৫% কত?",
+                    "options": [
+                        "২০",
+                        "২৫",
+                        "৩০",
+                        "৩৫"
+                    ],
+                    "answer": 1,
+                    "why": "১০০ × ২৫/১০০ = ২৫।"
+                },
+                {
+                    "q": "৩/৪ − ১/৪ = কত?",
+                    "options": [
+                        "১/২",
+                        "১/৪",
+                        "২/৪",
+                        "১"
+                    ],
+                    "answer": 0,
+                    "why": "৩/৪ − ১/৪ = ২/৪ = ১/২।"
+                },
+                {
+                    "q": "৩৭-এর আগের মৌলিক সংখ্যা কোনটি?",
+                    "options": [
+                        "২৯",
+                        "৩১",
+                        "৩৩",
+                        "৩৫"
+                    ],
+                    "answer": 1,
+                    "why": "৩৭-এর আগের মৌলিক সংখ্যা ৩১।"
+                },
+                {
+                    "q": "৫০-এর পরের মৌলিক সংখ্যা কোনটি?",
+                    "options": [
+                        "৫১",
+                        "৫৩",
+                        "৫৫",
+                        "৫৭"
+                    ],
+                    "answer": 1,
+                    "why": "৫০-এর পরের মৌলিক সংখ্যা ৫৩।"
+                },
+                {
+                    "q": "১০০-এর নিচে মৌলিক সংখ্যা কয়টি?",
+                    "options": [
+                        "২০টি",
+                        "২৩টি",
+                        "২৫টি",
+                        "২৭টি"
+                    ],
+                    "answer": 2,
+                    "why": "১০০-এর নিচে মৌলিক সংখ্যা ২৫টি।"
+                },
+                {
+                    "q": "৩ দ্বারা বিভাজ্য ক্ষুদ্রতম দুই অঙ্কের সংখ্যা কোনটি?",
+                    "options": [
+                        "১০",
+                        "১১",
+                        "১২",
+                        "১৫"
+                    ],
+                    "answer": 2,
+                    "why": "৩ দ্বারা বিভাজ্য ক্ষুদ্রতম দুই অঙ্কের সংখ্যা ১২।"
+                },
+                {
+                    "q": "৫ দ্বারা বিভাজ্য বৃহত্তম তিন অঙ্কের সংখ্যা কোনটি?",
+                    "options": [
+                        "৯৯০",
+                        "৯৯৫",
+                        "৯৯৯",
+                        "৯৮৫"
+                    ],
+                    "answer": 1,
+                    "why": "৫ দ্বারা বিভাজ্য বৃহত্তম তিন অঙ্কের সংখ্যা ৯৯৫।"
                 }
             ]
         },
@@ -37009,6 +38582,435 @@
                     ],
                     "answer": 0,
                     "why": "কুয়াকাটা 'সাগরকন্যা' নামে পরিচিত।"
+                },
+                {
+                    "q": "১ নং সেক্টরের কমান্ডার কে ছিলেন?",
+                    "options": [
+                        "জিয়াউর রহমান",
+                        "খালেদ মোশাররফ",
+                        "কে এম শফিউল্লাহ",
+                        "আবু তাহের"
+                    ],
+                    "answer": 0,
+                    "why": "১ নং সেক্টরের কমান্ডার ছিলেন জিয়াউর রহমান।"
+                },
+                {
+                    "q": "২ নং সেক্টরের কমান্ডার কে ছিলেন?",
+                    "options": [
+                        "জিয়াউর রহমান",
+                        "খালেদ মোশাররফ",
+                        "কে এম শফিউল্লাহ",
+                        "আবু তাহের"
+                    ],
+                    "answer": 1,
+                    "why": "২ নং সেক্টরের কমান্ডার ছিলেন খালেদ মোশাররফ।"
+                },
+                {
+                    "q": "১১ নং সেক্টরের কমান্ডার কে ছিলেন?",
+                    "options": [
+                        "জিয়াউর রহমান",
+                        "খালেদ মোশাররফ",
+                        "আবু তাহের",
+                        "কে এম শফিউল্লাহ"
+                    ],
+                    "answer": 2,
+                    "why": "১১ নং সেক্টরের কমান্ডার ছিলেন আবু তাহের।"
+                },
+                {
+                    "q": "বীরশ্রেষ্ঠ হামিদুর রহমান কবে শহীদ হন?",
+                    "options": [
+                        "২৮ অক্টোবর ১৯৭১",
+                        "২৮ আগস্ট ১৯৭১",
+                        "১৬ ডিসেম্বর ১৯৭১",
+                        "২৬ মার্চ ১৯৭১"
+                    ],
+                    "answer": 0,
+                    "why": "বীরশ্রেষ্ঠ হামিদুর রহমান ১৯৭১ সালের ২৮ অক্টোবর ধলই সীমান্তে শহীদ হন।"
+                },
+                {
+                    "q": "শহীদ বুদ্ধিজীবী দিবস কবে পালিত হয়?",
+                    "options": [
+                        "১৪ ডিসেম্বর",
+                        "১৬ ডিসেম্বর",
+                        "২৬ মার্চ",
+                        "২১ ফেব্রুয়ারি"
+                    ],
+                    "answer": 0,
+                    "why": "শহীদ বুদ্ধিজীবী দিবস ১৪ ডিসেম্বর পালিত হয়।"
+                },
+                {
+                    "q": "ভাষা আন্দোলনে কারা শহীদ হন?",
+                    "options": [
+                        "সালাম ও বরকত",
+                        "রফিক ও জব্বার",
+                        "সালাম, বরকত, রফিক, জব্বার ও শফিউর",
+                        "শুধু সালাম"
+                    ],
+                    "answer": 2,
+                    "why": "ভাষা আন্দোলনে সালাম, বরকত, রফিক, জব্বার ও শফিউর শহীদ হন।"
+                },
+                {
+                    "q": "বাংলাদেশের সংবিধানে মূল অনুচ্ছেদ কয়টি?",
+                    "options": [
+                        "১৫৩টি",
+                        "১৪৫টি",
+                        "১৫০টি",
+                        "১৩৫টি"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের সংবিধানে মূল অনুচ্ছেদ ১৫৩টি।"
+                },
+                {
+                    "q": "বাংলাদেশের সংবিধানে তফসিল কয়টি?",
+                    "options": [
+                        "৫টি",
+                        "৬টি",
+                        "৭টি",
+                        "৮টি"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশের সংবিধানে তফসিল ৭টি।"
+                },
+                {
+                    "q": "সংবিধান খসড়া কমিটির প্রধান কে ছিলেন?",
+                    "options": [
+                        "ড. কামাল হোসেন",
+                        "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+                        "তাজউদ্দীন আহমদ",
+                        "সৈয়দ নজরুল ইসলাম"
+                    ],
+                    "answer": 0,
+                    "why": "সংবিধান খসড়া কমিটির প্রধান ছিলেন ড. কামাল হোসেন।"
+                },
+                {
+                    "q": "বাংলাদেশের সংবিধানের প্রথম সংশোধনী হয় কবে?",
+                    "options": [
+                        "১৯৭৩ সালে",
+                        "১৯৭২ সালে",
+                        "১৯৭৪ সালে",
+                        "১৯৭৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের সংবিধানের প্রথম সংশোধনী হয় ১৯৭৩ সালে।"
+                },
+                {
+                    "q": "ব্রহ্মপুত্র নদের উৎপত্তিস্থল কোথায়?",
+                    "options": [
+                        "তিব্বতের মানস সরোবর",
+                        "হিমালয়ের গঙ্গোত্রী",
+                        "লুসাই পাহাড়",
+                        "মেঘালয়"
+                    ],
+                    "answer": 0,
+                    "why": "ব্রহ্মপুত্র নদের উৎপত্তি তিব্বতের মানস সরোবরে।"
+                },
+                {
+                    "q": "সুরমা ও কুশিয়ারা মিলে কোন নদীর সৃষ্টি হয়?",
+                    "options": [
+                        "পদ্মা",
+                        "যমুনা",
+                        "মেঘনা",
+                        "কর্ণফুলী"
+                    ],
+                    "answer": 2,
+                    "why": "সুরমা ও কুশিয়ারা মিলে মেঘনা নদীর সৃষ্টি হয়।"
+                },
+                {
+                    "q": "হালদা নদী কিসের জন্য বিখ্যাত?",
+                    "options": [
+                        "মাছের প্রাকৃতিক প্রজনন ক্ষেত্র",
+                        "জলবিদ্যুৎ",
+                        "বন্দর",
+                        "সেতু"
+                    ],
+                    "answer": 0,
+                    "why": "হালদা নদী মাছের প্রাকৃতিক প্রজনন ক্ষেত্র হিসেবে বিখ্যাত।"
+                },
+                {
+                    "q": "রেমিট্যান্স আয়ে শীর্ষ দেশ কোনটি?",
+                    "options": [
+                        "সৌদি আরব",
+                        "যুক্তরাষ্ট্র",
+                        "যুক্তরাজ্য",
+                        "মালয়েশিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "রেমিট্যান্স আয়ে শীর্ষ দেশ সৌদি আরব।"
+                },
+                {
+                    "q": "তৈরি পোশাক রপ্তানিতে বিশ্বে বাংলাদেশের অবস্থান কত?",
+                    "options": [
+                        "প্রথম",
+                        "দ্বিতীয়",
+                        "তৃতীয়",
+                        "চতুর্থ"
+                    ],
+                    "answer": 1,
+                    "why": "তৈরি পোশাক রপ্তানিতে বিশ্বে বাংলাদেশ দ্বিতীয়।"
+                },
+                {
+                    "q": "বাংলাদেশ প্রথম ওয়ানডে জয় পায় কবে?",
+                    "options": [
+                        "১৯৯৮ সালে",
+                        "১৯৯৯ সালে",
+                        "২০০৪ সালে",
+                        "২০০৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ প্রথম ওয়ানডে জয় পায় ১৯৯৮ সালে (কেনিয়ার বিপক্ষে)।"
+                },
+                {
+                    "q": "সাকিব আল হাসান কী হিসেবে বিশ্বখ্যাত?",
+                    "options": [
+                        "ব্যাটসম্যান",
+                        "বোলার",
+                        "অলরাউন্ডার",
+                        "উইকেটকিপার"
+                    ],
+                    "answer": 2,
+                    "why": "সাকিব আল হাসান বিশ্বখ্যাত অলরাউন্ডার।"
+                },
+                {
+                    "q": "বাংলাদেশ ফুটবল দল প্রথম সাফ চ্যাম্পিয়ন হয় কবে?",
+                    "options": [
+                        "২০০৩ সালে",
+                        "১৯৯৯ সালে",
+                        "২০০৯ সালে",
+                        "২০১৩ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ ফুটবল দল প্রথম সাফ চ্যাম্পিয়ন হয় ২০০৩ সালে।"
+                },
+                {
+                    "q": "ফিলিপাইনের রাজধানী কোনটি?",
+                    "options": [
+                        "সেবু",
+                        "ম্যানিলা",
+                        "দাভাও",
+                        "কুইজন সিটি"
+                    ],
+                    "answer": 1,
+                    "why": "ফিলিপাইনের রাজধানী ম্যানিলা।"
+                },
+                {
+                    "q": "আফগানিস্তানের রাজধানী কোনটি?",
+                    "options": [
+                        "কান্দাহার",
+                        "হেরাত",
+                        "কাবুল",
+                        "মাজার-ই-শরিফ"
+                    ],
+                    "answer": 2,
+                    "why": "আফগানিস্তানের রাজধানী কাবুল।"
+                },
+                {
+                    "q": "ইরাকের রাজধানী কোনটি?",
+                    "options": [
+                        "বসরা",
+                        "বাগদাদ",
+                        "মোসুল",
+                        "কিরকুক"
+                    ],
+                    "answer": 1,
+                    "why": "ইরাকের রাজধানী বাগদাদ।"
+                },
+                {
+                    "q": "ইন্দোনেশিয়ার মুদ্রার নাম কী?",
+                    "options": [
+                        "রিঙ্গিত",
+                        "বাথ",
+                        "রুপিয়া",
+                        "ডং"
+                    ],
+                    "answer": 2,
+                    "why": "ইন্দোনেশিয়ার মুদ্রা রুপিয়া।"
+                },
+                {
+                    "q": "ভিয়েতনামের মুদ্রার নাম কী?",
+                    "options": [
+                        "বাথ",
+                        "ডং",
+                        "রুপিয়া",
+                        "রিঙ্গিত"
+                    ],
+                    "answer": 1,
+                    "why": "ভিয়েতনামের মুদ্রা ডং।"
+                },
+                {
+                    "q": "সুইজারল্যান্ডের মুদ্রার নাম কী?",
+                    "options": [
+                        "ইউরো",
+                        "ফ্রাঁ",
+                        "লিরা",
+                        "ক্রোনা"
+                    ],
+                    "answer": 1,
+                    "why": "সুইজারল্যান্ডের মুদ্রা ফ্রাঁ।"
+                },
+                {
+                    "q": "তুরস্কের মুদ্রার নাম কী?",
+                    "options": [
+                        "দিনার",
+                        "রিয়াল",
+                        "লিরা",
+                        "দিরহাম"
+                    ],
+                    "answer": 2,
+                    "why": "তুরস্কের মুদ্রা লিরা।"
+                },
+                {
+                    "q": "শান্তিতে প্রথম নোবেল বিজয়ী কে?",
+                    "options": [
+                        "হেনরি ডুনান্ট",
+                        "মাদার তেরেসা",
+                        "মার্টিন লুথার কিং",
+                        "নেলসন ম্যান্ডেলা"
+                    ],
+                    "answer": 0,
+                    "why": "শান্তিতে প্রথম নোবেল বিজয়ী হেনরি ডুনান্ট (১৯০১)।"
+                },
+                {
+                    "q": "অমর্ত্য সেন নোবেল পুরস্কার পান কবে?",
+                    "options": [
+                        "১৯৯৮ সালে",
+                        "১৯৯৯ সালে",
+                        "২০০৬ সালে",
+                        "২০১৩ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "অমর্ত্য সেন অর্থনীতিতে নোবেল পুরস্কার পান ১৯৯৮ সালে।"
+                },
+                {
+                    "q": "ডায়নামাইট কে আবিষ্কার করেন?",
+                    "options": [
+                        "আলফ্রেড নোবেল",
+                        "থমাস এডিসন",
+                        "জেমস ওয়াট",
+                        "মাইকেল ফ্যারাডে"
+                    ],
+                    "answer": 0,
+                    "why": "ডায়নামাইট আবিষ্কার করেন আলফ্রেড নোবেল।"
+                },
+                {
+                    "q": "বাষ্পীয় ইঞ্জিন কে আবিষ্কার করেন?",
+                    "options": [
+                        "জেমস ওয়াট",
+                        "থমাস নিউকমেন",
+                        "জর্জ স্টিফেনসন",
+                        "রবার্ট ফুলটন"
+                    ],
+                    "answer": 1,
+                    "why": "বাষ্পীয় ইঞ্জিন আবিষ্কার করেন থমাস নিউকমেন; জেমস ওয়াট এর উন্নত সংস্করণ তৈরি করেন।"
+                },
+                {
+                    "q": "মানবদেহে হাড় কয়টি?",
+                    "options": [
+                        "১০৬টি",
+                        "২০৬টি",
+                        "৩০৬টি",
+                        "২৫৬টি"
+                    ],
+                    "answer": 1,
+                    "why": "প্রাপ্তবয়স্ক মানবদেহে হাড় ২০৬টি।"
+                },
+                {
+                    "q": "মানব রক্তের pH কত?",
+                    "options": [
+                        "৬.৪",
+                        "৭.৪",
+                        "৮.৪",
+                        "৫.৪"
+                    ],
+                    "answer": 1,
+                    "why": "মানব রক্তের pH প্রায় ৭.৪।"
+                },
+                {
+                    "q": "সুস্থ মানুষের হৃদস্পন্দন প্রতি মিনিটে কত বার?",
+                    "options": [
+                        "৬০ বার",
+                        "৭২ বার",
+                        "৮০ বার",
+                        "১০০ বার"
+                    ],
+                    "answer": 1,
+                    "why": "সুস্থ মানুষের হৃদস্পন্দন প্রতি মিনিটে প্রায় ৭২ বার।"
+                },
+                {
+                    "q": "পারদের রাসায়নিক সংকেত কী?",
+                    "options": [
+                        "Hg",
+                        "Pb",
+                        "Zn",
+                        "Sn"
+                    ],
+                    "answer": 0,
+                    "why": "পারদের রাসায়নিক সংকেত Hg।"
+                },
+                {
+                    "q": "তামার রাসায়নিক সংকেত কী?",
+                    "options": [
+                        "Fe",
+                        "Zn",
+                        "Cu",
+                        "Al"
+                    ],
+                    "answer": 2,
+                    "why": "তামার রাসায়নিক সংকেত Cu।"
+                },
+                {
+                    "q": "কোন গ্রহকে লাল গ্রহ বলা হয়?",
+                    "options": [
+                        "বুধ",
+                        "শুক্র",
+                        "মঙ্গল",
+                        "বৃহস্পতি"
+                    ],
+                    "answer": 2,
+                    "why": "মঙ্গল গ্রহকে লাল গ্রহ বলা হয়।"
+                },
+                {
+                    "q": "কোন গ্রহের বলয় সবচেয়ে স্পষ্ট?",
+                    "options": [
+                        "বৃহস্পতি",
+                        "শনি",
+                        "মঙ্গল",
+                        "শুক্র"
+                    ],
+                    "answer": 1,
+                    "why": "শনি গ্রহের বলয় সবচেয়ে স্পষ্ট।"
+                },
+                {
+                    "q": "পৃথিবীর একমাত্র প্রাকৃতিক উপগ্রহ কোনটি?",
+                    "options": [
+                        "চাঁদ",
+                        "টাইটান",
+                        "ইউরোপা",
+                        "ফোবোস"
+                    ],
+                    "answer": 0,
+                    "why": "পৃথিবীর একমাত্র প্রাকৃতিক উপগ্রহ চাঁদ।"
+                },
+                {
+                    "q": "'আমার দেখা নয়াচীন' গ্রন্থের লেখক কে?",
+                    "options": [
+                        "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+                        "কাজী নজরুল ইসলাম",
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "শামসুর রাহমান"
+                    ],
+                    "answer": 0,
+                    "why": "'আমার দেখা নয়াচীন' বঙ্গবন্ধু শেখ মুজিবুর রহমানের গ্রন্থ।"
+                },
+                {
+                    "q": "'অসমাপ্ত আত্মজীবনী' গ্রন্থের লেখক কে?",
+                    "options": [
+                        "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+                        "তাজউদ্দীন আহমদ",
+                        "সৈয়দ নজরুল ইসলাম",
+                        "হুমায়ূন আহমেদ"
+                    ],
+                    "answer": 0,
+                    "why": "'অসমাপ্ত আত্মজীবনী' বঙ্গবন্ধু শেখ মুজিবুর রহমানের আত্মজীবনী।"
                 }
             ]
         },
@@ -54744,6 +56746,534 @@
                     ],
                     "answer": 2,
                     "why": "১৬২৬৩ স্বাস্থ্য বাতায়নের হেল্পলাইন নম্বর।"
+                },
+                {
+                    "q": "Linux কী?",
+                    "options": [
+                        "একটি ওপেন সোর্স অপারেটিং সিস্টেম",
+                        "একটি ওয়ার্ড প্রসেসর",
+                        "একটি ব্রাউজার",
+                        "একটি ভাইরাস"
+                    ],
+                    "answer": 0,
+                    "why": "Linux একটি ওপেন সোর্স অপারেটিং সিস্টেম।"
+                },
+                {
+                    "q": "Android অপারেটিং সিস্টেম কে তৈরি করেছে?",
+                    "options": [
+                        "Apple",
+                        "Microsoft",
+                        "Google",
+                        "Samsung"
+                    ],
+                    "answer": 2,
+                    "why": "Android অপারেটিং সিস্টেম তৈরি করেছে Google।"
+                },
+                {
+                    "q": "MS-DOS কী ধরনের সফটওয়্যার?",
+                    "options": [
+                        "অ্যাপ্লিকেশন সফটওয়্যার",
+                        "অপারেটিং সিস্টেম",
+                        "গেম",
+                        "ব্রাউজার"
+                    ],
+                    "answer": 1,
+                    "why": "MS-DOS একটি অপারেটিং সিস্টেম।"
+                },
+                {
+                    "q": "নিচের কোনটি অ্যাপ্লিকেশন সফটওয়্যার?",
+                    "options": [
+                        "Windows",
+                        "Linux",
+                        "MS Word",
+                        "Android"
+                    ],
+                    "answer": 2,
+                    "why": "MS Word অ্যাপ্লিকেশন সফটওয়্যার; বাকিগুলো অপারেটিং সিস্টেম।"
+                },
+                {
+                    "q": "অ্যান্টিভাইরাসের কাজ কী?",
+                    "options": [
+                        "ভাইরাস শনাক্ত ও মুছে ফেলা",
+                        "ফাইল ছাপা",
+                        "গান বাজানো",
+                        "ইন্টারনেট চালানো"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যান্টিভাইরাস ভাইরাস শনাক্ত করে ও মুছে ফেলে।"
+                },
+                {
+                    "q": "শক্তিশালী পাসওয়ার্ডে কী থাকা উচিত?",
+                    "options": [
+                        "শুধু নাম",
+                        "অক্ষর, সংখ্যা ও চিহ্নের মিশ্রণ",
+                        "শুধু সংখ্যা",
+                        "জন্মতারিখ"
+                    ],
+                    "answer": 1,
+                    "why": "শক্তিশালী পাসওয়ার্ডে অক্ষর, সংখ্যা ও চিহ্নের মিশ্রণ থাকে।"
+                },
+                {
+                    "q": "হ্যাকার কে?",
+                    "options": [
+                        "সফটওয়্যার নির্মাতা",
+                        "অননুমোদিতভাবে সিস্টেমে প্রবেশকারী",
+                        "কম্পিউটার বিক্রেতা",
+                        "গেমার"
+                    ],
+                    "answer": 1,
+                    "why": "হ্যাকার অননুমোদিতভাবে কম্পিউটার সিস্টেমে প্রবেশ করে।"
+                },
+                {
+                    "q": "Google Drive কী ধরনের সেবা?",
+                    "options": [
+                        "ক্লাউড স্টোরেজ",
+                        "গেম",
+                        "ব্রাউজার",
+                        "অপারেটিং সিস্টেম"
+                    ],
+                    "answer": 0,
+                    "why": "Google Drive ক্লাউড স্টোরেজ সেবা — ফাইল ইন্টারনেটে সংরক্ষিত থাকে।"
+                },
+                {
+                    "q": "ডেটাবেস কী?",
+                    "options": [
+                        "সুসংগঠিত তথ্যের ভান্ডার",
+                        "একটি প্রোগ্রাম",
+                        "একটি হার্ডওয়্যার",
+                        "একটি ওয়েবসাইট"
+                    ],
+                    "answer": 0,
+                    "why": "ডেটাবেস হলো সুসংগঠিতভাবে সংরক্ষিত তথ্যের ভান্ডার।"
+                },
+                {
+                    "q": "SQL কী?",
+                    "options": [
+                        "একটি ডেটাবেস ভাষা",
+                        "একটি অপারেটিং সিস্টেম",
+                        "একটি ব্রাউজার",
+                        "একটি ভাইরাস"
+                    ],
+                    "answer": 0,
+                    "why": "SQL (Structured Query Language) ডেটাবেস পরিচালনার ভাষা।"
+                },
+                {
+                    "q": "নিচের কোনটি প্রোগ্রামিং ভাষা?",
+                    "options": [
+                        "HTML",
+                        "Python",
+                        "MS Word",
+                        "Chrome"
+                    ],
+                    "answer": 1,
+                    "why": "Python একটি প্রোগ্রামিং ভাষা; HTML মার্কআপ ভাষা।"
+                },
+                {
+                    "q": "কম্পিউটারের নিজের ভাষা কী?",
+                    "options": [
+                        "বাংলা",
+                        "ইংরেজি",
+                        "বাইনারি (০ ও ১)",
+                        "হিন্দি"
+                    ],
+                    "answer": 2,
+                    "why": "কম্পিউটার বাইনারি ভাষায় (০ ও ১) কাজ করে।"
+                },
+                {
+                    "q": "ফ্লোচার্ট কী?",
+                    "options": [
+                        "চিত্রের মাধ্যমে অ্যালগরিদম প্রকাশ",
+                        "একটি সফটওয়্যার",
+                        "একটি প্রিন্টার",
+                        "একটি মেমোরি"
+                    ],
+                    "answer": 0,
+                    "why": "ফ্লোচার্ট চিত্রের মাধ্যমে অ্যালগরিদমের ধাপগুলো প্রকাশ করে।"
+                },
+                {
+                    "q": "প্রোগ্রামের ভুলকে কী বলে?",
+                    "options": [
+                        "বাগ",
+                        "ভাইরাস",
+                        "এরর মেসেজ",
+                        "ক্র্যাশ"
+                    ],
+                    "answer": 0,
+                    "why": "প্রোগ্রামের ভুলকে বাগ (bug) বলে।"
+                },
+                {
+                    "q": "IP ঠিকানা কী?",
+                    "options": [
+                        "নেটওয়ার্কে ডিভাইসের পরিচয়",
+                        "একটি ওয়েবসাইট",
+                        "একটি পাসওয়ার্ড",
+                        "একটি ফাইল"
+                    ],
+                    "answer": 0,
+                    "why": "IP ঠিকানা নেটওয়ার্কে প্রতিটি ডিভাইসের অনন্য পরিচয়।"
+                },
+                {
+                    "q": "ইমেইল ঠিকানায় '@' চিহ্নের কাজ কী?",
+                    "options": [
+                        "ব্যবহারকারীর নাম ও ডোমেইন আলাদা করা",
+                        "পাসওয়ার্ড দেওয়া",
+                        "ফাইল সংযুক্ত করা",
+                        "মেইল পাঠানো"
+                    ],
+                    "answer": 0,
+                    "why": "'@' চিহ্ন ব্যবহারকারীর নাম ও ডোমেইন নাম আলাদা করে।"
+                },
+                {
+                    "q": "স্প্রেডশিট সফটওয়্যার কোনটি?",
+                    "options": [
+                        "MS Word",
+                        "MS Excel",
+                        "PowerPoint",
+                        "Notepad"
+                    ],
+                    "answer": 1,
+                    "why": "MS Excel স্প্রেডশিট সফটওয়্যার।"
+                },
+                {
+                    "q": "Excel-এ MIN ফাংশনের কাজ কী?",
+                    "options": [
+                        "সর্বোচ্চ মান বের করা",
+                        "সর্বনিম্ন মান বের করা",
+                        "গড় বের করা",
+                        "গুণ করা"
+                    ],
+                    "answer": 1,
+                    "why": "MIN ফাংশন সর্বনিম্ন মান বের করে।"
+                },
+                {
+                    "q": "Excel-এ সেলের ঠিকানা কীভাবে লেখা হয়?",
+                    "options": [
+                        "A1",
+                        "1A",
+                        "A-1",
+                        "1-A"
+                    ],
+                    "answer": 0,
+                    "why": "Excel-এ সেলের ঠিকানা কলাম ও সারি দিয়ে লেখা হয় — যেমন A1।"
+                },
+                {
+                    "q": "PowerPoint-এ স্লাইড কী?",
+                    "options": [
+                        "উপস্থাপনার একক পৃষ্ঠা",
+                        "একটি ফাইল",
+                        "একটি ছবি",
+                        "একটি টেবিল"
+                    ],
+                    "answer": 0,
+                    "why": "স্লাইড হলো PowerPoint উপস্থাপনার একক পৃষ্ঠা।"
+                },
+                {
+                    "q": "সবকিছু সিলেক্ট করার শর্টকাট কোনটি?",
+                    "options": [
+                        "Ctrl+A",
+                        "Ctrl+S",
+                        "Ctrl+C",
+                        "Ctrl+V"
+                    ],
+                    "answer": 0,
+                    "why": "Ctrl+A দিয়ে সবকিছু সিলেক্ট করা হয়।"
+                },
+                {
+                    "q": "নতুন ফাইল খোলার শর্টকাট কোনটি?",
+                    "options": [
+                        "Ctrl+O",
+                        "Ctrl+N",
+                        "Ctrl+S",
+                        "Ctrl+P"
+                    ],
+                    "answer": 1,
+                    "why": "Ctrl+N দিয়ে নতুন ফাইল খোলা হয়।"
+                },
+                {
+                    "q": "কোনো শব্দ খুঁজে বের করার শর্টকাট কোনটি?",
+                    "options": [
+                        "Ctrl+S",
+                        "Ctrl+F",
+                        "Ctrl+P",
+                        "Ctrl+N"
+                    ],
+                    "answer": 1,
+                    "why": "Ctrl+F দিয়ে কোনো শব্দ খুঁজে বের করা যায়।"
+                },
+                {
+                    "q": "কাট (Cut) করার শর্টকাট কোনটি?",
+                    "options": [
+                        "Ctrl+C",
+                        "Ctrl+X",
+                        "Ctrl+V",
+                        "Ctrl+Z"
+                    ],
+                    "answer": 1,
+                    "why": "Ctrl+X দিয়ে কাট (Cut) করা হয়।"
+                },
+                {
+                    "q": "OMR কীসের জন্য ব্যবহৃত হয়?",
+                    "options": [
+                        "পরীক্ষার উত্তরপত্র যাচাই",
+                        "ছবি তোলা",
+                        "গান শোনা",
+                        "ফাইল ছাপা"
+                    ],
+                    "answer": 0,
+                    "why": "OMR (Optical Mark Recognition) দিয়ে পরীক্ষার উত্তরপত্র যাচাই করা হয়।"
+                },
+                {
+                    "q": "MICR কীসের জন্য ব্যবহৃত হয়?",
+                    "options": [
+                        "ব্যাংক চেক যাচাই",
+                        "ছবি তোলা",
+                        "গেম খেলা",
+                        "ইমেইল পাঠানো"
+                    ],
+                    "answer": 0,
+                    "why": "MICR (Magnetic Ink Character Recognition) দিয়ে ব্যাংক চেক যাচাই করা হয়।"
+                },
+                {
+                    "q": "বারকোড কী?",
+                    "options": [
+                        "পণ্যের তথ্য সংরক্ষণকারী রেখাচিত্র",
+                        "একটি পাসওয়ার্ড",
+                        "একটি ভাইরাস",
+                        "একটি গেম"
+                    ],
+                    "answer": 0,
+                    "why": "বারকোড পণ্যের তথ্য সংরক্ষণকারী রেখাচিত্র।"
+                },
+                {
+                    "q": "জয়স্টিক কী ধরনের ডিভাইস?",
+                    "options": [
+                        "আউটপুট ডিভাইস",
+                        "ইনপুট ডিভাইস",
+                        "স্টোরেজ ডিভাইস",
+                        "প্রসেসিং ডিভাইস"
+                    ],
+                    "answer": 1,
+                    "why": "জয়স্টিক গেম খেলার ইনপুট ডিভাইস।"
+                },
+                {
+                    "q": "প্লটার কী?",
+                    "options": [
+                        "বড় আকারের ছাপার আউটপুট ডিভাইস",
+                        "ইনপুট ডিভাইস",
+                        "স্টোরেজ ডিভাইস",
+                        "মেমোরি"
+                    ],
+                    "answer": 0,
+                    "why": "প্লটার বড় আকারের নকশা ছাপার আউটপুট ডিভাইস।"
+                },
+                {
+                    "q": "টাচস্ক্রিন কী ধরনের ডিভাইস?",
+                    "options": [
+                        "শুধু ইনপুট",
+                        "শুধু আউটপুট",
+                        "ইনপুট ও আউটপুট উভয়",
+                        "স্টোরেজ"
+                    ],
+                    "answer": 2,
+                    "why": "টাচস্ক্রিন ইনপুট ও আউটপুট উভয় ধরনের ডিভাইস।"
+                },
+                {
+                    "q": "১ টেরাবাইট সমান কত গিগাবাইট?",
+                    "options": [
+                        "১০০",
+                        "৫১২",
+                        "১০২৪",
+                        "২০৪৮"
+                    ],
+                    "answer": 2,
+                    "why": "১ টেরাবাইট = ১০২৪ গিগাবাইট।"
+                },
+                {
+                    "q": "১ পেটাবাইট সমান কত টেরাবাইট?",
+                    "options": [
+                        "১০০",
+                        "৫১২",
+                        "১০২৪",
+                        "২০৪৮"
+                    ],
+                    "answer": 2,
+                    "why": "১ পেটাবাইট = ১০২৪ টেরাবাইট।"
+                },
+                {
+                    "q": "দশমিক ২৫-এর বাইনারি রূপ কোনটি?",
+                    "options": [
+                        "১১০০১",
+                        "১১০১০",
+                        "১০১০১",
+                        "১১১০০"
+                    ],
+                    "answer": 0,
+                    "why": "২৫ = ১৬+৮+১ = ১১০০১₂।"
+                },
+                {
+                    "q": "হেক্সাডেসিমেল পদ্ধতির ভিত্তি কত?",
+                    "options": [
+                        "২",
+                        "৮",
+                        "১০",
+                        "১৬"
+                    ],
+                    "answer": 3,
+                    "why": "হেক্সাডেসিমেল পদ্ধতির ভিত্তি ১৬।"
+                },
+                {
+                    "q": "চতুর্থ প্রজন্মের কম্পিউটারে কী ব্যবহৃত হয়?",
+                    "options": [
+                        "ভ্যাকুয়াম টিউব",
+                        "ট্রানজিস্টর",
+                        "মাইক্রোপ্রসেসর",
+                        "আইসি"
+                    ],
+                    "answer": 2,
+                    "why": "চতুর্থ প্রজন্মের কম্পিউটারে মাইক্রোপ্রসেসর ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সুপার কম্পিউটার কী?",
+                    "options": [
+                        "সাধারণ কম্পিউটার",
+                        "অত্যন্ত দ্রুত ও শক্তিশালী কম্পিউটার",
+                        "ছোট কম্পিউটার",
+                        "পুরনো কম্পিউটার"
+                    ],
+                    "answer": 1,
+                    "why": "সুপার কম্পিউটার অত্যন্ত দ্রুত ও শক্তিশালী কম্পিউটার।"
+                },
+                {
+                    "q": "ই-কমার্স কী?",
+                    "options": [
+                        "ইন্টারনেটে কেনাবেচা",
+                        "ইমেইল পাঠানো",
+                        "গেম খেলা",
+                        "ছবি তোলা"
+                    ],
+                    "answer": 0,
+                    "why": "ই-কমার্স হলো ইন্টারনেটের মাধ্যমে পণ্য কেনাবেচা।"
+                },
+                {
+                    "q": "'.com' ডোমেইন কী বোঝায়?",
+                    "options": [
+                        "Commercial",
+                        "Computer",
+                        "Communication",
+                        "Common"
+                    ],
+                    "answer": 0,
+                    "why": "'.com' ডোমেইন Commercial (বাণিজ্যিক) বোঝায়।"
+                },
+                {
+                    "q": "'.org' ডোমেইন কী বোঝায়?",
+                    "options": [
+                        "Organization",
+                        "Original",
+                        "Online",
+                        "Office"
+                    ],
+                    "answer": 0,
+                    "why": "'.org' ডোমেইন Organization (সংস্থা) বোঝায়।"
+                },
+                {
+                    "q": "ওয়েবসাইটের প্রথম পৃষ্ঠাকে কী বলে?",
+                    "options": [
+                        "হোমপেজ",
+                        "ইনডেক্স",
+                        "মেনু",
+                        "লগইন"
+                    ],
+                    "answer": 0,
+                    "why": "ওয়েবসাইটের প্রথম পৃষ্ঠাকে হোমপেজ বলে।"
+                },
+                {
+                    "q": "সার্ভার কী?",
+                    "options": [
+                        "সেবা প্রদানকারী কম্পিউটার",
+                        "সেবা গ্রহণকারী কম্পিউটার",
+                        "একটি প্রিন্টার",
+                        "একটি মাউস"
+                    ],
+                    "answer": 0,
+                    "why": "সার্ভার হলো নেটওয়ার্কে সেবা প্রদানকারী কম্পিউটার।"
+                },
+                {
+                    "q": "ক্লায়েন্ট কী?",
+                    "options": [
+                        "সেবা প্রদানকারী কম্পিউটার",
+                        "সেবা গ্রহণকারী কম্পিউটার",
+                        "একটি সার্ভার",
+                        "একটি প্রিন্টার"
+                    ],
+                    "answer": 1,
+                    "why": "ক্লায়েন্ট হলো সার্ভার থেকে সেবা গ্রহণকারী কম্পিউটার।"
+                },
+                {
+                    "q": "ডাউনলোড কী?",
+                    "options": [
+                        "ইন্টারনেট থেকে তথ্য নেওয়া",
+                        "ইন্টারনেটে তথ্য পাঠানো",
+                        "ফাইল মুছে ফেলা",
+                        "ফাইল ছাপা"
+                    ],
+                    "answer": 0,
+                    "why": "ডাউনলোড হলো ইন্টারনেট থেকে তথ্য নিজের ডিভাইসে নেওয়া।"
+                },
+                {
+                    "q": "আপলোড কী?",
+                    "options": [
+                        "ইন্টারনেট থেকে তথ্য নেওয়া",
+                        "ইন্টারনেটে তথ্য পাঠানো",
+                        "ফাইল মুছে ফেলা",
+                        "ফাইল ছাপা"
+                    ],
+                    "answer": 1,
+                    "why": "আপলোড হলো নিজের ডিভাইস থেকে তথ্য ইন্টারনেটে পাঠানো।"
+                },
+                {
+                    "q": "ব্যান্ডউইথ কী?",
+                    "options": [
+                        "তথ্য আদান-প্রদানের হার",
+                        "মেমোরির আকার",
+                        "প্রসেসরের গতি",
+                        "স্ক্রিনের আকার"
+                    ],
+                    "answer": 0,
+                    "why": "ব্যান্ডউইথ হলো নির্দিষ্ট সময়ে তথ্য আদান-প্রদানের হার।"
+                },
+                {
+                    "q": "ইউনিকোড কী?",
+                    "options": [
+                        "সব ভাষার অক্ষরের জন্য সর্বজনীন কোডিং পদ্ধতি",
+                        "একটি প্রোগ্রামিং ভাষা",
+                        "একটি অপারেটিং সিস্টেম",
+                        "একটি ব্রাউজার"
+                    ],
+                    "answer": 0,
+                    "why": "ইউনিকোড সব ভাষার অক্ষরের জন্য সর্বজনীন কোডিং পদ্ধতি।"
+                },
+                {
+                    "q": "কম্পিউটার মেমোরির মৌলিক একক কী?",
+                    "options": [
+                        "বাইট",
+                        "বিট",
+                        "কিলোবাইট",
+                        "মেগাবাইট"
+                    ],
+                    "answer": 1,
+                    "why": "কম্পিউটার মেমোরির মৌলিক একক বিট (০ বা ১)।"
+                },
+                {
+                    "q": "লাইট পেন কী ধরনের ডিভাইস?",
+                    "options": [
+                        "আউটপুট ডিভাইস",
+                        "ইনপুট ডিভাইস",
+                        "স্টোরেজ ডিভাইস",
+                        "প্রসেসিং ডিভাইস"
+                    ],
+                    "answer": 1,
+                    "why": "লাইট পেন স্ক্রিনে আঁকা বা নির্দেশ করার ইনপুট ডিভাইস।"
                 }
             ]
         }
