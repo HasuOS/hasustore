@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 47,
-   "versionName": "1.46",
-   "size": 802108,
+   "code": 48,
+   "versionName": "1.47",
+   "size": 806277,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "১.৪৬: সবগুলো widget এবার পুরোপুরি standard Android widget — Samsung One UI Home-এও বসানো যাবে, শুধু HasuOS Home-এ নয়। Widget picker-এ এবার আসল widget-এর preview-ই দেখাবে (app-এর icon নয়), আর One UI যে মাপ জানায় (sizes list) সেই মাপ অনুযায়ী row সাজে; কোনো launcher মাপ না জানালেও widget ভেঙে যায় না — আগের মতো তিনটা row নিয়ে পুরো জায়গা ভরে থাকে। HasuOS Home-এ যেভাবে ছিল, সেভাবেই চলবে।",
-   "ts": 1795501603,
-   "etag": "0x8DF49F3E3686E90",
+   "changes": "১.৪৭: Copy page-এর লিঙ্ক এবার live feed থেকে আসে — portal-এর আসল ঠিকানা (যেমন BPC-র officer section-এর copy page) এখন app update ছাড়াই ঠিক করা যায়। পুরনো ভুল cached লিঙ্ক এই update-এ নিজে থেকে মুছে গেছে; কোনো ঠিকানা যাচাই করা না হলে page-এ তা লেখা থাকবে, আর portal-এ মরে যাওয়া ঠিকানা app আর খুলবে না — আসলটা খুঁজে দেখাবে।",
+   "ts": 1795502552,
+   "etag": "0x8DF49F612340E3D",
    "cat": "Tools"
   }
  ]
