@@ -800,18 +800,18 @@
    "cat": "HasuOS"
   },
   {
-   "pkg": "hasu.os.jobs",
-   "name": "HasuJobs",
-   "tag": "Govt circulars • Diploma in Computer",
-   "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 55,
-   "versionName": "1.54",
-   "size": 818565,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "১.৫৪: সব deadline-এ এখন লাইভ সেকেন্ড countdown — ঘণ্টা:মিনিট:সেকেন্ড টিকটিক করে কমে, app-এর ভিতরে, widget-এ আর notification-এ; টাকার হিসাব widget-এর ফাঁকা হয়ে থাকা bug ঠিক হয়েছে; BANBEIS-এর deadline এখন আসল সময় বিকেল ৪টা ধরেই গোনে; সব widget আর panel এখন যেই person active আছে, তার হিসাবই দেখায় আর switch করলেই বদলে যায়।",
-   "ts": 1795525104,
-   "etag": "0x8DF4A2A7AF489A4",
-   "cat": "Tools"
-  }
+ "pkg": "hasu.os.jobs",
+ "name": "HasuJobs",
+ "tag": "Govt circulars • Diploma in Computer",
+ "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
+ "code": 56,
+ "versionName": "1.55",
+ "size": 826757,
+ "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
+ "changes": "১.৫৫: এখন app না খুললেও নতুন প্রশ্নের খবর নিজে নিজে আসে — প্রায় প্রতি ৪৫ মিনিটে app নিজেই feed check করে, প্রশ্ন বাড়লে notification দেয়, panel আর widget-ও নিজে update হয়ে যায়; admit/result-এর খবরও background-এ check হয়। নতুন login page — User / Admin বেছে ID + password দিতে হবে, প্রতিবার app খুললেই চাইবে; Permissions page আর Backup ও Restore শুধু Admin login-এ খোলে; password ভুলে গেলে মালিকের সাথে যোগাযোগের page আসে।",
+ "ts": 1795526667,
+ "etag": "0x8DF4A2E27BAAA7D",
+ "cat": "Tools"
+}
  ]
 }
