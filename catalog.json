@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 241,
-   "versionName": "2.48",
+   "code": 240,
+   "versionName": "2.47",
    "size": 115115191,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Log out moved to Settings \u2014 the Log out button now sits at the top of the Settings card on the About page, there for both User and Admin logins. The login itself is unchanged: log in once and stay logged in until you tap Log out.",
-   "ts": 1795535874,
-   "etag": "0x8DF4A4392D6BB5D"
+   "changes": "Log in once and stay logged in \u2014 HasuStore now remembers your login (never the password) and opens straight in, even after a phone restart, until you tap Log out under the main screen header. The main screen also shows who is logged in.",
+   "ts": 1795535561,
+   "etag": "0x8DF4A42C60790EA"
   },
   {
    "pkg": "hasu.os.tasbih",
@@ -804,13 +804,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 61,
- "versionName": "1.60",
+ "code": 62,
+ "versionName": "1.61",
  "size": 867787,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "১.৬০: 🛡️ ভুয়া-আবেদন seal — যে সার্কুলার আপনার track-এর নয়, তা কখনোই আপনার আবেদন হতে পারবে না; circular PDF কখনোই Applicant's Copy হিসেবে বসবে না (আসল copy-র নিজের প্রমাণ থাকলেই শুধু বসবে); date-নামের ফাইলের নম্বর আর User ID হবে না; আগের কোনো ভুয়া record থেকে থাকলে app নিজেই তা মুছে ঠিক করে দেবে। 🔐 Login এখন ঠিক HasuStore-এর মতো: ID + password শুধু fresh launch-এ — Recents থেকে সরালে বা process বন্ধ হলে; Home/Back চেপে ফিরলে আর চাইবে না। 📚 আগের বছরের প্রশ্ন এখন পড়াশোনা tab-এর একদম উপরে — কোনো section না খুলেই দেখা যায়। 🧭 পুরো app সহজ করা হয়েছে: Downloads আর পরীক্ষার দিনের checklist এখন তথ্য tab-এর উপরেই নিজের card-এ — কিছুই আর অন্য feature-এর ভিতরে লুকানো নেই। 📜 লিখিত / অগ্রগতি / লিংক-সহ সব section-এই scroll ঠিক জায়গায় থাকে। ✉️ Password ভুলে গেলে Email row-তেই ready mail — subject/body লেখাই আছে, শুধু নাম/ID বসালেই হবে (Facebook সরিয়ে দেওয়া হয়েছে)।",
- "ts": 1795534368,
- "etag": "0x8DF4A402153A389",
+ "changes": "১.৬১: 🔐 Login এখন আসল login/logout-এর মতো — একবার login করলেই login থাকবে: Home/Back চাপা, Recents থেকে সরানো, এমনকি ফোন restart হলেও আর password চাইবে না; Log out আছে 🔐 Permissions (Settings) page-এ — User/Admin দুই login-এর জন্যই। 📚 পড়াশোনা tab-এর design একদম নতুন: উপরে পরিষ্কার hero card (মোট প্রশ্নের সংখ্যা বড় করে), ছয়টা section এখন সমান grid tab-এ — সব একসাথে দেখা যায়, কোনোটা পাশে লুকানো না; প্রতি section-এর নিজের শিরোনাম ও এক লাইনের বর্ণনা, card-গুলোতে সমান ফাঁক।",
+ "ts": 1795535954,
+ "etag": "0x8DF4A43C0E5393B",
  "cat": "Tools"
 }
  ]
