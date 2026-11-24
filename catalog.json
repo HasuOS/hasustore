@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 40,
-   "versionName": "1.39",
-   "size": 748328,
+   "code": 41,
+   "versionName": "1.40",
+   "size": 760616,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "যেই ভুলগুলো ধরিয়ে দিলে সেগুলোই ঠিক হলো: স্কুলের সার্কুলারে মিথ্যা “আবেদন সম্পন্ন” আর আসবে না — অফলাইন (ডাকযোগে) সার্কুলার শুধু তুমি নিজে আবেদন সম্পন্ন বললেই সম্পন্ন হবে, অন্য সার্কুলারের Copy দিয়ে কখনো নয়; BPC-র Applicant's Copy এখন app নিজে চিনে নেয় — BPC আমার আবেদনে যোগ হয়, আর তার ৳২২৩ ফি টাকার হিসাবে ও প্যানেলে ফি-বাকি হিসেবে দেখায়, SMS-এ payment হলেই পরিশোধ হয়ে যায়; Copy এখন থেকে app দিয়ে download হলে User ID-র নামে (<UserID>.pdf) সেভ হয়, Admit Card <UserID>-admit.pdf — আগের তিনটা application-এর Copy-ও scan চিনে একই নামে কপি রেখে দেয় (আসল ফাইল যেমন ছিল তেমনই থাকে); form fill এখন বাবা-মায়ের বাংলা নাম, passport-এ No, quota আর departmental-এ Not Applicable, দুই ঠিকানার care-of, diploma-র subject (Computer Science and Engineering Technology) আর experience-এর No — সব বসায়; profile-এর খালি ঘরগুলো এখন ফোনের যেকোনো জায়গার import ফাইল খুঁজে নিজে নিজে ভরে যায়, আর নতুন photo/signature দিলে সেটাও নিজে থেকে বদলে যায়।",
-   "ts": 1795491610,
-   "etag": "0x8DF49DC8AA912C2",
+   "changes": "এবার BPC-র Copy চেনার আসল সমস্যাটাই ধরা পড়ল: এই portal-এর PDF-এর ভেতরের লেখা app পড়তেই পারে না, তাই ফাইলের নামে কোনো চিহ্ন না থাকলে (যেমন download (2).pdf) Copy চেনা যেত না। এখন — (১) app দিয়ে আবেদন submit-এর পর নামানো PDF নিজে থেকেই সেই আবেদনের Copy হয়ে বসে যায়; (২) চেনা Copy Downloads তালিকায় User ID-র নামেই (<UserID>.pdf) rename হয় — পাশে raw নামের duplicate থাকে না; (৩) scan ফাইল দেখতেই না পেলে আর মিথ্যা “পাইনি” বলবে না, permission-এর কথা বলবে; আর PDF-র লেখা পড়া না গেলে “file বেছে দিন” আসবে — file বেছে দিলে Copy পড়ে ঠিক সার্কুলারে বসে, text না মিললে নিজে circular বেছে বসানো যায়, BPC-র ৳২২৩ ফি-বাকিসহ পুরো chain চলে; (৪) Apply page-এ নতুন ভাসমান “আমার তথ্য” button: আগে form-এর ঘরটা চাপ দিয়ে বেছে নাও, তারপর তালিকা থেকে মানটা চাপ দিলেই সেই ঘরে বসে যায় — select বা radio হলে মিলিয়ে ঠিক option-টাই বসে; (৫) profile import এখন নিজেই হিসাব দেয় — এই file-এ কয়টা ঘর ছিল, কয়টা বসেছে; পুরনো কম-ঘরের file হলে সেটা নিজেই বলে দেবে।",
+   "ts": 1795493507,
+   "etag": "0x8DF49E0A0286834",
    "cat": "Tools"
   }
  ]
