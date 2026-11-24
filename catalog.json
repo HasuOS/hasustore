@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 42,
-   "versionName": "1.41",
-   "size": 785192,
+   "code": 43,
+   "versionName": "1.42",
+   "size": 789288,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "১.৪১: Profile এবার নিজে থেকেই পূর্ণ হবে — তোমার private GitHub backup থেকে পুরো file নিজে নেমে আসবে। file পৌঁছানোর আগেও form fill আর আমার তথ্য picker ঠিকঠাক কাজ করবে (passport/quota/departmental-এর উত্তর, diploma subject, experience-এ No — vault-এ না থাকলেও)। Import-এ ছবি/signature byte-exact থাকবে, সঙ্গে app-এর ভিতরেই পূর্ণ image editor (মাপ + size ঠিক করা)। BPC-র Copy এবার download record দেখে নিজে চিনবে, নইলে circular-এর page-এই 'Copy যোগ করুন'। Copy বসানোর সময় User ID চাইবে — fee page আর খালি থাকবে না। Home আর fee page-এ Teletalk ব্যালেন্স। Panel-এর ভুল count ঠিক (শুধু যাকে বেছেছ তারটাই)। নতুন: আমার অগ্রগতি (Scoreboard + পড়ার সময়), ভুলের খাতা, ★ কঠিন প্রশ্ন, লিখিত উত্তরে নিজের উত্তর সেভ, পরীক্ষার countdown, admit/result-এর খবর, আবেদনের checklist, আগের দিনের জোর reminder আর সন্ধ্যায় পড়ার reminder। Refresh বোতামে এবার আসল ফলাফল দেখাবে।",
-   "ts": 1795495864,
-   "etag": "0x8DF49E67534EC5E",
+   "changes": "১.৪২: এবার পুরো app-ই backup হয় — ফলাফল, পড়ার সময়, ভুলের খাতা, ★ প্রশ্ন, লিখিত উত্তর, ব্যালেন্স — সব Downloads + Telegram + GitHub-এ যাবে, Restore-এ সব ফিরে আসবে। Study page এবার আলাদা আলাদা section-এ (অনুশীলনী / মডেল টেস্ট / ভুলের খাতা ও ★ / লিখিত / অগ্রগতি / লিংক)। ব্যালেন্স এবার 'Teletalk' sender-এর message থেকেও আসে — সবচেয়ে নতুনটাই দেখাবে। Panel, widget আর notification-এ কাজ দুই ভাগে: আবেদন বাকি আর ফি বাকি — ফি-র row-তে কত সময় বাকি তাও; notification বড় করলে সব কাজ একসঙ্গে দেখা যাবে। Portal page থেকে User ID তোলা এবার সব ধরনের ID-র জন্য কাজ করে।",
+   "ts": 1795497230,
+   "etag": "0x8DF49E9AE21176E",
    "cat": "Tools"
   }
  ]
