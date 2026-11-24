@@ -804,13 +804,13 @@
    "name": "HasuJobs",
    "tag": "Govt circulars • Diploma in Computer",
    "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
-   "code": 36,
-   "versionName": "1.35",
-   "size": 723607,
+   "code": 37,
+   "versionName": "1.36",
+   "size": 727703,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
-   "changes": "Portal-এর Download button এখন কাজ করে — blob আকারে আসা Copy PDF-ও নেমে নিজে থেকে বসে যায়; Copy page-এর লিঙ্ক এখন সুন্দর button (নীল লেখা বাদ); notification panel-এ এখন শুধু select করা জনের আসল বাকি কাজ (paid হলে আর দেখায় না, যার fee-ই নেই তাকে fee বাকি বলে না); update-এর notification এখন ঠিক সময়ে আসবে আর চাপ দিলে app-এর ভিতরেই download+install; About page-এ App update এখন উপরের দিকে।",
-   "ts": 1795462633,
-   "etag": "0x8DF49991E58CC62",
+   "changes": "বোনের দিকে ভুল করে দেখা যাওয়া পুরনো application-এর record এখন পরিষ্কার হয়ে যাবে — তার দিকে শুধু তার নিজের আসল কাজই দেখাবে; home-এর আমার আবেদন card থেকে চলমান অংশ সরানো হয়েছে; BPSC-র Copy link এখন portal থেকেই খুঁজে নেওয়া হয়, আসল page-টা খুলবে।",
+   "ts": 1795477944,
+   "etag": "0x8DF49BCC6857D23",
    "cat": "Tools"
   }
  ]
