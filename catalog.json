@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 60,
-   "versionName": "5.32",
-   "size": 68637481,
-   "changes": "The tools bar is rebuilt: its eight icons are now drawn by the keyboard itself instead of loaded from a font file, so they can never come up blank — brighter liquid-glass pills with a soft neon glow, and the keys and suggestion strip get the same lit-glass finish. The self-healing dictionaries stay, and everything else — vault, GIFs, fonts, themes — works exactly as before.",
+   "code": 61,
+   "versionName": "5.33",
+   "size": 68641577,
+   "changes": "NEW: Wallet autofill inside the keyboard — with HasuWallet set as your autofill service, its saved login for an app (like the HasuJobs and HasuStore Admin logins) now appears as a chip in the strip above the keys on login fields; one tap fills the username and password, the Samsung Pass way. The keyboard never sees or stores those passwords, and the chips only ever come from your autofill app. Turn it off any time in the app's Typing tab. Everything else — the drawn tools bar, vault, GIFs, fonts and themes — works exactly as before.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795507364,
-   "etag": "0x8DF4A0147DAA554"
+   "ts": 1795527220,
+   "etag": "0x8DF4A2F7884B182"
   },
   {
    "pkg": "hasu.os.browser",
