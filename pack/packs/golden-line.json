@@ -1,0 +1,19 @@
+{
+ "id": "golden-line",
+ "name": "Golden Line",
+ "glyphs": {
+  "update": "fa:f2ea",
+  "guide": "fa:f02e",
+  "perms": "fa:f023",
+  "about": "fa:f577",
+  "look": "fa:f06e",
+  "settings": "fa:f085",
+  "search": "fa:f002",
+  "home": "fa:f015",
+  "back": "fa:f060",
+  "check": "fa:f00c",
+  "close": "fa:f00d",
+  "globe": "fa:f0ac",
+  "star": "fa:f005"
+ }
+}
