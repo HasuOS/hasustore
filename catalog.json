@@ -669,13 +669,13 @@
    "name": "HasuShorts",
    "tag": "Short videos",
    "desc": "Short videos, full screen — a swipe-up feed built from the short clips already on your phone, plus your own uploads.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 537742,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 2403289,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shorts.apk",
-   "changes": "NEW APP: HasuShorts 1.00 — short videos, full screen. A swipe-up feed built from the short videos (90 seconds or less) already on your phone, plus four bundled sample shorts, with likes and comments saved on the phone, a Discover thumbnail grid, a Liked tab, share, and ➕ to add your own short with a caption at any length. 📖 Guide page and 🔐 Permissions hub included — one permission only: your videos.",
-   "ts": 1795325354,
-   "etag": "0x8DF48597B652685"
+   "changes": "সম্পূর্ণ ফ্যামিলি পোর্ট: সেটিংস পেজ (ভাষা English/বাংলা, আপডেট ও নতুন ডিজাইনের সতর্কতা, শব্দ ও কম্পন, ব্যাকআপ — লাইক ও মন্তব্যসহ), লুক ও আইকন (থিম, আইকন সেট, পাঁচটি অ্যাপ-আইকন ডিজাইন, ফিড ও প্রতিটি পেজের নিজের থিম, পুরো-স্ক্রিন প্রিভিউ), অ্যাপ নিজে নিজে আপডেট হয়, নতুন আইকন সেট ও থিম নিজে নিজে আসে, সব আইকন এখন Font Awesome ছবিতে, গাইড এখন বাংলায়ও।",
+   "ts": 1795621128,
+   "etag": "0x8DF4B0A296A96B6"
   },
   {
    "pkg": "hasu.os.down",
