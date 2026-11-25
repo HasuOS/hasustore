@@ -97,13 +97,13 @@
    "name": "HasuClean",
    "tag": "Storage cleaner",
    "desc": "Storage cleaner — find the largest files, duplicate photos and junk folders, and free space safely.",
-   "code": 9,
-   "versionName": "1.07",
-   "size": 62318,
+   "code": 10,
+   "versionName": "1.08",
+   "size": 90990,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clean.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only then, repainted on every return. FIXED: a delete that fails to start no longer leaves \"Finish the delete that's waiting first\" blocking every later delete until you restart the app. NEW (from 1.06, never published): the duplicate finder now covers videos too — the same size + full-file hash grouping that caught duplicate photos now checks your 2,000 most recent videos as well, so a re-saved video is caught just like a photo; the card is now \"Duplicate photos & videos\". FIXED (from 1.06): starting a second delete while Android's delete confirmation for the first one is still waiting no longer overwrites the pending callback. FIXED (from 1.05): rotating the phone no longer restarts the whole scan — your junk selection stays put. FIXED (from 1.04): the top of the main screen and the About page now sit properly below the status bar; deleting a large file now asks first in a glass confirm; a rescan can no longer let an old duplicate-thumbnail thread drop its picture onto a row that no longer exists.",
-   "etag": "0x8DF480ECA1F77C6",
-   "ts": 1795293275
+   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
+   "etag": "0x8DF4AFC2107F5E6",
+   "ts": 1795615087
   },
   {
    "pkg": "hasu.os.clock",
