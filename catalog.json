@@ -721,13 +721,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 39,
-   "versionName": "1.38",
-   "size": 235445,
+   "code": 40,
+   "versionName": "1.39",
+   "size": 2059981,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "One honest fix from your testing: the Full-screen incoming calls switch is Android's own — Android turns it off for apps installed outside the Play Store, and can do it again after an update; no app can hold it on by itself, and HasuPhone will not fake it. What the app now does: it notices the moment the switch is off, the Permissions row says why in plain words, and once per update a card on the main screen offers the few-seconds fix — one tap opens the exact system page. And while the switch is off, a ringing call still shows its banner and rings and vibrates as usual; only the full screen over the lock screen waits. Everything from 1.37 — real call-screen previews, listen-first key sounds, per-surface themes and the round End call button — is unchanged.",
-   "ts": 1795592700,
-   "etag": "0x8DF4ABFB2E5B475"
+   "changes": "পুরো অ্যাপে বাংলা⇄English ভাষা বদল, হালকা মোড, নিজে নিজে আপডেট যাচাই ও ডাউনলোড (বসানো এক চাপে), ৫টি সাদা-ছবির স্বচ্ছ আইকন ডিজাইন, আইকন সেট — ফিড থেকে নতুন প্যাক নিজে নিজে আসে, বিজ্ঞপ্তি ও নীরব সময়ের সেটিংস, Permissions-এ Install updates ও Battery সারি, ব্যাকআপে এখন প্রতি নম্বরের ছবি-ভিডিও নিজেও থাকে, ক্র্যাশ রিপোর্ট ও সেটিংস রিসেট।",
+   "ts": 1795607864,
+   "etag": "0x8DF4AEB49AE2090"
   },
   {
    "pkg": "hasu.os.cell",
