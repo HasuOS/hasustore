@@ -1,6 +1,6 @@
 {
-    "version": 64,
-    "generatedAt": 1795605136,
+    "version": 65,
+    "generatedAt": 1795606828,
     "subjects": [
         {
             "id": "bangla",
@@ -21734,6 +21734,281 @@
                     ],
                     "answer": 3,
                     "why": "'লেখক' শব্দে লিখ্ ধাতুর সঙ্গে 'অক' প্রত্যয় যুক্ত হয়েছে।"
+                },
+                {
+                    "q": "প্রত্যক্ষ উক্তি কাকে বলে?",
+                    "options": [
+                        "বক্তার হুবহু কথা উদ্ধৃতি চিহ্নে প্রকাশ",
+                        "বক্তার কথা নিজের ভাষায় বলা",
+                        "কারও কথা না বলা",
+                        "প্রশ্ন করা"
+                    ],
+                    "answer": 0,
+                    "why": "প্রত্যক্ষ উক্তিতে বক্তার কথা হুবহু উদ্ধৃতি চিহ্নের মধ্যে লেখা হয়।"
+                },
+                {
+                    "q": "পরোক্ষ উক্তির বৈশিষ্ট্য কী?",
+                    "options": [
+                        "বক্তার কথা নিজের ভাষায় বলা হয়, উদ্ধৃতি চিহ্ন থাকে না",
+                        "বক্তার হুবহু কথা লেখা হয়",
+                        "উদ্ধৃতি চিহ্ন থাকে",
+                        "প্রশ্নবোধক চিহ্ন থাকে"
+                    ],
+                    "answer": 0,
+                    "why": "পরোক্ষ উক্তিতে বক্তার কথা নিজের ভাষায় বলা হয়, তাই উদ্ধৃতি চিহ্ন থাকে না।"
+                },
+                {
+                    "q": "‘সে বলল, “আমি যাব।”’ — এটি কোন ধরনের উক্তি?",
+                    "options": [
+                        "প্রত্যক্ষ উক্তি",
+                        "পরোক্ষ উক্তি",
+                        "প্রশ্নবোধক বাক্য",
+                        "আদেশসূচক বাক্য"
+                    ],
+                    "answer": 0,
+                    "why": "এখানে বক্তার হুবহু কথা উদ্ধৃতি চিহ্নে দেওয়া হয়েছে, তাই এটি প্রত্যক্ষ উক্তি।"
+                },
+                {
+                    "q": "‘সে বলল যে সে যাবে।’ — এটি কোন ধরনের উক্তি?",
+                    "options": [
+                        "প্রত্যক্ষ উক্তি",
+                        "পরোক্ষ উক্তি",
+                        "প্রশ্নবোধক বাক্য",
+                        "বিস্ময়সূচক বাক্য"
+                    ],
+                    "answer": 1,
+                    "why": "এখানে বক্তার কথা নিজের ভাষায় বলা হয়েছে, তাই এটি পরোক্ষ উক্তি।"
+                },
+                {
+                    "q": "প্রশ্ন বোঝাতে কোন চিহ্ন ব্যবহৃত হয়?",
+                    "options": [
+                        "প্রশ্নবোধক চিহ্ন (?)",
+                        "দাঁড়ি (।)",
+                        "কমা (,)",
+                        "বিস্ময়বোধক (!)"
+                    ],
+                    "answer": 0,
+                    "why": "প্রশ্নসূচক বাক্যের শেষে প্রশ্নবোধক চিহ্ন (?) ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "বিস্ময় বা আনন্দ প্রকাশে কোন চিহ্ন ব্যবহৃত হয়?",
+                    "options": [
+                        "বিস্ময়বোধক চিহ্ন (!)",
+                        "দাঁড়ি (।)",
+                        "কমা (,)",
+                        "সেমিকোলন (;)"
+                    ],
+                    "answer": 0,
+                    "why": "বিস্ময়, আনন্দ বা দুঃখ প্রকাশে বিস্ময়বোধক চিহ্ন (!) ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "কমা (,) কোথায় ব্যবহৃত হয়?",
+                    "options": [
+                        "বাক্যের মধ্যে স্বল্প বিরতিতে",
+                        "বাক্যের শেষে",
+                        "প্রশ্নের শেষে",
+                        "বিস্ময়ের শেষে"
+                    ],
+                    "answer": 0,
+                    "why": "বাক্যের মধ্যে স্বল্প বিরতি বোঝাতে কমা (,) ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "উদ্ধৃতি চিহ্ন কখন ব্যবহৃত হয়?",
+                    "options": [
+                        "কারও কথা হুবহু তুলে ধরলে",
+                        "প্রশ্ন করলে",
+                        "বাক্য শেষ করলে",
+                        "তালিকা লিখলে"
+                    ],
+                    "answer": 0,
+                    "why": "কারও কথা হুবহু উদ্ধৃত করলে উদ্ধৃতি চিহ্ন (‘ ’ বা “ ”) ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সেমিকোলন (;) কী বোঝায়?",
+                    "options": [
+                        "কমার চেয়ে বেশি, দাঁড়ির চেয়ে কম বিরতি",
+                        "বাক্যের শেষ",
+                        "প্রশ্ন",
+                        "বিস্ময়"
+                    ],
+                    "answer": 0,
+                    "why": "সেমিকোলন কমার চেয়ে বেশি ও দাঁড়ির চেয়ে কম বিরতি বোঝায়।"
+                },
+                {
+                    "q": "হাইফেন (-) কীসের জন্য ব্যবহৃত হয়?",
+                    "options": [
+                        "শব্দের অংশ যুক্ত করতে",
+                        "বাক্য শেষ করতে",
+                        "প্রশ্ন করতে",
+                        "উদ্ধৃতি দিতে"
+                    ],
+                    "answer": 0,
+                    "why": "দুটি শব্দ বা শব্দের অংশ যুক্ত করতে হাইফেন (-) ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "‘বাংলা’ শব্দে কয়টি অক্ষর আছে?",
+                    "options": [
+                        "২টি",
+                        "৩টি",
+                        "৫টি",
+                        "৪টি"
+                    ],
+                    "answer": 0,
+                    "why": "‘বাংলা’ শব্দে দুটি অক্ষর: বাং + লা।"
+                },
+                {
+                    "q": "‘ত্র’ যুক্তবর্ণে কোন কোন বর্ণ আছে?",
+                    "options": [
+                        "ত্ + র",
+                        "ত্ + ত",
+                        "র্ + ত",
+                        "ত্ + ঋ"
+                    ],
+                    "answer": 0,
+                    "why": "‘ত্র’ যুক্তবর্ণে ত্ ও র আছে (ত্ + র = ত্র)।"
+                },
+                {
+                    "q": "‘শ্র’ যুক্তবর্ণে কোন কোন বর্ণ আছে?",
+                    "options": [
+                        "শ্ + র",
+                        "স্ + র",
+                        "শ্ + শ",
+                        "র্ + শ"
+                    ],
+                    "answer": 0,
+                    "why": "‘শ্র’ যুক্তবর্ণে শ্ ও র আছে (শ্ + র = শ্র)।"
+                },
+                {
+                    "q": "‘ন্দ’ যুক্তবর্ণে কোন কোন বর্ণ আছে?",
+                    "options": [
+                        "ন্ + দ",
+                        "ণ্ + দ",
+                        "ন্ + ত",
+                        "দ্ + ন"
+                    ],
+                    "answer": 0,
+                    "why": "‘ন্দ’ যুক্তবর্ণে ন্ ও দ আছে (ন্ + দ = ন্দ)।"
+                },
+                {
+                    "q": "‘ষ্ণ’ যুক্তবর্ণে কোন কোন বর্ণ আছে?",
+                    "options": [
+                        "ষ্ + ণ",
+                        "স্ + ণ",
+                        "ষ্ + ন",
+                        "ণ্ + ষ"
+                    ],
+                    "answer": 0,
+                    "why": "‘ষ্ণ’ যুক্তবর্ণে ষ্ ও ণ আছে (ষ্ + ণ = ষ্ণ)।"
+                },
+                {
+                    "q": "‘জ্ঞ’ যুক্তবর্ণের উচ্চারণ কেমন?",
+                    "options": [
+                        "গ্যাঁ",
+                        "জ্ঞ",
+                        "জ",
+                        "ঞ"
+                    ],
+                    "answer": 0,
+                    "why": "‘জ্ঞ’ (জ্ + ঞ) উচ্চারণে ‘গ্যাঁ’-র মতো শোনায়, যেমন ‘জ্ঞান’।"
+                },
+                {
+                    "q": "‘আমি গতকাল ঢাকা যাব’ — বাক্যটির শুদ্ধ রূপ কোনটি?",
+                    "options": [
+                        "আমি গতকাল ঢাকা যাব",
+                        "আমি গতকাল ঢাকা গিয়েছিলাম",
+                        "আমি গতকাল ঢাকা যাইতেছি",
+                        "আমি আগামীকাল ঢাকা গিয়েছিলাম"
+                    ],
+                    "answer": 1,
+                    "why": "‘গতকাল’ অতীত সময় বোঝায়, তাই ক্রিয়া অতীতকালে হবে: ‘আমি গতকাল ঢাকা গিয়েছিলাম’।"
+                },
+                {
+                    "q": "‘পানি’ শব্দের সমার্থক কোনটি?",
+                    "options": [
+                        "জল",
+                        "আগুন",
+                        "বায়ু",
+                        "মাটি"
+                    ],
+                    "answer": 0,
+                    "why": "‘পানি’-এর সমার্থক শব্দ জল, বারি, সলিল।"
+                },
+                {
+                    "q": "‘সুখ’ শব্দের বিপরীতার্থক কোনটি?",
+                    "options": [
+                        "দুঃখ",
+                        "আনন্দ",
+                        "শান্তি",
+                        "হাসি"
+                    ],
+                    "answer": 0,
+                    "why": "‘সুখ’-এর বিপরীত শব্দ দুঃখ।"
+                },
+                {
+                    "q": "‘জয়’ শব্দের বিপরীতার্থক কোনটি?",
+                    "options": [
+                        "পরাজয়",
+                        "হার",
+                        "বিজয়",
+                        "সাফল্য"
+                    ],
+                    "answer": 0,
+                    "why": "‘জয়’-এর বিপরীত শব্দ পরাজয়।"
+                },
+                {
+                    "q": "‘সত্য’ শব্দের বিপরীতার্থক কোনটি?",
+                    "options": [
+                        "মিথ্যা",
+                        "ন্যায়",
+                        "ভালো",
+                        "সঠিক"
+                    ],
+                    "answer": 0,
+                    "why": "‘সত্য’-এর বিপরীত শব্দ মিথ্যা।"
+                },
+                {
+                    "q": "‘আমি বিজয় দেখেছি’ গ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "এম আর আখতার মুকুল",
+                        "জাহানারা ইমাম",
+                        "আনিসুজ্জামান",
+                        "হুমায়ূন আহমেদ"
+                    ],
+                    "answer": 0,
+                    "why": "‘আমি বিজয় দেখেছি’ মুক্তিযুদ্ধভিত্তিক গ্রন্থ, রচয়িতা এম আর আখতার মুকুল।"
+                },
+                {
+                    "q": "‘অসমাপ্ত আত্মজীবনী’ গ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "শেখ মুজিবুর রহমান",
+                        "তাজউদ্দীন আহমদ",
+                        "মাওলানা ভাসানী",
+                        "শেরে বাংলা"
+                    ],
+                    "answer": 0,
+                    "why": "‘অসমাপ্ত আত্মজীবনী’ বঙ্গবন্ধু শেখ মুজিবুর রহমানের আত্মজীবনী।"
+                },
+                {
+                    "q": "‘কারাগারের রোজনামচা’ গ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "শেখ মুজিবুর রহমান",
+                        "জিয়াউর রহমান",
+                        "হোসেন শহীদ সোহরাওয়ার্দী",
+                        "এ কে ফজলুল হক"
+                    ],
+                    "answer": 0,
+                    "why": "‘কারাগারের রোজনামচা’ বঙ্গবন্ধু শেখ মুজিবুর রহমানের জেলজীবনের দিনলিপি।"
+                },
+                {
+                    "q": "আনিসুজ্জামান কোন বিষয়ের পণ্ডিত ছিলেন?",
+                    "options": [
+                        "বাংলা ভাষা ও সাহিত্য",
+                        "ইতিহাস",
+                        "অর্থনীতি",
+                        "পদার্থবিজ্ঞান"
+                    ],
+                    "answer": 0,
+                    "why": "অধ্যাপক আনিসুজ্জামান বাংলা ভাষা ও সাহিত্যের প্রখ্যাত পণ্ডিত ছিলেন।"
                 }
             ]
         },
@@ -42399,6 +42674,512 @@
                     ],
                     "answer": 2,
                     "why": "For an accident, the correct preposition is 'in': 'He died in an accident.'"
+                },
+                {
+                    "q": "Which of the following is a conjunction?",
+                    "options": [
+                        "And",
+                        "Quickly",
+                        "Happy",
+                        "Book"
+                    ],
+                    "answer": 0,
+                    "why": "'And' joins words or clauses, so it is a conjunction."
+                },
+                {
+                    "q": "'I was ill, ___ I could not attend the class.' — Fill in the blank.",
+                    "options": [
+                        "so",
+                        "but",
+                        "and",
+                        "or"
+                    ],
+                    "answer": 0,
+                    "why": "'So' shows the result of being ill."
+                },
+                {
+                    "q": "'Alas! I am undone.' — 'Alas' is an —",
+                    "options": [
+                        "Interjection",
+                        "Noun",
+                        "Verb",
+                        "Adjective"
+                    ],
+                    "answer": 0,
+                    "why": "'Alas' expresses sudden sorrow, so it is an interjection."
+                },
+                {
+                    "q": "'Hurrah! We have won.' — 'Hurrah' expresses —",
+                    "options": [
+                        "Joy",
+                        "Sorrow",
+                        "Fear",
+                        "Anger"
+                    ],
+                    "answer": 0,
+                    "why": "'Hurrah' is used to express joy or triumph."
+                },
+                {
+                    "q": "Which of the following is an interjection?",
+                    "options": [
+                        "Oh!",
+                        "Quickly",
+                        "Honest",
+                        "Run"
+                    ],
+                    "answer": 0,
+                    "why": "'Oh!' expresses sudden feeling, so it is an interjection."
+                },
+                {
+                    "q": "'___ book is mine.' — Which word can fill the blank?",
+                    "options": [
+                        "This",
+                        "Quickly",
+                        "Very",
+                        "Run"
+                    ],
+                    "answer": 0,
+                    "why": "'This' points to a specific book, so it is a determiner."
+                },
+                {
+                    "q": "'Some', 'any' and 'many' are —",
+                    "options": [
+                        "Determiners",
+                        "Verbs",
+                        "Adverbs",
+                        "Conjunctions"
+                    ],
+                    "answer": 0,
+                    "why": "'Some', 'any' and 'many' come before nouns and limit them, so they are determiners."
+                },
+                {
+                    "q": "Which word is a determiner in 'I have little money'?",
+                    "options": [
+                        "Little",
+                        "Have",
+                        "Money",
+                        "I"
+                    ],
+                    "answer": 0,
+                    "why": "'Little' limits the noun 'money', so it is a determiner."
+                },
+                {
+                    "q": "'I like reading books.' — 'Reading' is a —",
+                    "options": [
+                        "Gerund",
+                        "Participle",
+                        "Infinitive",
+                        "Adjective"
+                    ],
+                    "answer": 0,
+                    "why": "'Reading' acts as the object of 'like', so it is a gerund."
+                },
+                {
+                    "q": "'He wants to go home.' — 'To go' is an —",
+                    "options": [
+                        "Infinitive",
+                        "Gerund",
+                        "Participle",
+                        "Preposition"
+                    ],
+                    "answer": 0,
+                    "why": "'To go' is a 'to + verb' form, so it is an infinitive."
+                },
+                {
+                    "q": "'The man in the room is my teacher.' — 'In the room' is a —",
+                    "options": [
+                        "Adjective phrase",
+                        "Adverb phrase",
+                        "Noun phrase",
+                        "Verb phrase"
+                    ],
+                    "answer": 0,
+                    "why": "'In the room' describes the noun 'man', so it is an adjective phrase."
+                },
+                {
+                    "q": "'He said, \"I am ill.\"' — Its indirect form is —",
+                    "options": [
+                        "He said that he was ill.",
+                        "He said that he is ill.",
+                        "He said that I am ill.",
+                        "He said that he will be ill."
+                    ],
+                    "answer": 0,
+                    "why": "In indirect speech, present 'am' changes to past 'was'."
+                },
+                {
+                    "q": "'She said, \"I will come tomorrow.\"' — Its indirect form is —",
+                    "options": [
+                        "She said that she would come the next day.",
+                        "She said that she will come tomorrow.",
+                        "She said that she would come tomorrow.",
+                        "She said that I will come the next day."
+                    ],
+                    "answer": 0,
+                    "why": "'Will' becomes 'would' and 'tomorrow' becomes 'the next day' in indirect speech."
+                },
+                {
+                    "q": "'Look down upon' means —",
+                    "options": [
+                        "Despise",
+                        "Admire",
+                        "Help",
+                        "Visit"
+                    ],
+                    "answer": 0,
+                    "why": "'Look down upon' means to despise or regard as inferior."
+                },
+                {
+                    "q": "'Put on' means —",
+                    "options": [
+                        "Wear",
+                        "Remove",
+                        "Postpone",
+                        "Switch off"
+                    ],
+                    "answer": 0,
+                    "why": "'Put on' means to wear clothes or to switch on."
+                },
+                {
+                    "q": "'Turn up' means —",
+                    "options": [
+                        "Arrive",
+                        "Leave",
+                        "Refuse",
+                        "Disappear"
+                    ],
+                    "answer": 0,
+                    "why": "'Turn up' means to arrive or appear unexpectedly."
+                },
+                {
+                    "q": "'Break down' (of a machine) means —",
+                    "options": [
+                        "Stop working",
+                        "Break into pieces",
+                        "Start working",
+                        "Explode"
+                    ],
+                    "answer": 0,
+                    "why": "When a machine breaks down, it stops working."
+                },
+                {
+                    "q": "'Call in' means —",
+                    "options": [
+                        "Summon",
+                        "Call back",
+                        "Cancel",
+                        "Visit"
+                    ],
+                    "answer": 0,
+                    "why": "'Call in' means to summon or ask someone to come."
+                },
+                {
+                    "q": "'Look forward to' means —",
+                    "options": [
+                        "Expect eagerly",
+                        "Look behind",
+                        "Ignore",
+                        "Avoid"
+                    ],
+                    "answer": 0,
+                    "why": "'Look forward to' means to expect something eagerly."
+                },
+                {
+                    "q": "'Put out' (a fire) means —",
+                    "options": [
+                        "Extinguish",
+                        "Light",
+                        "Start",
+                        "Spread"
+                    ],
+                    "answer": 0,
+                    "why": "'Put out' a fire means to extinguish it."
+                },
+                {
+                    "q": "'Set out' means —",
+                    "options": [
+                        "Start a journey",
+                        "Set up",
+                        "Stop",
+                        "Return"
+                    ],
+                    "answer": 0,
+                    "why": "'Set out' means to start a journey or begin an undertaking."
+                },
+                {
+                    "q": "'Take up' means —",
+                    "options": [
+                        "Begin (a hobby or job)",
+                        "Give up",
+                        "Lift",
+                        "Remove"
+                    ],
+                    "answer": 0,
+                    "why": "'Take up' means to begin or start something new."
+                },
+                {
+                    "q": "'One who lives on vegetables only' is called a —",
+                    "options": [
+                        "Vegetarian",
+                        "Glutton",
+                        "Omnivore",
+                        "Carnivore"
+                    ],
+                    "answer": 0,
+                    "why": "A vegetarian lives on vegetables only."
+                },
+                {
+                    "q": "'A place where coins are made' is called a —",
+                    "options": [
+                        "Mint",
+                        "Bank",
+                        "Factory",
+                        "Museum"
+                    ],
+                    "answer": 0,
+                    "why": "A mint is a place where coins are made."
+                },
+                {
+                    "q": "'A medicine that kills germs' is called an —",
+                    "options": [
+                        "Antiseptic",
+                        "Antibiotic",
+                        "Painkiller",
+                        "Tonic"
+                    ],
+                    "answer": 0,
+                    "why": "An antiseptic is a medicine that kills germs."
+                },
+                {
+                    "q": "'A person who travels on foot' is called a —",
+                    "options": [
+                        "Pedestrian",
+                        "Traveller",
+                        "Cyclist",
+                        "Driver"
+                    ],
+                    "answer": 0,
+                    "why": "A pedestrian is a person who travels on foot."
+                },
+                {
+                    "q": "'A room for sleeping' is called a —",
+                    "options": [
+                        "Bedroom",
+                        "Kitchen",
+                        "Dining room",
+                        "Bathroom"
+                    ],
+                    "answer": 0,
+                    "why": "A bedroom is a room used for sleeping."
+                },
+                {
+                    "q": "'Government by one person' is called —",
+                    "options": [
+                        "Autocracy",
+                        "Democracy",
+                        "Monarchy",
+                        "Oligarchy"
+                    ],
+                    "answer": 0,
+                    "why": "Autocracy is government by one person with absolute power."
+                },
+                {
+                    "q": "'Water : Drink :: Bread : ?'",
+                    "options": [
+                        "Eat",
+                        "Cook",
+                        "Bake",
+                        "Cut"
+                    ],
+                    "answer": 0,
+                    "why": "Water is for drinking; bread is for eating."
+                },
+                {
+                    "q": "'Day : Night :: Light : ?'",
+                    "options": [
+                        "Darkness",
+                        "Sun",
+                        "Moon",
+                        "Star"
+                    ],
+                    "answer": 0,
+                    "why": "Day is the opposite of night; light is the opposite of darkness."
+                },
+                {
+                    "q": "'Heat : Fire :: Cold : ?'",
+                    "options": [
+                        "Ice",
+                        "Water",
+                        "Snow",
+                        "Winter"
+                    ],
+                    "answer": 0,
+                    "why": "Heat comes from fire; cold is felt with ice."
+                },
+                {
+                    "q": "'He is too weak to walk.' — Its complex form is —",
+                    "options": [
+                        "He is so weak that he cannot walk.",
+                        "He is so weak that he can walk.",
+                        "He is too weak that he cannot walk.",
+                        "He is weak enough to walk."
+                    ],
+                    "answer": 0,
+                    "why": "'Too ... to' becomes 'so ... that ... cannot'."
+                },
+                {
+                    "q": "'He is a good boy.' — Its negative form is —",
+                    "options": [
+                        "He is not a bad boy.",
+                        "He is not a good boy.",
+                        "He is a bad boy.",
+                        "He is no good boy."
+                    ],
+                    "answer": 0,
+                    "why": "The negative of 'He is a good boy' is 'He is not a bad boy'."
+                },
+                {
+                    "q": "'Everybody loves him.' — Its negative form is —",
+                    "options": [
+                        "Nobody hates him.",
+                        "Everybody hates him.",
+                        "Nobody loves him.",
+                        "He is loved by nobody."
+                    ],
+                    "answer": 0,
+                    "why": "The negative of 'Everybody loves him' is 'Nobody hates him'."
+                },
+                {
+                    "q": "'He is the ___ (good) boy in the class.' — Fill in the blank.",
+                    "options": [
+                        "best",
+                        "better",
+                        "good",
+                        "more good"
+                    ],
+                    "answer": 0,
+                    "why": "Superlative degree 'best' is used with 'the'."
+                },
+                {
+                    "q": "'He runs fast.' — 'Fast' is an —",
+                    "options": [
+                        "Adverb",
+                        "Adjective",
+                        "Noun",
+                        "Verb"
+                    ],
+                    "answer": 0,
+                    "why": "'Fast' modifies the verb 'runs', so it is an adverb."
+                },
+                {
+                    "q": "'She sings sweetly.' — 'Sweetly' is an —",
+                    "options": [
+                        "Adverb",
+                        "Adjective",
+                        "Noun",
+                        "Verb"
+                    ],
+                    "answer": 0,
+                    "why": "'Sweetly' modifies the verb 'sings', so it is an adverb."
+                },
+                {
+                    "q": "'Rahim and ___ went to school.' — Fill in the blank.",
+                    "options": [
+                        "I",
+                        "me",
+                        "my",
+                        "mine"
+                    ],
+                    "answer": 0,
+                    "why": "The subject form 'I' is correct: 'Rahim and I went to school'."
+                },
+                {
+                    "q": "'The book is mine, not ___.' — Fill in the blank.",
+                    "options": [
+                        "yours",
+                        "you",
+                        "your",
+                        "yourself"
+                    ],
+                    "answer": 0,
+                    "why": "'Yours' is the possessive pronoun that matches 'mine'."
+                },
+                {
+                    "q": "'Neither of the boys ___ come.' — Fill in the blank.",
+                    "options": [
+                        "has",
+                        "have",
+                        "are",
+                        "were"
+                    ],
+                    "answer": 0,
+                    "why": "'Neither' takes a singular verb: 'has'."
+                },
+                {
+                    "q": "'It ___ (rain) since morning.' — Fill in the blank.",
+                    "options": [
+                        "has been raining",
+                        "is raining",
+                        "rained",
+                        "rains"
+                    ],
+                    "answer": 0,
+                    "why": "With 'since morning', present perfect continuous is used: 'has been raining'."
+                },
+                {
+                    "q": "'He ___ (go) to Dhaka yesterday.' — Fill in the blank.",
+                    "options": [
+                        "went",
+                        "goes",
+                        "has gone",
+                        "will go"
+                    ],
+                    "answer": 0,
+                    "why": "With 'yesterday', past simple is used: 'went'."
+                },
+                {
+                    "q": "'I ___ (see) him last week.' — Fill in the blank.",
+                    "options": [
+                        "saw",
+                        "see",
+                        "have seen",
+                        "will see"
+                    ],
+                    "answer": 0,
+                    "why": "With 'last week', past simple is used: 'saw'."
+                },
+                {
+                    "q": "'If you work hard, ___.' — Complete the sentence.",
+                    "options": [
+                        "you will succeed",
+                        "you will fail",
+                        "you failed",
+                        "you would fail"
+                    ],
+                    "answer": 0,
+                    "why": "First conditional: 'If you work hard, you will succeed'."
+                },
+                {
+                    "q": "'Though he is poor, ___.' — Complete the sentence.",
+                    "options": [
+                        "he is honest",
+                        "he is dishonest",
+                        "he is rich",
+                        "he is lazy"
+                    ],
+                    "answer": 0,
+                    "why": "'Though he is poor, he is honest' shows the contrast."
+                },
+                {
+                    "q": "'Had I been rich, ___.' — Complete the sentence.",
+                    "options": [
+                        "I would have helped the poor",
+                        "I will help the poor",
+                        "I help the poor",
+                        "I have helped the poor"
+                    ],
+                    "answer": 0,
+                    "why": "Third conditional: 'Had I been rich, I would have helped the poor'."
                 }
             ]
         },
@@ -59785,6 +60566,490 @@
                     ],
                     "answer": 2,
                     "why": "নিট হার = ১/১০ − ১/১৫ = ১/৩০; সময় = ৩০ ঘণ্টা।"
+                },
+                {
+                    "q": "২টি সংখ্যার অনুপাত ৩ : ৪ এবং তাদের যোগফল ৫৬ হলে বড় সংখ্যাটি কত?",
+                    "options": [
+                        "২৪",
+                        "৩২",
+                        "২৮",
+                        "৩৬"
+                    ],
+                    "answer": 1,
+                    "why": "বড় সংখ্যা = ৫৬ × ৪/(৩+৪) = ৫৬ × ৪/৭ = ৩২।"
+                },
+                {
+                    "q": "৩ : ৫ = ১৫ : কত?",
+                    "options": [
+                        "২০",
+                        "২৫",
+                        "৩০",
+                        "১৫"
+                    ],
+                    "answer": 1,
+                    "why": "৩ : ৫ = ১৫ : ২৫, কারণ ৩ × ৫ = ১৫ হলে ৫ × ৫ = ২৫।"
+                },
+                {
+                    "q": "ক : খ = ২ : ৩ এবং খ : গ = ৩ : ৪ হলে ক : খ : গ = কত?",
+                    "options": [
+                        "২ : ৩ : ৪",
+                        "২ : ৩ : ৫",
+                        "৩ : ৪ : ৫",
+                        "২ : ৪ : ৩"
+                    ],
+                    "answer": 0,
+                    "why": "খ উভয় ক্ষেত্রে ৩, তাই ক : খ : গ = ২ : ৩ : ৪।"
+                },
+                {
+                    "q": "৫০ টাকা কেজি দরের চা ও ৭০ টাকা কেজি দরের চা কী অনুপাতে মিশ্রণে ৬০ টাকা কেজি দর হবে?",
+                    "options": [
+                        "১ : ১",
+                        "২ : ১",
+                        "১ : ২",
+                        "৩ : ২"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যালিগেশন: (৭০−৬০) : (৬০−৫০) = ১০ : ১০ = ১ : ১।"
+                },
+                {
+                    "q": "৩০ টাকা লিটার দুধের সাথে পানি মিশিয়ে ২৪ টাকা লিটার দরে বিক্রি করলে দুধ ও পানির অনুপাত কত?",
+                    "options": [
+                        "৪ : ১",
+                        "৫ : ১",
+                        "৩ : ১",
+                        "৬ : ১"
+                    ],
+                    "answer": 0,
+                    "why": "দুধ : পানি = ২৪ : (৩০−২৪) = ২৪ : ৬ = ৪ : ১।"
+                },
+                {
+                    "q": "৪০ টাকা কেজি দরের চাল ও ৬০ টাকা কেজি দরের চাল কী অনুপাতে মিশ্রণে ৫০ টাকা কেজি দর হবে?",
+                    "options": [
+                        "১ : ১",
+                        "২ : ১",
+                        "১ : ২",
+                        "৩ : ১"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যালিগেশন: (৬০−৫০) : (৫০−৪০) = ১০ : ১০ = ১ : ১।"
+                },
+                {
+                    "q": "A, B ও C ৩ : ৪ : ৫ অনুপাতে মূলধন বিনিয়োগ করে। মোট লাভ ৩৬০০ টাকা হলে B-এর অংশ কত?",
+                    "options": [
+                        "৯০০ টাকা",
+                        "১২০০ টাকা",
+                        "১৫০০ টাকা",
+                        "১০০০ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "B-এর অংশ = ৩৬০০ × ৪/(৩+৪+৫) = ৩৬০০ × ৪/১২ = ১২০০ টাকা।"
+                },
+                {
+                    "q": "A ও B ২ : ৩ অনুপাতে মূলধন বিনিয়োগ করে। মোট লাভ ২৫০০ টাকা হলে B-এর অংশ কত?",
+                    "options": [
+                        "১০০০ টাকা",
+                        "১৫০০ টাকা",
+                        "১২৫০ টাকা",
+                        "২০০০ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "B-এর অংশ = ২৫০০ × ৩/৫ = ১৫০০ টাকা।"
+                },
+                {
+                    "q": "২০২৬ সালের ১ জানুয়ারি বৃহস্পতিবার হলে ১ ফেব্রুয়ারি কী বার হবে?",
+                    "options": [
+                        "রবিবার",
+                        "সোমবার",
+                        "শনিবার",
+                        "শুক্রবার"
+                    ],
+                    "answer": 0,
+                    "why": "জানুয়ারি ৩১ দিন; ৩১ ÷ ৭-এর ভাগশেষ ৩; বৃহস্পতিবার + ৩ দিন = রবিবার।"
+                },
+                {
+                    "q": "কোনো মাসের ১ তারিখ সোমবার হলে ওই মাসের ১৫ তারিখ কী বার?",
+                    "options": [
+                        "সোমবার",
+                        "মঙ্গলবার",
+                        "রবিবার",
+                        "বুধবার"
+                    ],
+                    "answer": 0,
+                    "why": "১ থেকে ১৫ তারিখের পার্থক্য ১৪ দিন, যা ৭-এর গুণিতক; তাই বার একই থাকবে — সোমবার।"
+                },
+                {
+                    "q": "অধিবর্ষ (লিপ ইয়ার) কত বছর পর পর আসে?",
+                    "options": [
+                        "৪ বছর",
+                        "৫ বছর",
+                        "২ বছর",
+                        "১০ বছর"
+                    ],
+                    "answer": 0,
+                    "why": "অধিবর্ষ সাধারণত প্রতি ৪ বছর পর পর আসে।"
+                },
+                {
+                    "q": "২০২৪ সালের ফেব্রুয়ারি মাসে কয়দিন ছিল?",
+                    "options": [
+                        "২৯ দিন",
+                        "২৮ দিন",
+                        "৩০ দিন",
+                        "৩১ দিন"
+                    ],
+                    "answer": 0,
+                    "why": "২০২৪ অধিবর্ষ ছিল, তাই ফেব্রুয়ারি মাসে ২৯ দিন ছিল।"
+                },
+                {
+                    "q": "কোনো মাসের ৫ তারিখ শুক্রবার হলে ওই মাসের ১৯ তারিখ কী বার?",
+                    "options": [
+                        "শুক্রবার",
+                        "শনিবার",
+                        "বৃহস্পতিবার",
+                        "রবিবার"
+                    ],
+                    "answer": 0,
+                    "why": "৫ থেকে ১৯ তারিখের পার্থক্য ১৪ দিন, যা ৭-এর গুণিতক; তাই বার একই — শুক্রবার।"
+                },
+                {
+                    "q": "৬³ = কত?",
+                    "options": [
+                        "২১৬",
+                        "১৮",
+                        "৩৬",
+                        "১০৮"
+                    ],
+                    "answer": 0,
+                    "why": "৬³ = ৬ × ৬ × ৬ = ২১৬।"
+                },
+                {
+                    "q": "log₁₀ ১০০০০ = কত?",
+                    "options": [
+                        "৪",
+                        "৩",
+                        "৫",
+                        "২"
+                    ],
+                    "answer": 0,
+                    "why": "১০⁴ = ১০০০০, তাই log₁₀ ১০০০০ = ৪।"
+                },
+                {
+                    "q": "log₅ ১২৫ = কত?",
+                    "options": [
+                        "৩",
+                        "৫",
+                        "৪",
+                        "২"
+                    ],
+                    "answer": 0,
+                    "why": "৫³ = ১২৫, তাই log₅ ১২৫ = ৩।"
+                },
+                {
+                    "q": "cot ৪৫° = কত?",
+                    "options": [
+                        "১",
+                        "০",
+                        "১/২",
+                        "√৩"
+                    ],
+                    "answer": 0,
+                    "why": "cot ৪৫° = ১/tan ৪৫° = ১/১ = ১।"
+                },
+                {
+                    "q": "sec ৬০° = কত?",
+                    "options": [
+                        "২",
+                        "১",
+                        "১/২",
+                        "√৩"
+                    ],
+                    "answer": 0,
+                    "why": "sec ৬০° = ১/cos ৬০° = ১/(১/২) = ২।"
+                },
+                {
+                    "q": "cosec ৩০° = কত?",
+                    "options": [
+                        "২",
+                        "১",
+                        "১/২",
+                        "√৩"
+                    ],
+                    "answer": 0,
+                    "why": "cosec ৩০° = ১/sin ৩০° = ১/(১/২) = ২।"
+                },
+                {
+                    "q": "সমকোণী ত্রিভুজের একটি কোণ কত?",
+                    "options": [
+                        "৯০°",
+                        "৬০°",
+                        "৪৫°",
+                        "১৮০°"
+                    ],
+                    "answer": 0,
+                    "why": "সমকোণী ত্রিভুজের একটি কোণ ৯০° (সমকোণ)।"
+                },
+                {
+                    "q": "আয়তক্ষেত্রের দৈর্ঘ্য ১২ সেমি, প্রস্থ ৮ সেমি। ক্ষেত্রফল কত?",
+                    "options": [
+                        "৯৬ বর্গ সেমি",
+                        "৪০ বর্গ সেমি",
+                        "২০ বর্গ সেমি",
+                        "৮০ বর্গ সেমি"
+                    ],
+                    "answer": 0,
+                    "why": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ১২ × ৮ = ৯৬ বর্গ সেমি।"
+                },
+                {
+                    "q": "(x + ৪)(x + ৫) = কত?",
+                    "options": [
+                        "x² + ৯x + ২০",
+                        "x² + ৫x + ২০",
+                        "x² + ৯x + ৯",
+                        "x² + ২০x + ৯"
+                    ],
+                    "answer": 0,
+                    "why": "(x+৪)(x+৫) = x² + ৫x + ৪x + ২০ = x² + ৯x + ২০।"
+                },
+                {
+                    "q": "a + b = ৭, ab = ১০ হলে a² + b² = কত?",
+                    "options": [
+                        "২৯",
+                        "৪৯",
+                        "৩৯",
+                        "১৯"
+                    ],
+                    "answer": 0,
+                    "why": "a² + b² = (a + b)² − ২ab = ৪৯ − ২০ = ২৯।"
+                },
+                {
+                    "q": "৫x − ১৫ = ২০ হলে x-এর মান কত?",
+                    "options": [
+                        "৭",
+                        "৫",
+                        "৯",
+                        "৩"
+                    ],
+                    "answer": 0,
+                    "why": "৫x = ২০ + ১৫ = ৩৫, তাই x = ৭।"
+                },
+                {
+                    "q": "x/৫ + ৩ = ৮ হলে x-এর মান কত?",
+                    "options": [
+                        "২৫",
+                        "২০",
+                        "১৫",
+                        "৩০"
+                    ],
+                    "answer": 0,
+                    "why": "x/৫ = ৮ − ৩ = ৫, তাই x = ২৫।"
+                },
+                {
+                    "q": "৫টি বই থেকে ৩টি বই কতভাবে সাজানো যায়?",
+                    "options": [
+                        "৬০ভাবে",
+                        "১৫ভাবে",
+                        "১২০ভাবে",
+                        "১০ভাবে"
+                    ],
+                    "answer": 0,
+                    "why": "⁵P₃ = ৫ × ৪ × ৩ = ৬০ভাবে।"
+                },
+                {
+                    "q": "৬ জন থেকে ২ জন কতভাবে বাছাই করা যায়?",
+                    "options": [
+                        "১৫ভাবে",
+                        "৩০ভাবে",
+                        "১২ভাবে",
+                        "৩৬ভাবে"
+                    ],
+                    "answer": 0,
+                    "why": "⁶C₂ = (৬ × ৫)/(২ × ১) = ১৫ভাবে।"
+                },
+                {
+                    "q": "৫ জন লোকের মধ্যে ৩ জনকে কতভাবে বাছাই করা যায়?",
+                    "options": [
+                        "১০ভাবে",
+                        "৬০ভাবে",
+                        "২০ভাবে",
+                        "১৫ভাবে"
+                    ],
+                    "answer": 0,
+                    "why": "⁵C₃ = (৫ × ৪ × ৩)/(৩ × ২ × ১) = ১০ভাবে।"
+                },
+                {
+                    "q": "২, ৪, ৬, ৮, ১০-এর গড় কত?",
+                    "options": [
+                        "৬",
+                        "৫",
+                        "৭",
+                        "৮"
+                    ],
+                    "answer": 0,
+                    "why": "গড় = (২+৪+৬+৮+১০)/৫ = ৩০/৫ = ৬।"
+                },
+                {
+                    "q": "৩, ৫, ৭, ৭, ৯-এর মধ্যক কত?",
+                    "options": [
+                        "৭",
+                        "৫",
+                        "৯",
+                        "৬"
+                    ],
+                    "answer": 0,
+                    "why": "সংখ্যাগুলো সাজানো আছে; মাঝের সংখ্যা ৭, তাই মধ্যক ৭।"
+                },
+                {
+                    "q": "৪, ৪, ৫, ৬, ৪-এর প্রচুরক কত?",
+                    "options": [
+                        "৪",
+                        "৫",
+                        "৬",
+                        "৩"
+                    ],
+                    "answer": 0,
+                    "why": "৪ সবচেয়ে বেশি বার (৩ বার) আছে, তাই প্রচুরক ৪।"
+                },
+                {
+                    "q": "সামান্তরিকের বিপরীত বাহু কেমন হয়?",
+                    "options": [
+                        "সমান ও সমান্তরাল",
+                        "অসমান",
+                        "লম্ব",
+                        "বক্র"
+                    ],
+                    "answer": 0,
+                    "why": "সামান্তরিকের বিপরীত বাহুগুলো সমান ও সমান্তরাল হয়।"
+                },
+                {
+                    "q": "ট্রাপিজিয়ামের কয়টি বাহু সমান্তরাল?",
+                    "options": [
+                        "১ জোড়া",
+                        "২ জোড়া",
+                        "৩টি",
+                        "একটিও নয়"
+                    ],
+                    "answer": 0,
+                    "why": "ট্রাপিজিয়ামের এক জোড়া বিপরীত বাহু সমান্তরাল হয়।"
+                },
+                {
+                    "q": "রম্বসের কর্ণদ্বয় কেমন হয়?",
+                    "options": [
+                        "পরস্পরকে সমকোণে সমদ্বিখণ্ডিত করে",
+                        "সমান হয়",
+                        "সমান্তরাল হয়",
+                        "কখনো ছেদ করে না"
+                    ],
+                    "answer": 0,
+                    "why": "রম্বসের কর্ণদ্বয় পরস্পরকে সমকোণে সমদ্বিখণ্ডিত করে।"
+                },
+                {
+                    "q": "আয়তক্ষেত্রের কর্ণদ্বয় কেমন?",
+                    "options": [
+                        "সমান",
+                        "অসমান",
+                        "লম্ব",
+                        "সমান্তরাল"
+                    ],
+                    "answer": 0,
+                    "why": "আয়তক্ষেত্রের কর্ণদ্বয় সমান হয়।"
+                },
+                {
+                    "q": "বর্গক্ষেত্রের কর্ণদ্বয়ের মধ্যে কোণ কত?",
+                    "options": [
+                        "৯০°",
+                        "৬০°",
+                        "৪৫°",
+                        "১৮০°"
+                    ],
+                    "answer": 0,
+                    "why": "বর্গক্ষেত্রের কর্ণদ্বয় পরস্পরকে ৯০° কোণে ছেদ করে।"
+                },
+                {
+                    "q": "শঙ্কুর আয়তনের সূত্র কোনটি?",
+                    "options": [
+                        "(১/৩)πr²h",
+                        "πr²h",
+                        "(৪/৩)πr³",
+                        "4πr²"
+                    ],
+                    "answer": 0,
+                    "why": "শঙ্কুর আয়তন = (১/৩) × ভূমির ক্ষেত্রফল × উচ্চতা = (১/৩)πr²h।"
+                },
+                {
+                    "q": "গোলকের আয়তনের সূত্র কোনটি?",
+                    "options": [
+                        "(৪/৩)πr³",
+                        "πr²h",
+                        "4πr²",
+                        "(১/৩)πr²h"
+                    ],
+                    "answer": 0,
+                    "why": "গোলকের আয়তন = (৪/৩)πr³।"
+                },
+                {
+                    "q": "গোলকের পৃষ্ঠতলের ক্ষেত্রফল কত?",
+                    "options": [
+                        "4πr²",
+                        "πr²",
+                        "2πr",
+                        "(৪/৩)πr³"
+                    ],
+                    "answer": 0,
+                    "why": "গোলকের পৃষ্ঠতলের ক্ষেত্রফল = 4πr²।"
+                },
+                {
+                    "q": "ত্রিভুজাকার প্রিজমের কয়টি তল থাকে?",
+                    "options": [
+                        "৫টি",
+                        "৪টি",
+                        "৬টি",
+                        "৩টি"
+                    ],
+                    "answer": 0,
+                    "why": "ত্রিভুজাকার প্রিজমে ২টি ত্রিভুজাকার ও ৩টি আয়তাকার — মোট ৫টি তল থাকে।"
+                },
+                {
+                    "q": "বর্গভূমি বিশিষ্ট পিরামিডে কয়টি ত্রিভুজাকার তল থাকে?",
+                    "options": [
+                        "৪টি",
+                        "৩টি",
+                        "৫টি",
+                        "৬টি"
+                    ],
+                    "answer": 0,
+                    "why": "বর্গভূমি বিশিষ্ট পিরামিডে ৪টি ত্রিভুজাকার পার্শ্বতল থাকে।"
+                },
+                {
+                    "q": "ঘনকের কয়টি তল থাকে?",
+                    "options": [
+                        "৬টি",
+                        "৪টি",
+                        "৮টি",
+                        "১২টি"
+                    ],
+                    "answer": 0,
+                    "why": "ঘনকের ৬টি বর্গাকার তল থাকে।"
+                },
+                {
+                    "q": "ঘনকের কয়টি শীর্ষবিন্দু থাকে?",
+                    "options": [
+                        "৮টি",
+                        "৬টি",
+                        "১২টি",
+                        "৪টি"
+                    ],
+                    "answer": 0,
+                    "why": "ঘনকের ৮টি শীর্ষবিন্দু থাকে।"
+                },
+                {
+                    "q": "ঘনকের কয়টি ধার থাকে?",
+                    "options": [
+                        "১২টি",
+                        "৮টি",
+                        "৬টি",
+                        "১৬টি"
+                    ],
+                    "answer": 0,
+                    "why": "ঘনকের ১২টি ধার থাকে।"
                 }
             ]
         },
@@ -77467,6 +78732,226 @@
                     ],
                     "answer": 0,
                     "why": "SAARC-এর প্রথম মহাসচিব ছিলেন বাংলাদেশের আবুল আহসান (১৯৮৫–১৯৮৯)।"
+                },
+                {
+                    "q": "বাংলাদেশ পাবলিক সার্ভিস কমিশন (BPSC) গঠিত হয় কত সালে?",
+                    "options": [
+                        "১৯৭২",
+                        "১৯৭৩",
+                        "১৯৭১",
+                        "১৯৭৫"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ পাবলিক সার্ভিস কমিশন গঠিত হয় ১৯৭২ সালে।"
+                },
+                {
+                    "q": "বিসিএস লিখিত পরীক্ষায় সাধারণ ক্যাডারের মোট নম্বর কত?",
+                    "options": [
+                        "৯০০",
+                        "১০০০",
+                        "৮০০",
+                        "৬০০"
+                    ],
+                    "answer": 0,
+                    "why": "বিসিএস লিখিত পরীক্ষায় সাধারণ ক্যাডারে মোট ৯০০ নম্বর।"
+                },
+                {
+                    "q": "বিসিএস প্রিলিমিনারি পরীক্ষায় কত নম্বরের প্রশ্ন থাকে?",
+                    "options": [
+                        "২০০",
+                        "১০০",
+                        "৩০০",
+                        "৪০০"
+                    ],
+                    "answer": 0,
+                    "why": "বিসিএস প্রিলিমিনারি পরীক্ষা ২০০ নম্বরের হয়।"
+                },
+                {
+                    "q": "বিসিএস মৌখিক (ভাইভা) পরীক্ষায় কত নম্বর থাকে?",
+                    "options": [
+                        "২০০",
+                        "১০০",
+                        "৩০০",
+                        "৫০"
+                    ],
+                    "answer": 0,
+                    "why": "বিসিএস ভাইভা পরীক্ষায় ২০০ নম্বর থাকে।"
+                },
+                {
+                    "q": "প্রাথমিক শিক্ষা অধিদপ্তর (DPE) প্রতিষ্ঠিত হয় কত সালে?",
+                    "options": [
+                        "১৯৮১",
+                        "১৯৭২",
+                        "১৯৯০",
+                        "১৯৭৫"
+                    ],
+                    "answer": 0,
+                    "why": "প্রাথমিক শিক্ষা অধিদপ্তর প্রতিষ্ঠিত হয় ১৯৮১ সালে।"
+                },
+                {
+                    "q": "NTRCA-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "বেসরকারি শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষ",
+                        "জাতীয় শিক্ষক নিবন্ধন কর্তৃপক্ষ",
+                        "বেসরকারি শিক্ষা নিবন্ধন কর্তৃপক্ষ",
+                        "জাতীয় শিক্ষক প্রত্যয়ন কর্তৃপক্ষ"
+                    ],
+                    "answer": 0,
+                    "why": "NTRCA = Non-Government Teachers' Registration and Certification Authority — বেসরকারি শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষ।"
+                },
+                {
+                    "q": "NTRCA প্রতিষ্ঠিত হয় কত সালে?",
+                    "options": [
+                        "২০০৫",
+                        "২০০০",
+                        "২০১০",
+                        "১৯৯৫"
+                    ],
+                    "answer": 0,
+                    "why": "NTRCA প্রতিষ্ঠিত হয় ২০০৫ সালে।"
+                },
+                {
+                    "q": "সংবিধানের তৃতীয় তফসিলে কী আছে?",
+                    "options": [
+                        "শপথ ও ঘোষণা",
+                        "রাষ্ট্রপতি নির্বাচন",
+                        "জাতীয় সংগীত",
+                        "মৌলিক অধিকার"
+                    ],
+                    "answer": 0,
+                    "why": "সংবিধানের তৃতীয় তফসিলে শপথ ও ঘোষণার নমুনা আছে।"
+                },
+                {
+                    "q": "ইউনিয়ন পরিষদের চেয়ারম্যানের মেয়াদ কত বছর?",
+                    "options": [
+                        "৫ বছর",
+                        "৪ বছর",
+                        "৩ বছর",
+                        "৬ বছর"
+                    ],
+                    "answer": 0,
+                    "why": "ইউনিয়ন পরিষদের চেয়ারম্যান ও সদস্যদের মেয়াদ ৫ বছর।"
+                },
+                {
+                    "q": "পৌরসভার প্রধানকে কী বলা হয়?",
+                    "options": [
+                        "মেয়র",
+                        "চেয়ারম্যান",
+                        "কাউন্সিলর",
+                        "কমিশনার"
+                    ],
+                    "answer": 0,
+                    "why": "পৌরসভার প্রধানকে মেয়র বলা হয়।"
+                },
+                {
+                    "q": "স্থানীয় সরকারের সর্বনিম্ন স্তর কোনটি?",
+                    "options": [
+                        "ইউনিয়ন পরিষদ",
+                        "উপজেলা পরিষদ",
+                        "জেলা পরিষদ",
+                        "পৌরসভা"
+                    ],
+                    "answer": 0,
+                    "why": "স্থানীয় সরকারের সর্বনিম্ন স্তর ইউনিয়ন পরিষদ।"
+                },
+                {
+                    "q": "বাংলাদেশ আওয়ামী লীগ প্রতিষ্ঠিত হয় কত সালে?",
+                    "options": [
+                        "১৯৪৯",
+                        "১৯৪৭",
+                        "১৯৫২",
+                        "১৯৫৪"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ আওয়ামী লীগ (তখন আওয়ামী মুসলিম লীগ) প্রতিষ্ঠিত হয় ১৯৪৯ সালে।"
+                },
+                {
+                    "q": "বাংলাদেশের অর্থবছর কখন শুরু হয়?",
+                    "options": [
+                        "১ জুলাই",
+                        "১ জানুয়ারি",
+                        "১ এপ্রিল",
+                        "১ জুন"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের অর্থবছর প্রতি বছর ১ জুলাই শুরু হয়ে ৩০ জুন শেষ হয়।"
+                },
+                {
+                    "q": "বাংলাদেশ সবচেয়ে বেশি আমদানি করে কোন দেশ থেকে?",
+                    "options": [
+                        "চীন",
+                        "ভারত",
+                        "যুক্তরাষ্ট্র",
+                        "জাপান"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ সবচেয়ে বেশি পণ্য আমদানি করে চীন থেকে।"
+                },
+                {
+                    "q": "বাংলাদেশের মোট রপ্তানি আয়ে তৈরি পোশাক খাতের অবদান প্রায় কত?",
+                    "options": [
+                        "৮০%",
+                        "৫০%",
+                        "৬০%",
+                        "৯৫%"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের মোট রপ্তানি আয়ের প্রায় ৮০% আসে তৈরি পোশাক খাত থেকে।"
+                },
+                {
+                    "q": "WTO প্রতিষ্ঠিত হয় কত সালে?",
+                    "options": [
+                        "১৯৯৫",
+                        "১৯৪৫",
+                        "১৯৮৫",
+                        "২০০০"
+                    ],
+                    "answer": 0,
+                    "why": "বিশ্ব বাণিজ্য সংস্থা (WTO) প্রতিষ্ঠিত হয় ১৯৯৫ সালে।"
+                },
+                {
+                    "q": "রসায়নে প্রথম নোবেল পুরস্কার পান কে?",
+                    "options": [
+                        "জ্যাকবুস ভ্যান'ট হফ",
+                        "মেরি কুরি",
+                        "অ্যান্টোইন ল্যাভয়সিয়ে",
+                        "দিমিত্রি মেন্ডেলিফ"
+                    ],
+                    "answer": 0,
+                    "why": "১৯০১ সালে রসায়নে প্রথম নোবেল পুরস্কার পান জ্যাকবুস ভ্যান'ট হফ।"
+                },
+                {
+                    "q": "জীববিজ্ঞানের জনক কে?",
+                    "options": [
+                        "অ্যারিস্টটল",
+                        "চার্লস ডারউইন",
+                        "গ্রেগর মেন্ডেল",
+                        "কার্ল লিনিয়াস"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যারিস্টটলকে জীববিজ্ঞানের জনক বলা হয়।"
+                },
+                {
+                    "q": "আধুনিক রসায়নের জনক কে?",
+                    "options": [
+                        "অ্যান্টোইন ল্যাভয়সিয়ে",
+                        "জন ডালটন",
+                        "দিমিত্রি মেন্ডেলিফ",
+                        "রবার্ট বয়েল"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যান্টোইন ল্যাভয়সিয়েকে আধুনিক রসায়নের জনক বলা হয়।"
+                },
+                {
+                    "q": "মঙ্গল গ্রহের লাল রঙের কারণ কী?",
+                    "options": [
+                        "আয়রন অক্সাইড (মরিচা)",
+                        "পানি",
+                        "বালি",
+                        "আগ্নেয়গিরি"
+                    ],
+                    "answer": 0,
+                    "why": "মঙ্গলের মাটিতে আয়রন অক্সাইড (মরিচা) থাকায় গ্রহটি লাল দেখায়।"
                 }
             ]
         },
@@ -106895,6 +108380,391 @@
                     ],
                     "answer": 1,
                     "why": "বাংলাদেশ হাইটেক পার্ক কর্তৃপক্ষ প্রতিষ্ঠিত হয় ২০১০ সালে।"
+                },
+                {
+                    "q": "Adobe Photoshop কী ধরনের সফটওয়্যার?",
+                    "options": [
+                        "ছবি সম্পাদনা সফটওয়্যার",
+                        "ডেটাবেজ সফটওয়্যার",
+                        "স্প্রেডশিট সফটওয়্যার",
+                        "ব্রাউজার সফটওয়্যার"
+                    ],
+                    "answer": 0,
+                    "why": "Photoshop ছবি সম্পাদনা ও গ্রাফিক্স ডিজাইনের সফটওয়্যার।"
+                },
+                {
+                    "q": "Photoshop-এ নতুন লেয়ার তৈরির শর্টকাট কোনটি?",
+                    "options": [
+                        "Ctrl+N",
+                        "Ctrl+Shift+N",
+                        "Ctrl+L",
+                        "Ctrl+O"
+                    ],
+                    "answer": 1,
+                    "why": "Photoshop-এ Ctrl+Shift+N চাপলে নতুন লেয়ার তৈরি হয়।"
+                },
+                {
+                    "q": "Photoshop-এ ছবির আকার পরিবর্তন করতে কোন টুল ব্যবহৃত হয়?",
+                    "options": [
+                        "Move Tool",
+                        "Crop Tool",
+                        "Brush Tool",
+                        "Eraser Tool"
+                    ],
+                    "answer": 1,
+                    "why": "Crop Tool দিয়ে ছবি কাটা ও আকার পরিবর্তন করা যায়।"
+                },
+                {
+                    "q": "গ্রাফিক্স ডিজাইনের জন্য নিচের কোন সফটওয়্যারটি ব্যবহৃত হয়?",
+                    "options": [
+                        "MS Excel",
+                        "Adobe Illustrator",
+                        "MS Access",
+                        "Notepad"
+                    ],
+                    "answer": 1,
+                    "why": "Adobe Illustrator ভেক্টর গ্রাফিক্স ডিজাইনের সফটওয়্যার।"
+                },
+                {
+                    "q": "Wi-Fi কোন মাধ্যমে কাজ করে?",
+                    "options": [
+                        "রেডিও তরঙ্গ",
+                        "ইনফ্রারেড রশ্মি",
+                        "কেবল",
+                        "ব্লুটুথ তার"
+                    ],
+                    "answer": 0,
+                    "why": "Wi-Fi রেডিও তরঙ্গের মাধ্যমে বেতার সংযোগ দেয়।"
+                },
+                {
+                    "q": "ব্লুটুথের মাধ্যমে কত দূরত্ব পর্যন্ত সংযোগ দেওয়া যায়?",
+                    "options": [
+                        "প্রায় ১০ মিটার",
+                        "প্রায় ১০০ মিটার",
+                        "প্রায় ১ কিলোমিটার",
+                        "প্রায় ১ মিটার"
+                    ],
+                    "answer": 0,
+                    "why": "সাধারণ ব্লুটুথের কার্যকর দূরত্ব প্রায় ১০ মিটার।"
+                },
+                {
+                    "q": "সাবনেট মাস্ক 255.255.255.0 হলে কয়টি হোস্ট ঠিকানা পাওয়া যায়?",
+                    "options": [
+                        "২৫৪টি",
+                        "২৫৬টি",
+                        "২৫৫টি",
+                        "৫১০টি"
+                    ],
+                    "answer": 0,
+                    "why": "২৫৫.২৫৫.২৫৫.০ মাস্কে ৮টি হোস্ট বিট থাকে: ২^৮ − ২ = ২৫৪টি ব্যবহারযোগ্য হোস্ট ঠিকানা।"
+                },
+                {
+                    "q": "ক্লায়েন্ট-সার্ভার মডেলে ক্লায়েন্টের কাজ কী?",
+                    "options": [
+                        "সেবা দেওয়া",
+                        "সেবা চাওয়া ও অনুরোধ পাঠানো",
+                        "ডেটা সংরক্ষণ করা",
+                        "নেটওয়ার্ক তৈরি করা"
+                    ],
+                    "answer": 1,
+                    "why": "ক্লায়েন্ট সার্ভারের কাছে সেবার অনুরোধ পাঠায়; সার্ভার সেই সেবা দেয়।"
+                },
+                {
+                    "q": "ওয়েবসাইটের ঠিকানায় 'https'-এর 's' কী বোঝায়?",
+                    "options": [
+                        "Secure (নিরাপদ)",
+                        "Speed (গতি)",
+                        "Server (সার্ভার)",
+                        "System (পদ্ধতি)"
+                    ],
+                    "answer": 0,
+                    "why": "HTTPS-এর 'S' মানে Secure — তথ্য এনক্রিপ্ট করে পাঠানো হয়।"
+                },
+                {
+                    "q": "MS Word-এ 'Save As'-এর শর্টকাট কোনটি?",
+                    "options": [
+                        "F12",
+                        "Ctrl+S",
+                        "Ctrl+P",
+                        "Alt+F4"
+                    ],
+                    "answer": 0,
+                    "why": "MS Word-এ F12 চাপলে Save As ডায়ালগ খোলে।"
+                },
+                {
+                    "q": "MS Access-এ তথ্য সংরক্ষণের মূল একককে কী বলে?",
+                    "options": [
+                        "টেবিল",
+                        "ফর্ম",
+                        "রিপোর্ট",
+                        "কোয়েরি"
+                    ],
+                    "answer": 0,
+                    "why": "MS Access-এ তথ্য টেবিলে সংরক্ষিত হয়; ফর্ম, কোয়েরি ও রিপোর্ট সেই তথ্য ব্যবহার করে।"
+                },
+                {
+                    "q": "MS Access-এ নির্দিষ্ট তথ্য খুঁজে বের করতে কী ব্যবহৃত হয়?",
+                    "options": [
+                        "টেবিল",
+                        "ফর্ম",
+                        "কোয়েরি",
+                        "ম্যাক্রো"
+                    ],
+                    "answer": 2,
+                    "why": "কোয়েরি (Query) দিয়ে ডেটাবেজ থেকে নির্দিষ্ট শর্তের তথ্য খুঁজে বের করা হয়।"
+                },
+                {
+                    "q": "Excel-এ সর্বোচ্চ মান বের করতে কোন ফাংশন ব্যবহৃত হয়?",
+                    "options": [
+                        "MIN",
+                        "MAX",
+                        "COUNT",
+                        "SUM"
+                    ],
+                    "answer": 1,
+                    "why": "Excel-এ MAX ফাংশন সর্বোচ্চ মান বের করে।"
+                },
+                {
+                    "q": "Excel-এ নতুন ওয়ার্কশিট যোগ করার শর্টকাট কোনটি?",
+                    "options": [
+                        "Shift+F11",
+                        "Ctrl+N",
+                        "Alt+Enter",
+                        "Ctrl+Shift+N"
+                    ],
+                    "answer": 0,
+                    "why": "Excel-এ Shift+F11 চাপলে নতুন ওয়ার্কশিট যোগ হয়।"
+                },
+                {
+                    "q": "C++-এ 'cout' কীসের জন্য ব্যবহৃত হয়?",
+                    "options": [
+                        "ইনপুট নেওয়ার জন্য",
+                        "আউটপুট দেখানোর জন্য",
+                        "লুপ চালানোর জন্য",
+                        "ফাইল খোলার জন্য"
+                    ],
+                    "answer": 1,
+                    "why": "C++-এ cout দিয়ে স্ক্রিনে আউটপুট দেখানো হয়।"
+                },
+                {
+                    "q": "ডিবাগিং (Debugging) কী?",
+                    "options": [
+                        "প্রোগ্রাম লেখা",
+                        "প্রোগ্রামের ভুল খুঁজে ঠিক করা",
+                        "প্রোগ্রাম মুছে ফেলা",
+                        "প্রোগ্রাম চালানো"
+                    ],
+                    "answer": 1,
+                    "why": "ডিবাগিং হলো প্রোগ্রামের ভুল (বাগ) খুঁজে বের করে ঠিক করার প্রক্রিয়া।"
+                },
+                {
+                    "q": "কম্পাইল-টাইম এরর কখন ঘটে?",
+                    "options": [
+                        "প্রোগ্রাম চালানোর সময়",
+                        "প্রোগ্রাম কম্পাইল করার সময়",
+                        "প্রোগ্রাম ইনস্টল করার সময়",
+                        "কম্পিউটার বন্ধ করার সময়"
+                    ],
+                    "answer": 1,
+                    "why": "কম্পাইল-টাইম এরর প্রোগ্রাম কম্পাইল করার সময় ধরা পড়ে, যেমন বানান ভুল।"
+                },
+                {
+                    "q": "নিচের কোনটি হার্ডওয়্যার?",
+                    "options": [
+                        "মনিটর",
+                        "MS Word",
+                        "Windows",
+                        "অ্যান্টিভাইরাস"
+                    ],
+                    "answer": 0,
+                    "why": "মনিটর কম্পিউটারের স্পর্শযোগ্য যন্ত্রাংশ, অর্থাৎ হার্ডওয়্যার; বাকিগুলো সফটওয়্যার।"
+                },
+                {
+                    "q": "হার্ডওয়্যার কাকে বলে?",
+                    "options": [
+                        "কম্পিউটারের স্পর্শযোগ্য যন্ত্রাংশকে",
+                        "কম্পিউটারের প্রোগ্রামকে",
+                        "ইন্টারনেট সংযোগকে",
+                        "কম্পিউটারের ভাইরাসকে"
+                    ],
+                    "answer": 0,
+                    "why": "হার্ডওয়্যার হলো কম্পিউটারের স্পর্শ করা যায় এমন যন্ত্রাংশ, যেমন মনিটর, কীবোর্ড, মাউস।"
+                },
+                {
+                    "q": "ক্যাশে মেমোরি কোথায় থাকে?",
+                    "options": [
+                        "CPU-এর ভেতরে",
+                        "হার্ডডিস্কে",
+                        "মনিটরে",
+                        "প্রিন্টারে"
+                    ],
+                    "answer": 0,
+                    "why": "ক্যাশে মেমোরি CPU-এর ভেতরে বা খুব কাছে থাকে, যাতে CPU দ্রুত তথ্য পায়।"
+                },
+                {
+                    "q": "ড্রাইভার সফটওয়্যার কীসের জন্য ব্যবহৃত হয়?",
+                    "options": [
+                        "হার্ডওয়্যার ও অপারেটিং সিস্টেমের মধ্যে যোগাযোগের জন্য",
+                        "গেম খেলার জন্য",
+                        "ইন্টারনেট চালানোর জন্য",
+                        "ছবি তোলার জন্য"
+                    ],
+                    "answer": 0,
+                    "why": "ড্রাইভার অপারেটিং সিস্টেমকে হার্ডওয়্যার (যেমন প্রিন্টার) ব্যবহার করতে সাহায্য করে।"
+                },
+                {
+                    "q": "উইন্ডোজে নতুন ফোল্ডার তৈরির শর্টকাট কোনটি?",
+                    "options": [
+                        "Ctrl+Shift+N",
+                        "Ctrl+N",
+                        "Ctrl+F",
+                        "Alt+N"
+                    ],
+                    "answer": 0,
+                    "why": "উইন্ডোজে Ctrl+Shift+N চাপলে নতুন ফোল্ডার তৈরি হয়।"
+                },
+                {
+                    "q": "ফোল্ডারের ভেতরে থাকা ফোল্ডারকে কী বলে?",
+                    "options": [
+                        "সাব-ফোল্ডার",
+                        "মেইন ফোল্ডার",
+                        "রুট ফোল্ডার",
+                        "হিডেন ফোল্ডার"
+                    ],
+                    "answer": 0,
+                    "why": "ফোল্ডারের ভেতরের ফোল্ডারকে সাব-ফোল্ডার (Sub-folder) বলে।"
+                },
+                {
+                    "q": "ডকুমেন্ট ফাইলের এক্সটেনশন কোনটি?",
+                    "options": [
+                        ".docx",
+                        ".mp3",
+                        ".jpg",
+                        ".exe"
+                    ],
+                    "answer": 0,
+                    "why": "ডকুমেন্ট (Word) ফাইলের এক্সটেনশন .docx।"
+                },
+                {
+                    "q": "কীবোর্ডের F1 কী সাধারণত কী করে?",
+                    "options": [
+                        "সাহায্য (Help) খোলে",
+                        "ফাইল সংরক্ষণ করে",
+                        "কম্পিউটার বন্ধ করে",
+                        "প্রিন্ট করে"
+                    ],
+                    "answer": 0,
+                    "why": "বেশিরভাগ প্রোগ্রামে F1 চাপলে সাহায্য (Help) উইন্ডো খোলে।"
+                },
+                {
+                    "q": "Alt+Tab কীসের জন্য ব্যবহৃত হয়?",
+                    "options": [
+                        "খোলা উইন্ডোর মধ্যে বদলাতে",
+                        "ফাইল মুছতে",
+                        "কম্পিউটার বন্ধ করতে",
+                        "টেক্সট কপি করতে"
+                    ],
+                    "answer": 0,
+                    "why": "Alt+Tab চাপলে খোলা উইন্ডোগুলোর মধ্যে দ্রুত বদলানো যায়।"
+                },
+                {
+                    "q": "Ctrl+Z কী করে?",
+                    "options": [
+                        "Undo (পূর্বাবস্থায় ফেরায়)",
+                        "Redo করে",
+                        "কপি করে",
+                        "পেস্ট করে"
+                    ],
+                    "answer": 0,
+                    "why": "Ctrl+Z শেষ কাজটি বাতিল করে (Undo) পূর্বাবস্থায় ফেরায়।"
+                },
+                {
+                    "q": "Unicode কী?",
+                    "options": [
+                        "বিশ্বের সব ভাষার অক্ষর প্রকাশের মান",
+                        "এক ধরনের প্রোগ্রামিং ভাষা",
+                        "এক ধরনের ভাইরাস",
+                        "এক ধরনের হার্ডওয়্যার"
+                    ],
+                    "answer": 0,
+                    "why": "Unicode হলো বিশ্বের সব ভাষার অক্ষর একইভাবে প্রকাশের আন্তর্জাতিক মান।"
+                },
+                {
+                    "q": "ই-মেইল পাঠাতে কোন প্রোটোকল ব্যবহৃত হয়?",
+                    "options": [
+                        "SMTP",
+                        "POP3",
+                        "FTP",
+                        "HTTP"
+                    ],
+                    "answer": 0,
+                    "why": "ই-মেইল পাঠাতে SMTP (Simple Mail Transfer Protocol) ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ফায়ারওয়াল কী করে?",
+                    "options": [
+                        "অননুমোদিত প্রবেশ বন্ধ করে",
+                        "ভাইরাস তৈরি করে",
+                        "ইন্টারনেটের গতি বাড়ায়",
+                        "ফাইল মুছে ফেলে"
+                    ],
+                    "answer": 0,
+                    "why": "ফায়ারওয়াল নেটওয়ার্কের অননুমোদিত প্রবেশ বন্ধ করে কম্পিউটারকে সুরক্ষা দেয়।"
+                },
+                {
+                    "q": "দুই-ধাপ যাচাইকরণ (2FA) কী দেয়?",
+                    "options": [
+                        "অতিরিক্ত নিরাপত্তা স্তর",
+                        "দ্রুত লগইন",
+                        "বিনামূল্যে ইন্টারনেট",
+                        "বড় স্টোরেজ"
+                    ],
+                    "answer": 0,
+                    "why": "2FA-তে পাসওয়ার্ডের পাশাপাশি দ্বিতীয় একটি প্রমাণ (যেমন কোড) লাগে, তাই অ্যাকাউন্ট নিরাপদ থাকে।"
+                },
+                {
+                    "q": "শক্তিশালী পাসওয়ার্ড কেমন হওয়া উচিত?",
+                    "options": [
+                        "বড় হাতের, ছোট হাতের, সংখ্যা ও চিহ্ন মেশানো",
+                        "শুধু নিজের নাম",
+                        "শুধু ১২৩৪",
+                        "শুধু জন্মতারিখ"
+                    ],
+                    "answer": 0,
+                    "why": "শক্তিশালী পাসওয়ার্ডে বড় ও ছোট হাতের অক্ষর, সংখ্যা ও চিহ্ন মেশানো থাকে।"
+                },
+                {
+                    "q": "সফটওয়্যার আপডেট কেন প্রয়োজন?",
+                    "options": [
+                        "নিরাপত্তা ঠিক করা ও নতুন সুবিধা পেতে",
+                        "ফাইল মুছতে",
+                        "কম্পিউটার ধীর করতে",
+                        "ইন্টারনেট বন্ধ করতে"
+                    ],
+                    "answer": 0,
+                    "why": "আপডেটে নিরাপত্তার দুর্বলতা ঠিক হয় ও নতুন সুবিধা যোগ হয়।"
+                },
+                {
+                    "q": "সিস্টেম রিস্টোর কী করে?",
+                    "options": [
+                        "কম্পিউটারকে আগের ভালো অবস্থায় ফেরায়",
+                        "সব ফাইল মুছে ফেলে",
+                        "নতুন উইন্ডোজ ইনস্টল করে",
+                        "হার্ডডিস্ক ফরম্যাট করে"
+                    ],
+                    "answer": 0,
+                    "why": "সিস্টেম রিস্টোর কম্পিউটারের সেটিংস ও সিস্টেম ফাইল আগের একটি ভালো অবস্থায় ফিরিয়ে দেয়।"
+                },
+                {
+                    "q": "উইন্ডোজে সফটওয়্যার ইনস্টল করতে সাধারণত কোন ফাইল চালানো হয়?",
+                    "options": [
+                        ".exe ফাইল",
+                        ".txt ফাইল",
+                        ".jpg ফাইল",
+                        ".mp3 ফাইল"
+                    ],
+                    "answer": 0,
+                    "why": "উইন্ডোজে সফটওয়্যার ইনস্টল করতে সাধারণত .exe (Executable) ফাইল চালানো হয়।"
                 }
             ]
         }
