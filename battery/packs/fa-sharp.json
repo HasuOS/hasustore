@@ -1,0 +1,33 @@
+{
+ "id": "fa-sharp",
+ "name": "FA Sharp",
+ "kind": "glyphs",
+ "glyphs": {
+  "lock": "fa:f023",
+  "gear": "fa:f013",
+  "bolt": "fa:f0e7",
+  "bell": "fa:f0f3",
+  "low": "fa:f243",
+  "chart": "fa:f080",
+  "trash": "fa:f2ed",
+  "info": "fa:f05a",
+  "temp": "fa:f2c8",
+  "plug": "fa:f1e6",
+  "heart": "fa:f004",
+  "tech": "fa:f0c3",
+  "battery": "fa:f242",
+  "check": "fa:f00c",
+  "vibrate": "fa:f3cd",
+  "eye": "fa:f06e",
+  "install": "fa:f381",
+  "update": "fa:f0aa",
+  "guide": "fa:f518",
+  "web": "fa:f57d",
+  "back": "fa:f053",
+  "dev": "fa:f2bd",
+  "phone": "fa:f05a",
+  "spark": "fa:f0eb",
+  "thanks": "fa:f004",
+  "monitor": "fa:f111"
+ }
+}
