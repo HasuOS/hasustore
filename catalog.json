@@ -71,13 +71,13 @@
    "name": "HasuCalendar",
    "tag": "Calendar",
    "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 14,
-   "versionName": "1.11",
-   "size": 1868721,
+   "code": 15,
+   "versionName": "1.12",
+   "size": 1840049,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
-   "etag": "0x8DF4AFB9EB2AA3F",
-   "ts": 1795614869
+   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
+   "etag": "0x8DF4AFE95051F80",
+   "ts": 1795616143
   },
   {
    "pkg": "com.hasucam.camera",
