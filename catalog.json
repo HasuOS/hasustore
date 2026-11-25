@@ -604,13 +604,13 @@
    "name": "HasuQuran",
    "tag": "Quran with Bangla translation",
    "desc": "Read the Quran with Bangla translation — all 114 surahs, every ayah in Arabic (Uthmani script) with its translation, bookmarks and offline reading.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 95086,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 1919688,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quran.apk",
-   "changes": "NEW APP: 📖 Read the Quran with Bangla translation — all 114 surahs with name, meaning, ayah count and Makkah/Madinah. 🕌 Every ayah in Arabic (Uthmani script) with its Bangla translation under it. 🔍 Search by name, meaning or number. 💾 A surah is fetched once and saved on the phone, so it reads offline after that. 🔖 Bookmarks, 📖 last-read, and a 🔠 large-text switch.",
-   "ts": 1795309515,
-   "etag": "0x8DF48349C515154"
+   "changes": "Full family update: premium Liquid Glass look, English/Bangla switch, icon sets and themes that arrive by themselves with a notification, five launcher designs, bookmarks and last-read position backed up and restored, built-in self-update, full Guide and honest Permissions.",
+   "ts": 1795651021,
+   "etag": "0x8DF4B4F6E0EBCC8"
   },
   {
    "pkg": "hasu.os.typing",
