@@ -1,6 +1,6 @@
 {
-    "version": 53,
-    "generatedAt": 1795587097,
+    "version": 54,
+    "generatedAt": 1795588891,
     "subjects": [
         {
             "id": "bangla",
@@ -18566,6 +18566,281 @@
                     ],
                     "answer": 0,
                     "why": "বৈষ্ণব পদাবলীর আদি কবি চণ্ডীদাস; তাঁর বিখ্যাত পদ 'সই কেমনে ধরিব হিয়া'।"
+                },
+                {
+                    "q": "বাংলা ব্যাকরণে বাচ্য কয় প্রকার?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৫"
+                    ],
+                    "answer": 1,
+                    "why": "বাচ্য ৩ প্রকার: কর্তৃবাচ্য, কর্মবাচ্য ও ভাববাচ্য।"
+                },
+                {
+                    "q": "'আমি বই পড়ি।' — এটি কোন বাচ্য?",
+                    "options": [
+                        "কর্মবাচ্য",
+                        "ভাববাচ্য",
+                        "কর্তৃবাচ্য",
+                        "কোনোটিই নয়"
+                    ],
+                    "answer": 2,
+                    "why": "কর্তা (আমি) ক্রিয়া সম্পাদন করছে, তাই এটি কর্তৃবাচ্য।"
+                },
+                {
+                    "q": "'আমার দ্বারা কাজটি করা হলো।' — এটি কোন বাচ্য?",
+                    "options": [
+                        "কর্তৃবাচ্য",
+                        "কর্মবাচ্য",
+                        "ভাববাচ্য",
+                        "অনুবাচ্য"
+                    ],
+                    "answer": 1,
+                    "why": "কর্ম (কাজটি) প্রধান হওয়ায় এটি কর্মবাচ্য।"
+                },
+                {
+                    "q": "ভাববাচ্যে কী প্রধান হয়?",
+                    "options": [
+                        "কর্তা",
+                        "কর্ম",
+                        "ভাব বা ক্রিয়া",
+                        "বিশেষণ"
+                    ],
+                    "answer": 2,
+                    "why": "ভাববাচ্যে ক্রিয়ার ভাবই প্রধান হয়; যেমন: 'আমার যাওয়া হবে না।'"
+                },
+                {
+                    "q": "ধাতু কাকে বলে?",
+                    "options": [
+                        "ক্রিয়ার মূল অংশকে",
+                        "বিশেষ্যের মূল অংশকে",
+                        "বাক্যের মূল অংশকে",
+                        "শব্দের শেষ অংশকে"
+                    ],
+                    "answer": 0,
+                    "why": "ক্রিয়াপদের মূল অংশকে ধাতু বলে; যেমন: 'কর' ধাতু থেকে করা, করি ইত্যাদি।"
+                },
+                {
+                    "q": "'পড়্' ধাতুর উদাহরণ কোনটি?",
+                    "options": [
+                        "পড়া",
+                        "পাঠ",
+                        "পাঠক",
+                        "পাঠশালা"
+                    ],
+                    "answer": 0,
+                    "why": "'পড়্' ধাতু থেকে পড়া, পড়ি, পড়বে ইত্যাদি ক্রিয়াপদ গঠিত হয়।"
+                },
+                {
+                    "q": "স্বরবৃত্ত ছন্দ কোথায় বেশি ব্যবহৃত হয়?",
+                    "options": [
+                        "মহাকাব্যে",
+                        "ছড়া ও লোককবিতায়",
+                        "নাটকে",
+                        "প্রবন্ধে"
+                    ],
+                    "answer": 1,
+                    "why": "স্বরবৃত্ত ছন্দ ছড়া ও লোককবিতায় বেশি ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "'চাঁদমুখ' — এখানে কোন অলংকার?",
+                    "options": [
+                        "উপমা",
+                        "রূপক",
+                        "উৎপ্রেক্ষা",
+                        "যমক"
+                    ],
+                    "answer": 1,
+                    "why": "চাঁদ ও মুখ অভিন্ন করে বলায় এটি রূপক অলংকার।"
+                },
+                {
+                    "q": "'মনে হলো যেন আকাশ ভেঙে পড়ল' — এখানে কোন অলংকার?",
+                    "options": [
+                        "উপমা",
+                        "রূপক",
+                        "উৎপ্রেক্ষা",
+                        "বিরোধাভাস"
+                    ],
+                    "answer": 2,
+                    "why": "'যেন' দিয়ে সন্দেহমূলক তুলনা করায় এটি উৎপ্রেক্ষা অলংকার।"
+                },
+                {
+                    "q": "'কান কাটা' বাগধারাটির অর্থ কী?",
+                    "options": [
+                        "কান কেটে ফেলা",
+                        "নির্লজ্জ",
+                        "কানে শোনা",
+                        "চালাক"
+                    ],
+                    "answer": 1,
+                    "why": "'কান কাটা' অর্থ নির্লজ্জ বা বেহায়া।"
+                },
+                {
+                    "q": "'ময়মনসিংহ গীতিকা' সংগ্রহে কার অবদান বিশেষভাবে উল্লেখযোগ্য?",
+                    "options": [
+                        "চন্দ্রকুমার দে",
+                        "কাজী নজরুল ইসলাম",
+                        "শরৎচন্দ্র",
+                        "বঙ্কিমচন্দ্র"
+                    ],
+                    "answer": 0,
+                    "why": "চন্দ্রকুমার দে ময়মনসিংহ অঞ্চলের পালাগান সংগ্রহে দীনেশচন্দ্র সেনকে সাহায্য করেন।"
+                },
+                {
+                    "q": "'মহুয়া' কোন ধরনের সাহিত্য?",
+                    "options": [
+                        "উপন্যাস",
+                        "পালাগান (লোকসাহিত্য)",
+                        "নাটক",
+                        "প্রবন্ধ"
+                    ],
+                    "answer": 1,
+                    "why": "'মহুয়া' ময়মনসিংহ গীতিকার একটি বিখ্যাত পালাগান।"
+                },
+                {
+                    "q": "গীতিকবিতা (Lyric) বলতে কী বোঝায়?",
+                    "options": [
+                        "কাহিনিভিত্তিক কবিতা",
+                        "কবির ব্যক্তিগত অনুভূতি প্রকাশকারী সংক্ষিপ্ত কবিতা",
+                        "নাটকের সংলাপ",
+                        "গদ্য রচনা"
+                    ],
+                    "answer": 1,
+                    "why": "গীতিকবিতায় কবির ব্যক্তিগত অনুভূতি সংক্ষিপ্ত ছন্দে প্রকাশ পায়।"
+                },
+                {
+                    "q": "'গীতাঞ্জলি' কোন ধরনের কাব্যগ্রন্থ?",
+                    "options": [
+                        "মহাকাব্য",
+                        "গীতিকাব্য",
+                        "আখ্যানকাব্য",
+                        "নাট্যকাব্য"
+                    ],
+                    "answer": 1,
+                    "why": "'গীতাঞ্জলি' একটি গীতিকাব্য; এতে ভক্তি ও প্রকৃতির গান আছে।"
+                },
+                {
+                    "q": "'নীলদর্পণ' নাটকের নাট্যকার কে?",
+                    "options": [
+                        "মধুসূদন দত্ত",
+                        "দীনবন্ধু মিত্র",
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "গিরিশচন্দ্র ঘোষ"
+                    ],
+                    "answer": 1,
+                    "why": "'নীলদর্পণ' (১৮৬০) দীনবন্ধু মিত্রের বিখ্যাত নাটক।"
+                },
+                {
+                    "q": "প্রবন্ধ কাকে বলে?",
+                    "options": [
+                        "গল্পের মতো রচনা",
+                        "কোনো বিষয়ে যুক্তিনির্ভর গদ্য রচনা",
+                        "কবিতার মতো রচনা",
+                        "নাটকের সংলাপ"
+                    ],
+                    "answer": 1,
+                    "why": "প্রবন্ধ হলো কোনো বিষয়ে যুক্তি ও তথ্যভিত্তিক গদ্য রচনা।"
+                },
+                {
+                    "q": "'কমলাকান্তের দপ্তর' কার রচনা?",
+                    "options": [
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                        "শরৎচন্দ্র",
+                        "প্রমথ চৌধুরী"
+                    ],
+                    "answer": 1,
+                    "why": "'কমলাকান্তের দপ্তর' বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের প্রবন্ধগ্রন্থ।"
+                },
+                {
+                    "q": "'কপোতাক্ষ নদ' কোন ধরনের কবিতা?",
+                    "options": [
+                        "গীতিকবিতা",
+                        "সনেট",
+                        "মহাকাব্য",
+                        "ছড়া"
+                    ],
+                    "answer": 1,
+                    "why": "'কপোতাক্ষ নদ' মধুসূদনের বিখ্যাত সনেট (চতুর্দশপদী কবিতা)।"
+                },
+                {
+                    "q": "মাইকেল মধুসূদন দত্ত জন্মগ্রহণ করেন কোথায়?",
+                    "options": [
+                        "সাগরদাঁড়ি, যশোর",
+                        "কুষ্টিয়া",
+                        "বরিশাল",
+                        "ঢাকা"
+                    ],
+                    "answer": 0,
+                    "why": "মধুসূদন ১৮২৪ সালে যশোরের সাগরদাঁড়ি গ্রামে জন্মগ্রহণ করেন।"
+                },
+                {
+                    "q": "'বনলতা সেন' কবিতাটি কোন কাব্যগ্রন্থে আছে?",
+                    "options": [
+                        "রূপসী বাংলা",
+                        "ধূসর পাণ্ডুলিপি",
+                        "বনলতা সেন",
+                        "ঝরা পালক"
+                    ],
+                    "answer": 2,
+                    "why": "'বনলতা সেন' (১৯৪২) জীবনানন্দ দাশের কাব্যগ্রন্থ; এর নামকবিতাটি বিখ্যাত।"
+                },
+                {
+                    "q": "জীবনানন্দ দাশ কত সালে মৃত্যুবরণ করেন?",
+                    "options": [
+                        "১৯৪৭",
+                        "১৯৫৪",
+                        "১৯৬২",
+                        "১৯৭১"
+                    ],
+                    "answer": 1,
+                    "why": "জীবনানন্দ দাশ ১৯৫৪ সালে কলকাতায় ট্রাম দুর্ঘটনায় মৃত্যুবরণ করেন।"
+                },
+                {
+                    "q": "'লোক লোকান্তর' কাব্যগ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "আল মাহমুদ",
+                        "শামসুর রাহমান",
+                        "আবুল হোসেন",
+                        "ফররুখ আহমদ"
+                    ],
+                    "answer": 0,
+                    "why": "'লোক লোকান্তর' (১৯৬৩) আল মাহমুদের প্রথম কাব্যগ্রন্থ।"
+                },
+                {
+                    "q": "বাংলা ভাষায় উপসর্গ কয় প্রকার?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৫"
+                    ],
+                    "answer": 1,
+                    "why": "উপসর্গ ৩ প্রকার: বাংলা উপসর্গ, সংস্কৃত উপসর্গ ও বিদেশি উপসর্গ।"
+                },
+                {
+                    "q": "'চরিত্রহীন' উপন্যাসের রচয়িতা কে?",
+                    "options": [
+                        "বঙ্কিমচন্দ্র",
+                        "শরৎচন্দ্র চট্টোপাধ্যায়",
+                        "নজরুল",
+                        "জসীমউদ্দীন"
+                    ],
+                    "answer": 1,
+                    "why": "'চরিত্রহীন' (১৯১৭) শরৎচন্দ্র চট্টোপাধ্যায়ের উপন্যাস।"
+                },
+                {
+                    "q": "ঈশ্বরচন্দ্র বিদ্যাসাগরের বিখ্যাত গ্রন্থ কোনটি?",
+                    "options": [
+                        "বর্ণপরিচয়",
+                        "মেঘনাদবধ কাব্য",
+                        "আনন্দমঠ",
+                        "গীতাঞ্জলি"
+                    ],
+                    "answer": 0,
+                    "why": "'বর্ণপরিচয়' (১৮৫৫) বিদ্যাসাগরের বিখ্যাত শিশুপাঠ্য গ্রন্থ।"
                 }
             ]
         },
@@ -35491,6 +35766,468 @@
                     ],
                     "answer": 1,
                     "why": "The prefix 'un-' means 'not': unhappy = not happy."
+                },
+                {
+                    "q": "Choose the correct infinitive: 'I want ___ there.'",
+                    "options": [
+                        "go",
+                        "to go",
+                        "going",
+                        "gone"
+                    ],
+                    "answer": 1,
+                    "why": "The infinitive form 'to go' follows 'want'."
+                },
+                {
+                    "q": "Identify the infinitive: 'To err is human.'",
+                    "options": [
+                        "err",
+                        "To err",
+                        "is",
+                        "human"
+                    ],
+                    "answer": 1,
+                    "why": "'To err' is an infinitive phrase acting as the subject."
+                },
+                {
+                    "q": "Choose the correct gerund: '___ is good exercise.'",
+                    "options": [
+                        "Swim",
+                        "Swimming",
+                        "To swim",
+                        "Swam"
+                    ],
+                    "answer": 1,
+                    "why": "'Swimming' is a gerund — a verb form used as a noun."
+                },
+                {
+                    "q": "Identify the gerund: 'Reading books enriches the mind.'",
+                    "options": [
+                        "books",
+                        "Reading",
+                        "enriches",
+                        "mind"
+                    ],
+                    "answer": 1,
+                    "why": "'Reading' is a gerund acting as the subject of the sentence."
+                },
+                {
+                    "q": "Choose the correct participle: 'The ___ boy was praised.'",
+                    "options": [
+                        "winning",
+                        "win",
+                        "to win",
+                        "wins"
+                    ],
+                    "answer": 0,
+                    "why": "'Winning' is a present participle used as an adjective."
+                },
+                {
+                    "q": "Identify the past participle: 'The broken glass lay on the floor.'",
+                    "options": [
+                        "glass",
+                        "broken",
+                        "lay",
+                        "floor"
+                    ],
+                    "answer": 1,
+                    "why": "'Broken' is the past participle of 'break' used as an adjective."
+                },
+                {
+                    "q": "What is a dangling modifier?",
+                    "options": [
+                        "A modifier that is placed far from the word it modifies",
+                        "A modifier with no word to modify clearly",
+                        "A modifier that modifies a verb",
+                        "A modifier at the end of a sentence"
+                    ],
+                    "answer": 1,
+                    "why": "A dangling modifier has no clear word to modify, e.g. 'Walking down the road, the trees looked beautiful.'"
+                },
+                {
+                    "q": "Choose the correct sentence (dangling modifier fixed):",
+                    "options": [
+                        "Walking down the road, the trees looked beautiful.",
+                        "Walking down the road, I saw beautiful trees.",
+                        "Walking down the road, the sun was hot.",
+                        "Walking down the road, the road was long."
+                    ],
+                    "answer": 1,
+                    "why": "Only 'I' can walk, so the modifier must attach to 'I'."
+                },
+                {
+                    "q": "Choose the correct verb: 'Neither of the answers ___ correct.'",
+                    "options": [
+                        "are",
+                        "is",
+                        "were",
+                        "have"
+                    ],
+                    "answer": 1,
+                    "why": "'Neither' is singular, so the verb is 'is'."
+                },
+                {
+                    "q": "Choose the correct verb: 'Each of the boys ___ present.'",
+                    "options": [
+                        "are",
+                        "were",
+                        "is",
+                        "have been"
+                    ],
+                    "answer": 2,
+                    "why": "'Each' is singular, so the verb is 'is'."
+                },
+                {
+                    "q": "Choose the correct verb: 'The committee ___ decided.'",
+                    "options": [
+                        "have",
+                        "has",
+                        "are",
+                        "were"
+                    ],
+                    "answer": 1,
+                    "why": "A committee acting as one body takes a singular verb: 'has'."
+                },
+                {
+                    "q": "Transform to negative: 'He is a good boy.'",
+                    "options": [
+                        "He is not a bad boy.",
+                        "He is no good boy.",
+                        "He is not a good boy.",
+                        "He is never a good boy."
+                    ],
+                    "answer": 2,
+                    "why": "The negative form is 'He is not a good boy.'"
+                },
+                {
+                    "q": "Transform to interrogative: 'He goes to school.'",
+                    "options": [
+                        "Does he go to school?",
+                        "He goes to school?",
+                        "Do he go to school?",
+                        "Does he goes to school?"
+                    ],
+                    "answer": 0,
+                    "why": "The interrogative form is 'Does he go to school?'"
+                },
+                {
+                    "q": "Transform to assertive: 'What a nice day it is!'",
+                    "options": [
+                        "It is a very nice day.",
+                        "It is not a nice day.",
+                        "Is it a nice day?",
+                        "How nice day it is!"
+                    ],
+                    "answer": 0,
+                    "why": "The assertive form is 'It is a very nice day.'"
+                },
+                {
+                    "q": "Choose the imperative sentence:",
+                    "options": [
+                        "He is going home.",
+                        "Please open the door.",
+                        "What a day!",
+                        "He may come."
+                    ],
+                    "answer": 1,
+                    "why": "'Please open the door' is an imperative sentence — it gives a command or request."
+                },
+                {
+                    "q": "Choose the optative sentence:",
+                    "options": [
+                        "May you live long.",
+                        "He lives long.",
+                        "Live long!",
+                        "You will live long."
+                    ],
+                    "answer": 0,
+                    "why": "'May you live long' expresses a wish, so it is optative."
+                },
+                {
+                    "q": "Choose the homonym pair with the same spelling but different meanings:",
+                    "options": [
+                        "bank (river) / bank (money)",
+                        "right / write",
+                        "their / there",
+                        "to / too"
+                    ],
+                    "answer": 0,
+                    "why": "'Bank' is a homonym — same spelling and sound, different meanings."
+                },
+                {
+                    "q": "Choose the correct homophone: '___ going to school.'",
+                    "options": [
+                        "Their",
+                        "There",
+                        "They're",
+                        "Thier"
+                    ],
+                    "answer": 2,
+                    "why": "'They're' means 'they are': 'They're going to school.'"
+                },
+                {
+                    "q": "Choose the correct word: 'The ___ of the story is honesty.'",
+                    "options": [
+                        "moral",
+                        "morale",
+                        "morel",
+                        "moralism"
+                    ],
+                    "answer": 0,
+                    "why": "'Moral' means the lesson of a story; 'morale' means confidence."
+                },
+                {
+                    "q": "Choose the correct word: 'The ___ principle of the firm is honesty.'",
+                    "options": [
+                        "principal",
+                        "principle",
+                        "principel",
+                        "princpal"
+                    ],
+                    "answer": 1,
+                    "why": "'Principle' means a rule; 'principal' means chief or head."
+                },
+                {
+                    "q": "What does 'e.g.' stand for?",
+                    "options": [
+                        "Example given",
+                        "Exempli gratia",
+                        "Extra grade",
+                        "English grammar"
+                    ],
+                    "answer": 1,
+                    "why": "'e.g.' stands for 'exempli gratia', meaning 'for example'."
+                },
+                {
+                    "q": "What does 'i.e.' stand for?",
+                    "options": [
+                        "In example",
+                        "Id est",
+                        "In effect",
+                        "Is equal"
+                    ],
+                    "answer": 1,
+                    "why": "'i.e.' stands for 'id est', meaning 'that is'."
+                },
+                {
+                    "q": "What does 'etc.' stand for?",
+                    "options": [
+                        "Et cetera",
+                        "Etceteras",
+                        "Extra cetera",
+                        "Etcetra"
+                    ],
+                    "answer": 0,
+                    "why": "'etc.' stands for 'et cetera', meaning 'and other things'."
+                },
+                {
+                    "q": "What does 'Ph.D.' stand for?",
+                    "options": [
+                        "Doctor of Philosophy",
+                        "Doctor of Physics",
+                        "Philosophy Degree",
+                        "Doctor of Philology"
+                    ],
+                    "answer": 0,
+                    "why": "'Ph.D.' stands for Doctor of Philosophy."
+                },
+                {
+                    "q": "What does 'PIN' stand for?",
+                    "options": [
+                        "Personal Identification Number",
+                        "Private Identity Number",
+                        "Personal Internet Number",
+                        "Public Identification Number"
+                    ],
+                    "answer": 0,
+                    "why": "'PIN' stands for Personal Identification Number."
+                },
+                {
+                    "q": "What does 'ATM' stand for?",
+                    "options": [
+                        "Automatic Teller Machine",
+                        "Automatic Transfer Machine",
+                        "Auto Teller Money",
+                        "Automatic Time Machine"
+                    ],
+                    "answer": 0,
+                    "why": "'ATM' stands for Automated Teller Machine (also accepted: Automatic Teller Machine)."
+                },
+                {
+                    "q": "What does 'SIM' stand for?",
+                    "options": [
+                        "Subscriber Identity Module",
+                        "System Identity Module",
+                        "Subscriber Internet Module",
+                        "Single Identity Module"
+                    ],
+                    "answer": 0,
+                    "why": "'SIM' stands for Subscriber Identity Module."
+                },
+                {
+                    "q": "The root 'scrib' means —",
+                    "options": [
+                        "to write",
+                        "to say",
+                        "to carry",
+                        "to see"
+                    ],
+                    "answer": 0,
+                    "why": "The root 'scrib' means 'to write': describe, prescribe, scribble."
+                },
+                {
+                    "q": "The root 'port' means —",
+                    "options": [
+                        "to write",
+                        "to carry",
+                        "to say",
+                        "to hear"
+                    ],
+                    "answer": 1,
+                    "why": "The root 'port' means 'to carry': transport, import, portable."
+                },
+                {
+                    "q": "The root 'dict' means —",
+                    "options": [
+                        "to write",
+                        "to carry",
+                        "to say",
+                        "to see"
+                    ],
+                    "answer": 2,
+                    "why": "The root 'dict' means 'to say': predict, dictate, dictionary."
+                },
+                {
+                    "q": "The suffix '-ness' forms a —",
+                    "options": [
+                        "verb",
+                        "adjective",
+                        "noun",
+                        "adverb"
+                    ],
+                    "answer": 2,
+                    "why": "The suffix '-ness' forms a noun: kindness, happiness, darkness."
+                },
+                {
+                    "q": "The suffix '-ly' usually forms an —",
+                    "options": [
+                        "noun",
+                        "verb",
+                        "adjective",
+                        "adverb"
+                    ],
+                    "answer": 3,
+                    "why": "The suffix '-ly' usually forms an adverb: quickly, slowly, carefully."
+                },
+                {
+                    "q": "The suffix '-ful' means —",
+                    "options": [
+                        "without",
+                        "full of",
+                        "against",
+                        "before"
+                    ],
+                    "answer": 1,
+                    "why": "The suffix '-ful' means 'full of': beautiful, helpful, careful."
+                },
+                {
+                    "q": "The suffix '-less' means —",
+                    "options": [
+                        "full of",
+                        "without",
+                        "against",
+                        "again"
+                    ],
+                    "answer": 1,
+                    "why": "The suffix '-less' means 'without': hopeless, careless, fearless."
+                },
+                {
+                    "q": "The prefix 'mis-' means —",
+                    "options": [
+                        "again",
+                        "wrongly",
+                        "before",
+                        "after"
+                    ],
+                    "answer": 1,
+                    "why": "The prefix 'mis-' means 'wrongly': misunderstand, mislead, misplace."
+                },
+                {
+                    "q": "The prefix 're-' means —",
+                    "options": [
+                        "again",
+                        "before",
+                        "against",
+                        "under"
+                    ],
+                    "answer": 0,
+                    "why": "The prefix 're-' means 'again': rewrite, return, rebuild."
+                },
+                {
+                    "q": "Analogy: King : Queen :: Man : ?",
+                    "options": [
+                        "Boy",
+                        "Woman",
+                        "Prince",
+                        "Son"
+                    ],
+                    "answer": 1,
+                    "why": "Queen is the feminine of king; woman is the feminine of man."
+                },
+                {
+                    "q": "Analogy: Hot : Cold :: Happy : ?",
+                    "options": [
+                        "Joy",
+                        "Sad",
+                        "Glad",
+                        "Smile"
+                    ],
+                    "answer": 1,
+                    "why": "Cold is the opposite of hot; sad is the opposite of happy."
+                },
+                {
+                    "q": "Second conditional: 'If I were rich, I ___ a car.'",
+                    "options": [
+                        "will buy",
+                        "buy",
+                        "would buy",
+                        "bought"
+                    ],
+                    "answer": 2,
+                    "why": "Second conditional: If + past simple, would + verb — 'If I were rich, I would buy a car.'"
+                },
+                {
+                    "q": "Third conditional: 'If you had studied, you ___ passed.'",
+                    "options": [
+                        "will have",
+                        "would have",
+                        "have",
+                        "had"
+                    ],
+                    "answer": 1,
+                    "why": "Third conditional: If + past perfect, would have + past participle — 'If you had studied, you would have passed.'"
+                },
+                {
+                    "q": "Choose the correct tag question: 'She has finished, ___?'",
+                    "options": [
+                        "hasn't she",
+                        "has she",
+                        "doesn't she",
+                        "isn't she"
+                    ],
+                    "answer": 0,
+                    "why": "The tag for 'She has finished' is 'hasn't she?'"
+                },
+                {
+                    "q": "Translate into English: 'তুমি কোথায় থাকো?'",
+                    "options": [
+                        "Where do you live?",
+                        "Where you live?",
+                        "Where are you live?",
+                        "Where do you lives?"
+                    ],
+                    "answer": 0,
+                    "why": "'তুমি কোথায় থাকো?' translates to 'Where do you live?'"
                 }
             ]
         },
@@ -49896,6 +50633,369 @@
                     ],
                     "answer": 2,
                     "why": "অপর সংখ্যা = ৪৮ ÷ ৬ = ৮।"
+                },
+                {
+                    "q": "সরল সুদের সূত্র কোনটি?",
+                    "options": [
+                        "I = P + r + t",
+                        "I = Prt/১০০",
+                        "I = P/r/t",
+                        "I = P × t"
+                    ],
+                    "answer": 1,
+                    "why": "সরল সুদের সূত্র I = Prt/১০০; এখানে P মূলধন, r হার, t সময়।"
+                },
+                {
+                    "q": "১০০০ টাকার ১০% হারে ২ বছরের চক্রবৃদ্ধি সুদে মোট কত হবে?",
+                    "options": [
+                        "১২০০ টাকা",
+                        "১২১০ টাকা",
+                        "১১০০ টাকা",
+                        "১৩০০ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "চক্রবৃদ্ধি মূলধন = ১০০০ × (১.১)² = ১২১০ টাকা।"
+                },
+                {
+                    "q": "চক্রবৃদ্ধি সুদের ক্ষেত্রে প্রথম বছরের সুদ কীভাবে ধরা হয়?",
+                    "options": [
+                        "মূলধনের উপর",
+                        "সুদের উপর",
+                        "লাভের উপর",
+                        "ছাড়ের উপর"
+                    ],
+                    "answer": 0,
+                    "why": "চক্রবৃদ্ধি সুদে প্রথম বছরের সুদ মূলধনের উপর ধরা হয়; পরের বছর সুদসহ মূলধনের উপর।"
+                },
+                {
+                    "q": "২ : ৩ = ৪ : x হলে, x-এর মান কত?",
+                    "options": [
+                        "৫",
+                        "৬",
+                        "৮",
+                        "১২"
+                    ],
+                    "answer": 1,
+                    "why": "২ : ৩ = ৪ : x হলে ২x = ১২, অর্থাৎ x = ৬।"
+                },
+                {
+                    "q": "দুটি সংখ্যার অনুপাত ২ : ৩ এবং তাদের যোগফল ৩৫ হলে বড় সংখ্যাটি কত?",
+                    "options": [
+                        "১৪",
+                        "২১",
+                        "২৫",
+                        "২৮"
+                    ],
+                    "answer": 1,
+                    "why": "অনুপাতের যোগফল ৫; বড় সংখ্যা = ৩৫ × ৩/৫ = ২১।"
+                },
+                {
+                    "q": "একটি কাজ A একা ১০ দিনে এবং B একা ১৫ দিনে করতে পারে। দুজনে একসাথে কত দিনে করবে?",
+                    "options": [
+                        "৫ দিন",
+                        "৬ দিন",
+                        "৭ দিন",
+                        "১২ দিন"
+                    ],
+                    "answer": 1,
+                    "why": "একদিনে করে ১/১০ + ১/১৫ = ১/৬ অংশ; তাই সময় লাগবে ৬ দিন।"
+                },
+                {
+                    "q": "একটি নল দিয়ে একটি চৌবাচ্চা ৫ ঘণ্টায় পূর্ণ হয় এবং অপর নল দিয়ে ১০ ঘণ্টায় খালি হয়। দুটি একসাথে খুলে দিলে কত সময়ে পূর্ণ হবে?",
+                    "options": [
+                        "৫ ঘণ্টা",
+                        "১০ ঘণ্টা",
+                        "১৫ ঘণ্টা",
+                        "২০ ঘণ্টা"
+                    ],
+                    "answer": 1,
+                    "why": "প্রতি ঘণ্টায় পূর্ণ হয় ১/৫ − ১/১০ = ১/১০ অংশ; তাই পূর্ণ হতে ১০ ঘণ্টা লাগবে।"
+                },
+                {
+                    "q": "sin ৯০°-এর মান কত?",
+                    "options": [
+                        "০",
+                        "১/২",
+                        "১",
+                        "√৩/২"
+                    ],
+                    "answer": 2,
+                    "why": "sin ৯০° = ১।"
+                },
+                {
+                    "q": "cos ০°-এর মান কত?",
+                    "options": [
+                        "০",
+                        "১/২",
+                        "১",
+                        "√৩/২"
+                    ],
+                    "answer": 2,
+                    "why": "cos ০° = ১।"
+                },
+                {
+                    "q": "tan ৩০°-এর মান কত?",
+                    "options": [
+                        "১/√৩",
+                        "√৩",
+                        "১",
+                        "১/২"
+                    ],
+                    "answer": 0,
+                    "why": "tan ৩০° = ১/√৩।"
+                },
+                {
+                    "q": "sin²θ + cos²θ = কত?",
+                    "options": [
+                        "০",
+                        "১",
+                        "২",
+                        "tan θ"
+                    ],
+                    "answer": 1,
+                    "why": "ত্রিকোণমিতির মৌলিক অভেদ: sin²θ + cos²θ = ১।"
+                },
+                {
+                    "q": "সমকোণী ত্রিভুজে অতিভুজ ১০, একটি বাহু ৬ হলে অপর বাহু কত?",
+                    "options": [
+                        "৬",
+                        "৮",
+                        "৪",
+                        "১২"
+                    ],
+                    "answer": 1,
+                    "why": "পিথাগোরাসের উপপাদ্যে অপর বাহু = √(১০² − ৬²) = √৬৪ = ৮।"
+                },
+                {
+                    "q": "log₁₀ ১০০-এর মান কত?",
+                    "options": [
+                        "১",
+                        "২",
+                        "৩",
+                        "১০"
+                    ],
+                    "answer": 1,
+                    "why": "১০² = ১০০, তাই log₁₀ ১০০ = ২।"
+                },
+                {
+                    "q": "log₁₀ ১০০০-এর মান কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "১০"
+                    ],
+                    "answer": 1,
+                    "why": "১০³ = ১০০০, তাই log₁₀ ১০০০ = ৩।"
+                },
+                {
+                    "q": "log₂ ৮-এর মান কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৮"
+                    ],
+                    "answer": 1,
+                    "why": "২³ = ৮, তাই log₂ ৮ = ৩।"
+                },
+                {
+                    "q": "যেকোনো ভিত্তিতে log ১-এর মান কত?",
+                    "options": [
+                        "০",
+                        "১",
+                        "ভিত্তি",
+                        "অসংজ্ঞায়িত"
+                    ],
+                    "answer": 0,
+                    "why": "যেকোনো ভিত্তিতে log ১ = ০, কারণ a⁰ = ১।"
+                },
+                {
+                    "q": "f(x) = ২x + ৩ হলে, f(২)-এর মান কত?",
+                    "options": [
+                        "৫",
+                        "৭",
+                        "৯",
+                        "১১"
+                    ],
+                    "answer": 1,
+                    "why": "f(২) = ২ × ২ + ৩ = ৭।"
+                },
+                {
+                    "q": "f(x) = ৩x − ২ হলে, f(০)-এর মান কত?",
+                    "options": [
+                        "−২",
+                        "০",
+                        "২",
+                        "৩"
+                    ],
+                    "answer": 0,
+                    "why": "f(০) = ৩ × ০ − ২ = −২।"
+                },
+                {
+                    "q": "৫টি ভিন্ন বস্তু থেকে ২টি নিয়ে বিন্যাস (P) কতভাবে করা যায়?",
+                    "options": [
+                        "১০",
+                        "২০",
+                        "২৫",
+                        "৬০"
+                    ],
+                    "answer": 1,
+                    "why": "P(৫,২) = ৫!/(৫−২)! = ৫ × ৪ = ২০।"
+                },
+                {
+                    "q": "৫টি ভিন্ন বস্তু থেকে ২টি নিয়ে সমাবেশ (C) কতভাবে করা যায়?",
+                    "options": [
+                        "৫",
+                        "১০",
+                        "২০",
+                        "২৫"
+                    ],
+                    "answer": 1,
+                    "why": "C(৫,২) = ৫!/(২! × ৩!) = ১০।"
+                },
+                {
+                    "q": "৪টি ভিন্ন বস্তু থেকে ৩টি নিয়ে বিন্যাস কত?",
+                    "options": [
+                        "১২",
+                        "২৪",
+                        "৩৬",
+                        "৬৪"
+                    ],
+                    "answer": 1,
+                    "why": "P(৪,৩) = ৪ × ৩ × ২ = ২৪।"
+                },
+                {
+                    "q": "৬টি ভিন্ন বস্তু থেকে ৩টি নিয়ে সমাবেশ কত?",
+                    "options": [
+                        "১৫",
+                        "২০",
+                        "৩০",
+                        "১২০"
+                    ],
+                    "answer": 1,
+                    "why": "C(৬,৩) = ৬!/(৩! × ৩!) = ২০।"
+                },
+                {
+                    "q": "৩, ৯, ২৭, ৮১, … ধারাটির পরের পদ কত?",
+                    "options": [
+                        "১৬২",
+                        "২৪৩",
+                        "১৩৫",
+                        "২৭০"
+                    ],
+                    "answer": 1,
+                    "why": "এটি গুণোত্তর ধারা (সাধারণ অনুপাত ৩); পরের পদ ৮১ × ৩ = ২৪৩।"
+                },
+                {
+                    "q": "৩, ৭, ১১, ১৫, … ধারাটির ১০ম পদ কত?",
+                    "options": [
+                        "৩৫",
+                        "৩৯",
+                        "৪৩",
+                        "৪৭"
+                    ],
+                    "answer": 1,
+                    "why": "সমান্তর ধারা: a=৩, d=৪; ১০ম পদ = ৩ + ৯ × ৪ = ৩৯।"
+                },
+                {
+                    "q": "৫, ১০, ১৫, ২০, … ধারাটির ১২তম পদ কত?",
+                    "options": [
+                        "৫৫",
+                        "৬০",
+                        "৬৫",
+                        "৭০"
+                    ],
+                    "answer": 1,
+                    "why": "সমান্তর ধারা: a=৫, d=৫; ১২তম পদ = ৫ + ১১ × ৫ = ৬০।"
+                },
+                {
+                    "q": "সার্বিক সেট U = {১, ২, ৩, ৪} এবং A = {১, ২} হলে, A′ = কত?",
+                    "options": [
+                        "{১, ২}",
+                        "{৩, ৪}",
+                        "{১, ৩}",
+                        "{২, ৪}"
+                    ],
+                    "answer": 1,
+                    "why": "পূরক সেট A′ = U − A = {৩, ৪}।"
+                },
+                {
+                    "q": "৫ বছর পর রহিমের বয়স ২৫ বছর হবে। বর্তমানে তার বয়স কত?",
+                    "options": [
+                        "১৫ বছর",
+                        "২০ বছর",
+                        "২৫ বছর",
+                        "৩০ বছর"
+                    ],
+                    "answer": 1,
+                    "why": "বর্তমান বয়স = ২৫ − ৫ = ২০ বছর।"
+                },
+                {
+                    "q": "একটি গাড়ি ৩ ঘণ্টায় ১৮০ কিমি যায়। গাড়ির গড় বেগ কত?",
+                    "options": [
+                        "৫০ কিমি/ঘণ্টা",
+                        "৬০ কিমি/ঘণ্টা",
+                        "৭০ কিমি/ঘণ্টা",
+                        "৯০ কিমি/ঘণ্টা"
+                    ],
+                    "answer": 1,
+                    "why": "বেগ = দূরত্ব ÷ সময় = ১৮০ ÷ ৩ = ৬০ কিমি/ঘণ্টা।"
+                },
+                {
+                    "q": "একটি ট্রেন ৯০ কিমি/ঘণ্টা বেগে ২ ঘণ্টায় কত দূরত্ব যাবে?",
+                    "options": [
+                        "১২০ কিমি",
+                        "১৮০ কিমি",
+                        "২৪০ কিমি",
+                        "৩৬০ কিমি"
+                    ],
+                    "answer": 1,
+                    "why": "দূরত্ব = ৯০ × ২ = ১৮০ কিমি।"
+                },
+                {
+                    "q": "প্রথম ২০টি স্বাভাবিক সংখ্যার যোগফল কত?",
+                    "options": [
+                        "১৯০",
+                        "২০০",
+                        "২১০",
+                        "২২০"
+                    ],
+                    "answer": 2,
+                    "why": "১ + ২ + … + ২০ = ২০ × ২১ ÷ ২ = ২১০।"
+                },
+                {
+                    "q": "একটি দ্রব্য ৮০০ টাকায় কিনে ৭২০ টাকায় বিক্রি করলে ক্ষতির হার কত?",
+                    "options": [
+                        "৮%",
+                        "১০%",
+                        "১২%",
+                        "১৫%"
+                    ],
+                    "answer": 1,
+                    "why": "ক্ষতি = ৮০ টাকা; ক্ষতির হার = ৮০ ÷ ৮০০ × ১০০ = ১০%।"
+                },
+                {
+                    "q": "৩, ৬, ৯, ১২, ১৫ সংখ্যাগুলোর গড় কত?",
+                    "options": [
+                        "৮",
+                        "৯",
+                        "১০",
+                        "১২"
+                    ],
+                    "answer": 1,
+                    "why": "যোগফল ৪৫; গড় = ৪৫ ÷ ৫ = ৯।"
+                },
+                {
+                    "q": "৪, ৮, ১২ সংখ্যাগুলোর গড় কত?",
+                    "options": [
+                        "৬",
+                        "৮",
+                        "১০",
+                        "১২"
+                    ],
+                    "answer": 1,
+                    "why": "যোগফল ২৪; গড় = ২৪ ÷ ৩ = ৮।"
                 }
             ]
         },
@@ -65004,6 +66104,402 @@
                     ],
                     "answer": 1,
                     "why": "বাংলাদেশের আন্তর্জাতিক বিমানবন্দর ৩টি: ঢাকা, চট্টগ্রাম ও সিলেট।"
+                },
+                {
+                    "q": "কেন্দ্রীয় শহীদ মিনারের নকশাকার কে?",
+                    "options": [
+                        "হামিদুর রহমান",
+                        "সৈয়দ মাইনুল হোসেন",
+                        "লুই আই কান",
+                        "মাজহারুল ইসলাম"
+                    ],
+                    "answer": 0,
+                    "why": "কেন্দ্রীয় শহীদ মিনারের নকশাকার স্থপতি হামিদুর রহমান।"
+                },
+                {
+                    "q": "শহীদ মিনার কীসের স্মৃতিতে নির্মিত?",
+                    "options": [
+                        "মুক্তিযুদ্ধের শহীদদের",
+                        "ভাষা আন্দোলনের শহীদদের",
+                        "ছয় দফা আন্দোলনের",
+                        "গণঅভ্যুত্থানের"
+                    ],
+                    "answer": 1,
+                    "why": "শহীদ মিনার ১৯৫২ সালের ভাষা আন্দোলনের শহীদদের স্মৃতিতে নির্মিত।"
+                },
+                {
+                    "q": "জাতীয় স্মৃতিসৌধে কয়টি স্তম্ভ আছে?",
+                    "options": [
+                        "৫টি",
+                        "৭টি",
+                        "৯টি",
+                        "১১টি"
+                    ],
+                    "answer": 1,
+                    "why": "জাতীয় স্মৃতিসৌধে ৭টি স্তম্ভ আছে; এগুলো মুক্তিযুদ্ধের ৭টি পর্যায়ের প্রতীক।"
+                },
+                {
+                    "q": "জাতীয় স্মৃতিসৌধ কত সালে উদ্বোধন করা হয়?",
+                    "options": [
+                        "১৯৭২",
+                        "১৯৭৮",
+                        "১৯৮২",
+                        "১৯৯০"
+                    ],
+                    "answer": 2,
+                    "why": "জাতীয় স্মৃতিসৌধ ১৯৮২ সালের ১৬ ডিসেম্বর উদ্বোধন করা হয়।"
+                },
+                {
+                    "q": "মাথাপিছু GDP কীভাবে নির্ণয় করা হয়?",
+                    "options": [
+                        "মোট GDP ÷ জনসংখ্যা",
+                        "মোট GDP × জনসংখ্যা",
+                        "মোট GDP − জনসংখ্যা",
+                        "মোট GDP + জনসংখ্যা"
+                    ],
+                    "answer": 0,
+                    "why": "মাথাপিছু GDP = দেশের মোট GDP ÷ মোট জনসংখ্যা।"
+                },
+                {
+                    "q": "বাণিজ্য ঘাটতি (Trade deficit) কখন হয়?",
+                    "options": [
+                        "রপ্তানি আমদানির চেয়ে বেশি হলে",
+                        "আমদানি রপ্তানির চেয়ে বেশি হলে",
+                        "রপ্তানি ও আমদানি সমান হলে",
+                        "কোনো রপ্তানি না থাকলে"
+                    ],
+                    "answer": 1,
+                    "why": "আমদানি রপ্তানির চেয়ে বেশি হলে বাণিজ্য ঘাটতি হয়।"
+                },
+                {
+                    "q": "বাংলাদেশে মোট কয়টি সিটি কর্পোরেশন আছে?",
+                    "options": [
+                        "৮টি",
+                        "১০টি",
+                        "১২টি",
+                        "১৫টি"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশে ১২টি সিটি কর্পোরেশন আছে।"
+                },
+                {
+                    "q": "ঢাকা উত্তর সিটি কর্পোরেশন কত সালে গঠিত হয়?",
+                    "options": [
+                        "২০০৮",
+                        "২০১১",
+                        "২০১৫",
+                        "২০১৭"
+                    ],
+                    "answer": 1,
+                    "why": "২০১১ সালে ঢাকা সিটি কর্পোরেশন ভেঙে ঢাকা উত্তর ও ঢাকা দক্ষিণ করা হয়।"
+                },
+                {
+                    "q": "আগরতলা মামলা কত সালে দায়ের করা হয়?",
+                    "options": [
+                        "১৯৬৬",
+                        "১৯৬৮",
+                        "১৯৬৯",
+                        "১৯৭১"
+                    ],
+                    "answer": 1,
+                    "why": "আগরতলা ষড়যন্ত্র মামলা ১৯৬৮ সালে দায়ের করা হয়।"
+                },
+                {
+                    "q": "আগরতলা মামলায় প্রধান আসামি কে ছিলেন?",
+                    "options": [
+                        "তাজউদ্দীন আহমদ",
+                        "শেখ মুজিবুর রহমান",
+                        "মাওলানা ভাসানী",
+                        "জিয়াউর রহমান"
+                    ],
+                    "answer": 1,
+                    "why": "আগরতলা মামলায় প্রধান আসামি ছিলেন শেখ মুজিবুর রহমান; মোট ৩৫ জন আসামি ছিলেন।"
+                },
+                {
+                    "q": "উপজেলা নির্বাহী কর্মকর্তার পদবি কী?",
+                    "options": [
+                        "UNO",
+                        "DC",
+                        "OC",
+                        "SP"
+                    ],
+                    "answer": 0,
+                    "why": "উপজেলা নির্বাহী কর্মকর্তাকে UNO (Upazila Nirbahi Officer) বলা হয়।"
+                },
+                {
+                    "q": "উপজেলা পরিষদের প্রধান কে?",
+                    "options": [
+                        "উপজেলা চেয়ারম্যান",
+                        "ইউএনও",
+                        "জেলা প্রশাসক",
+                        "মেয়র"
+                    ],
+                    "answer": 0,
+                    "why": "উপজেলা পরিষদের প্রধান নির্বাচিত উপজেলা চেয়ারম্যান।"
+                },
+                {
+                    "q": "ছয় দফা কর্মসূচি কে ঘোষণা করেন?",
+                    "options": [
+                        "শেখ মুজিবুর রহমান",
+                        "তাজউদ্দীন আহমদ",
+                        "মাওলানা ভাসানী",
+                        "এ কে ফজলুল হক"
+                    ],
+                    "answer": 0,
+                    "why": "শেখ মুজিবুর রহমান ১৯৬৬ সালে লাহোরে ছয় দফা কর্মসূচি ঘোষণা করেন।"
+                },
+                {
+                    "q": "ছয় দফাকে কী বলা হয়?",
+                    "options": [
+                        "বাঙালির মুক্তির সনদ",
+                        "স্বাধীনতার ঘোষণা",
+                        "সংবিধানের খসড়া",
+                        "গণতন্ত্রের সনদ"
+                    ],
+                    "answer": 0,
+                    "why": "ছয় দফাকে 'বাঙালির মুক্তির সনদ' বলা হয়।"
+                },
+                {
+                    "q": "জাতীয় বাজেট কে উপস্থাপন করেন?",
+                    "options": [
+                        "প্রধানমন্ত্রী",
+                        "অর্থমন্ত্রী",
+                        "বাংলাদেশ ব্যাংকের গভর্নর",
+                        "রাষ্ট্রপতি"
+                    ],
+                    "answer": 1,
+                    "why": "জাতীয় বাজেট অর্থমন্ত্রী জাতীয় সংসদে উপস্থাপন করেন।"
+                },
+                {
+                    "q": "রেমিট্যান্স বলতে কী বোঝায়?",
+                    "options": [
+                        "বিদেশে কর্মরতদের পাঠানো অর্থ",
+                        "বিদেশি ঋণ",
+                        "রপ্তানি আয়",
+                        "বিদেশি বিনিয়োগ"
+                    ],
+                    "answer": 0,
+                    "why": "রেমিট্যান্স হলো বিদেশে কর্মরত বাংলাদেশিদের দেশে পাঠানো অর্থ।"
+                },
+                {
+                    "q": "রেমিট্যান্স আয়ের ক্ষেত্রে বাংলাদেশের শীর্ষ উৎস দেশ কোনটি?",
+                    "options": [
+                        "যুক্তরাষ্ট্র",
+                        "সৌদি আরব",
+                        "যুক্তরাজ্য",
+                        "মালয়েশিয়া"
+                    ],
+                    "answer": 1,
+                    "why": "রেমিট্যান্স আয়ের ক্ষেত্রে সৌদি আরব বাংলাদেশের শীর্ষ উৎস দেশ।"
+                },
+                {
+                    "q": "ওআইসি (OIC) কত সালে প্রতিষ্ঠিত হয়?",
+                    "options": [
+                        "১৯৬৯",
+                        "১৯৭৫",
+                        "১৯৮৫",
+                        "১৯৯০"
+                    ],
+                    "answer": 0,
+                    "why": "ওআইসি (Organisation of Islamic Cooperation) ১৯৬৯ সালে প্রতিষ্ঠিত হয়; সদর দপ্তর জেদ্দায়।"
+                },
+                {
+                    "q": "বাংলাদেশ কমনওয়েলথের সদস্য হয় কত সালে?",
+                    "options": [
+                        "১৯৭২",
+                        "১৯৭৪",
+                        "১৯৭৬",
+                        "১৯৮০"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ ১৯৭২ সালের ১৮ এপ্রিল কমনওয়েলথের সদস্য হয়।"
+                },
+                {
+                    "q": "মুক্তিযুদ্ধের সময় ১১ নম্বর সেক্টরের সেক্টর কমান্ডার কে ছিলেন?",
+                    "options": [
+                        "আবু তাহের",
+                        "জিয়াউর রহমান",
+                        "খালেদ মোশাররফ",
+                        "এম এ জলিল"
+                    ],
+                    "answer": 0,
+                    "why": "১১ নম্বর সেক্টরের সেক্টর কমান্ডার ছিলেন কর্নেল আবু তাহের।"
+                },
+                {
+                    "q": "মুজিবনগর সরকার কত সালে গঠিত হয়?",
+                    "options": [
+                        "১৯৭১",
+                        "১৯৭২",
+                        "১৯৭০",
+                        "১৯৬৯"
+                    ],
+                    "answer": 0,
+                    "why": "মুজিবনগর সরকার ১৯৭১ সালের ১০ এপ্রিল গঠিত হয়; ১৭ এপ্রিল শপথ নেওয়া হয়।"
+                },
+                {
+                    "q": "মুজিবনগর সরকারের শপথ অনুষ্ঠান কোথায় হয়?",
+                    "options": [
+                        "ঢাকা",
+                        "বৈদ্যনাথতলা (মুজিবনগর)",
+                        "কলকাতা",
+                        "চট্টগ্রাম"
+                    ],
+                    "answer": 1,
+                    "why": "১৯৭১ সালের ১৭ এপ্রিল মেহেরপুরের বৈদ্যনাথতলায় (মুজিবনগর) শপথ অনুষ্ঠান হয়।"
+                },
+                {
+                    "q": "৭ মার্চের ভাষণ দেওয়া হয় কত সালে?",
+                    "options": [
+                        "১৯৬৯",
+                        "১৯৭০",
+                        "১৯৭১",
+                        "১৯৭২"
+                    ],
+                    "answer": 2,
+                    "why": "বঙ্গবন্ধুর ঐতিহাসিক ৭ মার্চের ভাষণ দেওয়া হয় ১৯৭১ সালে, ঢাকার রেসকোর্স ময়দানে।"
+                },
+                {
+                    "q": "বাংলাদেশের সংবিধানের কত নম্বর অনুচ্ছেদে জাতীয় সংগীত, পতাকা ও প্রতীকের কথা আছে?",
+                    "options": [
+                        "৩ নম্বর",
+                        "৪ নম্বর",
+                        "৫ নম্বর",
+                        "৭ নম্বর"
+                    ],
+                    "answer": 1,
+                    "why": "সংবিধানের ৪ নম্বর অনুচ্ছেদে জাতীয় সংগীত, পতাকা ও প্রতীকের কথা বলা হয়েছে।"
+                },
+                {
+                    "q": "বাংলাদেশের সংবিধানের কত নম্বর অনুচ্ছেদে নাগরিকত্বের কথা বলা হয়েছে?",
+                    "options": [
+                        "৪ নম্বর",
+                        "৫ নম্বর",
+                        "৬ নম্বর",
+                        "৭ নম্বর"
+                    ],
+                    "answer": 2,
+                    "why": "সংবিধানের ৬ নম্বর অনুচ্ছেদে নাগরিকত্বের কথা বলা হয়েছে।"
+                },
+                {
+                    "q": "বাংলাদেশের সংবিধানের কত নম্বর অনুচ্ছেদে জাতীয় সংসদের কথা বলা হয়েছে?",
+                    "options": [
+                        "৪৮ নম্বর",
+                        "৫৫ নম্বর",
+                        "৬৫ নম্বর",
+                        "৭২ নম্বর"
+                    ],
+                    "answer": 2,
+                    "why": "সংবিধানের ৬৫ নম্বর অনুচ্ছেদে জাতীয় সংসদ প্রতিষ্ঠার কথা বলা হয়েছে।"
+                },
+                {
+                    "q": "ভাষা আন্দোলনে ঢাকা বিশ্ববিদ্যালয়ের ছাত্ররা কত সালে প্রথম ধর্মঘট পালন করে?",
+                    "options": [
+                        "১৯৪৮",
+                        "১৯৫২",
+                        "১৯৫৪",
+                        "১৯৫৬"
+                    ],
+                    "answer": 0,
+                    "why": "১৯৪৮ সালের ১১ মার্চ ঢাকা বিশ্ববিদ্যালয়ের ছাত্ররা ভাষার দাবিতে ধর্মঘট পালন করে।"
+                },
+                {
+                    "q": "ধীরেন্দ্রনাথ দত্ত কত সালে গণপরিষদে বাংলাকে রাষ্ট্রভাষা করার দাবি তোলেন?",
+                    "options": [
+                        "১৯৪৭",
+                        "১৯৪৮",
+                        "১৯৫২",
+                        "১৯৫৪"
+                    ],
+                    "answer": 1,
+                    "why": "ধীরেন্দ্রনাথ দত্ত ১৯৪৮ সালের ২৩ ফেব্রুয়ারি গণপরিষদে বাংলাকে রাষ্ট্রভাষা করার দাবি তোলেন।"
+                },
+                {
+                    "q": "বঙ্গবন্ধু জাতিসংঘে বাংলায় ভাষণ দেন কবে?",
+                    "options": [
+                        "২৫ সেপ্টেম্বর ১৯৭৪",
+                        "১৭ সেপ্টেম্বর ১৯৭৪",
+                        "১৬ ডিসেম্বর ১৯৭২",
+                        "৭ মার্চ ১৯৭১"
+                    ],
+                    "answer": 0,
+                    "why": "বঙ্গবন্ধু ১৯৭৪ সালের ২৫ সেপ্টেম্বর জাতিসংঘের সাধারণ পরিষদে বাংলায় ভাষণ দেন।"
+                },
+                {
+                    "q": "সুন্দরবন বিশ্ব ঐতিহ্য হিসেবে স্বীকৃতি পায় কত সালে?",
+                    "options": [
+                        "১৯৯২",
+                        "১৯৯৭",
+                        "২০০১",
+                        "২০০৭"
+                    ],
+                    "answer": 1,
+                    "why": "সুন্দরবন ১৯৯৭ সালে ইউনেস্কোর বিশ্ব ঐতিহ্য হিসেবে স্বীকৃতি পায়।"
+                },
+                {
+                    "q": "রংপুর বিভাগ কত সালে গঠিত হয়?",
+                    "options": [
+                        "২০০৯",
+                        "২০১০",
+                        "২০১৫",
+                        "২০১৭"
+                    ],
+                    "answer": 1,
+                    "why": "রংপুর বিভাগ ২০১০ সালে গঠিত হয়।"
+                },
+                {
+                    "q": "খুলনা বিভাগ কোন নদীর তীরে অবস্থিত?",
+                    "options": [
+                        "পদ্মা",
+                        "রূপসা",
+                        "মেঘনা",
+                        "যমুনা"
+                    ],
+                    "answer": 1,
+                    "why": "খুলনা শহর রূপসা ও ভৈরব নদীর তীরে অবস্থিত।"
+                },
+                {
+                    "q": "সুন্দরবনের কত শতাংশ বাংলাদেশে অবস্থিত?",
+                    "options": [
+                        "প্রায় ৬০%",
+                        "প্রায় ৭০%",
+                        "প্রায় ৮০%",
+                        "প্রায় ৯০%"
+                    ],
+                    "answer": 0,
+                    "why": "সুন্দরবনের প্রায় ৬০% বাংলাদেশে এবং প্রায় ৪০% ভারতে অবস্থিত।"
+                },
+                {
+                    "q": "বান্দরবান জেলা কোন বিভাগে অবস্থিত?",
+                    "options": [
+                        "ঢাকা",
+                        "সিলেট",
+                        "চট্টগ্রাম",
+                        "খুলনা"
+                    ],
+                    "answer": 2,
+                    "why": "বান্দরবান চট্টগ্রাম বিভাগের পার্বত্য জেলা।"
+                },
+                {
+                    "q": "বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ সাকা হাফং কোন জেলায় অবস্থিত?",
+                    "options": [
+                        "রাঙ্গামাটি",
+                        "বান্দরবান",
+                        "খাগড়াছড়ি",
+                        "কক্সবাজার"
+                    ],
+                    "answer": 1,
+                    "why": "সাকা হাফং বান্দরবান জেলার থানচি উপজেলায় অবস্থিত।"
+                },
+                {
+                    "q": "মংলা বন্দর কোন জেলায় অবস্থিত?",
+                    "options": [
+                        "খুলনা",
+                        "বাগেরহাট",
+                        "বরিশাল",
+                        "সাতক্ষীরা"
+                    ],
+                    "answer": 1,
+                    "why": "মংলা সমুদ্রবন্দর বাগেরহাট জেলায় অবস্থিত।"
                 }
             ]
         },
@@ -91154,6 +92650,270 @@
                     ],
                     "answer": 0,
                     "why": "ইন্টারনেটে তথ্য খুঁজতে সার্চ ইঞ্জিন (যেমন Google) ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সুইচ (Switch) কোন ঠিকানা দেখে ডেটা পাঠায়?",
+                    "options": [
+                        "IP ঠিকানা",
+                        "MAC ঠিকানা",
+                        "ডোমেইন নাম",
+                        "পোর্ট নম্বর"
+                    ],
+                    "answer": 1,
+                    "why": "সুইচ MAC ঠিকানা দেখে নির্দিষ্ট ডিভাইসে ডেটা পাঠায়।"
+                },
+                {
+                    "q": "ব্যান্ডউইথ (Bandwidth) বলতে কী বোঝায়?",
+                    "options": [
+                        "কম্পিউটারের ওজন",
+                        "নির্দিষ্ট সময়ে সর্বোচ্চ ডেটা স্থানান্তরের হার",
+                        "মেমোরির আকার",
+                        "মনিটরের আকার"
+                    ],
+                    "answer": 1,
+                    "why": "ব্যান্ডউইথ হলো নির্দিষ্ট সময়ে সর্বোচ্চ ডেটা স্থানান্তরের হার; একক bps।"
+                },
+                {
+                    "q": "NIC-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "Network Interface Card",
+                        "National Internet Card",
+                        "Network Internet Cable",
+                        "New Interface Computer"
+                    ],
+                    "answer": 0,
+                    "why": "NIC = Network Interface Card; এটি কম্পিউটারকে নেটওয়ার্কে যুক্ত করে।"
+                },
+                {
+                    "q": "গেটওয়ে (Gateway) কী?",
+                    "options": [
+                        "দুটি ভিন্ন প্রোটোকলের নেটওয়ার্ককে সংযুক্তকারী ডিভাইস",
+                        "একটি অ্যান্টিভাইরাস",
+                        "একটি ওয়েব ব্রাউজার",
+                        "একটি স্টোরেজ ডিভাইস"
+                    ],
+                    "answer": 0,
+                    "why": "গেটওয়ে ভিন্ন প্রোটোকলের দুটি নেটওয়ার্ককে সংযুক্ত করে।"
+                },
+                {
+                    "q": "রিপিটার (Repeater) কী করে?",
+                    "options": [
+                        "ডেটা মুছে ফেলে",
+                        "দুর্বল সংকেতকে শক্তিশালী করে পুনরায় পাঠায়",
+                        "নেটওয়ার্ক বন্ধ করে দেয়",
+                        "ফাইল এনক্রিপ্ট করে"
+                    ],
+                    "answer": 1,
+                    "why": "রিপিটার দুর্বল নেটওয়ার্ক সংকেতকে শক্তিশালী করে দূরে পাঠায়।"
+                },
+                {
+                    "q": "হাব (Hub) ও সুইচের মূল পার্থক্য কী?",
+                    "options": [
+                        "হাব সব পোর্টে ডেটা পাঠায়, সুইচ নির্দিষ্ট পোর্টে পাঠায়",
+                        "হাব দ্রুততর",
+                        "সুইচে কোনো পোর্ট থাকে না",
+                        "হাব তারবিহীন"
+                    ],
+                    "answer": 0,
+                    "why": "হাব প্রাপ্ত ডেটা সব পোর্টে ছড়িয়ে দেয়; সুইচ MAC ঠিকানা দেখে নির্দিষ্ট পোর্টে পাঠায়।"
+                },
+                {
+                    "q": "ব্রিজ (Bridge) কী সংযুক্ত করে?",
+                    "options": [
+                        "দুটি LAN অংশকে",
+                        "কম্পিউটার ও প্রিন্টারকে",
+                        "দুটি ওয়েবসাইটকে",
+                        "RAM ও CPU-কে"
+                    ],
+                    "answer": 0,
+                    "why": "ব্রিজ একই প্রোটোকলের দুটি LAN অংশকে সংযুক্ত করে।"
+                },
+                {
+                    "q": "মনিটরের কোন ধরনটি সবচেয়ে পুরোনো?",
+                    "options": [
+                        "LED",
+                        "LCD",
+                        "CRT",
+                        "OLED"
+                    ],
+                    "answer": 2,
+                    "why": "CRT (Cathode Ray Tube) মনিটর সবচেয়ে পুরোনো ধরন।"
+                },
+                {
+                    "q": "কোন প্রিন্টারটি ছাপার কাজে সবচেয়ে দ্রুত?",
+                    "options": [
+                        "ডট ম্যাট্রিক্স",
+                        "ইঙ্কজেট",
+                        "লেজার",
+                        "থার্মাল"
+                    ],
+                    "answer": 2,
+                    "why": "লেজার প্রিন্টার বড় পরিমাণ ছাপার কাজে সবচেয়ে দ্রুত।"
+                },
+                {
+                    "q": "স্ক্যানারের কাজ কী?",
+                    "options": [
+                        "কাগজের লেখা বা ছবিকে ডিজিটাল রূপে নেওয়া",
+                        "ডেটা মুদ্রণ করা",
+                        "শব্দ রেকর্ড করা",
+                        "ভিডিও চালানো"
+                    ],
+                    "answer": 0,
+                    "why": "স্ক্যানার কাগজের লেখা বা ছবিকে ডিজিটাল তথ্যে রূপান্তর করে।"
+                },
+                {
+                    "q": "HDD ও SSD-এর মূল পার্থক্য কী?",
+                    "options": [
+                        "HDD চুম্বকীয় ডিস্কে, SSD ফ্ল্যাশ মেমোরিতে তথ্য রাখে",
+                        "HDD দ্রুততর",
+                        "SSD-তে চলমান অংশ থাকে",
+                        "HDD-তে কোনো ডিস্ক থাকে না"
+                    ],
+                    "answer": 0,
+                    "why": "HDD চুম্বকীয় ঘূর্ণায়মান ডিস্কে তথ্য রাখে; SSD ফ্ল্যাশ মেমোরি ব্যবহার করে, তাই দ্রুত ও চলমান অংশহীন।"
+                },
+                {
+                    "q": "ROM-এর বৈশিষ্ট্য কী?",
+                    "options": [
+                        "বিদ্যুৎ গেলে তথ্য মুছে যায়",
+                        "বিদ্যুৎ গেলেও তথ্য থাকে",
+                        "এটি লেখা যায় না কখনোই",
+                        "এটি CPU-এর অংশ নয়"
+                    ],
+                    "answer": 1,
+                    "why": "ROM স্থায়ী (non-volatile) মেমোরি; বিদ্যুৎ গেলেও তথ্য থেকে যায়।"
+                },
+                {
+                    "q": "কম্পিউটারে 'বাস' (Bus) বলতে কী বোঝায়?",
+                    "options": [
+                        "একটি যানবাহন",
+                        "উপাদানগুলোর মধ্যে তথ্য আদান-প্রদানের পথ",
+                        "একটি ভাইরাস",
+                        "একটি ফাইল ফরম্যাট"
+                    ],
+                    "answer": 1,
+                    "why": "বাস হলো কম্পিউটারের উপাদানগুলোর মধ্যে তথ্য চলাচলের পথ (ডেটা বাস, অ্যাড্রেস বাস, কন্ট্রোল বাস)।"
+                },
+                {
+                    "q": "ডেটা মাইনিং (Data Mining) কী?",
+                    "options": [
+                        "খনি থেকে ডেটা তোলা",
+                        "বড় তথ্যভাণ্ডার থেকে লুকানো ধারা ও তথ্য খুঁজে বের করা",
+                        "ডেটা মুছে ফেলা",
+                        "ডেটা কপি করা"
+                    ],
+                    "answer": 1,
+                    "why": "ডেটা মাইনিং হলো বড় তথ্যভাণ্ডার থেকে উপযোগী ধারা ও তথ্য আবিষ্কারের প্রক্রিয়া।"
+                },
+                {
+                    "q": "ফ্রিওয়্যার (Freeware) কী?",
+                    "options": [
+                        "বিনামূল্যে ব্যবহারযোগ্য সফটওয়্যার",
+                        "ভাইরাসযুক্ত সফটওয়্যার",
+                        "ট্রায়াল সফটওয়্যার",
+                        "চুরি করা সফটওয়্যার"
+                    ],
+                    "answer": 0,
+                    "why": "ফ্রিওয়্যার বিনামূল্যে ব্যবহার করা যায়; তবে সোর্স কোড সাধারণত উন্মুক্ত থাকে না।"
+                },
+                {
+                    "q": "শেয়ারওয়্যার (Shareware) কী?",
+                    "options": [
+                        "নির্দিষ্ট সময় বিনামূল্যে ব্যবহার করে পরে কিনতে হয় এমন সফটওয়্যার",
+                        "সবসময় বিনামূল্যের সফটওয়্যার",
+                        "সরকারি সফটওয়্যার",
+                        "ওপেন সোর্স সফটওয়্যার"
+                    ],
+                    "answer": 0,
+                    "why": "শেয়ারওয়্যার ট্রায়াল সময় শেষে কিনে ব্যবহার করতে হয়।"
+                },
+                {
+                    "q": "প্রোপ্রাইটারি সফটওয়্যারের উদাহরণ কোনটি?",
+                    "options": [
+                        "Linux",
+                        "Microsoft Windows",
+                        "LibreOffice",
+                        "Mozilla Firefox"
+                    ],
+                    "answer": 1,
+                    "why": "Microsoft Windows প্রোপ্রাইটারি সফটওয়্যার; এর সোর্স কোড মালিকানাধীন।"
+                },
+                {
+                    "q": "ই-গভর্ন্যান্স (e-Governance) কী?",
+                    "options": [
+                        "ই-মেইল পাঠানো",
+                        "তথ্যপ্রযুক্তি ব্যবহার করে সরকারি সেবা দেওয়া",
+                        "অনলাইন গেম খেলা",
+                        "সরকারি ওয়েবসাইট বন্ধ করা"
+                    ],
+                    "answer": 1,
+                    "why": "ই-গভর্ন্যান্স হলো তথ্যপ্রযুক্তির মাধ্যমে সরকারি সেবা জনগণের কাছে পৌঁছে দেওয়া।"
+                },
+                {
+                    "q": "বাংলাদেশের তথ্য অধিকার আইন কত সালে প্রণীত হয়?",
+                    "options": [
+                        "২০০৬",
+                        "২০০৯",
+                        "২০১৩",
+                        "২০১৮"
+                    ],
+                    "answer": 1,
+                    "why": "তথ্য অধিকার আইন ২০০৯ সালে প্রণীত হয়।"
+                },
+                {
+                    "q": "SMTP-এর জন্য কোন পোর্ট ব্যবহৃত হয়?",
+                    "options": [
+                        "২১",
+                        "২৫",
+                        "৫৩",
+                        "১১০"
+                    ],
+                    "answer": 1,
+                    "why": "SMTP (ই-মেইল পাঠানো)-এর জন্য পোর্ট ২৫ ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ক্লাউড কম্পিউটিংয়ে PaaS-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "Platform as a Service",
+                        "Program as a Service",
+                        "Product as a Service",
+                        "Payment as a Service"
+                    ],
+                    "answer": 0,
+                    "why": "PaaS = Platform as a Service; যেমন Google App Engine।"
+                },
+                {
+                    "q": "ইউনিকোড (Unicode) কেন ব্যবহৃত হয়?",
+                    "options": [
+                        "বিশ্বের সব ভাষার অক্ষর একই কোডে প্রকাশ করতে",
+                        "শুধু ইংরেজি লিখতে",
+                        "ফাইল সংকুচিত করতে",
+                        "ভাইরাস ধরতে"
+                    ],
+                    "answer": 0,
+                    "why": "ইউনিকোড বিশ্বের প্রায় সব ভাষার অক্ষর একই কোড পদ্ধতিতে প্রকাশ করে।"
+                },
+                {
+                    "q": "ই-মেইলের পূর্ণরূপ কী?",
+                    "options": [
+                        "Electric Mail",
+                        "Electronic Mail",
+                        "Express Mail",
+                        "Emergency Mail"
+                    ],
+                    "answer": 1,
+                    "why": "ই-মেইল = Electronic Mail।"
+                },
+                {
+                    "q": "ফিশিং আক্রমণে কী করা হয়?",
+                    "options": [
+                        "ভুয়া ওয়েবসাইট বা মেইলে পাসওয়ার্ড হাতিয়ে নেওয়া",
+                        "কম্পিউটার দ্রুত করা",
+                        "ফাইল ব্যাকআপ নেওয়া",
+                        "নেটওয়ার্কের গতি বাড়ানো"
+                    ],
+                    "answer": 0,
+                    "why": "ফিশিংয়ে ভুয়া ওয়েবসাইট বা মেইলের মাধ্যমে ব্যবহারকারীর পাসওয়ার্ড ও তথ্য হাতিয়ে নেওয়া হয়।"
                 }
             ]
         }
