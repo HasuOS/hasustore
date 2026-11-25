@@ -1,6 +1,6 @@
 {
-    "version": 56,
-    "generatedAt": 1795593070,
+    "version": 57,
+    "generatedAt": 1795594834,
     "subjects": [
         {
             "id": "bangla",
@@ -19809,6 +19809,402 @@
                     ],
                     "answer": 1,
                     "why": "'আলালের ঘরের দুলাল' বাগধারার অর্থ ধনীর অতি আদুরে ছেলে।"
+                },
+                {
+                    "q": "বাংলা সাহিত্যের মধ্যযুগের সময়কাল কোনটি?",
+                    "options": [
+                        "৬৫০–১২০০ সাল",
+                        "১২০১–১৮০০ সাল",
+                        "১৮০১–১৯০০ সাল",
+                        "১৯০১–১৯৪৭ সাল"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলা সাহিত্যের মধ্যযুগ ধরা হয় ১২০১ থেকে ১৮০০ সাল পর্যন্ত।"
+                },
+                {
+                    "q": "ধর্মমঙ্গল কাব্যের রচয়িতা কে?",
+                    "options": [
+                        "মুকুন্দরাম চক্রবর্তী",
+                        "বিজয়গুপ্ত",
+                        "ঘনারাম চক্রবর্তী",
+                        "কেতকাদাস ক্ষেমানন্দ"
+                    ],
+                    "answer": 2,
+                    "why": "ধর্মমঙ্গল কাব্যের রচয়িতা ঘনারাম চক্রবর্তী।"
+                },
+                {
+                    "q": "'অন্নদামঙ্গল' কাব্য রচিত হয় কত সালে?",
+                    "options": [
+                        "১৬৫০ সালে",
+                        "১৭৫২ সালে",
+                        "১৮০০ সালে",
+                        "১৮৫০ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "'অন্নদামঙ্গল' কাব্য ১৭৫২ সালে রচিত হয়।"
+                },
+                {
+                    "q": "মধ্যযুগের প্রথম মুসলিম কবি কে?",
+                    "options": [
+                        "আলাওল",
+                        "শাহ মুহম্মদ সগীর",
+                        "দৌলত কাজী",
+                        "সৈয়দ সুলতান"
+                    ],
+                    "answer": 1,
+                    "why": "মধ্যযুগের প্রথম মুসলিম কবি শাহ মুহম্মদ সগীর; তাঁর রচনা 'ইউসুফ-জুলেখা'।"
+                },
+                {
+                    "q": "বৈষ্ণব পদাবলির শ্রেষ্ঠ কবি কে?",
+                    "options": [
+                        "জ্ঞানদাস",
+                        "চণ্ডীদাস",
+                        "গোবিন্দদাস",
+                        "বলরাম দাস"
+                    ],
+                    "answer": 1,
+                    "why": "বৈষ্ণব পদাবলির শ্রেষ্ঠ কবি চণ্ডীদাস।"
+                },
+                {
+                    "q": "'শ্রীকৃষ্ণকীর্তন' কাব্য আবিষ্কৃত হয় কত সালে?",
+                    "options": [
+                        "১৮৯০ সালে",
+                        "১৯০৯ সালে",
+                        "১৯২০ সালে",
+                        "১৯৩৫ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "'শ্রীকৃষ্ণকীর্তন' কাব্য ১৯০৯ সালে আবিষ্কৃত হয়।"
+                },
+                {
+                    "q": "দৌলত কাজী কোন কাব্য রচনা করেন?",
+                    "options": [
+                        "পদ্মাবতী",
+                        "সতীময়না (লোরচন্দ্রানী)",
+                        "ইউসুফ-জুলেখা",
+                        "চণ্ডীমঙ্গল"
+                    ],
+                    "answer": 1,
+                    "why": "দৌলত কাজী 'সতীময়না' (লোরচন্দ্রানী) কাব্য রচনা করেন।"
+                },
+                {
+                    "q": "মধ্যযুগের শ্রেষ্ঠ রামায়ণ অনুবাদক কে?",
+                    "options": [
+                        "কাশীরাম দাস",
+                        "কৃত্তিবাস ওঝা",
+                        "মালাধর বসু",
+                        "বিজয়গুপ্ত"
+                    ],
+                    "answer": 1,
+                    "why": "কৃত্তিবাস ওঝা রামায়ণ বাংলায় অনুবাদ করেন; তাঁর রামায়ণ 'কৃত্তিবাসী রামায়ণ' নামে পরিচিত।"
+                },
+                {
+                    "q": "মহাভারত বাংলায় অনুবাদ করেন কে?",
+                    "options": [
+                        "কৃত্তিবাস ওঝা",
+                        "কাশীরাম দাস",
+                        "মালাধর বসু",
+                        "আলাওল"
+                    ],
+                    "answer": 1,
+                    "why": "কাশীরাম দাস মহাভারত বাংলায় অনুবাদ করেন।"
+                },
+                {
+                    "q": "ঈশ্বরচন্দ্র বিদ্যাসাগর কবে জন্মগ্রহণ করেন?",
+                    "options": [
+                        "১৮০০ সালে",
+                        "১৮২০ সালে",
+                        "১৮৪০ সালে",
+                        "১৮৬০ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "ঈশ্বরচন্দ্র বিদ্যাসাগর ১৮২০ সালের ২৬ সেপ্টেম্বর জন্মগ্রহণ করেন।"
+                },
+                {
+                    "q": "ঈশ্বরচন্দ্র বিদ্যাসাগরের আসল নাম কী?",
+                    "options": [
+                        "ঈশ্বরচন্দ্র মুখোপাধ্যায়",
+                        "ঈশ্বরচন্দ্র বন্দ্যোপাধ্যায়",
+                        "ঈশ্বরচন্দ্র চট্টোপাধ্যায়",
+                        "ঈশ্বরচন্দ্র ঘোষ"
+                    ],
+                    "answer": 1,
+                    "why": "ঈশ্বরচন্দ্র বিদ্যাসাগরের আসল নাম ঈশ্বরচন্দ্র বন্দ্যোপাধ্যায়।"
+                },
+                {
+                    "q": "'বর্ণপরিচয়' প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৮৩৫ সালে",
+                        "১৮৫৫ সালে",
+                        "১৮৭৫ সালে",
+                        "১৮৯৫ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "'বর্ণপরিচয়' ১৮৫৫ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "বিধবা বিবাহ আইন পাস হয় কবে?",
+                    "options": [
+                        "১৮২৯ সালে",
+                        "১৮৫৬ সালে",
+                        "১৮৭২ সালে",
+                        "১৮৯১ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "বিধবা বিবাহ আইন ১৮৫৬ সালে পাস হয়; এর পেছনে ঈশ্বরচন্দ্র বিদ্যাসাগরের বড় ভূমিকা ছিল।"
+                },
+                {
+                    "q": "মাইকেল মধুসূদন দত্ত কবে জন্মগ্রহণ করেন?",
+                    "options": [
+                        "১৮০০ সালে",
+                        "১৮২৪ সালে",
+                        "১৮৪০ সালে",
+                        "১৮৬০ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "মাইকেল মধুসূদন দত্ত ১৮২৪ সালের ২৫ জানুয়ারি জন্মগ্রহণ করেন।"
+                },
+                {
+                    "q": "'মেঘনাদবধ কাব্য' কয়টি সর্গে বিভক্ত?",
+                    "options": [
+                        "৫টি",
+                        "৭টি",
+                        "৯টি",
+                        "১২টি"
+                    ],
+                    "answer": 2,
+                    "why": "'মেঘনাদবধ কাব্য' ৯টি সর্গে বিভক্ত।"
+                },
+                {
+                    "q": "বাংলা সাহিত্যের প্রথম সনেট রচয়িতা কে?",
+                    "options": [
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "মাইকেল মধুসূদন দত্ত",
+                        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                        "ঈশ্বরচন্দ্র গুপ্ত"
+                    ],
+                    "answer": 1,
+                    "why": "মাইকেল মধুসূদন দত্ত বাংলা সাহিত্যের প্রথম সনেট রচনা করেন।"
+                },
+                {
+                    "q": "'নন্দিত নরকে' কার প্রথম উপন্যাস?",
+                    "options": [
+                        "হুমায়ূন আহমেদ",
+                        "শীর্ষেন্দু মুখোপাধ্যায়",
+                        "সুনীল গঙ্গোপাধ্যায়",
+                        "সমরেশ মজুমদার"
+                    ],
+                    "answer": 0,
+                    "why": "'নন্দিত নরকে' হুমায়ূন আহমেদের প্রথম উপন্যাস।"
+                },
+                {
+                    "q": "'কবর' নাটক রচিত হয় কবে?",
+                    "options": [
+                        "১৯৪৭ সালে",
+                        "১৯৫৩ সালে",
+                        "১৯৬৩ সালে",
+                        "১৯৭৩ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "'কবর' নাটক ১৯৫৩ সালে ভাষা আন্দোলনের প্রেক্ষাপটে রচিত হয়।"
+                },
+                {
+                    "q": "'চণ্ডালিকা' নাটকের রচয়িতা কে?",
+                    "options": [
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "নজরুল ইসলাম",
+                        "জসীমউদ্দীন",
+                        "সুকান্ত ভট্টাচার্য"
+                    ],
+                    "answer": 0,
+                    "why": "'চণ্ডালিকা' নাটকের রচয়িতা রবীন্দ্রনাথ ঠাকুর।"
+                },
+                {
+                    "q": "'নবান্ন' নাটকের রচয়িতা কে?",
+                    "options": [
+                        "বিজন ভট্টাচার্য",
+                        "উৎপল দত্ত",
+                        "বাদল সরকার",
+                        "শম্ভু মিত্র"
+                    ],
+                    "answer": 0,
+                    "why": "'নবান্ন' নাটকের রচয়িতা বিজন ভট্টাচার্য।"
+                },
+                {
+                    "q": "প্রথম বাংলা দৈনিক পত্রিকা কোনটি?",
+                    "options": [
+                        "সমাচার দর্পণ",
+                        "সংবাদ প্রভাকর",
+                        "বঙ্গদর্শন",
+                        "সবুজপত্র"
+                    ],
+                    "answer": 1,
+                    "why": "প্রথম বাংলা দৈনিক পত্রিকা 'সংবাদ প্রভাকর' (১৮৩১)।"
+                },
+                {
+                    "q": "'সংবাদ প্রভাকর' পত্রিকা কে প্রকাশ করেন?",
+                    "options": [
+                        "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+                        "ঈশ্বরচন্দ্র গুপ্ত",
+                        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                        "অক্ষয়কুমার দত্ত"
+                    ],
+                    "answer": 1,
+                    "why": "'সংবাদ প্রভাকর' পত্রিকা প্রকাশ করেন ঈশ্বরচন্দ্র গুপ্ত।"
+                },
+                {
+                    "q": "'সওগাত' পত্রিকার সম্পাদক কে ছিলেন?",
+                    "options": [
+                        "মোহাম্মদ নাসিরউদ্দীন",
+                        "কাজী নজরুল ইসলাম",
+                        "আবুল কালাম শামসুদ্দীন",
+                        "বেগম রোকেয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'সওগাত' পত্রিকার সম্পাদক ছিলেন মোহাম্মদ নাসিরউদ্দীন।"
+                },
+                {
+                    "q": "'প্রবাসী' পত্রিকার সম্পাদক কে ছিলেন?",
+                    "options": [
+                        "রামানন্দ চট্টোপাধ্যায়",
+                        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                        "ঈশ্বরচন্দ্র গুপ্ত",
+                        "প্রমথ চৌধুরী"
+                    ],
+                    "answer": 0,
+                    "why": "'প্রবাসী' পত্রিকার সম্পাদক ছিলেন রামানন্দ চট্টোপাধ্যায়।"
+                },
+                {
+                    "q": "'প্রতিদিন' শব্দটি কোন সমাসের উদাহরণ?",
+                    "options": [
+                        "দ্বন্দ্ব সমাস",
+                        "অব্যয়ীভাব সমাস",
+                        "তৎপুরুষ সমাস",
+                        "বহুব্রীহি সমাস"
+                    ],
+                    "answer": 1,
+                    "why": "'প্রতিদিন' (প্রতি দিন) অব্যয়ীভাব সমাসের উদাহরণ।"
+                },
+                {
+                    "q": "'মনমাঝি' শব্দটি কোন সমাসের উদাহরণ?",
+                    "options": [
+                        "উপমিত কর্মধারয়",
+                        "রূপক কর্মধারয়",
+                        "উপমান কর্মধারয়",
+                        "দ্বিগু সমাস"
+                    ],
+                    "answer": 1,
+                    "why": "'মনমাঝি' (মন রূপ মাঝি) রূপক কর্মধারয় সমাসের উদাহরণ।"
+                },
+                {
+                    "q": "'চাঁদমুখ' শব্দটি কোন সমাসের উদাহরণ?",
+                    "options": [
+                        "রূপক কর্মধারয়",
+                        "উপমিত কর্মধারয়",
+                        "উপমান কর্মধারয়",
+                        "দ্বন্দ্ব সমাস"
+                    ],
+                    "answer": 1,
+                    "why": "'চাঁদমুখ' (চাঁদের মতো মুখ) উপমিত কর্মধারয় সমাসের উদাহরণ।"
+                },
+                {
+                    "q": "'অপকার' শব্দে কোন উপসর্গ যুক্ত হয়েছে?",
+                    "options": [
+                        "অ",
+                        "অপ",
+                        "অতি",
+                        "অনু"
+                    ],
+                    "answer": 1,
+                    "why": "'অপকার' শব্দে 'অপ' উপসর্গ যুক্ত হয়েছে।"
+                },
+                {
+                    "q": "'স্বাধীনতা'-এর বিপরীতার্থক শব্দ কোনটি?",
+                    "options": [
+                        "মুক্তি",
+                        "পরাধীনতা",
+                        "স্বাধীন",
+                        "স্বেচ্ছা"
+                    ],
+                    "answer": 1,
+                    "why": "'স্বাধীনতা'-এর বিপরীতার্থক শব্দ 'পরাধীনতা'।"
+                },
+                {
+                    "q": "'অমৃত'-এর সমার্থক শব্দ কোনটি?",
+                    "options": [
+                        "বিষ",
+                        "সুধা",
+                        "অগ্নি",
+                        "জল"
+                    ],
+                    "answer": 1,
+                    "why": "'অমৃত'-এর সমার্থক শব্দ 'সুধা'।"
+                },
+                {
+                    "q": "'অগ্নি'-এর সমার্থক শব্দ কোনটি?",
+                    "options": [
+                        "জল",
+                        "অনল",
+                        "বায়ু",
+                        "মাটি"
+                    ],
+                    "answer": 1,
+                    "why": "'অগ্নি'-এর সমার্থক শব্দ 'অনল'।"
+                },
+                {
+                    "q": "'সাগর'-এর সমার্থক শব্দ কোনটি?",
+                    "options": [
+                        "নদী",
+                        "সমুদ্র",
+                        "পাহাড়",
+                        "আকাশ"
+                    ],
+                    "answer": 1,
+                    "why": "'সাগর'-এর সমার্থক শব্দ 'সমুদ্র' (অর্ণবও হয়)।"
+                },
+                {
+                    "q": "'পাকা হাত' বাগধারার অর্থ কী?",
+                    "options": [
+                        "অনভিজ্ঞতা",
+                        "অভিজ্ঞতা",
+                        "অলসতা",
+                        "পরিশ্রম"
+                    ],
+                    "answer": 1,
+                    "why": "'পাকা হাত' বাগধারার অর্থ অভিজ্ঞতা বা দক্ষতা।"
+                },
+                {
+                    "q": "'মাথার মণি' বাগধারার অর্থ কী?",
+                    "options": [
+                        "বোঝা",
+                        "অত্যন্ত প্রিয় ব্যক্তি",
+                        "শত্রু",
+                        "অজানা লোক"
+                    ],
+                    "answer": 1,
+                    "why": "'মাথার মণি' বাগধারার অর্থ অত্যন্ত প্রিয় ব্যক্তি।"
+                },
+                {
+                    "q": "'গলার কাঁটা' বাগধারার অর্থ কী?",
+                    "options": [
+                        "অলংকার",
+                        "অন্তরায় বা বাধা",
+                        "প্রিয়জন",
+                        "খাবার"
+                    ],
+                    "answer": 1,
+                    "why": "'গলার কাঁটা' বাগধারার অর্থ অন্তরায় বা বাধা।"
+                },
+                {
+                    "q": "'হাতের মুঠোয়' বাগধারার অর্থ কী?",
+                    "options": [
+                        "হারিয়ে যাওয়া",
+                        "আয়ত্তে থাকা",
+                        "দূরে থাকা",
+                        "ভুলে যাওয়া"
+                    ],
+                    "answer": 1,
+                    "why": "'হাতের মুঠোয়' বাগধারার অর্থ আয়ত্তে থাকা।"
                 }
             ]
         },
@@ -38197,6 +38593,633 @@
                     ],
                     "answer": 1,
                     "why": "The opposite of 'natural' is 'artificial'."
+                },
+                {
+                    "q": "Eye : See :: Ear : ?",
+                    "options": [
+                        "Smell",
+                        "Hear",
+                        "Touch",
+                        "Taste"
+                    ],
+                    "answer": 1,
+                    "why": "The eye is used to see, just as the ear is used to hear."
+                },
+                {
+                    "q": "Cat : Kitten :: Dog : ?",
+                    "options": [
+                        "Cub",
+                        "Puppy",
+                        "Calf",
+                        "Chick"
+                    ],
+                    "answer": 1,
+                    "why": "A baby cat is a kitten, just as a baby dog is a puppy."
+                },
+                {
+                    "q": "Cow : Calf :: Horse : ?",
+                    "options": [
+                        "Lamb",
+                        "Foal",
+                        "Kid",
+                        "Cub"
+                    ],
+                    "answer": 1,
+                    "why": "A baby cow is a calf, just as a baby horse is a foal."
+                },
+                {
+                    "q": "If he ___ hard, he will pass the exam.",
+                    "options": [
+                        "worked",
+                        "works",
+                        "working",
+                        "work"
+                    ],
+                    "answer": 1,
+                    "why": "First conditional: If he works hard, he will pass the exam."
+                },
+                {
+                    "q": "Had I known the truth, I ___ come earlier.",
+                    "options": [
+                        "will",
+                        "would",
+                        "would have",
+                        "had"
+                    ],
+                    "answer": 2,
+                    "why": "Third conditional: Had I known the truth, I would have come earlier."
+                },
+                {
+                    "q": "If you had studied well, you ___ passed the test.",
+                    "options": [
+                        "will",
+                        "would",
+                        "would have",
+                        "had"
+                    ],
+                    "answer": 2,
+                    "why": "Third conditional: If you had studied well, you would have passed the test."
+                },
+                {
+                    "q": "Unless you work hard, you ___ succeed.",
+                    "options": [
+                        "will",
+                        "will not",
+                        "would",
+                        "can"
+                    ],
+                    "answer": 1,
+                    "why": "Unless means 'if not': Unless you work hard, you will not succeed."
+                },
+                {
+                    "q": "If I ___ rich, I would help the poor.",
+                    "options": [
+                        "am",
+                        "was",
+                        "were",
+                        "be"
+                    ],
+                    "answer": 2,
+                    "why": "Second conditional uses 'were' after 'if I': If I were rich, I would help the poor."
+                },
+                {
+                    "q": "I ___ just finished my work.",
+                    "options": [
+                        "has",
+                        "have",
+                        "had",
+                        "am"
+                    ],
+                    "answer": 1,
+                    "why": "Present perfect: I have just finished my work."
+                },
+                {
+                    "q": "She ___ in Dhaka since 2010.",
+                    "options": [
+                        "lives",
+                        "has been living",
+                        "is living",
+                        "lived"
+                    ],
+                    "answer": 1,
+                    "why": "Present perfect continuous with 'since': She has been living in Dhaka since 2010."
+                },
+                {
+                    "q": "By next year, I ___ my degree.",
+                    "options": [
+                        "complete",
+                        "will complete",
+                        "will have completed",
+                        "completed"
+                    ],
+                    "answer": 2,
+                    "why": "Future perfect: By next year, I will have completed my degree."
+                },
+                {
+                    "q": "He ___ when I called him.",
+                    "options": [
+                        "sleeps",
+                        "was sleeping",
+                        "is sleeping",
+                        "slept"
+                    ],
+                    "answer": 1,
+                    "why": "Past continuous for an interrupted action: He was sleeping when I called him."
+                },
+                {
+                    "q": "The train ___ before we reached the station.",
+                    "options": [
+                        "leaves",
+                        "had left",
+                        "has left",
+                        "left"
+                    ],
+                    "answer": 1,
+                    "why": "Past perfect for the earlier of two past actions: The train had left before we reached the station."
+                },
+                {
+                    "q": "I ___ in Dhaka for five years.",
+                    "options": [
+                        "live",
+                        "am living",
+                        "have lived",
+                        "lived"
+                    ],
+                    "answer": 2,
+                    "why": "Present perfect with 'for': I have lived in Dhaka for five years."
+                },
+                {
+                    "q": "Choose the correct comparative: He is ___ than his brother.",
+                    "options": [
+                        "tall",
+                        "taller",
+                        "tallest",
+                        "most tall"
+                    ],
+                    "answer": 1,
+                    "why": "Comparative form of 'tall' is 'taller': He is taller than his brother."
+                },
+                {
+                    "q": "Choose the correct superlative: This is the ___ book I have ever read.",
+                    "options": [
+                        "good",
+                        "better",
+                        "best",
+                        "most good"
+                    ],
+                    "answer": 2,
+                    "why": "Superlative form of 'good' is 'best': This is the best book I have ever read."
+                },
+                {
+                    "q": "She is more beautiful ___ her sister.",
+                    "options": [
+                        "then",
+                        "than",
+                        "to",
+                        "from"
+                    ],
+                    "answer": 1,
+                    "why": "'Than' is used after a comparative: She is more beautiful than her sister."
+                },
+                {
+                    "q": "Of the two boys, he is the ___.",
+                    "options": [
+                        "tall",
+                        "taller",
+                        "tallest",
+                        "most tall"
+                    ],
+                    "answer": 1,
+                    "why": "With two things, the comparative is used: Of the two boys, he is the taller."
+                },
+                {
+                    "q": "Gold is more precious ___ iron.",
+                    "options": [
+                        "then",
+                        "than",
+                        "to",
+                        "from"
+                    ],
+                    "answer": 1,
+                    "why": "Comparative + than: Gold is more precious than iron."
+                },
+                {
+                    "q": "'He is the tallest boy in the class.' The degree used here is—",
+                    "options": [
+                        "Positive",
+                        "Comparative",
+                        "Superlative",
+                        "None"
+                    ],
+                    "answer": 2,
+                    "why": "'Tallest' is the superlative degree."
+                },
+                {
+                    "q": "The superlative form of 'bad' is—",
+                    "options": [
+                        "worse",
+                        "badder",
+                        "worst",
+                        "baddest"
+                    ],
+                    "answer": 2,
+                    "why": "The superlative of 'bad' is 'worst'; the comparative is 'worse'."
+                },
+                {
+                    "q": "The comparative form of 'little' is—",
+                    "options": [
+                        "littler",
+                        "less",
+                        "least",
+                        "small"
+                    ],
+                    "answer": 1,
+                    "why": "The comparative of 'little' is 'less'; the superlative is 'least'."
+                },
+                {
+                    "q": "The more you read, ___ you learn.",
+                    "options": [
+                        "the more",
+                        "more",
+                        "most",
+                        "much"
+                    ],
+                    "answer": 0,
+                    "why": "'The more you read, the more you learn' is the correct correlative comparative."
+                },
+                {
+                    "q": "Change into passive voice: 'She is cooking rice.'",
+                    "options": [
+                        "Rice is cooked by her.",
+                        "Rice is being cooked by her.",
+                        "Rice was cooked by her.",
+                        "Rice has been cooked by her."
+                    ],
+                    "answer": 1,
+                    "why": "Present continuous passive: Rice is being cooked by her."
+                },
+                {
+                    "q": "Change into passive voice: 'They will build a bridge.'",
+                    "options": [
+                        "A bridge is built by them.",
+                        "A bridge was built by them.",
+                        "A bridge will be built by them.",
+                        "A bridge has been built by them."
+                    ],
+                    "answer": 2,
+                    "why": "Future passive: A bridge will be built by them."
+                },
+                {
+                    "q": "Change into passive voice: 'Do the work.'",
+                    "options": [
+                        "Let the work do.",
+                        "Let the work be done.",
+                        "The work is done.",
+                        "Do the work by you."
+                    ],
+                    "answer": 1,
+                    "why": "Imperative passive: Let the work be done."
+                },
+                {
+                    "q": "Change into passive voice: 'People say he is honest.'",
+                    "options": [
+                        "He is said to be honest.",
+                        "He is said that he is honest.",
+                        "It is said he is honest.",
+                        "He was said honest."
+                    ],
+                    "answer": 0,
+                    "why": "Passive: He is said to be honest."
+                },
+                {
+                    "q": "Change into passive voice: 'I know him.'",
+                    "options": [
+                        "He is known by me.",
+                        "He is known to me.",
+                        "He is known with me.",
+                        "He was known to me."
+                    ],
+                    "answer": 1,
+                    "why": "'Know' takes 'to' in the passive: He is known to me."
+                },
+                {
+                    "q": "Change into passive voice: 'He gave me a pen.'",
+                    "options": [
+                        "I am given a pen by him.",
+                        "I was given a pen by him.",
+                        "I have been given a pen by him.",
+                        "A pen was given to me by him."
+                    ],
+                    "answer": 1,
+                    "why": "Past simple passive with indirect object: I was given a pen by him."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'apart, not together':",
+                    "options": [
+                        "separete",
+                        "seperate",
+                        "separate",
+                        "sapparate"
+                    ],
+                    "answer": 2,
+                    "why": "The correct spelling is 'separate' (remember: 'a rat' in sepa-rate)."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'needed, required':",
+                    "options": [
+                        "neccessary",
+                        "necessary",
+                        "nessessary",
+                        "neccesary"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'necessary' (one c, double s)."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'happened':",
+                    "options": [
+                        "occured",
+                        "occurred",
+                        "ocurred",
+                        "occurrred"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'occurred' (double c, double r)."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'to make someone feel ashamed':",
+                    "options": [
+                        "embaras",
+                        "embarrass",
+                        "embarass",
+                        "embarras"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'embarrass' (double r, double s)."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'a thousand years':",
+                    "options": [
+                        "millenium",
+                        "millennium",
+                        "milennium",
+                        "millennuim"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'millennium' (double l, double n)."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'a list of questions':",
+                    "options": [
+                        "questionaire",
+                        "questionnaire",
+                        "questionnair",
+                        "qustionnaire"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'questionnaire' (double n)."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'a person who starts a business':",
+                    "options": [
+                        "entreprenuer",
+                        "entrepreneur",
+                        "enterpreneur",
+                        "entrepraneur"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'entrepreneur'."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'inner sense of right and wrong':",
+                    "options": [
+                        "concience",
+                        "conscience",
+                        "conscious",
+                        "consciense"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'conscience'."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'the act of keeping something in good condition':",
+                    "options": [
+                        "maintenence",
+                        "maintenance",
+                        "maintanance",
+                        "maintenanse"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'maintenance'."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'an event that happens':",
+                    "options": [
+                        "occurence",
+                        "occurrence",
+                        "occurrance",
+                        "occurance"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'occurrence' (double c, double r)."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'to suggest or advise':",
+                    "options": [
+                        "recomend",
+                        "recommend",
+                        "reccomend",
+                        "recommed"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'recommend' (double m)."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'a regular beat in music':",
+                    "options": [
+                        "rythm",
+                        "rhythm",
+                        "rithm",
+                        "rhithm"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'rhythm'."
+                },
+                {
+                    "q": "Choose the correct spelling of the word meaning 'the day after today':",
+                    "options": [
+                        "tommorow",
+                        "tomorrow",
+                        "tommorrow",
+                        "tomorow"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is 'tomorrow' (one m, double r)."
+                },
+                {
+                    "q": "Synonym of 'courageous' is—",
+                    "options": [
+                        "cowardly",
+                        "brave",
+                        "timid",
+                        "weak"
+                    ],
+                    "answer": 1,
+                    "why": "'Courageous' means brave."
+                },
+                {
+                    "q": "Synonym of 'ancient' is—",
+                    "options": [
+                        "modern",
+                        "old",
+                        "new",
+                        "recent"
+                    ],
+                    "answer": 1,
+                    "why": "'Ancient' means very old."
+                },
+                {
+                    "q": "Synonym of 'difficult' is—",
+                    "options": [
+                        "easy",
+                        "hard",
+                        "simple",
+                        "soft"
+                    ],
+                    "answer": 1,
+                    "why": "'Difficult' means hard."
+                },
+                {
+                    "q": "Synonym of 'begin' is—",
+                    "options": [
+                        "end",
+                        "start",
+                        "stop",
+                        "finish"
+                    ],
+                    "answer": 1,
+                    "why": "'Begin' means start."
+                },
+                {
+                    "q": "Synonym of 'finish' is—",
+                    "options": [
+                        "start",
+                        "end",
+                        "begin",
+                        "open"
+                    ],
+                    "answer": 1,
+                    "why": "'Finish' means end or complete."
+                },
+                {
+                    "q": "Antonym of 'rich' is—",
+                    "options": [
+                        "wealthy",
+                        "poor",
+                        "happy",
+                        "wise"
+                    ],
+                    "answer": 1,
+                    "why": "The antonym of 'rich' is 'poor'."
+                },
+                {
+                    "q": "Antonym of 'happy' is—",
+                    "options": [
+                        "glad",
+                        "sad",
+                        "joyful",
+                        "pleased"
+                    ],
+                    "answer": 1,
+                    "why": "The antonym of 'happy' is 'sad'."
+                },
+                {
+                    "q": "Antonym of 'strong' is—",
+                    "options": [
+                        "powerful",
+                        "weak",
+                        "brave",
+                        "hard"
+                    ],
+                    "answer": 1,
+                    "why": "The antonym of 'strong' is 'weak'."
+                },
+                {
+                    "q": "Antonym of 'full' is—",
+                    "options": [
+                        "filled",
+                        "empty",
+                        "complete",
+                        "whole"
+                    ],
+                    "answer": 1,
+                    "why": "The antonym of 'full' is 'empty'."
+                },
+                {
+                    "q": "Antonym of 'true' is—",
+                    "options": [
+                        "real",
+                        "false",
+                        "correct",
+                        "right"
+                    ],
+                    "answer": 1,
+                    "why": "The antonym of 'true' is 'false'."
+                },
+                {
+                    "q": "Antonym of 'love' is—",
+                    "options": [
+                        "like",
+                        "hate",
+                        "adore",
+                        "care"
+                    ],
+                    "answer": 1,
+                    "why": "The antonym of 'love' is 'hate'."
+                },
+                {
+                    "q": "The idiom 'to read between the lines' means—",
+                    "options": [
+                        "to read loudly",
+                        "to understand the hidden meaning",
+                        "to read quickly",
+                        "to skip lines"
+                    ],
+                    "answer": 1,
+                    "why": "'To read between the lines' means to understand the hidden meaning."
+                },
+                {
+                    "q": "The idiom 'to call a spade a spade' means—",
+                    "options": [
+                        "to dig a garden",
+                        "to speak plainly and frankly",
+                        "to play cards",
+                        "to hide the truth"
+                    ],
+                    "answer": 1,
+                    "why": "'To call a spade a spade' means to speak plainly and frankly."
+                },
+                {
+                    "q": "The idiom 'to take to task' means—",
+                    "options": [
+                        "to give work",
+                        "to scold or rebuke",
+                        "to praise",
+                        "to teach"
+                    ],
+                    "answer": 1,
+                    "why": "'To take to task' means to scold or rebuke someone."
+                },
+                {
+                    "q": "A book containing maps is called—",
+                    "options": [
+                        "Dictionary",
+                        "Atlas",
+                        "Encyclopaedia",
+                        "Almanac"
+                    ],
+                    "answer": 1,
+                    "why": "A book containing maps is called an atlas."
                 }
             ]
         },
@@ -53548,6 +54571,369 @@
                     ],
                     "answer": 1,
                     "why": "গতিবেগ = ১৫০ ÷ ৩০ = ৫ মি/সে।"
+                },
+                {
+                    "q": "log₃ 81 = কত?",
+                    "options": [
+                        "৩",
+                        "৪",
+                        "৯",
+                        "২৭"
+                    ],
+                    "answer": 1,
+                    "why": "log₃ 81 = ৪, কারণ ৩⁴ = ৮১।"
+                },
+                {
+                    "q": "সামান্তরিকের ক্ষেত্রফল কত?",
+                    "options": [
+                        "ভূমি × উচ্চতা",
+                        "ভূমি + উচ্চতা",
+                        "২ × ভূমি × উচ্চতা",
+                        "ভূমি ÷ উচ্চতা"
+                    ],
+                    "answer": 0,
+                    "why": "সামান্তরিকের ক্ষেত্রফল = ভূমি × উচ্চতা।"
+                },
+                {
+                    "q": "রম্বসের ক্ষেত্রফল নির্ণয়ের সূত্র কোনটি?",
+                    "options": [
+                        "ভূমি × উচ্চতা",
+                        "½ × কর্ণদ্বয়ের গুণফল",
+                        "বাহু²",
+                        "২ × (দৈর্ঘ্য + প্রস্থ)"
+                    ],
+                    "answer": 1,
+                    "why": "রম্বসের ক্ষেত্রফল = ½ × কর্ণদ্বয়ের গুণফল।"
+                },
+                {
+                    "q": "ট্র্যাপিজিয়ামের ক্ষেত্রফল নির্ণয়ের সূত্র কোনটি?",
+                    "options": [
+                        "ভূমি × উচ্চতা",
+                        "½ × (সমান্তরাল বাহুদ্বয়ের যোগফল) × উচ্চতা",
+                        "বাহু²",
+                        "πr²"
+                    ],
+                    "answer": 1,
+                    "why": "ট্র্যাপিজিয়ামের ক্ষেত্রফল = ½ × (সমান্তরাল বাহুদ্বয়ের যোগফল) × উচ্চতা।"
+                },
+                {
+                    "q": "বর্গক্ষেত্রের কর্ণের দৈর্ঘ্য কত? (বাহু = a)",
+                    "options": [
+                        "a",
+                        "a√২",
+                        "২a",
+                        "a²"
+                    ],
+                    "answer": 1,
+                    "why": "বর্গক্ষেত্রের কর্ণ = a√২।"
+                },
+                {
+                    "q": "আয়তক্ষেত্রের কর্ণের দৈর্ঘ্য কত?",
+                    "options": [
+                        "দৈর্ঘ্য + প্রস্থ",
+                        "√(দৈর্ঘ্য² + প্রস্থ²)",
+                        "দৈর্ঘ্য × প্রস্থ",
+                        "২ × দৈর্ঘ্য"
+                    ],
+                    "answer": 1,
+                    "why": "আয়তক্ষেত্রের কর্ণ = √(দৈর্ঘ্য² + প্রস্থ²)।"
+                },
+                {
+                    "q": "খালি সেটের উপসেট কয়টি?",
+                    "options": [
+                        "০টি",
+                        "১টি",
+                        "২টি",
+                        "অসংখ্য"
+                    ],
+                    "answer": 1,
+                    "why": "খালি সেটের একমাত্র উপসেট খালি সেট নিজেই; মোট ১টি।"
+                },
+                {
+                    "q": "৩টি উপাদানবিশিষ্ট সেটের উপসেট কয়টি?",
+                    "options": [
+                        "৩টি",
+                        "৬টি",
+                        "৮টি",
+                        "৯টি"
+                    ],
+                    "answer": 2,
+                    "why": "nটি উপাদানের সেটের উপসেট ২ⁿটি; ২³ = ৮টি।"
+                },
+                {
+                    "q": "৪টি উপাদানবিশিষ্ট সেটের উপসেট কয়টি?",
+                    "options": [
+                        "৮টি",
+                        "১২টি",
+                        "১৬টি",
+                        "২০টি"
+                    ],
+                    "answer": 2,
+                    "why": "nটি উপাদানের সেটের উপসেট ২ⁿটি; ২⁴ = ১৬টি।"
+                },
+                {
+                    "q": "স্রোতের অনুকূলে নৌকার বেগ কত?",
+                    "options": [
+                        "নৌকার বেগ − স্রোতের বেগ",
+                        "নৌকার বেগ + স্রোতের বেগ",
+                        "নৌকার বেগ × স্রোতের বেগ",
+                        "নৌকার বেগ ÷ স্রোতের বেগ"
+                    ],
+                    "answer": 1,
+                    "why": "স্রোতের অনুকূলে নৌকার বেগ = নৌকার বেগ + স্রোতের বেগ।"
+                },
+                {
+                    "q": "স্রোতের প্রতিকূলে নৌকার বেগ কত?",
+                    "options": [
+                        "নৌকার বেগ + স্রোতের বেগ",
+                        "নৌকার বেগ − স্রোতের বেগ",
+                        "নৌকার বেগ × স্রোতের বেগ",
+                        "স্রোতের বেগ − নৌকার বেগ"
+                    ],
+                    "answer": 1,
+                    "why": "স্রোতের প্রতিকূলে নৌকার বেগ = নৌকার বেগ − স্রোতের বেগ।"
+                },
+                {
+                    "q": "একটি নৌকা স্রোতের অনুকূলে ৩ ঘণ্টায় ৩৬ কিমি যায়; নৌকার বেগ কত?",
+                    "options": [
+                        "৯ কিমি/ঘণ্টা",
+                        "১২ কিমি/ঘণ্টা",
+                        "১৫ কিমি/ঘণ্টা",
+                        "১৮ কিমি/ঘণ্টা"
+                    ],
+                    "answer": 1,
+                    "why": "বেগ = দূরত্ব ÷ সময় = ৩৬ ÷ ৩ = ১২ কিমি/ঘণ্টা।"
+                },
+                {
+                    "q": "বৃত্তের পরিধি নির্ণয়ের সূত্র কোনটি?",
+                    "options": [
+                        "πr²",
+                        "2πr",
+                        "πd²",
+                        "২r"
+                    ],
+                    "answer": 1,
+                    "why": "বৃত্তের পরিধি = 2πr (r = ব্যাসার্ধ)।"
+                },
+                {
+                    "q": "বৃত্তের ব্যাস ও ব্যাসার্ধের সম্পর্ক কী?",
+                    "options": [
+                        "ব্যাস = ব্যাসার্ধ",
+                        "ব্যাস = ২ × ব্যাসার্ধ",
+                        "ব্যাস = ব্যাসার্ধ ÷ ২",
+                        "ব্যাস = ব্যাসার্ধ²"
+                    ],
+                    "answer": 1,
+                    "why": "বৃত্তের ব্যাস = ২ × ব্যাসার্ধ।"
+                },
+                {
+                    "q": "বৃত্তের ব্যাস ১০ সেমি হলে ব্যাসার্ধ কত?",
+                    "options": [
+                        "১০ সেমি",
+                        "৫ সেমি",
+                        "২০ সেমি",
+                        "২.৫ সেমি"
+                    ],
+                    "answer": 1,
+                    "why": "ব্যাসার্ধ = ব্যাস ÷ ২ = ১০ ÷ ২ = ৫ সেমি।"
+                },
+                {
+                    "q": "অর্ধবৃত্তের ক্ষেত্রফল নির্ণয়ের সূত্র কোনটি?",
+                    "options": [
+                        "πr²",
+                        "½πr²",
+                        "2πr",
+                        "πr"
+                    ],
+                    "answer": 1,
+                    "why": "অর্ধবৃত্তের ক্ষেত্রফল = ½πr²।"
+                },
+                {
+                    "q": "বৃত্তের কেন্দ্রস্থ কোণ কত ডিগ্রি?",
+                    "options": [
+                        "৯০°",
+                        "১৮০°",
+                        "২৭০°",
+                        "৩৬০°"
+                    ],
+                    "answer": 3,
+                    "why": "বৃত্তের কেন্দ্রস্থ কোণ ৩৬০°।"
+                },
+                {
+                    "q": "৫০০-এর ১০% কত?",
+                    "options": [
+                        "২৫",
+                        "৫০",
+                        "৭৫",
+                        "১০০"
+                    ],
+                    "answer": 1,
+                    "why": "৫০০-এর ১০% = ৫০০ × ১০/১০০ = ৫০।"
+                },
+                {
+                    "q": "৪৫ কোন সংখ্যার ১৫%?",
+                    "options": [
+                        "২০০",
+                        "৩০০",
+                        "৪৫০",
+                        "১৫০"
+                    ],
+                    "answer": 1,
+                    "why": "সংখ্যাটি = ৪৫ × ১০০/১৫ = ৩০০।"
+                },
+                {
+                    "q": "৬০ টাকার ২০% কত?",
+                    "options": [
+                        "৬ টাকা",
+                        "১২ টাকা",
+                        "১৮ টাকা",
+                        "২৪ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "৬০-এর ২০% = ৬০ × ২০/১০০ = ১২ টাকা।"
+                },
+                {
+                    "q": "৫ বছর আগে রহিমের বয়স ছিল ১৫ বছর; এখন তার বয়স কত?",
+                    "options": [
+                        "১০ বছর",
+                        "২০ বছর",
+                        "২৫ বছর",
+                        "৩০ বছর"
+                    ],
+                    "answer": 1,
+                    "why": "এখন বয়স = ১৫ + ৫ = ২০ বছর।"
+                },
+                {
+                    "q": "মা ও মেয়ের বয়সের অনুপাত ৫:২। মায়ের বয়স ৪০ বছর হলে মেয়ের বয়স কত?",
+                    "options": [
+                        "১২ বছর",
+                        "১৬ বছর",
+                        "২০ বছর",
+                        "২৫ বছর"
+                    ],
+                    "answer": 1,
+                    "why": "মেয়ের বয়স = ৪০ × ২/৫ = ১৬ বছর।"
+                },
+                {
+                    "q": "১৮০ মিটার দীর্ঘ একটি ট্রেন ৫৪ কিমি/ঘণ্টা বেগে ১২০ মিটার দীর্ঘ সেতু অতিক্রম করতে কত সময় নেবে?",
+                    "options": [
+                        "১০ সেকেন্ড",
+                        "১৫ সেকেন্ড",
+                        "২০ সেকেন্ড",
+                        "২৫ সেকেন্ড"
+                    ],
+                    "answer": 2,
+                    "why": "মোট দূরত্ব = ১৮০ + ১২০ = ৩০০ মিটার; ৫৪ কিমি/ঘণ্টা = ১৫ মিটার/সেকেন্ড; সময় = ৩০০ ÷ ১৫ = ২০ সেকেন্ড।"
+                },
+                {
+                    "q": "সমকোণী ত্রিভুজের বৃহত্তম বাহু কোনটি?",
+                    "options": [
+                        "লম্ব",
+                        "ভূমি",
+                        "অতিভুজ",
+                        "উচ্চতা"
+                    ],
+                    "answer": 2,
+                    "why": "সমকোণী ত্রিভুজের বৃহত্তম বাহু অতিভুজ (সমকোণের বিপরীত বাহু)।"
+                },
+                {
+                    "q": "পিথাগোরাসের উপপাদ্য অনুযায়ী সমকোণী ত্রিভুজে কোনটি সত্য?",
+                    "options": [
+                        "অতিভুজ² = লম্ব² + ভূমি²",
+                        "অতিভুজ² = লম্ব² − ভূমি²",
+                        "লম্ব² = অতিভুজ² + ভূমি²",
+                        "ভূমি² = লম্ব² − অতিভুজ²"
+                    ],
+                    "answer": 0,
+                    "why": "পিথাগোরাসের উপপাদ্য: অতিভুজ² = লম্ব² + ভূমি²।"
+                },
+                {
+                    "q": "সরলকোণ কত ডিগ্রি?",
+                    "options": [
+                        "৯০°",
+                        "১৮০°",
+                        "২৭০°",
+                        "৩৬০°"
+                    ],
+                    "answer": 1,
+                    "why": "সরলকোণ ১৮০°।"
+                },
+                {
+                    "q": "সূক্ষ্মকোণ কত ডিগ্রির কম হয়?",
+                    "options": [
+                        "৪৫°",
+                        "৯০°",
+                        "১৮০°",
+                        "৩৬০°"
+                    ],
+                    "answer": 1,
+                    "why": "সূক্ষ্মকোণ ৯০°-এর কম হয়।"
+                },
+                {
+                    "q": "স্থূলকোণ কত ডিগ্রি থেকে কত ডিগ্রির মধ্যে হয়?",
+                    "options": [
+                        "০°–৯০°",
+                        "৯০°–১৮০°",
+                        "১৮০°–৩৬০°",
+                        "০°–৪৫°"
+                    ],
+                    "answer": 1,
+                    "why": "স্থূলকোণ ৯০°-এর বেশি কিন্তু ১৮০°-এর কম হয়।"
+                },
+                {
+                    "q": "ঘনকের আয়তন নির্ণয়ের সূত্র কোনটি? (বাহু = a)",
+                    "options": [
+                        "a²",
+                        "a³",
+                        "6a²",
+                        "4a"
+                    ],
+                    "answer": 1,
+                    "why": "ঘনকের আয়তন = a³।"
+                },
+                {
+                    "q": "আয়তঘনকের আয়তন নির্ণয়ের সূত্র কোনটি?",
+                    "options": [
+                        "দৈর্ঘ্য + প্রস্থ + উচ্চতা",
+                        "দৈর্ঘ্য × প্রস্থ × উচ্চতা",
+                        "২ × (দৈর্ঘ্য + প্রস্থ)",
+                        "দৈর্ঘ্য² × প্রস্থ"
+                    ],
+                    "answer": 1,
+                    "why": "আয়তঘনকের আয়তন = দৈর্ঘ্য × প্রস্থ × উচ্চতা।"
+                },
+                {
+                    "q": "চোঙের (সিলিন্ডার) আয়তন নির্ণয়ের সূত্র কোনটি?",
+                    "options": [
+                        "πr²h",
+                        "2πrh",
+                        "πr²",
+                        "৪/৩πr³"
+                    ],
+                    "answer": 0,
+                    "why": "চোঙের আয়তন = πr²h।"
+                },
+                {
+                    "q": "গোলকের আয়তন নির্ণয়ের সূত্র কোনটি?",
+                    "options": [
+                        "πr³",
+                        "৪/৩πr³",
+                        "২πr²",
+                        "πr²h"
+                    ],
+                    "answer": 1,
+                    "why": "গোলকের আয়তন = (৪/৩)πr³।"
+                },
+                {
+                    "q": "শঙ্কুর আয়তন নির্ণয়ের সূত্র কোনটি?",
+                    "options": [
+                        "πr²h",
+                        "(১/৩)πr²h",
+                        "২πr²",
+                        "৪/৩πr³"
+                    ],
+                    "answer": 1,
+                    "why": "শঙ্কুর আয়তন = (১/৩)πr²h।"
                 }
             ]
         },
@@ -69558,6 +70944,171 @@
                     ],
                     "answer": 1,
                     "why": "মেরি কুরি দুবার নোবেল পুরস্কার পান (পদার্থবিজ্ঞান ১৯০৩, রসায়ন ১৯১১)।"
+                },
+                {
+                    "q": "পৃথিবীর উচ্চতম পর্বতশৃঙ্গ কোনটি?",
+                    "options": [
+                        "কে-টু",
+                        "মাউন্ট এভারেস্ট",
+                        "কাঞ্চনজঙ্ঘা",
+                        "মাকালু"
+                    ],
+                    "answer": 1,
+                    "why": "পৃথিবীর উচ্চতম পর্বতশৃঙ্গ মাউন্ট এভারেস্ট (৮,৮৪৮ মিটার)।"
+                },
+                {
+                    "q": "পৃথিবীর গভীরতম মহাসাগর কোনটি?",
+                    "options": [
+                        "আটলান্টিক মহাসাগর",
+                        "প্রশান্ত মহাসাগর",
+                        "ভারত মহাসাগর",
+                        "দক্ষিণ মহাসাগর"
+                    ],
+                    "answer": 1,
+                    "why": "পৃথিবীর গভীরতম মহাসাগর প্রশান্ত মহাসাগর (মারিয়ানা খাদ)।"
+                },
+                {
+                    "q": "পৃথিবী সূর্যকে একবার প্রদক্ষিণ করতে কত সময় নেয়?",
+                    "options": [
+                        "৩০ দিন",
+                        "৩৬৫ দিন প্রায়",
+                        "৩০০ দিন",
+                        "৪০০ দিন"
+                    ],
+                    "answer": 1,
+                    "why": "পৃথিবী সূর্যকে একবার প্রদক্ষিণ করতে প্রায় ৩৬৫ দিন ৬ ঘণ্টা সময় নেয়।"
+                },
+                {
+                    "q": "দিন-রাত হয় কেন?",
+                    "options": [
+                        "পৃথিবীর বার্ষিক গতির জন্য",
+                        "পৃথিবীর আহ্নিক গতির জন্য",
+                        "চাঁদের গতির জন্য",
+                        "সূর্যের গতির জন্য"
+                    ],
+                    "answer": 1,
+                    "why": "পৃথিবীর আহ্নিক গতি (নিজ অক্ষে ঘূর্ণন)-এর জন্য দিন-রাত হয়।"
+                },
+                {
+                    "q": "ঋতু পরিবর্তন হয় কেন?",
+                    "options": [
+                        "চাঁদের গতির জন্য",
+                        "পৃথিবীর বার্ষিক গতি ও অক্ষের হেলনের জন্য",
+                        "সূর্যের তাপমাত্রা বদলায় বলে",
+                        "বাতাসের গতির জন্য"
+                    ],
+                    "answer": 1,
+                    "why": "পৃথিবীর বার্ষিক গতি ও অক্ষের হেলনের জন্য ঋতু পরিবর্তন হয়।"
+                },
+                {
+                    "q": "গ্রিনিচ শহর কোন দেশে অবস্থিত?",
+                    "options": [
+                        "ফ্রান্স",
+                        "যুক্তরাজ্য (ইংল্যান্ড)",
+                        "জার্মানি",
+                        "নেদারল্যান্ডস"
+                    ],
+                    "answer": 1,
+                    "why": "গ্রিনিচ শহর যুক্তরাজ্যের লন্ডনে অবস্থিত; এখান দিয়ে মূল মধ্যরেখা গেছে।"
+                },
+                {
+                    "q": "পৃথিবীর দীর্ঘতম পর্বতশ্রেণি কোনটি?",
+                    "options": [
+                        "হিমালয়",
+                        "আন্দিজ",
+                        "আল্পস",
+                        "রকি"
+                    ],
+                    "answer": 1,
+                    "why": "পৃথিবীর দীর্ঘতম পর্বতশ্রেণি আন্দিজ (দক্ষিণ আমেরিকা)।"
+                },
+                {
+                    "q": "পৃথিবীর বৃহত্তম হ্রদ কোনটি?",
+                    "options": [
+                        "বৈকাল হ্রদ",
+                        "কাস্পিয়ান সাগর",
+                        "সুপিরিয়র হ্রদ",
+                        "ভিক্টোরিয়া হ্রদ"
+                    ],
+                    "answer": 1,
+                    "why": "পৃথিবীর বৃহত্তম হ্রদ কাস্পিয়ান সাগর।"
+                },
+                {
+                    "q": "আমাজন নদী কোন মহাদেশে অবস্থিত?",
+                    "options": [
+                        "আফ্রিকা",
+                        "দক্ষিণ আমেরিকা",
+                        "এশিয়া",
+                        "উত্তর আমেরিকা"
+                    ],
+                    "answer": 1,
+                    "why": "আমাজন নদী দক্ষিণ আমেরিকা মহাদেশে অবস্থিত।"
+                },
+                {
+                    "q": "বাংলাদেশ বিশ্বব্যাংকের সদস্য হয় কবে?",
+                    "options": [
+                        "১৯৭২ সালে",
+                        "১৯৭৪ সালে",
+                        "১৯৭৭ সালে",
+                        "১৯৮০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ ১৯৭২ সালে বিশ্বব্যাংকের সদস্য হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের প্রথম কাগজের নোট কোনটি?",
+                    "options": [
+                        "৫ টাকা",
+                        "১ টাকা",
+                        "১০ টাকা",
+                        "১০০ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশের প্রথম কাগজের নোট ১ টাকার নোট (১৯৭২ সালে চালু)।"
+                },
+                {
+                    "q": "জাতিসংঘের সাধারণ পরিষদে বঙ্গবন্ধু শেখ মুজিবুর রহমান বাংলায় ভাষণ দেন কবে?",
+                    "options": [
+                        "১৯৭২ সালের ২৫ সেপ্টেম্বর",
+                        "১৯৭৪ সালের ২৫ সেপ্টেম্বর",
+                        "১৯৭৫ সালের ২৫ সেপ্টেম্বর",
+                        "১৯৭৩ সালের ২৫ সেপ্টেম্বর"
+                    ],
+                    "answer": 1,
+                    "why": "বঙ্গবন্ধু ১৯৭৪ সালের ২৫ সেপ্টেম্বর জাতিসংঘে বাংলায় ভাষণ দেন।"
+                },
+                {
+                    "q": "ইউনেস্কো প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯১৯ সালে",
+                        "১৯৪৫ সালে",
+                        "১৯৪৮ সালে",
+                        "১৯৫৫ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "ইউনেস্কো ১৯৪৫ সালে প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "WHO-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "World Health Organization",
+                        "World Human Organization",
+                        "World Help Organization",
+                        "World Heritage Organization"
+                    ],
+                    "answer": 0,
+                    "why": "WHO = World Health Organization (বিশ্ব স্বাস্থ্য সংস্থা)।"
+                },
+                {
+                    "q": "UNICEF-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "United Nations Children's Fund",
+                        "United Nations Cultural Fund",
+                        "Universal Children's Foundation",
+                        "United Nations Charity Fund"
+                    ],
+                    "answer": 0,
+                    "why": "UNICEF = United Nations Children's Fund (জাতিসংঘ শিশু তহবিল)।"
                 }
             ]
         },
@@ -96753,6 +98304,303 @@
                     ],
                     "answer": 0,
                     "why": "পাওয়ারপয়েন্টে Ctrl+M চাপলে নতুন স্লাইড যোগ হয়।"
+                },
+                {
+                    "q": "বাংলাদেশে e-GP পোর্টাল পরিচালনা করে কোন সংস্থা?",
+                    "options": [
+                        "বাংলাদেশ ব্যাংক",
+                        "সিপিটিইউ (CPTU)",
+                        "বিটিআরসি",
+                        "বাংলাদেশ কম্পিউটার কাউন্সিল"
+                    ],
+                    "answer": 1,
+                    "why": "e-GP পোর্টাল পরিচালনা করে সেন্ট্রাল প্রকিউরমেন্ট টেকনিক্যাল ইউনিট (CPTU)।"
+                },
+                {
+                    "q": "বাংলাদেশে e-GP ব্যবস্থা চালু হয় কত সালে?",
+                    "options": [
+                        "২০০৫ সালে",
+                        "২০০৮ সালে",
+                        "২০১১ সালে",
+                        "২০১৬ সালে"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশে e-GP ব্যবস্থা ২০১১ সালে চালু হয়।"
+                },
+                {
+                    "q": "e-GP-তে টেন্ডার জমা দিতে ঠিকাদারকে প্রথমে কী করতে হয়?",
+                    "options": [
+                        "ব্যাংকে জামানত জমা দিতে হয়",
+                        "পোর্টালে নিবন্ধন (রেজিস্ট্রেশন) করতে হয়",
+                        "মন্ত্রণালয়ে চিঠি দিতে হয়",
+                        "পত্রিকায় বিজ্ঞাপন দিতে হয়"
+                    ],
+                    "answer": 1,
+                    "why": "e-GP-তে টেন্ডার জমা দিতে প্রথমে পোর্টালে নিবন্ধন করতে হয়।"
+                },
+                {
+                    "q": "কৃত্রিম বুদ্ধিমত্তা (AI) কী?",
+                    "options": [
+                        "মানুষের মতো চিন্তা ও শেখার ক্ষমতাসম্পন্ন কম্পিউটার ব্যবস্থা",
+                        "খুব দ্রুতগতির কম্পিউটার",
+                        "বড় আকারের ডেটাবেস",
+                        "ইন্টারনেটের নতুন নাম"
+                    ],
+                    "answer": 0,
+                    "why": "কৃত্রিম বুদ্ধিমত্তা (Artificial Intelligence) হলো মানুষের মতো চিন্তা, শেখা ও সিদ্ধান্ত নেওয়ার ক্ষমতাসম্পন্ন কম্পিউটার ব্যবস্থা।"
+                },
+                {
+                    "q": "চ্যাটবট কোন প্রযুক্তি ব্যবহার করে?",
+                    "options": [
+                        "ক্লাউড স্টোরেজ",
+                        "কৃত্রিম বুদ্ধিমত্তা (AI)",
+                        "ব্লুটুথ",
+                        "স্যাটেলাইট"
+                    ],
+                    "answer": 1,
+                    "why": "চ্যাটবট কৃত্রিম বুদ্ধিমত্তা (AI) ও NLP প্রযুক্তি ব্যবহার করে মানুষের প্রশ্নের উত্তর দেয়।"
+                },
+                {
+                    "q": "রোবটিক্সে AI-এর মূল কাজ কী?",
+                    "options": [
+                        "বিদ্যুৎ বাঁচানো",
+                        "স্বয়ংক্রিয়ভাবে সিদ্ধান্ত নিয়ে কাজ করা",
+                        "ছবি তোলা",
+                        "গান বাজানো"
+                    ],
+                    "answer": 1,
+                    "why": "রোবটিক্সে AI রোবটকে পরিবেশ বুঝে স্বয়ংক্রিয়ভাবে সিদ্ধান্ত নিয়ে কাজ করতে সাহায্য করে।"
+                },
+                {
+                    "q": "পাইথন ভাষা কত সালে প্রকাশিত হয়?",
+                    "options": [
+                        "১৯৮৫ সালে",
+                        "১৯৯১ সালে",
+                        "১৯৯৫ সালে",
+                        "২০০০ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "পাইথন ভাষা ১৯৯১ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "পাইথন কী ধরনের প্রোগ্রামিং ভাষা?",
+                    "options": [
+                        "নিম্নস্তরের ও কম্পাইলড",
+                        "উচ্চস্তরের ও ইন্টারপ্রেটেড",
+                        "শুধু মোবাইলের জন্য",
+                        "শুধু গেমের জন্য"
+                    ],
+                    "answer": 1,
+                    "why": "পাইথন একটি উচ্চস্তরের, ইন্টারপ্রেটেড প্রোগ্রামিং ভাষা; এর কোড পড়তে ও লিখতে সহজ।"
+                },
+                {
+                    "q": "পাইথনে আউটপুট দেখাতে কোন ফাংশন ব্যবহৃত হয়?",
+                    "options": [
+                        "echo()",
+                        "print()",
+                        "display()",
+                        "show()"
+                    ],
+                    "answer": 1,
+                    "why": "পাইথনে print() ফাংশন দিয়ে আউটপুট দেখানো হয়।"
+                },
+                {
+                    "q": "সি ভাষা কত সালে তৈরি হয়?",
+                    "options": [
+                        "১৯৬৫ সালে",
+                        "১৯৭২ সালে",
+                        "১৯৮০ সালে",
+                        "১৯৯১ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "সি ভাষা ১৯৭২ সালে বেল ল্যাবরেটরিতে ডেনিস রিচি তৈরি করেন।"
+                },
+                {
+                    "q": "সি ভাষায় মূল (main) ফাংশন কোনটি?",
+                    "options": [
+                        "start()",
+                        "main()",
+                        "begin()",
+                        "run()"
+                    ],
+                    "answer": 1,
+                    "why": "সি ভাষায় প্রোগ্রাম main() ফাংশন থেকে শুরু হয়।"
+                },
+                {
+                    "q": "সি ভাষায় মন্তব্য (comment) লিখতে কোন চিহ্ন ব্যবহৃত হয়?",
+                    "options": [
+                        "#",
+                        "// বা /* */",
+                        "<!-- -->",
+                        "--"
+                    ],
+                    "answer": 1,
+                    "why": "সি ভাষায় মন্তব্য লিখতে // (এক লাইনের জন্য) বা /* */ (বহু লাইনের জন্য) ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সি প্রোগ্রাম ফাইলের এক্সটেনশন কোনটি?",
+                    "options": [
+                        ".cpp",
+                        ".c",
+                        ".cs",
+                        ".cp"
+                    ],
+                    "answer": 1,
+                    "why": "সি প্রোগ্রাম ফাইলের এক্সটেনশন .c।"
+                },
+                {
+                    "q": "সি ভাষায় printf() ফাংশন কোন হেডার ফাইলে থাকে?",
+                    "options": [
+                        "conio.h",
+                        "stdio.h",
+                        "math.h",
+                        "string.h"
+                    ],
+                    "answer": 1,
+                    "why": "printf() ফাংশন stdio.h হেডার ফাইলে থাকে।"
+                },
+                {
+                    "q": "ডেটাবেস থেকে ডেটা বের করতে SQL-এ কোন কমান্ড ব্যবহৃত হয়?",
+                    "options": [
+                        "GET",
+                        "SELECT",
+                        "FETCH",
+                        "EXTRACT"
+                    ],
+                    "answer": 1,
+                    "why": "ডেটাবেস থেকে ডেটা বের করতে SQL-এ SELECT কমান্ড ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ডেটাবেসে নতুন টেবিল তৈরি করতে SQL-এ কোন কমান্ড ব্যবহৃত হয়?",
+                    "options": [
+                        "MAKE TABLE",
+                        "CREATE TABLE",
+                        "NEW TABLE",
+                        "BUILD TABLE"
+                    ],
+                    "answer": 1,
+                    "why": "ডেটাবেসে নতুন টেবিল তৈরি করতে CREATE TABLE কমান্ড ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ডেটাবেসে নতুন ডেটা ঢোকাতে SQL-এ কোন কমান্ড ব্যবহৃত হয়?",
+                    "options": [
+                        "ADD INTO",
+                        "INSERT INTO",
+                        "PUT INTO",
+                        "STORE INTO"
+                    ],
+                    "answer": 1,
+                    "why": "ডেটাবেসে নতুন ডেটা ঢোকাতে INSERT INTO কমান্ড ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "নরমালাইজেশন (Normalization) কী?",
+                    "options": [
+                        "ডেটা বড় করা",
+                        "ডেটার পুনরাবৃত্তি কমিয়ে ডেটাবেস সাজানো",
+                        "ডেটা এনক্রিপ্ট করা",
+                        "ডেটা ব্যাকআপ নেওয়া"
+                    ],
+                    "answer": 1,
+                    "why": "নরমালাইজেশন হলো ডেটার পুনরাবৃত্তি কমিয়ে ও অসংগতি দূর করে ডেটাবেস সুশৃঙ্খলভাবে সাজানোর প্রক্রিয়া।"
+                },
+                {
+                    "q": "কম্পিউটারে সবচেয়ে দ্রুতগতির মেমরি কোনটি?",
+                    "options": [
+                        "হার্ডডিস্ক",
+                        "RAM",
+                        "রেজিস্টার",
+                        "ROM"
+                    ],
+                    "answer": 2,
+                    "why": "রেজিস্টার CPU-এর ভেতরে থাকা সবচেয়ে দ্রুতগতির মেমরি।"
+                },
+                {
+                    "q": "হার্ডডিস্ক কী ধরনের মেমরি?",
+                    "options": [
+                        "প্রধান মেমরি",
+                        "সহায়ক (সেকেন্ডারি) মেমরি",
+                        "ক্যাশ মেমরি",
+                        "রেজিস্টার"
+                    ],
+                    "answer": 1,
+                    "why": "হার্ডডিস্ক সহায়ক (সেকেন্ডারি) মেমরি; এতে ডেটা স্থায়ীভাবে সংরক্ষিত থাকে।"
+                },
+                {
+                    "q": "গুগল ড্রাইভ কোন ধরনের সেবা?",
+                    "options": [
+                        "অফলাইন গেম",
+                        "ক্লাউড স্টোরেজ",
+                        "অ্যান্টিভাইরাস",
+                        "ওয়েব ব্রাউজার"
+                    ],
+                    "answer": 1,
+                    "why": "গুগল ড্রাইভ একটি ক্লাউড স্টোরেজ সেবা; এতে ইন্টারনেটে ফাইল সংরক্ষণ করা যায়।"
+                },
+                {
+                    "q": "ক্লাউড কম্পিউটিংয়ের প্রধান সুবিধা কী?",
+                    "options": [
+                        "শুধু অফলাইনে চলে",
+                        "যেকোনো জায়গা থেকে ডেটা ও সেবা ব্যবহার করা যায়",
+                        "কম্পিউটার ভারী হয়",
+                        "ইন্টারনেট লাগে না"
+                    ],
+                    "answer": 1,
+                    "why": "ক্লাউড কম্পিউটিংয়ের প্রধান সুবিধা হলো যেকোনো জায়গা থেকে ইন্টারনেটে ডেটা ও সেবা ব্যবহার করা যায়।"
+                },
+                {
+                    "q": "বাংলাদেশে প্রথম কম্পিউটার আসে কত সালে?",
+                    "options": [
+                        "১৯৫৫ সালে",
+                        "১৯৬৪ সালে",
+                        "১৯৭২ সালে",
+                        "১৯৮০ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশে প্রথম কম্পিউটার আসে ১৯৬৪ সালে (পরমাণু শক্তি কমিশনে IBM 1620)।"
+                },
+                {
+                    "q": "বাংলাদেশের কান্ট্রি কোড টপ-লেভেল ডোমেইন কোনটি?",
+                    "options": [
+                        ".bn",
+                        ".bd",
+                        ".bg",
+                        ".ba"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশের কান্ট্রি কোড টপ-লেভেল ডোমেইন হলো .bd।"
+                },
+                {
+                    "q": "বাংলাদেশের আন্তর্জাতিক টেলিফোন কান্ট্রি কোড কোনটি?",
+                    "options": [
+                        "+৮৮১",
+                        "+৮৮০",
+                        "+৯১",
+                        "+৯২"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশের আন্তর্জাতিক টেলিফোন কান্ট্রি কোড +৮৮০।"
+                },
+                {
+                    "q": "বিটিআরসি (BTRC) কী?",
+                    "options": [
+                        "বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ কমিশন",
+                        "বাংলাদেশ প্রযুক্তি গবেষণা কেন্দ্র",
+                        "বাংলাদেশ টেলিভিশন নিয়ন্ত্রণ কমিটি",
+                        "বাংলাদেশ ট্রেড রেগুলেটরি কাউন্সিল"
+                    ],
+                    "answer": 0,
+                    "why": "বিটিআরসি = Bangladesh Telecommunication Regulatory Commission; এটি টেলিযোগাযোগ খাত নিয়ন্ত্রণ করে।"
+                },
+                {
+                    "q": "স্মার্ট বাংলাদেশ রূপকল্প কত সালের মধ্যে বাস্তবায়নের লক্ষ্য?",
+                    "options": [
+                        "২০৩০ সাল",
+                        "২০৩৫ সাল",
+                        "২০৪১ সাল",
+                        "২০৫০ সাল"
+                    ],
+                    "answer": 2,
+                    "why": "স্মার্ট বাংলাদেশ রূপকল্প ২০৪১ সালের মধ্যে বাস্তবায়নের লক্ষ্য নির্ধারণ করা হয়েছে।"
                 }
             ]
         }
