@@ -1,0 +1,19 @@
+{
+ "id": "fa-sharp",
+ "name": "FA Sharp",
+ "glyphs": {
+  "update": "fa:f093",
+  "guide": "fa:f249",
+  "perms": "fa:f3ed",
+  "about": "fa:f007",
+  "look": "fa:f1fc",
+  "settings": "fa:f1de",
+  "search": "fa:f00e",
+  "home": "fa:f015",
+  "back": "fa:f053",
+  "check": "fa:f058",
+  "close": "fa:f00d",
+  "globe": "fa:f0ac",
+  "star": "fa:f005"
+ }
+}
