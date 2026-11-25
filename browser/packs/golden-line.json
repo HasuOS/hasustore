@@ -1,0 +1,31 @@
+{
+ "id": "golden-line",
+ "name": "Golden Line",
+ "kind": "glyphs",
+ "glyphs": {
+  "lock": "⚿",
+  "gear": "⚙",
+  "update": "⬇",
+  "bell": "♪",
+  "globe": "◎",
+  "signal": "▁",
+  "home": "⌂",
+  "tabs": "▦",
+  "bookmark": "⚐",
+  "history": "↺",
+  "download": "⇓",
+  "search": "⌕",
+  "find": "◎",
+  "share": "↗",
+  "trash": "✕",
+  "info": "ⓘ",
+  "guide": "☰",
+  "back": "‹",
+  "forward": "›",
+  "reload": "↻",
+  "menu": "≡",
+  "desktop": "▣",
+  "text": "A",
+  "battery": "▭"
+ }
+}
