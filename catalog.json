@@ -84,13 +84,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 151,
-   "versionName": "20.85",
-   "size": 26535607,
+   "code": 152,
+   "versionName": "20.86",
+   "size": 26568375,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "Options sheet fixed \u2014 the blank first row is now one labelled Flash row showing the live state (Auto / Torch on / Off), and the duplicate hidden torch control is gone: one flash control only \u00b7 NEW: Permissions section in Settings \u2014 Camera, Microphone, Location, Notifications and Photos & videos rows show the real on/off state and act on tap (request on the spot, or the system page when permanently denied) \u00b7 Full audit pass: everything else verified as-is.",
-   "ts": 1795545430,
-   "etag": "0x8DF4A59E108C7F7"
+   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
+   "ts": 1795615001,
+   "etag": "0x8DF4AFBE78D90D8"
   },
   {
    "pkg": "hasu.os.clean",
