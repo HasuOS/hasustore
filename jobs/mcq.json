@@ -1,6 +1,6 @@
 {
-    "version": 52,
-    "generatedAt": 1795585401,
+    "version": 53,
+    "generatedAt": 1795587097,
     "subjects": [
         {
             "id": "bangla",
@@ -18302,6 +18302,270 @@
                     ],
                     "answer": 1,
                     "why": "'সৌজন্যতা' অশুদ্ধ; শুদ্ধ রূপ 'সৌজন্য'।"
+                },
+                {
+                    "q": "মীর মশাররফ হোসেনের বিখ্যাত উপন্যাস কোনটি?",
+                    "options": [
+                        "দেবদাস",
+                        "বিষাদ-সিন্ধু",
+                        "পথের পাঁচালী",
+                        "শেষের কবিতা"
+                    ],
+                    "answer": 1,
+                    "why": "মীর মশাররফ হোসেনের বিখ্যাত উপন্যাস 'বিষাদ-সিন্ধু' (১৮৮৫–১৮৯১)।"
+                },
+                {
+                    "q": "'বিষাদ-সিন্ধু' উপন্যাসের বিষয়বস্তু কী?",
+                    "options": [
+                        "কারবালার ঘটনা",
+                        "পল্লীজীবন",
+                        "মুক্তিযুদ্ধ",
+                        "প্রেমকাহিনি"
+                    ],
+                    "answer": 0,
+                    "why": "'বিষাদ-সিন্ধু' কারবালার ঘটনা অবলম্বনে রচিত উপন্যাস।"
+                },
+                {
+                    "q": "মীর মশাররফ হোসেনের জন্ম কত সালে?",
+                    "options": [
+                        "১৮৪৭ সালে",
+                        "১৮৫৭ সালে",
+                        "১৮৩৮ সালে",
+                        "১৮৭৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "মীর মশাররফ হোসেন ১৮৪৭ সালে কুষ্টিয়ার লাহিনীপাড়ায় জন্মগ্রহণ করেন।"
+                },
+                {
+                    "q": "'জমিদার দর্পণ' নাটকটি কে রচনা করেন?",
+                    "options": [
+                        "দীনবন্ধু মিত্র",
+                        "মীর মশাররফ হোসেন",
+                        "মাইকেল মধুসূদন দত্ত",
+                        "গিরিশচন্দ্র ঘোষ"
+                    ],
+                    "answer": 1,
+                    "why": "'জমিদার দর্পণ' (১৮৭৩) মীর মশাররফ হোসেনের রচিত নাটক।"
+                },
+                {
+                    "q": "ঈশ্বরচন্দ্র বিদ্যাসাগর কোন গ্রন্থটি রচনা করেন?",
+                    "options": [
+                        "বর্ণপরিচয়",
+                        "মেঘনাদবধ কাব্য",
+                        "কপালকুণ্ডলা",
+                        "সোনার তরী"
+                    ],
+                    "answer": 0,
+                    "why": "ঈশ্বরচন্দ্র বিদ্যাসাগরের 'বর্ণপরিচয়' (১৮৫৫) বাংলা শিশুশিক্ষার মৌলিক গ্রন্থ।"
+                },
+                {
+                    "q": "ঈশ্বরচন্দ্র বিদ্যাসাগর কোন আন্দোলনের জন্য বিখ্যাত?",
+                    "options": [
+                        "সতীদাহ প্রথা উচ্ছেদ",
+                        "বিধবা বিবাহ প্রচলন",
+                        "ভাষা আন্দোলন",
+                        "অসহযোগ আন্দোলন"
+                    ],
+                    "answer": 1,
+                    "why": "বিদ্যাসাগর বিধবা বিবাহ প্রচলনের আন্দোলনের জন্য বিখ্যাত; ১৮৫৬ সালে বিধবা বিবাহ আইন পাস হয়।"
+                },
+                {
+                    "q": "'আনন্দমঠ' উপন্যাসটি কে রচনা করেন?",
+                    "options": [
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                        "শরৎচন্দ্র চট্টোপাধ্যায়",
+                        "মাইকেল মধুসূদন দত্ত"
+                    ],
+                    "answer": 1,
+                    "why": "'আনন্দমঠ' (১৮৮২) বঙ্কিমচন্দ্রের রচনা; এতে 'বন্দে মাতরম' গানটি আছে।"
+                },
+                {
+                    "q": "বেগম রোকেয়া কোন গ্রন্থটি রচনা করেন?",
+                    "options": [
+                        "সুলতানার স্বপ্ন",
+                        "পদ্মা নদীর মাঝি",
+                        "দেবদাস",
+                        "গীতাঞ্জলি"
+                    ],
+                    "answer": 0,
+                    "why": "বেগম রোকেয়ার 'সুলতানার স্বপ্ন' (১৯০৫) নারীশিক্ষা ও নারীমুক্তির বিখ্যাত রচনা।"
+                },
+                {
+                    "q": "বেগম রোকেয়া কোন বিদ্যালয় প্রতিষ্ঠা করেন?",
+                    "options": [
+                        "সাখাওয়াত মেমোরিয়াল গার্লস স্কুল",
+                        "ইডেন কলেজ",
+                        "বেথুন স্কুল",
+                        "ঢাকা কলেজ"
+                    ],
+                    "answer": 0,
+                    "why": "বেগম রোকেয়া ১৯১১ সালে কলকাতায় সাখাওয়াত মেমোরিয়াল গার্লস স্কুল প্রতিষ্ঠা করেন।"
+                },
+                {
+                    "q": "'শ্রীকান্ত' উপন্যাসটি কে রচনা করেন?",
+                    "options": [
+                        "বঙ্কিমচন্দ্র",
+                        "শরৎচন্দ্র চট্টোপাধ্যায়",
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "বিভূতিভূষণ বন্দ্যোপাধ্যায়"
+                    ],
+                    "answer": 1,
+                    "why": "'শ্রীকান্ত' (১৯১৭–১৯৩৩) শরৎচন্দ্র চট্টোপাধ্যায়ের আত্মজীবনীমূলক উপন্যাস।"
+                },
+                {
+                    "q": "জসীমউদ্দীনকে কী নামে ডাকা হয়?",
+                    "options": [
+                        "বিদ্রোহী কবি",
+                        "পল্লীকবি",
+                        "ছন্দের জাদুকর",
+                        "রূপসী বাংলার কবি"
+                    ],
+                    "answer": 1,
+                    "why": "জসীমউদ্দীনকে 'পল্লীকবি' বলা হয়; তাঁর কবিতায় পল্লীজীবনের চিত্র ফুটে উঠেছে।"
+                },
+                {
+                    "q": "'রানার' কবিতাটি কে রচনা করেন?",
+                    "options": [
+                        "কাজী নজরুল ইসলাম",
+                        "সুকান্ত ভট্টাচার্য",
+                        "জসীমউদ্দীন",
+                        "রবীন্দ্রনাথ ঠাকুর"
+                    ],
+                    "answer": 1,
+                    "why": "'রানার' কবিতাটি সুকান্ত ভট্টাচার্যের রচনা; এতে ডাক-হরকরার জীবন চিত্রিত হয়েছে।"
+                },
+                {
+                    "q": "'অল্পবিদ্যা ভয়ংকরী' প্রবাদটির অর্থ কী?",
+                    "options": [
+                        "অল্প পড়া ভালো",
+                        "অসম্পূর্ণ জ্ঞান বিপজ্জনক",
+                        "বিদ্যা অর্জন করা কঠিন",
+                        "পড়াশোনা ভয়ংকর"
+                    ],
+                    "answer": 1,
+                    "why": "'অল্পবিদ্যা ভয়ংকরী' অর্থ অসম্পূর্ণ জ্ঞান বিপজ্জনক।"
+                },
+                {
+                    "q": "'উঠন্তি মুলো পত্তনে চেনা যায়' প্রবাদটির অর্থ কী?",
+                    "options": [
+                        "মুলো চেনা কঠিন",
+                        "শুরু দেখেই ভবিষ্যৎ বোঝা যায়",
+                        "মুলো চাষ করা সহজ",
+                        "পত্তন দেখে মুলো চেনা যায়"
+                    ],
+                    "answer": 1,
+                    "why": "'উঠন্তি মুলো পত্তনে চেনা যায়' অর্থ শুরু দেখেই ভবিষ্যৎ বোঝা যায়।"
+                },
+                {
+                    "q": "বাংলা বর্ণমালায় মাত্রাহীন বর্ণ কয়টি?",
+                    "options": [
+                        "৮টি",
+                        "১০টি",
+                        "১২টি",
+                        "৩২টি"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলা বর্ণমালায় মাত্রাহীন বর্ণ ১০টি; পূর্ণমাত্রার ৩২টি ও অর্ধমাত্রার ৮টি।"
+                },
+                {
+                    "q": "'File' শব্দের বাংলা পারিভাষিক শব্দ কোনটি?",
+                    "options": [
+                        "নথি",
+                        "ফাইলপত্র",
+                        "কাগজ",
+                        "দলিল"
+                    ],
+                    "answer": 0,
+                    "why": "'File' শব্দের বাংলা পারিভাষিক শব্দ নথি।"
+                },
+                {
+                    "q": "'Secretary' শব্দের বাংলা পারিভাষিক শব্দ কোনটি?",
+                    "options": [
+                        "সচিব",
+                        "মন্ত্রী",
+                        "অধ্যক্ষ",
+                        "সভাপতি"
+                    ],
+                    "answer": 0,
+                    "why": "'Secretary' শব্দের বাংলা পারিভাষিক শব্দ সচিব।"
+                },
+                {
+                    "q": "ছড়ার ছন্দ কোনটি?",
+                    "options": [
+                        "স্বরবৃত্ত",
+                        "অক্ষরবৃত্ত",
+                        "মাত্রাবৃত্ত",
+                        "অমিত্রাক্ষর"
+                    ],
+                    "answer": 0,
+                    "why": "ছড়ার ছন্দ স্বরবৃত্ত; এতে প্রতিটি অক্ষর এক মাত্রা হিসেবে গণ্য হয়।"
+                },
+                {
+                    "q": "পয়ার ছন্দ কোন ছন্দের উদাহরণ?",
+                    "options": [
+                        "অক্ষরবৃত্ত",
+                        "মাত্রাবৃত্ত",
+                        "স্বরবৃত্ত",
+                        "গদ্যছন্দ"
+                    ],
+                    "answer": 0,
+                    "why": "পয়ার অক্ষরবৃত্ত ছন্দের উদাহরণ; এতে প্রতি চরণে ৮ + ৬ = ১৪ মাত্রা থাকে।"
+                },
+                {
+                    "q": "'তুমি চাঁদের মতো সুন্দর' — এখানে কোন অলংকার ব্যবহৃত হয়েছে?",
+                    "options": [
+                        "উপমা",
+                        "রূপক",
+                        "উৎপ্রেক্ষা",
+                        "অতিশয়োক্তি"
+                    ],
+                    "answer": 0,
+                    "why": "'তুমি চাঁদের মতো সুন্দর' বাক্যে 'মতো' দিয়ে তুলনা করা হয়েছে বলে এটি উপমা অলংকার।"
+                },
+                {
+                    "q": "'মুখচন্দ্র' শব্দে কোন অলংকার আছে?",
+                    "options": [
+                        "উপমা",
+                        "রূপক",
+                        "উৎপ্রেক্ষা",
+                        "যমক"
+                    ],
+                    "answer": 1,
+                    "why": "'মুখচন্দ্র' শব্দে মুখ ও চাঁদকে অভেদ কল্পনা করা হয়েছে বলে এটি রূপক অলংকার।"
+                },
+                {
+                    "q": "বাংলা লোকসাহিত্যের অন্তর্গত কোনটি?",
+                    "options": [
+                        "রূপকথা",
+                        "প্রবাদ",
+                        "ছড়া",
+                        "উপরের সবগুলো"
+                    ],
+                    "answer": 3,
+                    "why": "রূপকথা, প্রবাদ, ছড়া, গীতিকা — সবই বাংলা লোকসাহিত্যের অন্তর্গত।"
+                },
+                {
+                    "q": "'পুঁথি' শব্দের অর্থ কী?",
+                    "options": [
+                        "ছাপা বই",
+                        "হাতে লেখা বই",
+                        "অভিধান",
+                        "উপন্যাস"
+                    ],
+                    "answer": 1,
+                    "why": "'পুঁথি' শব্দের অর্থ হাতে লেখা বই।"
+                },
+                {
+                    "q": "বৈষ্ণব পদাবলীর আদি কবি কে?",
+                    "options": [
+                        "চণ্ডীদাস",
+                        "বিদ্যাপতি",
+                        "জ্ঞানদাস",
+                        "গোবিন্দদাস"
+                    ],
+                    "answer": 0,
+                    "why": "বৈষ্ণব পদাবলীর আদি কবি চণ্ডীদাস; তাঁর বিখ্যাত পদ 'সই কেমনে ধরিব হিয়া'।"
                 }
             ]
         },
@@ -34864,6 +35128,369 @@
                     ],
                     "answer": 1,
                     "why": "Superlative form: She is the most beautiful girl in the class."
+                },
+                {
+                    "q": "One word for 'a person who speaks many languages' is —",
+                    "options": [
+                        "Bilingual",
+                        "Polyglot",
+                        "Linguist",
+                        "Orator"
+                    ],
+                    "answer": 1,
+                    "why": "A person who speaks many languages is called a polyglot."
+                },
+                {
+                    "q": "One word for 'the killing of a human being' is —",
+                    "options": [
+                        "Suicide",
+                        "Homicide",
+                        "Genocide",
+                        "Patricide"
+                    ],
+                    "answer": 1,
+                    "why": "Homicide means the killing of a human being."
+                },
+                {
+                    "q": "One word for 'one who loves mankind' is —",
+                    "options": [
+                        "Misanthrope",
+                        "Philanthropist",
+                        "Egoist",
+                        "Altruist"
+                    ],
+                    "answer": 1,
+                    "why": "A philanthropist is one who loves mankind."
+                },
+                {
+                    "q": "One word for 'incapable of being corrected' is —",
+                    "options": [
+                        "Incorrigible",
+                        "Incredible",
+                        "Incurable",
+                        "Inevitable"
+                    ],
+                    "answer": 0,
+                    "why": "Incorrigible means incapable of being corrected."
+                },
+                {
+                    "q": "One word for 'the study of the origin of words' is —",
+                    "options": [
+                        "Philology",
+                        "Etymology",
+                        "Lexicography",
+                        "Morphology"
+                    ],
+                    "answer": 1,
+                    "why": "Etymology is the study of the origin of words."
+                },
+                {
+                    "q": "One word for 'one who eats everything' is —",
+                    "options": [
+                        "Herbivore",
+                        "Carnivore",
+                        "Omnivore",
+                        "Frugivore"
+                    ],
+                    "answer": 2,
+                    "why": "An omnivore is one who eats everything."
+                },
+                {
+                    "q": "One word for 'a government by the rich' is —",
+                    "options": [
+                        "Democracy",
+                        "Plutocracy",
+                        "Aristocracy",
+                        "Monarchy"
+                    ],
+                    "answer": 1,
+                    "why": "Plutocracy means a government by the rich."
+                },
+                {
+                    "q": "One word for 'a person who is indifferent to pleasure or pain' is —",
+                    "options": [
+                        "Stoic",
+                        "Cynic",
+                        "Epicure",
+                        "Sceptic"
+                    ],
+                    "answer": 0,
+                    "why": "A stoic is a person who is indifferent to pleasure or pain."
+                },
+                {
+                    "q": "In the sentence 'That he is honest is known to all', the clause 'that he is honest' is a —",
+                    "options": [
+                        "Noun clause",
+                        "Adjective clause",
+                        "Adverb clause",
+                        "Main clause"
+                    ],
+                    "answer": 0,
+                    "why": "The clause 'that he is honest' works as the subject, so it is a noun clause."
+                },
+                {
+                    "q": "In the sentence 'The man who came here is my friend', the clause 'who came here' is a —",
+                    "options": [
+                        "Noun clause",
+                        "Adjective clause",
+                        "Adverb clause",
+                        "Coordinate clause"
+                    ],
+                    "answer": 1,
+                    "why": "The clause 'who came here' qualifies the noun 'man', so it is an adjective clause."
+                },
+                {
+                    "q": "In the sentence 'He came when I was reading', the clause 'when I was reading' is a —",
+                    "options": [
+                        "Noun clause",
+                        "Adjective clause",
+                        "Adverb clause",
+                        "Principal clause"
+                    ],
+                    "answer": 2,
+                    "why": "The clause 'when I was reading' modifies the verb 'came', so it is an adverb clause."
+                },
+                {
+                    "q": "Choose the correct form: 'He has ___ to Dhaka.'",
+                    "options": [
+                        "go",
+                        "went",
+                        "gone",
+                        "going"
+                    ],
+                    "answer": 2,
+                    "why": "After 'has', the past participle is used: 'He has gone to Dhaka.'"
+                },
+                {
+                    "q": "Choose the correct form: 'It is high time we ___ home.'",
+                    "options": [
+                        "leave",
+                        "left",
+                        "leaving",
+                        "will leave"
+                    ],
+                    "answer": 1,
+                    "why": "After 'It is high time', the past form is used: 'It is high time we left home.'"
+                },
+                {
+                    "q": "Choose the correct form: 'I wish I ___ a bird.'",
+                    "options": [
+                        "am",
+                        "was",
+                        "were",
+                        "will be"
+                    ],
+                    "answer": 2,
+                    "why": "After 'wish', 'were' is used for unreal wishes: 'I wish I were a bird.'"
+                },
+                {
+                    "q": "Choose the correct preposition: 'He is afraid ___ the dark.'",
+                    "options": [
+                        "of",
+                        "from",
+                        "at",
+                        "by"
+                    ],
+                    "answer": 0,
+                    "why": "The correct preposition is 'of': 'He is afraid of the dark.'"
+                },
+                {
+                    "q": "Choose the correct preposition: 'I am interested ___ music.'",
+                    "options": [
+                        "on",
+                        "at",
+                        "in",
+                        "to"
+                    ],
+                    "answer": 2,
+                    "why": "The correct preposition is 'in': 'I am interested in music.'"
+                },
+                {
+                    "q": "Choose the correct preposition: 'He depends ___ his parents.'",
+                    "options": [
+                        "in",
+                        "on",
+                        "at",
+                        "to"
+                    ],
+                    "answer": 1,
+                    "why": "The correct preposition is 'on': 'He depends on his parents.'"
+                },
+                {
+                    "q": "Choose the correct preposition: 'He suffers ___ fever.'",
+                    "options": [
+                        "in",
+                        "from",
+                        "with",
+                        "by"
+                    ],
+                    "answer": 1,
+                    "why": "The correct preposition is 'from': 'He suffers from fever.'"
+                },
+                {
+                    "q": "Choose the correct tense: 'I have been reading since morning.'",
+                    "options": [
+                        "Present perfect continuous",
+                        "Past perfect",
+                        "Present indefinite",
+                        "Future perfect"
+                    ],
+                    "answer": 0,
+                    "why": "'I have been reading since morning' is in the present perfect continuous tense."
+                },
+                {
+                    "q": "Change the narration: He said, 'I will go to Dhaka.'",
+                    "options": [
+                        "He said that he will go to Dhaka.",
+                        "He said that he would go to Dhaka.",
+                        "He said that he goes to Dhaka.",
+                        "He said that he went to Dhaka."
+                    ],
+                    "answer": 1,
+                    "why": "In indirect speech, 'will' changes to 'would': 'He said that he would go to Dhaka.'"
+                },
+                {
+                    "q": "Choose the correct article: '___ Ganges is a big river.'",
+                    "options": [
+                        "A",
+                        "An",
+                        "The",
+                        "No article"
+                    ],
+                    "answer": 2,
+                    "why": "'The' is used before the names of rivers: 'The Ganges is a big river.'"
+                },
+                {
+                    "q": "Choose the correct form: 'If I had money, I ___ help you.'",
+                    "options": [
+                        "will",
+                        "would",
+                        "can",
+                        "shall"
+                    ],
+                    "answer": 1,
+                    "why": "In the second conditional, 'would' is used: 'If I had money, I would help you.'"
+                },
+                {
+                    "q": "'He is a good boy.' — This is a —",
+                    "options": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence",
+                        "Exclamatory sentence"
+                    ],
+                    "answer": 0,
+                    "why": "'He is a good boy' has one subject and one finite verb, so it is a simple sentence."
+                },
+                {
+                    "q": "'I know that he is honest.' — This is a —",
+                    "options": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence",
+                        "Imperative sentence"
+                    ],
+                    "answer": 1,
+                    "why": "The sentence has a subordinate clause 'that he is honest', so it is a complex sentence."
+                },
+                {
+                    "q": "'He is poor but honest.' — This is a —",
+                    "options": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence",
+                        "Optative sentence"
+                    ],
+                    "answer": 2,
+                    "why": "Two independent clauses are joined by 'but', so it is a compound sentence."
+                },
+                {
+                    "q": "'When he came, I was reading.' — This is a —",
+                    "options": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence",
+                        "Imperative sentence"
+                    ],
+                    "answer": 1,
+                    "why": "The sentence has a subordinate clause 'When he came', so it is a complex sentence."
+                },
+                {
+                    "q": "In the sentence 'Walking is good exercise', the word 'Walking' is a —",
+                    "options": [
+                        "Gerund",
+                        "Participle",
+                        "Infinitive",
+                        "Adverb"
+                    ],
+                    "answer": 0,
+                    "why": "'Walking' is used as the subject (a noun), so it is a gerund."
+                },
+                {
+                    "q": "In the sentence 'I saw a running train', the word 'running' is a —",
+                    "options": [
+                        "Gerund",
+                        "Participle",
+                        "Infinitive",
+                        "Adverb"
+                    ],
+                    "answer": 1,
+                    "why": "'Running' qualifies the noun 'train', so it is a present participle."
+                },
+                {
+                    "q": "In the sentence 'I want to go home', the phrase 'to go' is an —",
+                    "options": [
+                        "Gerund",
+                        "Participle",
+                        "Infinitive",
+                        "Adverb"
+                    ],
+                    "answer": 2,
+                    "why": "'To go' is an infinitive (to + base verb)."
+                },
+                {
+                    "q": "The word 'honesty' is a —",
+                    "options": [
+                        "Noun",
+                        "Adjective",
+                        "Adverb",
+                        "Verb"
+                    ],
+                    "answer": 0,
+                    "why": "'Honesty' is a noun (an abstract noun)."
+                },
+                {
+                    "q": "'Open the door.' — This is an —",
+                    "options": [
+                        "Assertive sentence",
+                        "Interrogative sentence",
+                        "Imperative sentence",
+                        "Optative sentence"
+                    ],
+                    "answer": 2,
+                    "why": "'Open the door' expresses a command, so it is an imperative sentence."
+                },
+                {
+                    "q": "'May you live long.' — This is an —",
+                    "options": [
+                        "Assertive sentence",
+                        "Interrogative sentence",
+                        "Imperative sentence",
+                        "Optative sentence"
+                    ],
+                    "answer": 3,
+                    "why": "'May you live long' expresses a wish, so it is an optative sentence."
+                },
+                {
+                    "q": "The prefix 'un-' in 'unhappy' means —",
+                    "options": [
+                        "Again",
+                        "Not",
+                        "Before",
+                        "After"
+                    ],
+                    "answer": 1,
+                    "why": "The prefix 'un-' means 'not': unhappy = not happy."
                 }
             ]
         },
@@ -49071,6 +49698,204 @@
                     ],
                     "answer": 0,
                     "why": "টেক্কা ৪টি; সম্ভাবনা ৪/৫২ = ১/১৩।"
+                },
+                {
+                    "q": "x² − ৯-এর উৎপাদক কোনটি?",
+                    "options": [
+                        "(x + ৩)(x − ৩)",
+                        "(x + ৯)(x − ১)",
+                        "(x + ৩)²",
+                        "(x − ৩)²"
+                    ],
+                    "answer": 0,
+                    "why": "x² − ৯ = x² − ৩² = (x + ৩)(x − ৩)।"
+                },
+                {
+                    "q": "(x + ৩)(x + ২)-এর গুণফল কত?",
+                    "options": [
+                        "x² + ৫x + ৬",
+                        "x² + ৬x + ৫",
+                        "x² + ৫x + ৫",
+                        "x² + ২x + ৩"
+                    ],
+                    "answer": 0,
+                    "why": "(x + ৩)(x + ২) = x² + ২x + ৩x + ৬ = x² + ৫x + ৬।"
+                },
+                {
+                    "q": "বাহু ৫ সেমি হলে ঘনকের আয়তন কত?",
+                    "options": [
+                        "২৫ ঘন সেমি",
+                        "১০০ ঘন সেমি",
+                        "১২৫ ঘন সেমি",
+                        "৭৫ ঘন সেমি"
+                    ],
+                    "answer": 2,
+                    "why": "ঘনকের আয়তন = বাহু³ = ৫³ = ১২৫ ঘন সেমি।"
+                },
+                {
+                    "q": "কোন সংখ্যার সাথে ৯ যোগ করলে ২১ হয়?",
+                    "options": [
+                        "১০",
+                        "১১",
+                        "১২",
+                        "১৩"
+                    ],
+                    "answer": 2,
+                    "why": "২১ − ৯ = ১২; ১২-এর সাথে ৯ যোগ করলে ২১ হয়।"
+                },
+                {
+                    "q": "১০০ টাকার ১৫% কত টাকা?",
+                    "options": [
+                        "১০ টাকা",
+                        "১২ টাকা",
+                        "১৫ টাকা",
+                        "২০ টাকা"
+                    ],
+                    "answer": 2,
+                    "why": "১০০-এর ১৫% = ১০০ × ১৫/১০০ = ১৫ টাকা।"
+                },
+                {
+                    "q": "একটি কলম ৫০ টাকায় কিনে ৬০ টাকায় বিক্রি করলে শতকরা লাভ কত?",
+                    "options": [
+                        "১০%",
+                        "১৫%",
+                        "২০%",
+                        "২৫%"
+                    ],
+                    "answer": 2,
+                    "why": "লাভ = ১০ টাকা; শতকরা লাভ = ১০/৫০ × ১০০ = ২০%।"
+                },
+                {
+                    "q": "১২ জন শ্রমিক একটি কাজ ১০ দিনে করলে ১ জন শ্রমিক কত দিনে করবে?",
+                    "options": [
+                        "৬০ দিন",
+                        "১২০ দিন",
+                        "১০০ দিন",
+                        "৩০ দিন"
+                    ],
+                    "answer": 1,
+                    "why": "মোট শ্রমদিন = ১২ × ১০ = ১২০; ১ জন শ্রমিকের লাগবে ১২০ দিন।"
+                },
+                {
+                    "q": "পিতার বয়স পুত্রের বয়সের ৩ গুণ; পুত্রের বয়স ১২ বছর হলে পিতার বয়স কত?",
+                    "options": [
+                        "২৪ বছর",
+                        "৩০ বছর",
+                        "৩৬ বছর",
+                        "৪০ বছর"
+                    ],
+                    "answer": 2,
+                    "why": "পিতার বয়স = ৩ × ১২ = ৩৬ বছর।"
+                },
+                {
+                    "q": "১ + ২ + ৩ + ... + ১০ = কত?",
+                    "options": [
+                        "৪৫",
+                        "৫০",
+                        "৫৫",
+                        "৬০"
+                    ],
+                    "answer": 2,
+                    "why": "১ থেকে ১০ পর্যন্ত যোগফল = ১০ × ১১ ÷ ২ = ৫৫।"
+                },
+                {
+                    "q": "১০০০ টাকায় ১০% সরল সুদে ২ বছরে সুদ কত?",
+                    "options": [
+                        "১০০ টাকা",
+                        "১৫০ টাকা",
+                        "২০০ টাকা",
+                        "২৫০ টাকা"
+                    ],
+                    "answer": 2,
+                    "why": "সরল সুদ = ১০০০ × ১০% × ২ = ২০০ টাকা।"
+                },
+                {
+                    "q": "একটি বইয়ের মূল্য ২৫০ টাকা; ১০% ছাড়ে ক্রয়মূল্য কত?",
+                    "options": [
+                        "২০০ টাকা",
+                        "২২৫ টাকা",
+                        "২৩০ টাকা",
+                        "২৪০ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "ছাড় = ২৫০-এর ১০% = ২৫ টাকা; ক্রয়মূল্য = ২৫০ − ২৫ = ২২৫ টাকা।"
+                },
+                {
+                    "q": "দুটি সংখ্যার যোগফল ৪০ এবং বিয়োগফল ১০ হলে বড় সংখ্যাটি কত?",
+                    "options": [
+                        "১৫",
+                        "২০",
+                        "২৫",
+                        "৩০"
+                    ],
+                    "answer": 2,
+                    "why": "বড় সংখ্যা = (৪০ + ১০) ÷ ২ = ২৫।"
+                },
+                {
+                    "q": "১৬৯-এর বর্গমূল কত?",
+                    "options": [
+                        "১১",
+                        "১২",
+                        "১৩",
+                        "১৪"
+                    ],
+                    "answer": 2,
+                    "why": "১৩ × ১৩ = ১৬৯, তাই ১৬৯-এর বর্গমূল ১৩।"
+                },
+                {
+                    "q": "২২৫-এর বর্গমূল কত?",
+                    "options": [
+                        "১৩",
+                        "১৪",
+                        "১৫",
+                        "১৬"
+                    ],
+                    "answer": 2,
+                    "why": "১৫ × ১৫ = ২২৫, তাই ২২৫-এর বর্গমূল ১৫।"
+                },
+                {
+                    "q": "১২৫-এর ঘনমূল কত?",
+                    "options": [
+                        "৩",
+                        "৪",
+                        "৫",
+                        "৬"
+                    ],
+                    "answer": 2,
+                    "why": "৫ × ৫ × ৫ = ১২৫, তাই ১২৫-এর ঘনমূল ৫।"
+                },
+                {
+                    "q": "একটি নল দিয়ে একটি চৌবাচ্চা ৬ ঘণ্টায় পূর্ণ হয়; অপর নল দিয়ে ৩ ঘণ্টায় পূর্ণ হয়। দুটি নল একসাথে খুলে দিলে কত সময়ে পূর্ণ হবে?",
+                    "options": [
+                        "১ ঘণ্টা",
+                        "২ ঘণ্টা",
+                        "৩ ঘণ্টা",
+                        "৪ ঘণ্টা"
+                    ],
+                    "answer": 1,
+                    "why": "প্রতি ঘণ্টায় পূর্ণ হয় ১/৬ + ১/৩ = ১/২ অংশ; তাই পূর্ণ হতে ২ ঘণ্টা লাগবে।"
+                },
+                {
+                    "q": "৩টি সংখ্যার গড় ২০; সংখ্যাগুলোর যোগফল কত?",
+                    "options": [
+                        "৪০",
+                        "৫০",
+                        "৬০",
+                        "৮০"
+                    ],
+                    "answer": 2,
+                    "why": "যোগফল = গড় × সংখ্যা = ২০ × ৩ = ৬০।"
+                },
+                {
+                    "q": "দুটি সংখ্যার গুণফল ৪৮ এবং একটি সংখ্যা ৬ হলে অপর সংখ্যাটি কত?",
+                    "options": [
+                        "৬",
+                        "৭",
+                        "৮",
+                        "৯"
+                    ],
+                    "answer": 2,
+                    "why": "অপর সংখ্যা = ৪৮ ÷ ৬ = ৮।"
                 }
             ]
         },
@@ -64014,6 +64839,171 @@
                     ],
                     "answer": 0,
                     "why": "বাংলাদেশের মোট রপ্তানি আয়ের সিংহভাগ আসে তৈরি পোশাক খাত থেকে।"
+                },
+                {
+                    "q": "আন্তর্জাতিক মুদ্রা তহবিল (IMF) প্রতিষ্ঠিত হয় কত সালে?",
+                    "options": [
+                        "১৯৪৪ সালে",
+                        "১৯৪৫ সালে",
+                        "১৯৪৭ সালে",
+                        "১৯৫০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "IMF ১৯৪৪ সালে ব্রেটন উডস সম্মেলনের মাধ্যমে প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "SDR-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "Special Drawing Rights",
+                        "Special Development Reserve",
+                        "Standard Drawing Rights",
+                        "Special Deposit Rights"
+                    ],
+                    "answer": 0,
+                    "why": "SDR = Special Drawing Rights — IMF-এর তৈরি একটি আন্তর্জাতিক রিজার্ভ সম্পদ।"
+                },
+                {
+                    "q": "বিশ্বব্যাংকের বর্তমান প্রেসিডেন্ট কে?",
+                    "options": [
+                        "অজয় বাঙ্গা",
+                        "ডেভিড ম্যালপাস",
+                        "জিম ইয়ং কিম",
+                        "রবার্ট জোয়েলিক"
+                    ],
+                    "answer": 0,
+                    "why": "অজয় বাঙ্গা ২০২৩ সালের জুন থেকে বিশ্বব্যাংকের প্রেসিডেন্ট হিসেবে দায়িত্ব পালন করছেন।"
+                },
+                {
+                    "q": "ঢাকা বিশ্ববিদ্যালয়ের প্রথম উপাচার্য কে ছিলেন?",
+                    "options": [
+                        "পি. জে. হার্টগ",
+                        "সৈয়দ মোয়াজ্জেম হোসেন",
+                        "আবদুল্লাহ আল মুতী",
+                        "আবু সাইয়িদ"
+                    ],
+                    "answer": 0,
+                    "why": "ঢাকা বিশ্ববিদ্যালয়ের প্রথম উপাচার্য ছিলেন স্যার পি. জে. হার্টগ।"
+                },
+                {
+                    "q": "কক্সবাজার সমুদ্র সৈকতের বিশেষত্ব কী?",
+                    "options": [
+                        "এটি পৃথিবীর দীর্ঘতম প্রাকৃতিক সমুদ্র সৈকত",
+                        "এটি পৃথিবীর গভীরতম সৈকত",
+                        "এটি এশিয়ার প্রশস্ততম সৈকত",
+                        "এটি বাংলাদেশের একমাত্র সৈকত"
+                    ],
+                    "answer": 0,
+                    "why": "কক্সবাজার পৃথিবীর দীর্ঘতম প্রাকৃতিক সমুদ্র সৈকত; এর দৈর্ঘ্য প্রায় ১২০ কিলোমিটার।"
+                },
+                {
+                    "q": "ভাষা আন্দোলনের শহীদ দিবস কবে পালিত হয়?",
+                    "options": [
+                        "২১ ফেব্রুয়ারি",
+                        "২৬ মার্চ",
+                        "১৬ ডিসেম্বর",
+                        "৭ মার্চ"
+                    ],
+                    "answer": 0,
+                    "why": "১৯৫২ সালের ২১ ফেব্রুয়ারি ভাষা শহীদরা শহীদ হন; দিনটি শহীদ দিবস হিসেবে পালিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের জাতীয় পতাকা গৃহীত হয় কবে?",
+                    "options": [
+                        "১৭ জানুয়ারি ১৯৭২",
+                        "২৬ মার্চ ১৯৭১",
+                        "১৬ ডিসেম্বর ১৯৭১",
+                        "৩ নভেম্বর ১৯৭২"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের জাতীয় পতাকা ১৯৭২ সালের ১৭ জানুয়ারি গৃহীত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের বর্তমান রাষ্ট্রপতি কে?",
+                    "options": [
+                        "মো. সাহাবুদ্দিন",
+                        "আবদুল হামিদ",
+                        "জিল্লুর রহমান",
+                        "ইয়াজউদ্দিন আহম্মেদ"
+                    ],
+                    "answer": 0,
+                    "why": "মো. সাহাবুদ্দিন ২০২৩ সালের এপ্রিল থেকে বাংলাদেশের রাষ্ট্রপতি হিসেবে দায়িত্ব পালন করছেন।"
+                },
+                {
+                    "q": "বাংলাদেশের জাতীয় সংগীতের প্রথম কয় লাইন গাওয়া হয়?",
+                    "options": [
+                        "প্রথম ৪ লাইন",
+                        "প্রথম ১০ লাইন",
+                        "প্রথম ৫ লাইন",
+                        "পুরো গান"
+                    ],
+                    "answer": 1,
+                    "why": "জাতীয় সংগীত 'আমার সোনার বাংলা'-র প্রথম ১০ লাইন গাওয়া হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের একমাত্র নোবেল বিজয়ী কে?",
+                    "options": [
+                        "ড. মুহাম্মদ ইউনূস",
+                        "ড. অমর্ত্য সেন",
+                        "ফজলে হাসান আবেদ",
+                        "ড. আনিসুজ্জামান"
+                    ],
+                    "answer": 0,
+                    "why": "ড. মুহাম্মদ ইউনূস ২০০৬ সালে শান্তিতে নোবেল পুরস্কার পান; তিনি বাংলাদেশের একমাত্র নোবেল বিজয়ী।"
+                },
+                {
+                    "q": "জাতীয় শোক দিবস কবে পালিত হয়?",
+                    "options": [
+                        "১৫ আগস্ট",
+                        "২১ ফেব্রুয়ারি",
+                        "২৬ মার্চ",
+                        "১৬ ডিসেম্বর"
+                    ],
+                    "answer": 0,
+                    "why": "১৫ আগস্ট জাতীয় শোক দিবস হিসেবে পালিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের বৃহত্তম গ্যাসক্ষেত্র কোনটি?",
+                    "options": [
+                        "তিতাস",
+                        "বিবিয়ানা",
+                        "জালালাবাদ",
+                        "হবিগঞ্জ"
+                    ],
+                    "answer": 0,
+                    "why": "তিতাস বাংলাদেশের বৃহত্তম গ্যাসক্ষেত্র; এটি ব্রাহ্মণবাড়িয়া জেলায় অবস্থিত।"
+                },
+                {
+                    "q": "বাংলাদেশের একমাত্র কয়লাখনি কোথায়?",
+                    "options": [
+                        "বড়পুকুরিয়া",
+                        "জামালগঞ্জ",
+                        "খালাশপীর",
+                        "ফুলবাড়ী"
+                    ],
+                    "answer": 0,
+                    "why": "বড়পুকুরিয়া বাংলাদেশের একমাত্র চালু কয়লাখনি; এটি দিনাজপুর জেলায় অবস্থিত।"
+                },
+                {
+                    "q": "বাংলাদেশের বৃহত্তম স্থলবন্দর কোনটি?",
+                    "options": [
+                        "বেনাপোল",
+                        "হিলি",
+                        "বুড়িমারী",
+                        "আখাউড়া"
+                    ],
+                    "answer": 0,
+                    "why": "বেনাপোল বাংলাদেশের বৃহত্তম স্থলবন্দর; এটি যশোর জেলায় অবস্থিত।"
+                },
+                {
+                    "q": "বাংলাদেশের আন্তর্জাতিক বিমানবন্দর কয়টি?",
+                    "options": [
+                        "২টি",
+                        "৩টি",
+                        "৪টি",
+                        "৫টি"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশের আন্তর্জাতিক বিমানবন্দর ৩টি: ঢাকা, চট্টগ্রাম ও সিলেট।"
                 }
             ]
         },
@@ -89889,6 +90879,281 @@
                     ],
                     "answer": 0,
                     "why": "প্রাইভেট ক্লাউড শুধু একটি প্রতিষ্ঠানের ব্যবহারের জন্য সংরক্ষিত থাকে।"
+                },
+                {
+                    "q": "VPN ব্যবহারের প্রধান সুবিধা কী?",
+                    "options": [
+                        "ইন্টারনেটের গতি বাড়ানো",
+                        "অনলাইন পরিচয় ও তথ্য গোপন রাখা",
+                        "কম্পিউটারের মেমরি বাড়ানো",
+                        "ভাইরাস তৈরি করা"
+                    ],
+                    "answer": 1,
+                    "why": "VPN ব্যবহারকারীর IP ঠিকানা লুকিয়ে ও তথ্য এনক্রিপ্ট করে অনলাইন গোপনীয়তা রক্ষা করে।"
+                },
+                {
+                    "q": "ফিশিং আক্রমণ থেকে বাঁচার উপায় কোনটি?",
+                    "options": [
+                        "অজানা লিংকে ক্লিক করা",
+                        "সন্দেহজনক ই-মেইলের লিংক না খোলা",
+                        "পাসওয়ার্ড সবার সঙ্গে ভাগ করা",
+                        "অ্যান্টিভাইরাস বন্ধ রাখা"
+                    ],
+                    "answer": 1,
+                    "why": "সন্দেহজনক ই-মেইলের লিংক না খুলে ও ঠিকানা যাচাই করে ফিশিং থেকে বাঁচা যায়।"
+                },
+                {
+                    "q": "UDP কোন ধরনের প্রোটোকল?",
+                    "options": [
+                        "সংযোগভিত্তিক নির্ভরযোগ্য প্রোটোকল",
+                        "সংযোগহীন দ্রুতগতির প্রোটোকল",
+                        "ই-মেইল প্রোটোকল",
+                        "ফাইল সংরক্ষণ প্রোটোকল"
+                    ],
+                    "answer": 1,
+                    "why": "UDP সংযোগহীন প্রোটোকল; এটি TCP-এর মতো নিশ্চয়তা না দিয়ে দ্রুত তথ্য পাঠায়।"
+                },
+                {
+                    "q": "ভিডিও স্ট্রিমিংয়ে সাধারণত কোন প্রোটোকল ব্যবহৃত হয়?",
+                    "options": [
+                        "TCP",
+                        "UDP",
+                        "SMTP",
+                        "FTP"
+                    ],
+                    "answer": 1,
+                    "why": "ভিডিও স্ট্রিমিংয়ে UDP ব্যবহৃত হয়, কারণ এতে গতি বেশি ও সামান্য তথ্য হারালেও চলে।"
+                },
+                {
+                    "q": "নিচের কোনটি ম্যালওয়্যারের উদাহরণ নয়?",
+                    "options": [
+                        "ভাইরাস",
+                        "ওয়ার্ম",
+                        "ট্রোজান",
+                        "অ্যান্টিভাইরাস"
+                    ],
+                    "answer": 3,
+                    "why": "অ্যান্টিভাইরাস ম্যালওয়্যার নয়; এটি ম্যালওয়্যার ধরা ও সরানোর সফটওয়্যার।"
+                },
+                {
+                    "q": "স্পাইওয়্যারের কাজ কী?",
+                    "options": [
+                        "গোপনে ব্যবহারকারীর তথ্য সংগ্রহ করা",
+                        "কম্পিউটারের গতি বাড়ানো",
+                        "ফাইল ব্যাকআপ নেওয়া",
+                        "ইন্টারনেট সংযোগ দেওয়া"
+                    ],
+                    "answer": 0,
+                    "why": "স্পাইওয়্যার ব্যবহারকারীর অজান্তে তথ্য সংগ্রহ করে অন্যের কাছে পাঠায়।"
+                },
+                {
+                    "q": "ইউনিক্স (UNIX) অপারেটিং সিস্টেম কোথায় তৈরি হয়?",
+                    "options": [
+                        "মাইক্রোসফটে",
+                        "বেল ল্যাবরেটরিতে",
+                        "অ্যাপলে",
+                        "গুগলে"
+                    ],
+                    "answer": 1,
+                    "why": "ইউনিক্স ১৯৬৯ সালে বেল ল্যাবরেটরিতে তৈরি হয়; কেন থম্পসন ও ডেনিস রিচি এর প্রধান নির্মাতা।"
+                },
+                {
+                    "q": "লিনাক্স কোন ধরনের অপারেটিং সিস্টেম?",
+                    "options": [
+                        "বাণিজ্যিক বন্ধ সোর্স",
+                        "ওপেন সোর্স",
+                        "শুধু মোবাইলের জন্য",
+                        "শুধু গেমের জন্য"
+                    ],
+                    "answer": 1,
+                    "why": "লিনাক্স একটি ওপেন সোর্স অপারেটিং সিস্টেম; এর সোর্স কোড সবার জন্য উন্মুক্ত।"
+                },
+                {
+                    "q": "প্রোগ্রাম তৈরির প্রথম ধাপ কোনটি?",
+                    "options": [
+                        "কোড লেখা",
+                        "সমস্যা বিশ্লেষণ করা",
+                        "পরীক্ষা করা",
+                        "ডকুমেন্টেশন লেখা"
+                    ],
+                    "answer": 1,
+                    "why": "প্রোগ্রাম তৈরির প্রথম ধাপ সমস্যা বিশ্লেষণ করা; তারপর অ্যালগরিদম ও ফ্লোচার্ট তৈরি হয়।"
+                },
+                {
+                    "q": "স্প্রেডশিটে সূত্র (Formula) লিখতে প্রথমে কোন চিহ্ন দিতে হয়?",
+                    "options": [
+                        "#",
+                        "=",
+                        "+",
+                        "$"
+                    ],
+                    "answer": 1,
+                    "why": "স্প্রেডশিটে সূত্র লিখতে প্রথমে = চিহ্ন দিতে হয়, যেমন =SUM(A1:A5)।"
+                },
+                {
+                    "q": "MS Excel ফাইলের এক্সটেনশন কী?",
+                    "options": [
+                        ".docx",
+                        ".xlsx",
+                        ".pptx",
+                        ".txt"
+                    ],
+                    "answer": 1,
+                    "why": "MS Excel ফাইলের এক্সটেনশন .xlsx; পুরোনো সংস্করণে .xls ব্যবহৃত হতো।"
+                },
+                {
+                    "q": "প্রেজেন্টেশন তৈরির জনপ্রিয় সফটওয়্যার কোনটি?",
+                    "options": [
+                        "MS Word",
+                        "MS Excel",
+                        "MS PowerPoint",
+                        "MS Access"
+                    ],
+                    "answer": 2,
+                    "why": "MS PowerPoint প্রেজেন্টেশন (স্লাইড) তৈরির জনপ্রিয় সফটওয়্যার।"
+                },
+                {
+                    "q": "MS PowerPoint ফাইলের এক্সটেনশন কী?",
+                    "options": [
+                        ".docx",
+                        ".xlsx",
+                        ".pptx",
+                        ".pdf"
+                    ],
+                    "answer": 2,
+                    "why": "MS PowerPoint ফাইলের এক্সটেনশন .pptx; পুরোনো সংস্করণে .ppt ব্যবহৃত হতো।"
+                },
+                {
+                    "q": "ডিজিটাল স্বাক্ষর (Digital Signature) কীসের মাধ্যমে যাচাই করা হয়?",
+                    "options": [
+                        "পাসওয়ার্ড দিয়ে",
+                        "পাবলিক কী ক্রিপ্টোগ্রাফি দিয়ে",
+                        "ফিঙ্গারপ্রিন্ট দিয়ে",
+                        "ছবি দিয়ে"
+                    ],
+                    "answer": 1,
+                    "why": "ডিজিটাল স্বাক্ষর পাবলিক কী ক্রিপ্টোগ্রাফি দিয়ে যাচাই করা হয়; এটি নথির সত্যতা নিশ্চিত করে।"
+                },
+                {
+                    "q": "ই-কমার্সের B2C-এর অর্থ কী?",
+                    "options": [
+                        "Business to Consumer",
+                        "Business to Company",
+                        "Buyer to Customer",
+                        "Bank to Consumer"
+                    ],
+                    "answer": 0,
+                    "why": "B2C = Business to Consumer — ব্যবসায়ী সরাসরি ভোক্তার কাছে পণ্য বিক্রি করে।"
+                },
+                {
+                    "q": "OOP-এর প্রধান বৈশিষ্ট্য কোনটি?",
+                    "options": [
+                        "এনক্যাপসুলেশন",
+                        "কম্পাইলেশন",
+                        "ইন্টারপ্রিটেশন",
+                        "ডিবাগিং"
+                    ],
+                    "answer": 0,
+                    "why": "OOP-এর প্রধান বৈশিষ্ট্য এনক্যাপসুলেশন, ইনহেরিট্যান্স, পলিমরফিজম ও অ্যাবস্ট্রাকশন।"
+                },
+                {
+                    "q": "সফটওয়্যার তৈরির ধাপগুলোকে একসাথে কী বলে?",
+                    "options": [
+                        "SDLC",
+                        "HTML",
+                        "HTTP",
+                        "SQL"
+                    ],
+                    "answer": 0,
+                    "why": "সফটওয়্যার তৈরির ধাপগুলোকে SDLC (Software Development Life Cycle) বলে।"
+                },
+                {
+                    "q": "অফিসে দ্রুত ছাপার জন্য কোন প্রিন্টার সবচেয়ে উপযুক্ত?",
+                    "options": [
+                        "ডট ম্যাট্রিক্স",
+                        "ইঙ্কজেট",
+                        "লেজার",
+                        "থার্মাল"
+                    ],
+                    "answer": 2,
+                    "why": "লেজার প্রিন্টার দ্রুত ও মানসম্মত ছাপা দেয় বলে অফিসে সবচেয়ে উপযুক্ত।"
+                },
+                {
+                    "q": "কিবোর্ডে 'কপি' করার শর্টকাট কী?",
+                    "options": [
+                        "Ctrl + V",
+                        "Ctrl + C",
+                        "Ctrl + X",
+                        "Ctrl + Z"
+                    ],
+                    "answer": 1,
+                    "why": "কিবোর্ডে কপি করার শর্টকাট Ctrl + C এবং পেস্ট করার শর্টকাট Ctrl + V।"
+                },
+                {
+                    "q": "পিপীলিকা কী?",
+                    "options": [
+                        "বাংলাদেশের প্রথম সার্চ ইঞ্জিন",
+                        "একটি সামাজিক মাধ্যম",
+                        "একটি মোবাইল ব্যাংকিং সেবা",
+                        "একটি ই-মেইল সেবা"
+                    ],
+                    "answer": 0,
+                    "why": "পিপীলিকা বাংলাদেশের প্রথম বাংলা সার্চ ইঞ্জিন; এটি ২০১৩ সালে চালু হয়।"
+                },
+                {
+                    "q": "5G কোন প্রজন্মের মোবাইল নেটওয়ার্ক প্রযুক্তি?",
+                    "options": [
+                        "তৃতীয় প্রজন্ম",
+                        "চতুর্থ প্রজন্ম",
+                        "পঞ্চম প্রজন্ম",
+                        "ষষ্ঠ প্রজন্ম"
+                    ],
+                    "answer": 2,
+                    "why": "5G হলো পঞ্চম প্রজন্মের মোবাইল নেটওয়ার্ক প্রযুক্তি।"
+                },
+                {
+                    "q": "নগদ কোন প্রতিষ্ঠানের মোবাইল ব্যাংকিং সেবা?",
+                    "options": [
+                        "বাংলাদেশ ডাক বিভাগ",
+                        "বাংলাদেশ ব্যাংক",
+                        "ব্র্যাক ব্যাংক",
+                        "সোনালী ব্যাংক"
+                    ],
+                    "answer": 0,
+                    "why": "নগদ বাংলাদেশ ডাক বিভাগের মোবাইল ব্যাংকিং সেবা।"
+                },
+                {
+                    "q": "'Robot' শব্দটি প্রথম ব্যবহার করেন কে?",
+                    "options": [
+                        "কারেল চাপেক",
+                        "আইজ্যাক আসিমভ",
+                        "লিওনার্দো দা ভিঞ্চি",
+                        "অ্যালান টুরিং"
+                    ],
+                    "answer": 0,
+                    "why": "চেক লেখক কারেল চাপেক ১৯২০ সালে তাঁর R.U.R. নাটকে প্রথম 'Robot' শব্দটি ব্যবহার করেন।"
+                },
+                {
+                    "q": "বাংলাদেশে ই-পাসপোর্ট চালু হয় কত সালে?",
+                    "options": [
+                        "২০১৮ সালে",
+                        "২০১৯ সালে",
+                        "২০২০ সালে",
+                        "২০২১ সালে"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশে ই-পাসপোর্ট ২০২০ সালের ২২ জানুয়ারি চালু হয়।"
+                },
+                {
+                    "q": "ইন্টারনেটে তথ্য খুঁজতে কোনটি ব্যবহৃত হয়?",
+                    "options": [
+                        "সার্চ ইঞ্জিন",
+                        "ব্রাউজার",
+                        "ই-মেইল",
+                        "অ্যান্টিভাইরাস"
+                    ],
+                    "answer": 0,
+                    "why": "ইন্টারনেটে তথ্য খুঁজতে সার্চ ইঞ্জিন (যেমন Google) ব্যবহৃত হয়।"
                 }
             ]
         }
