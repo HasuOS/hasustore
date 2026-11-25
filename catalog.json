@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 78,
-   "versionName": "5.50",
-   "size": 70531998,
-   "changes": "Two fixes from your testing. The Settings button in the keyboard's top tools bar works again — it now opens HasuBoard reliably (and says so honestly if it ever can't). And saving a copied text is unmissable: ⬇ Save clip and ＋ Add sit pinned at the top of the clipboard panel, and inside Add a new 📋 Paste button fills the field with the text you already copied — check it, edit it, save it, no retyping. Everything from 5.49 (tap-to-paste clips, pinned clips, timestamps) is unchanged.",
+   "code": 79,
+   "versionName": "5.51",
+   "size": 70564766,
+   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795586798,
-   "etag": "0x8DF4ABA34CFEB34"
+   "ts": 1795614537,
+   "etag": "0x8DF4AFAD3B87C7C"
   },
   {
    "pkg": "hasu.os.browser",
