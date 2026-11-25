@@ -1,0 +1,12 @@
+{
+ "themes": [
+  {
+   "id": "monsoon",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/edit/themes/monsoon.json"
+  },
+  {
+   "id": "sandstone",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/edit/themes/sandstone.json"
+  }
+ ]
+}
