@@ -721,13 +721,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 35,
-   "versionName": "1.34",
-   "size": 156597,
+   "code": 36,
+   "versionName": "1.35",
+   "size": 209990,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "Call screen fixed: a red ● Recording pill with its own timer shows while recording runs; a − / + volume row with green level bars sets the call volume on screen (the side keys show there too); Speaker turns blue when on and Mute turns orange when muted, so every button shows what it did.",
-   "ts": 1795342427,
-   "etag": "0x8DF48813940D010"
+   "changes": "Everything new, in one update. Sound fixed: the side keys set the real call volume and Speaker answers the moment Android confirms it. Recording rebuilt — it listens to its own sound, switches to the microphone by itself when the phone feeds the call channel silence, and never saves a silent file. Separate App style and Call screen style in Settings → Appearance, each with drawn previews; the new Cover screen (your caller's photo full-screen) is the fresh-install default, and extra covers AND dialler themes now arrive by themselves from the feed. Incoming calls get the small banner and the full screen; a live ongoing-call bar with working Speaker / Mute / End sits in the status bar. Plus all 34 smart features: call waiting with hold/swap/merge, auto redial, caller announcer, vibration patterns, flip-to-mute, raise-to-ear answer, pocket mode, floating call bubble, per-contact auto-record, recordings PIN, share/rename/favourite recordings, call statistics, backup export/import, senior mode, the favourites home-screen widget and more — every one with its own live switch in Settings.",
+   "ts": 1795585570,
+   "etag": "0x8DF4AB76299A341"
   },
   {
    "pkg": "hasu.os.cell",
