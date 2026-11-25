@@ -67,18 +67,18 @@
    "ts": 1795616097
   },
   {
-   "pkg": "hasu.os.calendar",
-   "name": "HasuCalendar",
-   "tag": "Calendar",
-   "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 24,
-   "versionName": "1.21",
-   "size": 2271134,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-   "changes": "আইকন আরও জুম আউট — পুরো টাইল এবার বর্ডারসহ দেখা যায়",
-   "etag": "0x8DF4B14C04FDD24",
-   "ts": 1795625676
-  },
+  "pkg": "hasu.os.calendar",
+  "name": "HasuCalendar",
+  "tag": "Calendar",
+  "desc": "Calendar \u2014 month view with events, times and reminder notifications. Private, no account needed.",
+  "code": 25,
+  "versionName": "1.22",
+  "size": 2127774,
+  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
+  "changes": "\u0986\u0987\u0995\u09a8 \u0986\u09b0\u0993 \u099c\u09c1\u09ae \u0986\u0989\u099f \u2014 \u09a4\u09cb\u09ae\u09be\u09b0 \u09ac\u09b2\u09be floating look-\u098f \u098f\u09ac\u09be\u09b0 \u099f\u09be\u0987\u09b2 \u09ad\u09c7\u09b8\u09c7 \u09a5\u09be\u0995\u09c7",
+  "etag": "0x8DF4B156B61C68C",
+  "ts": 1795625951
+},
   {
    "pkg": "com.hasucam.camera",
    "name": "HasuCam",
