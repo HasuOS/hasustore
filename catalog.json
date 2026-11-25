@@ -804,13 +804,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 71,
- "versionName": "1.70",
- "size": 2665998,
+ "code": 72,
+ "versionName": "1.71",
+ "size": 2729450,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "1.70 — Full completion pass over all 220 commands + the new self-healing rule in its strong form. Every prompt in the app is now drawn in the app's own glass (the last plain system dialogs — backup chat picker, update prompts — converted). The Settings (About) hero now shows the app's real current launcher icon. Written answers save by themselves as you type. NEW — command 222, strong form: where a path exists that Android cannot switch off, the app now uses it — the exam alarm's ringing card also rides the draw-over-other-apps overlay once granted (that grant survives updates; Permissions page → the স্থায়ী পথ row), and the feed watch rides the standing panel's foreground service. For the switches only Android controls (notifications, exact alarms, full-screen alerts, battery exemption), the app watches all four itself: if one goes off, the home screen says so honestly with a one-tap button to the exact system page, everything keeps running by its fallback path meanwhile, and the app returns to the real path by itself the moment the setting is on again. The Permissions page shows the same live states, including a new full-screen alerts row. Everything else verified command by command: study wing (six sections, per-person), exam alarm (10 minutes early, speaks, repeats until stopped), login stays until Log out (last Settings row), no refresh button, backup covers every store, all gates green.",
- "ts": 1795593400,
- "etag": "0x8DF4AC146EBE40A",
+ "changes": "1.71 — পুরো Design system: Settings → Design page থেকে app icon (৪টা সাদা-glyph transparent variant), সব tool/tab/section-এর icon set (HasuOS, FA Sharp, Golden Line, Neon, Slim — picker-এ আসল icon দেখে বাছাই, select করলেই সব screen-এ apply), প্রতিটা icon আলাদা করে বদলানো, আর প্রতি section-এর নিজের theme। নতুন pack/theme feed থেকে নিজে নিজেই আসে + notification; নিজের icon set import-ও করা যায়। পুরো design backup-এ থাকে।",
+ "ts": 1795591570,
+ "etag": "0x8DF4AC558406D42",
  "cat": "Tools"
 }
  ]
