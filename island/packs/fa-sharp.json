@@ -1,0 +1,22 @@
+{
+  "name": "FA Sharp",
+  "glyphs": {
+    "update": "\uf019",
+    "guide": "\uf02d",
+    "perms": "\uf3ed",
+    "about": "\uf05a",
+    "look": "\uf1fc",
+    "settings": "\uf013",
+    "home": "\uf015",
+    "music": "\uf001",
+    "prev": "\uf048",
+    "play": "\uf04b",
+    "pause": "\uf04c",
+    "next": "\uf051",
+    "clock": "\uf017",
+    "phone": "\uf095",
+    "bell": "\uf0f3",
+    "bolt": "\uf0e7",
+    "timer": "\uf2f2"
+  }
+}
