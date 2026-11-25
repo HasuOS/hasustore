@@ -500,13 +500,13 @@
    "name": "HasuOS",
    "tag": "The family showcase",
    "desc": "Every HasuOS app in one place — the whole family with its details, straight from the live catalogue. Tap any app for its story, version and size, and get it through HasuStore.",
-   "code": 18,
-   "versionName": "1.17",
-   "size": 2074310,
-   "ts": 1795587238,
-   "etag": "0x8DF4ABB200D3003",
+   "code": 19,
+   "versionName": "1.18",
+   "size": 1856869,
+   "ts": 1795650362,
+   "etag": "0x8DF4B4E40544379",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
-   "changes": "Connected to HasuStore: while an app's update downloads in the store, its tile in this family list wears a ring that fills with the real progress — and once the download is ready, the tile shows a green badge; tap the tile and the update installs right away, through the store's own verified file."
+   "changes": "HasuOS 1.18 — launcher icon only: the chrome tile is gone — the brand h is now the bare white glyph on full transparency, the same family style everywhere (drawer, HasuOS Home, HasuStore). Nothing else changed."
   },
   {
    "pkg": "hasu.os.hasu",
