@@ -6,13 +6,13 @@
    "name": "HasuBackup",
    "tag": "APK backup",
    "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-   "code": 10,
-   "versionName": "1.07",
-   "size": 264396,
+   "code": 12,
+   "versionName": "1.09",
+   "size": 420111,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
-   "changes": "THE FULL SYSTEM ARRIVES. HasuBackup now updates itself — its own check, notification, download and install, offered only after the new version has settled and verified. A new Look system: every icon in the app is changeable from one picker (four built-in sets including Font Awesome, six themes, four launcher icon designs), tap a set and it applies at once. New icon packs arrive by themselves from the feed and a notification tells you what was added, with its own switch in the new Settings page. The refresh button is gone — the app list re-scans by itself when apps change. Permissions were already complete and stay that way.",
-   "etag": "0x8DF4A96AC48FE6E",
-   "ts": 1795571522
+   "changes": "Everything from the big HasuOS update — the family's own HasuOS icon set first in the picker, background update and pack checks with quiet hours, honest update status, the Reset card, and the About page showing your chosen app icon — plus the app-icon designs redrawn to your rule: Archive, Orbit and Shield are now white glyphs on a fully transparent background, each a genuinely different drawing, just like the Original. No colours, no backgrounds — only the design differs.",
+   "etag": "0x8DF4AA40D5C8F62",
+   "ts": 1795577267
   },
   {
    "pkg": "hasu.os.battery",
