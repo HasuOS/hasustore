@@ -682,13 +682,13 @@
    "name": "HasuDown",
    "tag": "Download manager",
    "desc": "Every file, downloaded — paste any direct link, pause and resume from the exact byte, finished files in Downloads/HasuDown.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 70510,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 1944264,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/down.apk",
-   "changes": "NEW APP: HasuDown 1.00 — a download manager for every file. Paste a link or share one in from any app; up to three downloads run at once with live progress and speed while the rest queue and start by themselves. Pause and resume from the exact byte, even after the app closes, and finished files are saved to Downloads/HasuDown ready to open. 📖 Guide page and 🔐 Permissions hub included — no runtime permissions.",
-   "ts": 1795325354,
-   "etag": "0x8DF48597C2C77AC"
+   "changes": "সম্পূর্ণ ফ্যামিলি পোর্ট: সেটিংস পেজ (ভাষা English/বাংলা, ডাউনলোড শেষ/ব্যর্থ হলে সতর্কতা, শব্দ ও কম্পন, ব্যাকআপ — ডাউনলোডের তালিকাসহ), লুক ও আইকন (থিম, আইকন সেট, পাঁচটি অ্যাপ-আইকন ডিজাইন, প্রতিটি পেজের নিজের থিম, পুরো-স্ক্রিন প্রিভিউ), অ্যাপ নিজে নিজে আপডেট হয়, নতুন আইকন সেট ও থিম নিজে নিজে আসে, ফাইলের ধরন অনুযায়ী Font Awesome ছবি, গাইড এখন বাংলায়ও।",
+   "ts": 1795620587,
+   "etag": "0x8DF4B08EA3ABBDE"
   },
   {
    "pkg": "hasu.os.sms",
