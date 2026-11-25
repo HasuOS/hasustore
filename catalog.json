@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 79,
-   "versionName": "5.51",
-   "size": 70564766,
-   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
+   "code": 80,
+   "versionName": "5.52",
+   "size": 70531998,
+   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795614537,
-   "etag": "0x8DF4AFAD3B87C7C"
+   "ts": 1795615600,
+   "etag": "0x8DF4AFD4FAE7159"
   },
   {
    "pkg": "hasu.os.browser",
