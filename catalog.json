@@ -71,13 +71,13 @@
   "name": "HasuCalendar",
   "tag": "Calendar",
   "desc": "Calendar \u2014 month view with events, times and reminder notifications. Private, no account needed.",
-  "code": 28,
-  "versionName": "1.25",
+  "code": 29,
+  "versionName": "1.26",
   "size": 1852337,
   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-  "changes": "নতুন আইকন — border + সাদা glyph, transparent background, তাঁর final design",
-  "etag": "0x8DF4B18BE1C58D8",
-  "ts": 1795627392
+  "changes": "আইকনে frosted fill — Finder-এর সাদা plate ঠেকাতে, তাঁর example-এর মতোই",
+  "etag": "0x8DF4B1A0F81E3FE",
+  "ts": 1795627959
 },
   {
    "pkg": "com.hasucam.camera",
