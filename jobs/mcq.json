@@ -1,6 +1,6 @@
 {
-    "version": 51,
-    "generatedAt": 1795583701,
+    "version": 52,
+    "generatedAt": 1795585401,
     "subjects": [
         {
             "id": "bangla",
@@ -17752,6 +17752,556 @@
                     ],
                     "answer": 0,
                     "why": "'বিদ্বান' বানানটি শুদ্ধ।"
+                },
+                {
+                    "q": "'চাঁদ' কোন ধরনের শব্দ?",
+                    "options": [
+                        "তৎসম",
+                        "তদ্ভব",
+                        "দেশি",
+                        "বিদেশি"
+                    ],
+                    "answer": 1,
+                    "why": "'চাঁদ' তৎসম 'চন্দ্র' থেকে পরিবর্তিত হয়ে আসা তদ্ভব শব্দ।"
+                },
+                {
+                    "q": "'হাত' শব্দটি কোনটি থেকে এসেছে?",
+                    "options": [
+                        "হস্ত",
+                        "কর",
+                        "পাণি",
+                        "ভুজ"
+                    ],
+                    "answer": 0,
+                    "why": "'হাত' তৎসম 'হস্ত' থেকে পরিবর্তিত হয়ে আসা তদ্ভব শব্দ।"
+                },
+                {
+                    "q": "'কর্ণ' থেকে আগত তদ্ভব শব্দ কোনটি?",
+                    "options": [
+                        "কান",
+                        "চোখ",
+                        "নাক",
+                        "মুখ"
+                    ],
+                    "answer": 0,
+                    "why": "তৎসম 'কর্ণ' থেকে তদ্ভব 'কান' শব্দটি এসেছে।"
+                },
+                {
+                    "q": "'কুলা' কোন ধরনের শব্দ?",
+                    "options": [
+                        "তৎসম",
+                        "তদ্ভব",
+                        "দেশি",
+                        "বিদেশি"
+                    ],
+                    "answer": 2,
+                    "why": "'কুলা' বাংলার নিজস্ব দেশি শব্দ।"
+                },
+                {
+                    "q": "'স্কুল' কোন ভাষার শব্দ?",
+                    "options": [
+                        "ফারসি",
+                        "আরবি",
+                        "পর্তুগিজ",
+                        "ইংরেজি"
+                    ],
+                    "answer": 3,
+                    "why": "'স্কুল' ইংরেজি ভাষার শব্দ।"
+                },
+                {
+                    "q": "'আলমারি' কোন ভাষার শব্দ?",
+                    "options": [
+                        "ফারসি",
+                        "আরবি",
+                        "পর্তুগিজ",
+                        "তুর্কি"
+                    ],
+                    "answer": 2,
+                    "why": "'আলমারি' পর্তুগিজ ভাষা থেকে বাংলায় এসেছে।"
+                },
+                {
+                    "q": "'চা' কোন ভাষার শব্দ?",
+                    "options": [
+                        "চীনা",
+                        "জাপানি",
+                        "ফারসি",
+                        "আরবি"
+                    ],
+                    "answer": 0,
+                    "why": "'চা' চীনা ভাষার শব্দ।"
+                },
+                {
+                    "q": "'মাটি' কোন ধরনের শব্দ?",
+                    "options": [
+                        "তৎসম",
+                        "তদ্ভব",
+                        "দেশি",
+                        "বিদেশি"
+                    ],
+                    "answer": 1,
+                    "why": "'মাটি' তৎসম 'মৃত্তিকা' থেকে পরিবর্তিত হয়ে আসা তদ্ভব শব্দ।"
+                },
+                {
+                    "q": "'সাপ' কোন ধরনের শব্দ?",
+                    "options": [
+                        "তৎসম",
+                        "তদ্ভব",
+                        "দেশি",
+                        "বিদেশি"
+                    ],
+                    "answer": 1,
+                    "why": "'সাপ' তৎসম 'সর্প' থেকে পরিবর্তিত হয়ে আসা তদ্ভব শব্দ।"
+                },
+                {
+                    "q": "'সর্প' কোন ধরনের শব্দ?",
+                    "options": [
+                        "তৎসম",
+                        "তদ্ভব",
+                        "দেশি",
+                        "বিদেশি"
+                    ],
+                    "answer": 0,
+                    "why": "'সর্প' সংস্কৃত থেকে অপরিবর্তিতভাবে আসা তৎসম শব্দ।"
+                },
+                {
+                    "q": "'গমন' শব্দের প্রকৃতি-প্রত্যয় কোনটি?",
+                    "options": [
+                        "গম্ + অন",
+                        "গ + মন",
+                        "গম + ন",
+                        "গমন্ + অ"
+                    ],
+                    "answer": 0,
+                    "why": "'গমন' = গম্ (ধাতু) + অন (কৃৎ প্রত্যয়)।"
+                },
+                {
+                    "q": "'দর্শন' শব্দের প্রকৃতি-প্রত্যয় কোনটি?",
+                    "options": [
+                        "দৃশ্ + অন",
+                        "দর + শন",
+                        "দৃশ + ন",
+                        "দর্শ + ন"
+                    ],
+                    "answer": 0,
+                    "why": "'দর্শন' = দৃশ্ (ধাতু) + অন (কৃৎ প্রত্যয়)।"
+                },
+                {
+                    "q": "'পাঠক' শব্দের প্রকৃতি-প্রত্যয় কোনটি?",
+                    "options": [
+                        "পঠ্ + অক",
+                        "পাঠ + ক",
+                        "পা + ঠক",
+                        "পঠ + ক"
+                    ],
+                    "answer": 0,
+                    "why": "'পাঠক' = পঠ্ (ধাতু) + অক (কৃৎ প্রত্যয়)।"
+                },
+                {
+                    "q": "'কারক' শব্দের প্রকৃতি-প্রত্যয় কোনটি?",
+                    "options": [
+                        "কৃ + অক",
+                        "কার + ক",
+                        "কা + রক",
+                        "কর + ক"
+                    ],
+                    "answer": 0,
+                    "why": "'কারক' = কৃ (ধাতু) + অক (কৃৎ প্রত্যয়)।"
+                },
+                {
+                    "q": "'চলন' শব্দের প্রকৃতি-প্রত্যয় কোনটি?",
+                    "options": [
+                        "চল্ + অন",
+                        "চ + লন",
+                        "চল + ন",
+                        "চলন্ + অ"
+                    ],
+                    "answer": 0,
+                    "why": "'চলন' = চল্ (ধাতু) + অন (কৃৎ প্রত্যয়)।"
+                },
+                {
+                    "q": "'ভোজন' শব্দের প্রকৃতি-প্রত্যয় কোনটি?",
+                    "options": [
+                        "ভুজ্ + অন",
+                        "ভো + জন",
+                        "ভোজ + ন",
+                        "ভুজ + ন"
+                    ],
+                    "answer": 0,
+                    "why": "'ভোজন' = ভুজ্ (ধাতু) + অন (কৃৎ প্রত্যয়)।"
+                },
+                {
+                    "q": "'সুখী' শব্দে কোন প্রত্যয় যুক্ত হয়েছে?",
+                    "options": [
+                        "ঈ",
+                        "অন",
+                        "অক",
+                        "ত্ব"
+                    ],
+                    "answer": 0,
+                    "why": "'সুখী' = সুখ + ঈ; এখানে ঈ তদ্ধিত প্রত্যয়।"
+                },
+                {
+                    "q": "'মানব' শব্দের প্রকৃতি-প্রত্যয় কোনটি?",
+                    "options": [
+                        "মনু + ষ্ণ",
+                        "মান + ব",
+                        "মন + অব",
+                        "মানু + ব"
+                    ],
+                    "answer": 0,
+                    "why": "'মানব' = মনু + ষ্ণ (তদ্ধিত প্রত্যয়)।"
+                },
+                {
+                    "q": "'দৈনিক' শব্দের প্রকৃতি-প্রত্যয় কোনটি?",
+                    "options": [
+                        "দিন + ইক",
+                        "দৈ + নিক",
+                        "দৈনি + ক",
+                        "দিন + ক"
+                    ],
+                    "answer": 0,
+                    "why": "'দৈনিক' = দিন + ইক (তদ্ধিত প্রত্যয়)।"
+                },
+                {
+                    "q": "'সেবক' শব্দের প্রকৃতি-প্রত্যয় কোনটি?",
+                    "options": [
+                        "সেব্ + অক",
+                        "সে + বক",
+                        "সেব + ক",
+                        "সেবা + ক"
+                    ],
+                    "answer": 0,
+                    "why": "'সেবক' = সেব্ (ধাতু) + অক (কৃৎ প্রত্যয়)।"
+                },
+                {
+                    "q": "লালন শাহ কোথাকার সাধক?",
+                    "options": [
+                        "কুষ্টিয়া",
+                        "যশোর",
+                        "ফরিদপুর",
+                        "নাটোর"
+                    ],
+                    "answer": 0,
+                    "why": "লালন শাহ কুষ্টিয়ার ছেঁউড়িয়ার বাউল সাধক।"
+                },
+                {
+                    "q": "'খাঁচার ভিতর অচিন পাখি' গানটির রচয়িতা কে?",
+                    "options": [
+                        "লালন শাহ",
+                        "হাসন রাজা",
+                        "শাহ আবদুল করিম",
+                        "রাধারমণ"
+                    ],
+                    "answer": 0,
+                    "why": "'খাঁচার ভিতর অচিন পাখি' লালন শাহের বিখ্যাত গান।"
+                },
+                {
+                    "q": "'সাঁঝের মায়া' প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯৩৮ সালে",
+                        "১৯৪৮ সালে",
+                        "১৯৫৮ সালে",
+                        "১৯৬৮ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'সাঁঝের মায়া' প্রকাশিত হয় ১৯৩৮ সালে।"
+                },
+                {
+                    "q": "'একাত্তরের ডায়েরী' গ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "সুফিয়া কামাল",
+                        "জাহানারা ইমাম",
+                        "সেলিনা হোসেন",
+                        "রাবেয়া খাতুন"
+                    ],
+                    "answer": 0,
+                    "why": "'একাত্তরের ডায়েরী' সুফিয়া কামালের রচনা।"
+                },
+                {
+                    "q": "'দুর্গেশনন্দিনী' কী ধরনের রচনা?",
+                    "options": [
+                        "উপন্যাস",
+                        "নাটক",
+                        "কাব্যগ্রন্থ",
+                        "প্রবন্ধ"
+                    ],
+                    "answer": 0,
+                    "why": "'দুর্গেশনন্দিনী' বঙ্কিমচন্দ্রের উপন্যাস; এটি বাংলা সাহিত্যের প্রথম সার্থক উপন্যাস।"
+                },
+                {
+                    "q": "'বন্দেমাতরম' গানটি কোন উপন্যাসে আছে?",
+                    "options": [
+                        "আনন্দমঠ",
+                        "দুর্গেশনন্দিনী",
+                        "কপালকুণ্ডলা",
+                        "বিষবৃক্ষ"
+                    ],
+                    "answer": 0,
+                    "why": "'বন্দেমাতরম' গানটি বঙ্কিমচন্দ্রের 'আনন্দমঠ' উপন্যাসে আছে।"
+                },
+                {
+                    "q": "'কৃষ্ণকান্তের উইল' উপন্যাসের রচয়িতা কে?",
+                    "options": [
+                        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                        "শরৎচন্দ্র চট্টোপাধ্যায়",
+                        "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+                        "মানিক বন্দ্যোপাধ্যায়"
+                    ],
+                    "answer": 0,
+                    "why": "'কৃষ্ণকান্তের উইল'-এর রচয়িতা বঙ্কিমচন্দ্র চট্টোপাধ্যায়।"
+                },
+                {
+                    "q": "মাইকেল মধুসূদন দত্তের প্রথম কাব্যগ্রন্থ কোনটি?",
+                    "options": [
+                        "তিলোত্তমাসম্ভব কাব্য",
+                        "মেঘনাদবধ কাব্য",
+                        "বীরাঙ্গনা",
+                        "ব্রজাঙ্গনা"
+                    ],
+                    "answer": 0,
+                    "why": "মাইকেল মধুসূদন দত্তের প্রথম কাব্যগ্রন্থ 'তিলোত্তমাসম্ভব কাব্য' (১৮৬০)।"
+                },
+                {
+                    "q": "'বীরাঙ্গনা' কাব্য প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৮৬২ সালে",
+                        "১৮৬১ সালে",
+                        "১৮৬৬ সালে",
+                        "১৮৭৩ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'বীরাঙ্গনা' কাব্য প্রকাশিত হয় ১৮৬২ সালে।"
+                },
+                {
+                    "q": "বাংলা সাহিত্যে সনেটের প্রবর্তক কে?",
+                    "options": [
+                        "মাইকেল মধুসূদন দত্ত",
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                        "জীবনানন্দ দাশ"
+                    ],
+                    "answer": 0,
+                    "why": "মাইকেল মধুসূদন দত্ত বাংলা সাহিত্যে সনেটের প্রবর্তক।"
+                },
+                {
+                    "q": "'নন্দিত নরকে' প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯৭২ সালে",
+                        "১৯৮২ সালে",
+                        "১৯৯২ সালে",
+                        "২০০২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'নন্দিত নরকে' প্রকাশিত হয় ১৯৭২ সালে।"
+                },
+                {
+                    "q": "'মিসির আলি' চরিত্রের স্রষ্টা কে?",
+                    "options": [
+                        "হুমায়ূন আহমেদ",
+                        "মুহম্মদ জাফর ইকবাল",
+                        "আনিসুল হক",
+                        "শাহাদুজ্জামান"
+                    ],
+                    "answer": 0,
+                    "why": "'মিসির আলি' চরিত্রের স্রষ্টা হুমায়ূন আহমেদ।"
+                },
+                {
+                    "q": "শরৎচন্দ্র চট্টোপাধ্যায়ের প্রথম প্রকাশিত উপন্যাস কোনটি?",
+                    "options": [
+                        "বড়দিদি",
+                        "দেবদাস",
+                        "পরিণীতা",
+                        "শ্রীকান্ত"
+                    ],
+                    "answer": 0,
+                    "why": "শরৎচন্দ্রের প্রথম প্রকাশিত উপন্যাস 'বড়দিদি' (১৯১৩)।"
+                },
+                {
+                    "q": "জীবনানন্দ দাশের প্রথম কাব্যগ্রন্থ কোনটি?",
+                    "options": [
+                        "ঝরা পালক",
+                        "ধূসর পাণ্ডুলিপি",
+                        "বনলতা সেন",
+                        "রূপসী বাংলা"
+                    ],
+                    "answer": 0,
+                    "why": "জীবনানন্দ দাশের প্রথম কাব্যগ্রন্থ 'ঝরা পালক' (১৯২৭)।"
+                },
+                {
+                    "q": "'রূপসী বাংলা' কাব্যগ্রন্থ প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯৫৭ সালে",
+                        "১৯৪২ সালে",
+                        "১৯৩৬ সালে",
+                        "১৯৪৮ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'রূপসী বাংলা' জীবনানন্দ দাশের মৃত্যুর পর ১৯৫৭ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "জীবনানন্দ দাশ মৃত্যুবরণ করেন কবে?",
+                    "options": [
+                        "১৯৪৪ সালে",
+                        "১৯৫৪ সালে",
+                        "১৯৬৪ সালে",
+                        "১৯৭৪ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "জীবনানন্দ দাশ মৃত্যুবরণ করেন ১৯৫৪ সালে।"
+                },
+                {
+                    "q": "'অবরোধবাসিনী' গ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "বেগম রোকেয়া",
+                        "সুফিয়া কামাল",
+                        "জাহানারা ইমাম",
+                        "নীলিমা ইব্রাহিম"
+                    ],
+                    "answer": 0,
+                    "why": "'অবরোধবাসিনী'-র রচয়িতা বেগম রোকেয়া।"
+                },
+                {
+                    "q": "সাখাওয়াত মেমোরিয়াল গার্লস স্কুল প্রতিষ্ঠা করেন কে?",
+                    "options": [
+                        "বেগম রোকেয়া",
+                        "সুফিয়া কামাল",
+                        "কামিনী রায়",
+                        "সরলা দেবী"
+                    ],
+                    "answer": 0,
+                    "why": "সাখাওয়াত মেমোরিয়াল গার্লস স্কুল প্রতিষ্ঠা করেন বেগম রোকেয়া (১৯১১)।"
+                },
+                {
+                    "q": "'শ্রীকৃষ্ণকীর্তন' প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯১৬ সালে",
+                        "১৯০৯ সালে",
+                        "১৯০৭ সালে",
+                        "১৯২৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'শ্রীকৃষ্ণকীর্তন' প্রকাশিত হয় ১৯১৬ সালে।"
+                },
+                {
+                    "q": "'শ্রীকৃষ্ণকীর্তন'-এর রচয়িতা কে?",
+                    "options": [
+                        "বড়ু চণ্ডীদাস",
+                        "চণ্ডীদাস",
+                        "বিদ্যাপতি",
+                        "জয়দেব"
+                    ],
+                    "answer": 0,
+                    "why": "'শ্রীকৃষ্ণকীর্তন'-এর রচয়িতা বড়ু চণ্ডীদাস।"
+                },
+                {
+                    "q": "স্বরবৃত্ত ছন্দকে আর কী বলা হয়?",
+                    "options": [
+                        "ছড়ার ছন্দ",
+                        "মাত্রার ছন্দ",
+                        "অক্ষরের ছন্দ",
+                        "গদ্য ছন্দ"
+                    ],
+                    "answer": 0,
+                    "why": "স্বরবৃত্ত ছন্দকে ছড়ার ছন্দও বলা হয়; ছড়ায় এই ছন্দ ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "কোন ছন্দে মাত্রা গণনা করা হয়?",
+                    "options": [
+                        "মাত্রাবৃত্ত ছন্দ",
+                        "স্বরবৃত্ত ছন্দ",
+                        "অক্ষরবৃত্ত ছন্দ",
+                        "অমিত্রাক্ষর ছন্দ"
+                    ],
+                    "answer": 0,
+                    "why": "মাত্রাবৃত্ত ছন্দে মাত্রা গণনা করে ছন্দ নির্ধারণ করা হয়।"
+                },
+                {
+                    "q": "'গাছে ফুল ফুটেছে' — 'গাছে' কোন বিভক্তি?",
+                    "options": [
+                        "প্রথমা",
+                        "দ্বিতীয়া",
+                        "পঞ্চমী",
+                        "সপ্তমী"
+                    ],
+                    "answer": 3,
+                    "why": "'গাছে' শব্দে এ বিভক্তি যুক্ত হয়েছে; এটি সপ্তমী বিভক্তি।"
+                },
+                {
+                    "q": "'রামকে ডাক' — 'রামকে' কোন বিভক্তি?",
+                    "options": [
+                        "প্রথমা",
+                        "দ্বিতীয়া",
+                        "তৃতীয়া",
+                        "ষষ্ঠী"
+                    ],
+                    "answer": 1,
+                    "why": "'রামকে' শব্দে কে বিভক্তি যুক্ত হয়েছে; এটি দ্বিতীয়া বিভক্তি।"
+                },
+                {
+                    "q": "'কলম দিয়ে লিখি' — এখানে কোন বিভক্তি ব্যবহৃত হয়েছে?",
+                    "options": [
+                        "দ্বিতীয়া",
+                        "তৃতীয়া",
+                        "চতুর্থী",
+                        "পঞ্চমী"
+                    ],
+                    "answer": 1,
+                    "why": "'দিয়ে' দ্বারা করণ বোঝানো হয়েছে; এটি তৃতীয়া বিভক্তি।"
+                },
+                {
+                    "q": "'ছেলেটির বই' — 'ছেলেটির' কোন বিভক্তি?",
+                    "options": [
+                        "পঞ্চমী",
+                        "ষষ্ঠী",
+                        "সপ্তমী",
+                        "প্রথমা"
+                    ],
+                    "answer": 1,
+                    "why": "'ছেলেটির' শব্দে র বিভক্তি যুক্ত হয়েছে; এটি ষষ্ঠী বিভক্তি।"
+                },
+                {
+                    "q": "'ঢাকা থেকে এলাম' — এখানে কোন বিভক্তি ব্যবহৃত হয়েছে?",
+                    "options": [
+                        "তৃতীয়া",
+                        "চতুর্থী",
+                        "পঞ্চমী",
+                        "ষষ্ঠী"
+                    ],
+                    "answer": 2,
+                    "why": "'থেকে' দ্বারা অপাদান বোঝানো হয়েছে; এটি পঞ্চমী বিভক্তি।"
+                },
+                {
+                    "q": "কোনটি সঠিক বানান?",
+                    "options": [
+                        "মুহুর্ত",
+                        "মুহূর্ত",
+                        "মুহুর্ত্ত",
+                        "মূহূর্ত"
+                    ],
+                    "answer": 1,
+                    "why": "সঠিক বানান 'মুহূর্ত'।"
+                },
+                {
+                    "q": "শুদ্ধ শব্দ কোনটি?",
+                    "options": [
+                        "দারিদ্রতা",
+                        "দারিদ্র্য",
+                        "দারিদ্র্যো",
+                        "দারিদ্র"
+                    ],
+                    "answer": 1,
+                    "why": "শুদ্ধ শব্দ 'দারিদ্র্য'; 'দারিদ্রতা' অশুদ্ধ।"
+                },
+                {
+                    "q": "অশুদ্ধ শব্দ কোনটি?",
+                    "options": [
+                        "সৌজন্য",
+                        "সৌজন্যতা",
+                        "সখ্য",
+                        "উৎকর্ষ"
+                    ],
+                    "answer": 1,
+                    "why": "'সৌজন্যতা' অশুদ্ধ; শুদ্ধ রূপ 'সৌজন্য'।"
                 }
             ]
         },
@@ -33731,6 +34281,589 @@
                     ],
                     "answer": 0,
                     "why": "'Accommodate' is the correct spelling."
+                },
+                {
+                    "q": "Choose the correct interrogative form: \"He is a good boy.\"",
+                    "options": [
+                        "Is he not a good boy?",
+                        "Is he a good boy?",
+                        "He is not a good boy.",
+                        "Is he not good boy?"
+                    ],
+                    "answer": 0,
+                    "why": "\"He is a good boy\" — interrogative: Is he not a good boy?"
+                },
+                {
+                    "q": "Choose the correct interrogative form: \"Everybody likes flowers.\"",
+                    "options": [
+                        "Who likes flowers?",
+                        "Who does not like flowers?",
+                        "Does everybody like flowers?",
+                        "Who do not like flowers?"
+                    ],
+                    "answer": 1,
+                    "why": "\"Everybody likes flowers\" — interrogative: Who does not like flowers?"
+                },
+                {
+                    "q": "Choose the correct assertive form: \"What a beautiful flower it is!\"",
+                    "options": [
+                        "It is a very beautiful flower.",
+                        "It is a beautiful flower very.",
+                        "What a flower it is beautiful!",
+                        "It is very a beautiful flower."
+                    ],
+                    "answer": 0,
+                    "why": "\"What a beautiful flower it is!\" — assertive: It is a very beautiful flower."
+                },
+                {
+                    "q": "Choose the correct negative form: \"Only he can do it.\"",
+                    "options": [
+                        "None but he can do it.",
+                        "He can do it only.",
+                        "Only he do it not.",
+                        "He only can not do it."
+                    ],
+                    "answer": 0,
+                    "why": "\"Only he can do it\" — negative: None but he can do it."
+                },
+                {
+                    "q": "Choose the correct affirmative form: \"He is not a liar.\"",
+                    "options": [
+                        "He is truthful.",
+                        "He is a liar.",
+                        "He is not truthful.",
+                        "He is a truth man."
+                    ],
+                    "answer": 0,
+                    "why": "\"He is not a liar\" — affirmative: He is truthful."
+                },
+                {
+                    "q": "Choose the correct exclamatory form: \"It is a very hot day.\"",
+                    "options": [
+                        "What a hot day it is!",
+                        "How hot day it is!",
+                        "What hot day it is!",
+                        "How a hot day it is!"
+                    ],
+                    "answer": 0,
+                    "why": "\"It is a very hot day\" — exclamatory: What a hot day it is!"
+                },
+                {
+                    "q": "Choose the correct interrogative form: \"Nobody can do this work.\"",
+                    "options": [
+                        "Who can do this work?",
+                        "Who cannot do this work?",
+                        "Can nobody do this work?",
+                        "Who can not do this work?"
+                    ],
+                    "answer": 0,
+                    "why": "\"Nobody can do this work\" — interrogative: Who can do this work?"
+                },
+                {
+                    "q": "Choose the correct assertive form: \"How sweet the mango is!\"",
+                    "options": [
+                        "The mango is very sweet.",
+                        "The mango is sweet very.",
+                        "How the mango is sweet!",
+                        "The mango is a very sweet."
+                    ],
+                    "answer": 0,
+                    "why": "\"How sweet the mango is!\" — assertive: The mango is very sweet."
+                },
+                {
+                    "q": "\"He is good in English.\" — Choose the correct sentence.",
+                    "options": [
+                        "He is good in English.",
+                        "He is good at English.",
+                        "He is good on English.",
+                        "He is good for English."
+                    ],
+                    "answer": 1,
+                    "why": "The correct phrase is 'good at': He is good at English."
+                },
+                {
+                    "q": "\"I am agree with you.\" — Choose the correct sentence.",
+                    "options": [
+                        "I am agree with you.",
+                        "I agree with you.",
+                        "I am agreed with you.",
+                        "I agree to you."
+                    ],
+                    "answer": 1,
+                    "why": "'Agree' is a verb: I agree with you."
+                },
+                {
+                    "q": "\"We discussed about the matter.\" — Choose the correct sentence.",
+                    "options": [
+                        "We discussed about the matter.",
+                        "We discussed the matter.",
+                        "We discussed on the matter.",
+                        "We discussed with the matter."
+                    ],
+                    "answer": 1,
+                    "why": "'Discuss' takes no preposition: We discussed the matter."
+                },
+                {
+                    "q": "\"He is senior than me.\" — Choose the correct sentence.",
+                    "options": [
+                        "He is senior than me.",
+                        "He is senior to me.",
+                        "He is senior from me.",
+                        "He is senior over me."
+                    ],
+                    "answer": 1,
+                    "why": "'Senior' takes 'to': He is senior to me."
+                },
+                {
+                    "q": "\"One of the boys are absent.\" — Choose the correct sentence.",
+                    "options": [
+                        "One of the boys are absent.",
+                        "One of the boys is absent.",
+                        "One of the boy is absent.",
+                        "One of the boys has absent."
+                    ],
+                    "answer": 1,
+                    "why": "'One of' takes a singular verb: One of the boys is absent."
+                },
+                {
+                    "q": "\"The number of students are fifty.\" — Choose the correct sentence.",
+                    "options": [
+                        "The number of students are fifty.",
+                        "The number of students is fifty.",
+                        "The number of student is fifty.",
+                        "The numbers of students is fifty."
+                    ],
+                    "answer": 1,
+                    "why": "'The number of' takes a singular verb: The number of students is fifty."
+                },
+                {
+                    "q": "\"Each of the students have a book.\" — Choose the correct sentence.",
+                    "options": [
+                        "Each of the students have a book.",
+                        "Each of the students has a book.",
+                        "Each of the student have a book.",
+                        "Each of the students is have a book."
+                    ],
+                    "answer": 1,
+                    "why": "'Each of' takes a singular verb: Each of the students has a book."
+                },
+                {
+                    "q": "\"I have visited him yesterday.\" — Choose the correct sentence.",
+                    "options": [
+                        "I have visited him yesterday.",
+                        "I visited him yesterday.",
+                        "I had visited him yesterday.",
+                        "I visit him yesterday."
+                    ],
+                    "answer": 1,
+                    "why": "With 'yesterday' use past simple: I visited him yesterday."
+                },
+                {
+                    "q": "\"Let he go there.\" — Choose the correct sentence.",
+                    "options": [
+                        "Let he go there.",
+                        "Let him go there.",
+                        "Let his go there.",
+                        "Let he goes there."
+                    ],
+                    "answer": 1,
+                    "why": "After 'let' use the objective pronoun: Let him go there."
+                },
+                {
+                    "q": "\"Between you and I, he is honest.\" — Choose the correct sentence.",
+                    "options": [
+                        "Between you and I, he is honest.",
+                        "Between you and me, he is honest.",
+                        "Between you and mine, he is honest.",
+                        "Between you and myself, he is honest."
+                    ],
+                    "answer": 1,
+                    "why": "After a preposition use the objective pronoun: Between you and me."
+                },
+                {
+                    "q": "\"The sceneries are beautiful.\" — Choose the correct sentence.",
+                    "options": [
+                        "The sceneries are beautiful.",
+                        "The scenery is beautiful.",
+                        "The sceneries is beautiful.",
+                        "The scenery are beautiful."
+                    ],
+                    "answer": 1,
+                    "why": "'Scenery' is uncountable: The scenery is beautiful."
+                },
+                {
+                    "q": "\"He gave me an advice.\" — Choose the correct sentence.",
+                    "options": [
+                        "He gave me an advice.",
+                        "He gave me a piece of advice.",
+                        "He gave me advices.",
+                        "He gave me some advices."
+                    ],
+                    "answer": 1,
+                    "why": "'Advice' is uncountable: He gave me a piece of advice."
+                },
+                {
+                    "q": "\"She is married with him.\" — Choose the correct sentence.",
+                    "options": [
+                        "She is married with him.",
+                        "She is married to him.",
+                        "She is married by him.",
+                        "She is married at him."
+                    ],
+                    "answer": 1,
+                    "why": "The correct phrase is 'married to': She is married to him."
+                },
+                {
+                    "q": "\"He is more better than I.\" — Choose the correct sentence.",
+                    "options": [
+                        "He is more better than I.",
+                        "He is better than I.",
+                        "He is more good than I.",
+                        "He is gooder than I."
+                    ],
+                    "answer": 1,
+                    "why": "Double comparatives are wrong: He is better than I."
+                },
+                {
+                    "q": "\"Neither of them are present.\" — Choose the correct sentence.",
+                    "options": [
+                        "Neither of them are present.",
+                        "Neither of them is present.",
+                        "Neither of they are present.",
+                        "Neither of them has present."
+                    ],
+                    "answer": 1,
+                    "why": "'Neither of' takes a singular verb: Neither of them is present."
+                },
+                {
+                    "q": "Fill in the blank: He has lived here ___ 2010.",
+                    "options": [
+                        "for",
+                        "since",
+                        "from",
+                        "by"
+                    ],
+                    "answer": 1,
+                    "why": "Use 'since' with a point of time: He has lived here since 2010."
+                },
+                {
+                    "q": "Fill in the blank: The train had left ___ I reached the station.",
+                    "options": [
+                        "before",
+                        "after",
+                        "when",
+                        "while"
+                    ],
+                    "answer": 0,
+                    "why": "The train had left before I reached the station — past perfect for the earlier action."
+                },
+                {
+                    "q": "Fill in the blank: By 2030, he ___ completed his studies.",
+                    "options": [
+                        "will have",
+                        "will has",
+                        "would have",
+                        "has"
+                    ],
+                    "answer": 0,
+                    "why": "Future perfect: By 2030, he will have completed his studies."
+                },
+                {
+                    "q": "Choose the correct sentence: If I were a bird, I ___ fly.",
+                    "options": [
+                        "will",
+                        "would",
+                        "can",
+                        "shall"
+                    ],
+                    "answer": 1,
+                    "why": "Second conditional: If I were a bird, I would fly."
+                },
+                {
+                    "q": "Fill in the blank: Had I known the truth, I ___ told you.",
+                    "options": [
+                        "will have",
+                        "would have",
+                        "had",
+                        "have"
+                    ],
+                    "answer": 1,
+                    "why": "Third conditional inversion: Had I known the truth, I would have told you."
+                },
+                {
+                    "q": "Choose the correct modal: You ___ obey your parents.",
+                    "options": [
+                        "must",
+                        "may",
+                        "can",
+                        "might"
+                    ],
+                    "answer": 0,
+                    "why": "Duty/obligation: You must obey your parents."
+                },
+                {
+                    "q": "Choose the correct modal: ___ you please help me?",
+                    "options": [
+                        "Would",
+                        "Must",
+                        "May",
+                        "Shall"
+                    ],
+                    "answer": 0,
+                    "why": "Polite request: Would you please help me?"
+                },
+                {
+                    "q": "Choose the correct modal: You ___ not go there; it is dangerous.",
+                    "options": [
+                        "must",
+                        "may",
+                        "can",
+                        "might"
+                    ],
+                    "answer": 0,
+                    "why": "Prohibition: You must not go there."
+                },
+                {
+                    "q": "Choose the correct modal: He ___ swim when he was five.",
+                    "options": [
+                        "can",
+                        "could",
+                        "may",
+                        "must"
+                    ],
+                    "answer": 1,
+                    "why": "Past ability: He could swim when he was five."
+                },
+                {
+                    "q": "Choose the correct modal: It ___ rain today.",
+                    "options": [
+                        "may",
+                        "must",
+                        "can",
+                        "shall"
+                    ],
+                    "answer": 0,
+                    "why": "Possibility: It may rain today."
+                },
+                {
+                    "q": "Doctor : Hospital :: Teacher : ?",
+                    "options": [
+                        "School",
+                        "College",
+                        "Student",
+                        "Book"
+                    ],
+                    "answer": 0,
+                    "why": "A doctor works in a hospital; a teacher works in a school."
+                },
+                {
+                    "q": "Book : Read :: Pen : ?",
+                    "options": [
+                        "Write",
+                        "Ink",
+                        "Paper",
+                        "Draw"
+                    ],
+                    "answer": 0,
+                    "why": "A book is for reading; a pen is for writing."
+                },
+                {
+                    "q": "Bird : Fly :: Fish : ?",
+                    "options": [
+                        "Swim",
+                        "Water",
+                        "Eat",
+                        "Jump"
+                    ],
+                    "answer": 0,
+                    "why": "A bird flies; a fish swims."
+                },
+                {
+                    "q": "King : Queen :: Prince : ?",
+                    "options": [
+                        "Princess",
+                        "Palace",
+                        "Crown",
+                        "Knight"
+                    ],
+                    "answer": 0,
+                    "why": "King is the male counterpart of queen; prince is of princess."
+                },
+                {
+                    "q": "Lion : Den :: Bird : ?",
+                    "options": [
+                        "Nest",
+                        "Cage",
+                        "Tree",
+                        "Sky"
+                    ],
+                    "answer": 0,
+                    "why": "A lion lives in a den; a bird lives in a nest."
+                },
+                {
+                    "q": "Knife : Cut :: Needle : ?",
+                    "options": [
+                        "Sew",
+                        "Thread",
+                        "Cloth",
+                        "Iron"
+                    ],
+                    "answer": 0,
+                    "why": "A knife is used to cut; a needle is used to sew."
+                },
+                {
+                    "q": "Sun : Day :: Moon : ?",
+                    "options": [
+                        "Night",
+                        "Stars",
+                        "Light",
+                        "Dark"
+                    ],
+                    "answer": 0,
+                    "why": "The sun shines in the day; the moon shines at night."
+                },
+                {
+                    "q": "Author : Book :: Poet : ?",
+                    "options": [
+                        "Poem",
+                        "Novel",
+                        "Drama",
+                        "Story"
+                    ],
+                    "answer": 0,
+                    "why": "An author writes a book; a poet writes a poem."
+                },
+                {
+                    "q": "Car : Road :: Ship : ?",
+                    "options": [
+                        "Sea",
+                        "Water",
+                        "Port",
+                        "Sail"
+                    ],
+                    "answer": 0,
+                    "why": "A car runs on a road; a ship sails on the sea."
+                },
+                {
+                    "q": "Water : Thirst :: Food : ?",
+                    "options": [
+                        "Hunger",
+                        "Eat",
+                        "Cook",
+                        "Rice"
+                    ],
+                    "answer": 0,
+                    "why": "Water satisfies thirst; food satisfies hunger."
+                },
+                {
+                    "q": "Fill in the blank: ___ is a good exercise. (Swim)",
+                    "options": [
+                        "Swim",
+                        "Swimming",
+                        "Swam",
+                        "Swims"
+                    ],
+                    "answer": 1,
+                    "why": "Gerund as subject: Swimming is a good exercise."
+                },
+                {
+                    "q": "Fill in the blank: I enjoy ___ in the river. (swim)",
+                    "options": [
+                        "swim",
+                        "swimming",
+                        "swam",
+                        "to swim"
+                    ],
+                    "answer": 1,
+                    "why": "'Enjoy' takes a gerund: I enjoy swimming in the river."
+                },
+                {
+                    "q": "Fill in the blank: I saw him ___ the road. (cross)",
+                    "options": [
+                        "cross",
+                        "crossing",
+                        "crossed",
+                        "to cross"
+                    ],
+                    "answer": 1,
+                    "why": "Present participle after 'saw': I saw him crossing the road."
+                },
+                {
+                    "q": "Fill in the blank: Having ___ the work, he went home. (finish)",
+                    "options": [
+                        "finish",
+                        "finishing",
+                        "finished",
+                        "to finish"
+                    ],
+                    "answer": 2,
+                    "why": "Perfect participle: Having finished the work, he went home."
+                },
+                {
+                    "q": "Fill in the blank: The ___ chair is useless. (break)",
+                    "options": [
+                        "break",
+                        "breaking",
+                        "broken",
+                        "broke"
+                    ],
+                    "answer": 2,
+                    "why": "Past participle as adjective: The broken chair is useless."
+                },
+                {
+                    "q": "Fill in the blank: He is angry ___ me.",
+                    "options": [
+                        "with",
+                        "at",
+                        "on",
+                        "for"
+                    ],
+                    "answer": 0,
+                    "why": "'Angry with' is used for a person: He is angry with me."
+                },
+                {
+                    "q": "Fill in the blank: I am tired ___ walking.",
+                    "options": [
+                        "of",
+                        "from",
+                        "with",
+                        "by"
+                    ],
+                    "answer": 0,
+                    "why": "The correct phrase is 'tired of': I am tired of walking."
+                },
+                {
+                    "q": "Fill in the blank: He succeeded ___ life.",
+                    "options": [
+                        "in",
+                        "at",
+                        "on",
+                        "to"
+                    ],
+                    "answer": 0,
+                    "why": "The correct phrase is 'succeed in': He succeeded in life."
+                },
+                {
+                    "q": "Fill in the blank: He prevented me ___ going there.",
+                    "options": [
+                        "from",
+                        "to",
+                        "of",
+                        "at"
+                    ],
+                    "answer": 0,
+                    "why": "The correct phrase is 'prevent from': He prevented me from going there."
+                },
+                {
+                    "q": "Fill in the blank: She is the ___ girl in the class. (beautiful)",
+                    "options": [
+                        "more beautiful",
+                        "most beautiful",
+                        "beautiful",
+                        "beautifullest"
+                    ],
+                    "answer": 1,
+                    "why": "Superlative form: She is the most beautiful girl in the class."
                 }
             ]
         },
@@ -47553,6 +48686,391 @@
                     ],
                     "answer": 0,
                     "why": "ব্যাস = ২ × ব্যাসার্ধ।"
+                },
+                {
+                    "q": "log₂ 8 = কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৮"
+                    ],
+                    "answer": 1,
+                    "why": "২³ = ৮ বলে log₂ 8 = ৩।"
+                },
+                {
+                    "q": "log₃ 27 = কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৯"
+                    ],
+                    "answer": 1,
+                    "why": "৩³ = ২৭ বলে log₃ 27 = ৩।"
+                },
+                {
+                    "q": "log₅ 25 = কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৫",
+                        "২৫"
+                    ],
+                    "answer": 0,
+                    "why": "৫² = ২৫ বলে log₅ 25 = ২।"
+                },
+                {
+                    "q": "যেকোনো ভিত্তিতে log 1 = কত?",
+                    "options": [
+                        "০",
+                        "১",
+                        "১০",
+                        "ভিত্তি"
+                    ],
+                    "answer": 0,
+                    "why": "যেকোনো ভিত্তিতে log 1 = ০, কারণ যেকোনো সংখ্যার ০ ঘাত ১।"
+                },
+                {
+                    "q": "√9-এর মান কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৯"
+                    ],
+                    "answer": 1,
+                    "why": "√9 = ৩, কারণ ৩² = ৯।"
+                },
+                {
+                    "q": "√16 × √9 = কত?",
+                    "options": [
+                        "১২",
+                        "২৫",
+                        "৭",
+                        "২০"
+                    ],
+                    "answer": 0,
+                    "why": "√16 × √9 = ৪ × ৩ = ১২।"
+                },
+                {
+                    "q": "√50 = কত?",
+                    "options": [
+                        "৫√২",
+                        "২√৫",
+                        "৫√৫",
+                        "১০√২"
+                    ],
+                    "answer": 0,
+                    "why": "√50 = √(২৫ × ২) = ৫√২।"
+                },
+                {
+                    "q": "√12 = কত?",
+                    "options": [
+                        "২√৩",
+                        "৩√২",
+                        "৪√৩",
+                        "৬√২"
+                    ],
+                    "answer": 0,
+                    "why": "√12 = √(৪ × ৩) = ২√৩।"
+                },
+                {
+                    "q": "√8 = কত?",
+                    "options": [
+                        "২√২",
+                        "৩√২",
+                        "৪√২",
+                        "২√৩"
+                    ],
+                    "answer": 0,
+                    "why": "√8 = √(৪ × ২) = ২√২।"
+                },
+                {
+                    "q": "√18 = কত?",
+                    "options": [
+                        "২√২",
+                        "৩√২",
+                        "২√৩",
+                        "৩√৩"
+                    ],
+                    "answer": 1,
+                    "why": "√18 = √(৯ × ২) = ৩√২।"
+                },
+                {
+                    "q": "√27 = কত?",
+                    "options": [
+                        "৩√৩",
+                        "২√৩",
+                        "৩√২",
+                        "৯√৩"
+                    ],
+                    "answer": 0,
+                    "why": "√27 = √(৯ × ৩) = ৩√৩।"
+                },
+                {
+                    "q": "√75 = কত?",
+                    "options": [
+                        "৫√৩",
+                        "৩√৫",
+                        "৫√৫",
+                        "৭√৩"
+                    ],
+                    "answer": 0,
+                    "why": "√75 = √(২৫ × ৩) = ৫√৩।"
+                },
+                {
+                    "q": "A = {1, 2, 3} ও B = {2, 3, 4} সেট দুটির সাধারণ উপাদানগুলো কী?",
+                    "options": [
+                        "{1, 2, 3}",
+                        "{1, 2, 3, 4}",
+                        "{2, 3}",
+                        "{1, 4}"
+                    ],
+                    "answer": 2,
+                    "why": "A ও B-এর সাধারণ উপাদান {2, 3}; এটিই A ∩ B।"
+                },
+                {
+                    "q": "A = {1, 2, 3} ও B = {2, 3, 4} হলে A-তে আছে কিন্তু B-তে নেই এমন উপাদান কোনটি?",
+                    "options": [
+                        "{1}",
+                        "{2}",
+                        "{3}",
+                        "{4}"
+                    ],
+                    "answer": 0,
+                    "why": "A − B = {1}; ১ শুধু A-তেই আছে।"
+                },
+                {
+                    "q": "ফাঁকা সেটকে কী চিহ্ন দিয়ে প্রকাশ করা হয়?",
+                    "options": [
+                        "∅",
+                        "∞",
+                        "∈",
+                        "⊂"
+                    ],
+                    "answer": 0,
+                    "why": "ফাঁকা সেটকে ∅ চিহ্ন দিয়ে প্রকাশ করা হয়।"
+                },
+                {
+                    "q": "n(A) = 10, n(B) = 8, n(A ∩ B) = 3 হলে n(A ∪ B) = কত?",
+                    "options": [
+                        "১২",
+                        "১৩",
+                        "১৫",
+                        "১৮"
+                    ],
+                    "answer": 2,
+                    "why": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B) = ১০ + ৮ − ৩ = ১৫।"
+                },
+                {
+                    "q": "১০০ জনের মধ্যে ৬০ জন বাংলা, ৫০ জন ইংরেজি এবং ৩০ জন উভয় বিষয় পড়ে। কেউই পড়ে না কতজন?",
+                    "options": [
+                        "১০ জন",
+                        "২০ জন",
+                        "৩০ জন",
+                        "৪০ জন"
+                    ],
+                    "answer": 1,
+                    "why": "অন্তত একটি বিষয় পড়ে ৬০ + ৫০ − ৩০ = ৮০ জন; কেউই পড়ে না ১০০ − ৮০ = ২০ জন।"
+                },
+                {
+                    "q": "সার্বিক সেটকে কোন অক্ষর দিয়ে প্রকাশ করা হয়?",
+                    "options": [
+                        "U",
+                        "A",
+                        "S",
+                        "E"
+                    ],
+                    "answer": 0,
+                    "why": "সার্বিক সেটকে U অক্ষর দিয়ে প্রকাশ করা হয়।"
+                },
+                {
+                    "q": "A ⊆ B বলতে কী বোঝায়?",
+                    "options": [
+                        "A, B-এর উপসেট",
+                        "B, A-এর উপসেট",
+                        "A ও B সমান",
+                        "A ও B বিচ্ছিন্ন"
+                    ],
+                    "answer": 0,
+                    "why": "A ⊆ B বলতে বোঝায় A, B-এর উপসেট; A-এর সব উপাদান B-তে আছে।"
+                },
+                {
+                    "q": "০.১২৫-এর ভগ্নাংশ রূপ কোনটি?",
+                    "options": [
+                        "১/৪",
+                        "১/৮",
+                        "১/৫",
+                        "১/১০"
+                    ],
+                    "answer": 1,
+                    "why": "০.১২৫ = ১২৫/১০০০ = ১/৮।"
+                },
+                {
+                    "q": "০.২-এর ভগ্নাংশ রূপ কোনটি?",
+                    "options": [
+                        "১/২",
+                        "১/৫",
+                        "১/৪",
+                        "২/৫"
+                    ],
+                    "answer": 1,
+                    "why": "০.২ = ২/১০ = ১/৫।"
+                },
+                {
+                    "q": "০.৬-এর ভগ্নাংশ রূপ কোনটি?",
+                    "options": [
+                        "১/৫",
+                        "২/৫",
+                        "৩/৫",
+                        "৩/৪"
+                    ],
+                    "answer": 2,
+                    "why": "০.৬ = ৬/১০ = ৩/৫।"
+                },
+                {
+                    "q": "০.৩৫-এর ভগ্নাংশ রূপ কোনটি?",
+                    "options": [
+                        "৭/২০",
+                        "৭/১০",
+                        "৩/৫",
+                        "১/৩"
+                    ],
+                    "answer": 0,
+                    "why": "০.৩৫ = ৩৫/১০০ = ৭/২০।"
+                },
+                {
+                    "q": "০.৮৭৫-এর ভগ্নাংশ রূপ কোনটি?",
+                    "options": [
+                        "৭/৮",
+                        "৩/৪",
+                        "৫/৮",
+                        "৭/১০"
+                    ],
+                    "answer": 0,
+                    "why": "০.৮৭৫ = ৮৭৫/১০০০ = ৭/৮।"
+                },
+                {
+                    "q": "১.২৫-এর ভগ্নাংশ রূপ কোনটি?",
+                    "options": [
+                        "৫/৪",
+                        "৪/৫",
+                        "৩/২",
+                        "৬/৫"
+                    ],
+                    "answer": 0,
+                    "why": "১.২৫ = ১২৫/১০০ = ৫/৪।"
+                },
+                {
+                    "q": "০.২ × ০.৩ = কত?",
+                    "options": [
+                        "০.০৬",
+                        "০.৬",
+                        "০.০৫",
+                        "০.০৩"
+                    ],
+                    "answer": 0,
+                    "why": "০.২ × ০.৩ = ০.০৬।"
+                },
+                {
+                    "q": "১২০-এর ৩/৪ অংশ কত?",
+                    "options": [
+                        "৮০",
+                        "৯০",
+                        "১০০",
+                        "৬০"
+                    ],
+                    "answer": 1,
+                    "why": "১২০-এর ৩/৪ = ১২০ × ৩/৪ = ৯০।"
+                },
+                {
+                    "q": "১/৩-এর দশমিক মান কত?",
+                    "options": [
+                        "০.৩৩",
+                        "০.৩",
+                        "০.৩৩৩...",
+                        "০.৩৪"
+                    ],
+                    "answer": 2,
+                    "why": "১/৩ = ০.৩৩৩... (অসীম পৌনঃপুনিক দশমিক)।"
+                },
+                {
+                    "q": "৯০ লিটার মিশ্রণে দুধ ও পানির অনুপাত ৪:১ হলে পানির পরিমাণ কত?",
+                    "options": [
+                        "৭২ লিটার",
+                        "৩৬ লিটার",
+                        "১৮ লিটার",
+                        "৪৫ লিটার"
+                    ],
+                    "answer": 2,
+                    "why": "মোট ভাগ ৫; পানি = ৯০ × ১/৫ = ১৮ লিটার।"
+                },
+                {
+                    "q": "৩০ লিটার মিশ্রণে দুধ ও পানির অনুপাত ১:২ হলে দুধের পরিমাণ কত?",
+                    "options": [
+                        "১০ লিটার",
+                        "২০ লিটার",
+                        "১৫ লিটার",
+                        "৫ লিটার"
+                    ],
+                    "answer": 0,
+                    "why": "মোট ভাগ ৩; দুধ = ৩০ × ১/৩ = ১০ লিটার।"
+                },
+                {
+                    "q": "২০ লিটার মিশ্রণে দুধ ও পানি ৩:১ অনুপাতে আছে। আরও ৫ লিটার পানি মেশালে নতুন অনুপাত কত হবে?",
+                    "options": [
+                        "৩:২",
+                        "১:১",
+                        "২:১",
+                        "৩:১"
+                    ],
+                    "answer": 0,
+                    "why": "দুধ ১৫ লিটার, পানি ৫ লিটার; ৫ লিটার পানি মেশালে পানি ১০ লিটার; নতুন অনুপাত ১৫:১০ = ৩:২।"
+                },
+                {
+                    "q": "২৫ লিটার শরবতে চিনি ও পানির অনুপাত ১:৪ হলে চিনির পরিমাণ কত?",
+                    "options": [
+                        "৫ লিটার",
+                        "১০ লিটার",
+                        "২০ লিটার",
+                        "৪ লিটার"
+                    ],
+                    "answer": 0,
+                    "why": "মোট ভাগ ৫; চিনি = ২৫ × ১/৫ = ৫ লিটার।"
+                },
+                {
+                    "q": "৩০০০ টাকার ৪ বছরে মুনাফা ৬০০ টাকা হলে সুদের হার কত?",
+                    "options": [
+                        "৪%",
+                        "৫%",
+                        "৬%",
+                        "৮%"
+                    ],
+                    "answer": 1,
+                    "why": "হার = ৬০০ ÷ (৩০০০ × ৪) × ১০০ = ৫%।"
+                },
+                {
+                    "q": "২৫০০ টাকার ১০% হারে ৫০০ টাকা মুনাফা পেতে কত বছর লাগবে?",
+                    "options": [
+                        "১ বছর",
+                        "২ বছর",
+                        "৩ বছর",
+                        "৪ বছর"
+                    ],
+                    "answer": 1,
+                    "why": "সময় = ৫০০ ÷ (২৫০০ × ১০/১০০) = ৫০০ ÷ ২৫০ = ২ বছর।"
+                },
+                {
+                    "q": "৫২টি তাসের প্যাকেট থেকে একটি তাস তুললে সেটি টেক্কা হওয়ার সম্ভাবনা কত?",
+                    "options": [
+                        "১/১৩",
+                        "১/৪",
+                        "১/৫২",
+                        "১/২৬"
+                    ],
+                    "answer": 0,
+                    "why": "টেক্কা ৪টি; সম্ভাবনা ৪/৫২ = ১/১৩।"
                 }
             ]
         },
@@ -62122,6 +63640,380 @@
                     ],
                     "answer": 0,
                     "why": "ইউরো নগদ মুদ্রা (নোট ও কয়েন) হিসেবে ২০০২ সালে চালু হয়।"
+                },
+                {
+                    "q": "সংবিধানের কত নম্বর অনুচ্ছেদে সুপ্রিম কোর্ট প্রতিষ্ঠার কথা বলা আছে?",
+                    "options": [
+                        "৯৪ নং",
+                        "৯৫ নং",
+                        "৯৬ নং",
+                        "১০২ নং"
+                    ],
+                    "answer": 0,
+                    "why": "সংবিধানের ৯৪ নং অনুচ্ছেদে সুপ্রিম কোর্ট প্রতিষ্ঠার কথা বলা আছে।"
+                },
+                {
+                    "q": "সুপ্রিম কোর্টের বিচারপতিদের অবসরের বয়স কত?",
+                    "options": [
+                        "৬০ বছর",
+                        "৬২ বছর",
+                        "৬৫ বছর",
+                        "৬৭ বছর"
+                    ],
+                    "answer": 3,
+                    "why": "সুপ্রিম কোর্টের বিচারপতিদের অবসরের বয়স ৬৭ বছর।"
+                },
+                {
+                    "q": "প্রধান বিচারপতি নিয়োগ দেন কে?",
+                    "options": [
+                        "রাষ্ট্রপতি",
+                        "প্রধানমন্ত্রী",
+                        "স্পিকার",
+                        "আইনমন্ত্রী"
+                    ],
+                    "answer": 0,
+                    "why": "প্রধান বিচারপতি নিয়োগ দেন রাষ্ট্রপতি।"
+                },
+                {
+                    "q": "সুপ্রিম কোর্ট প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৭১ সালে",
+                        "১৯৭২ সালে",
+                        "১৯৭৩ সালে",
+                        "১৯৭৪ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশের সুপ্রিম কোর্ট প্রতিষ্ঠিত হয় ১৯৭২ সালে।"
+                },
+                {
+                    "q": "সুপ্রিম কোর্টের কয়টি বিভাগ আছে?",
+                    "options": [
+                        "১টি",
+                        "২টি",
+                        "৩টি",
+                        "৪টি"
+                    ],
+                    "answer": 1,
+                    "why": "সুপ্রিম কোর্টের ২টি বিভাগ: আপিল বিভাগ ও হাইকোর্ট বিভাগ।"
+                },
+                {
+                    "q": "মেট্রোরেলের প্রথম স্টেশন কোনটি?",
+                    "options": [
+                        "উত্তরা উত্তর",
+                        "আগারগাঁও",
+                        "মতিঝিল",
+                        "মিরপুর ১০"
+                    ],
+                    "answer": 0,
+                    "why": "মেট্রোরেলের প্রথম স্টেশন উত্তরা উত্তর।"
+                },
+                {
+                    "q": "এমআরটি লাইন-৬-এ মোট কয়টি স্টেশন আছে?",
+                    "options": [
+                        "১২টি",
+                        "১৪টি",
+                        "১৬টি",
+                        "১৮টি"
+                    ],
+                    "answer": 2,
+                    "why": "এমআরটি লাইন-৬-এ মোট ১৬টি স্টেশন আছে।"
+                },
+                {
+                    "q": "মেট্রোরেলের মতিঝিল প্রান্তের শেষ স্টেশন কোনটি?",
+                    "options": [
+                        "মতিঝিল",
+                        "কমলাপুর",
+                        "শাহবাগ",
+                        "সচিবালয়"
+                    ],
+                    "answer": 0,
+                    "why": "এমআরটি লাইন-৬-এর মতিঝিল প্রান্তের শেষ স্টেশন মতিঝিল।"
+                },
+                {
+                    "q": "GNP-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "Gross National Product",
+                        "Gross National Price",
+                        "General National Product",
+                        "Gross Net Product"
+                    ],
+                    "answer": 0,
+                    "why": "GNP = Gross National Product — মোট জাতীয় উৎপাদন।"
+                },
+                {
+                    "q": "মাথাপিছু আয় বলতে কী বোঝায়?",
+                    "options": [
+                        "মোট জাতীয় আয়কে জনসংখ্যা দিয়ে ভাগ করলে যা পাওয়া যায়",
+                        "একজন মানুষের মাসিক বেতন",
+                        "সরকারের মোট আয়",
+                        "ব্যাংকে জমা মোট অর্থ"
+                    ],
+                    "answer": 0,
+                    "why": "মাথাপিছু আয় = মোট জাতীয় আয় ÷ মোট জনসংখ্যা।"
+                },
+                {
+                    "q": "বাংলাদেশের অর্থনীতিতে সবচেয়ে বড় অবদান কোন খাতের?",
+                    "options": [
+                        "কৃষি",
+                        "শিল্প",
+                        "সেবা",
+                        "রেমিট্যান্স"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশের অর্থনীতিতে সবচেয়ে বড় অবদান সেবা খাতের।"
+                },
+                {
+                    "q": "অর্থ মন্ত্রণালয়ের ইংরেজি নাম কী?",
+                    "options": [
+                        "Ministry of Finance",
+                        "Ministry of Economy",
+                        "Ministry of Planning",
+                        "Ministry of Commerce"
+                    ],
+                    "answer": 0,
+                    "why": "অর্থ মন্ত্রণালয়ের ইংরেজি নাম Ministry of Finance।"
+                },
+                {
+                    "q": "পররাষ্ট্র মন্ত্রণালয়ের ইংরেজি নাম কী?",
+                    "options": [
+                        "Ministry of Foreign Affairs",
+                        "Ministry of Home Affairs",
+                        "Ministry of External Affairs",
+                        "Ministry of International Relations"
+                    ],
+                    "answer": 0,
+                    "why": "পররাষ্ট্র মন্ত্রণালয়ের ইংরেজি নাম Ministry of Foreign Affairs।"
+                },
+                {
+                    "q": "স্বরাষ্ট্র মন্ত্রণালয়ের ইংরেজি নাম কী?",
+                    "options": [
+                        "Ministry of Home Affairs",
+                        "Ministry of Interior",
+                        "Ministry of Defence",
+                        "Ministry of Law"
+                    ],
+                    "answer": 0,
+                    "why": "স্বরাষ্ট্র মন্ত্রণালয়ের ইংরেজি নাম Ministry of Home Affairs।"
+                },
+                {
+                    "q": "শিক্ষা মন্ত্রণালয়ের ইংরেজি নাম কী?",
+                    "options": [
+                        "Ministry of Education",
+                        "Ministry of Learning",
+                        "Ministry of Schools",
+                        "Ministry of Knowledge"
+                    ],
+                    "answer": 0,
+                    "why": "শিক্ষা মন্ত্রণালয়ের ইংরেজি নাম Ministry of Education।"
+                },
+                {
+                    "q": "প্রতিরক্ষা মন্ত্রণালয়ের ইংরেজি নাম কী?",
+                    "options": [
+                        "Ministry of Defence",
+                        "Ministry of Security",
+                        "Ministry of Armed Forces",
+                        "Ministry of Protection"
+                    ],
+                    "answer": 0,
+                    "why": "প্রতিরক্ষা মন্ত্রণালয়ের ইংরেজি নাম Ministry of Defence।"
+                },
+                {
+                    "q": "বাণিজ্য মন্ত্রণালয়ের ইংরেজি নাম কী?",
+                    "options": [
+                        "Ministry of Commerce",
+                        "Ministry of Trade",
+                        "Ministry of Business",
+                        "Ministry of Industry"
+                    ],
+                    "answer": 0,
+                    "why": "বাণিজ্য মন্ত্রণালয়ের ইংরেজি নাম Ministry of Commerce।"
+                },
+                {
+                    "q": "বাংলাদেশের বাজেট ঘোষণা করা হয় কোন মাসে?",
+                    "options": [
+                        "মে মাসে",
+                        "জুন মাসে",
+                        "জুলাই মাসে",
+                        "জানুয়ারি মাসে"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশের জাতীয় বাজেট প্রতি বছর জুন মাসে ঘোষণা করা হয়।"
+                },
+                {
+                    "q": "জাতীয় বাজেট পেশ করেন কে?",
+                    "options": [
+                        "অর্থমন্ত্রী",
+                        "প্রধানমন্ত্রী",
+                        "রাষ্ট্রপতি",
+                        "গভর্নর"
+                    ],
+                    "answer": 0,
+                    "why": "জাতীয় বাজেট সংসদে পেশ করেন অর্থমন্ত্রী।"
+                },
+                {
+                    "q": "বাংলাদেশে অর্থবছর শুরু হয় কবে?",
+                    "options": [
+                        "১ জানুয়ারি",
+                        "১ এপ্রিল",
+                        "১ জুলাই",
+                        "১ অক্টোবর"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশে অর্থবছর শুরু হয় ১ জুলাই।"
+                },
+                {
+                    "q": "সরকারের রাজস্ব আয়ের প্রধান উৎস কোনটি?",
+                    "options": [
+                        "আয়কর",
+                        "মূল্য সংযোজন কর (ভ্যাট)",
+                        "আবগারি শুল্ক",
+                        "আমদানি শুল্ক"
+                    ],
+                    "answer": 1,
+                    "why": "সরকারের রাজস্ব আয়ের প্রধান উৎস মূল্য সংযোজন কর (ভ্যাট)।"
+                },
+                {
+                    "q": "রেমিট্যান্স কী?",
+                    "options": [
+                        "প্রবাসীদের পাঠানো অর্থ",
+                        "বৈদেশিক ঋণ",
+                        "রপ্তানি আয়",
+                        "বৈদেশিক অনুদান"
+                    ],
+                    "answer": 0,
+                    "why": "রেমিট্যান্স হলো প্রবাসী বাংলাদেশিদের দেশে পাঠানো অর্থ।"
+                },
+                {
+                    "q": "রেমিট্যান্স পাঠালে সরকার কত শতাংশ প্রণোদনা দেয়?",
+                    "options": [
+                        "১%",
+                        "২%",
+                        "২.৫%",
+                        "৫%"
+                    ],
+                    "answer": 2,
+                    "why": "বৈধ পথে রেমিট্যান্স পাঠালে সরকার ২.৫% প্রণোদনা দেয়।"
+                },
+                {
+                    "q": "প্রবাসী কল্যাণ ব্যাংক কাদের জন্য প্রতিষ্ঠিত?",
+                    "options": [
+                        "প্রবাসী শ্রমিকদের জন্য",
+                        "ছাত্রদের জন্য",
+                        "কৃষকদের জন্য",
+                        "ব্যবসায়ীদের জন্য"
+                    ],
+                    "answer": 0,
+                    "why": "প্রবাসী কল্যাণ ব্যাংক প্রবাসী শ্রমিকদের আর্থিক সেবার জন্য প্রতিষ্ঠিত।"
+                },
+                {
+                    "q": "নির্বাচন কমিশন গঠিত হয় সংবিধানের কত নম্বর অনুচ্ছেদ অনুযায়ী?",
+                    "options": [
+                        "১১৮ নং",
+                        "১১৯ নং",
+                        "১২০ নং",
+                        "১২১ নং"
+                    ],
+                    "answer": 0,
+                    "why": "সংবিধানের ১১৮ নং অনুচ্ছেদ অনুযায়ী নির্বাচন কমিশন গঠিত হয়।"
+                },
+                {
+                    "q": "প্রধান নির্বাচন কমিশনারের মেয়াদ কত বছর?",
+                    "options": [
+                        "৩ বছর",
+                        "৪ বছর",
+                        "৫ বছর",
+                        "৬ বছর"
+                    ],
+                    "answer": 2,
+                    "why": "প্রধান নির্বাচন কমিশনারের মেয়াদ ৫ বছর।"
+                },
+                {
+                    "q": "জাতীয় সংসদ নির্বাচন পরিচালনা করে কোন সংস্থা?",
+                    "options": [
+                        "নির্বাচন কমিশন",
+                        "সুপ্রিম কোর্ট",
+                        "জনপ্রশাসন মন্ত্রণালয়",
+                        "স্বরাষ্ট্র মন্ত্রণালয়"
+                    ],
+                    "answer": 0,
+                    "why": "জাতীয় সংসদ নির্বাচন পরিচালনা করে নির্বাচন কমিশন।"
+                },
+                {
+                    "q": "নির্বাচন কমিশনের প্রধানকে কী বলা হয়?",
+                    "options": [
+                        "প্রধান নির্বাচন কমিশনার",
+                        "নির্বাচন সচিব",
+                        "নির্বাচন পরিচালক",
+                        "নির্বাচন বিচারপতি"
+                    ],
+                    "answer": 0,
+                    "why": "নির্বাচন কমিশনের প্রধানকে প্রধান নির্বাচন কমিশনার বলা হয়।"
+                },
+                {
+                    "q": "সার্কের প্রথম শীর্ষ সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+                    "options": [
+                        "ঢাকা",
+                        "কাঠমান্ডু",
+                        "নয়াদিল্লি",
+                        "কলম্বো"
+                    ],
+                    "answer": 0,
+                    "why": "সার্কের প্রথম শীর্ষ সম্মেলন অনুষ্ঠিত হয় ঢাকায় (১৯৮৫)।"
+                },
+                {
+                    "q": "সাফটা (SAFTA) কার্যকর হয় কবে?",
+                    "options": [
+                        "২০০৪ সালে",
+                        "২০০৬ সালে",
+                        "২০০৮ সালে",
+                        "২০১০ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "সাফটা (SAFTA) কার্যকর হয় ২০০৬ সালে।"
+                },
+                {
+                    "q": "বাংলাদেশের প্রধান রপ্তানি পণ্য কী?",
+                    "options": [
+                        "তৈরি পোশাক",
+                        "চা",
+                        "পাট",
+                        "চামড়া"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের প্রধান রপ্তানি পণ্য তৈরি পোশাক।"
+                },
+                {
+                    "q": "বাংলাদেশের সবচেয়ে বেশি রপ্তানি হয় কোন দেশে?",
+                    "options": [
+                        "যুক্তরাষ্ট্র",
+                        "যুক্তরাজ্য",
+                        "জার্মানি",
+                        "চীন"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের সবচেয়ে বেশি রপ্তানি হয় যুক্তরাষ্ট্রে।"
+                },
+                {
+                    "q": "রপ্তানি উন্নয়ন ব্যুরোর সংক্ষিপ্ত নাম কী?",
+                    "options": [
+                        "ইপিবি (EPB)",
+                        "বেপজা",
+                        "বিডা",
+                        "বিএসটিআই"
+                    ],
+                    "answer": 0,
+                    "why": "রপ্তানি উন্নয়ন ব্যুরোর সংক্ষিপ্ত নাম ইপিবি (EPB)।"
+                },
+                {
+                    "q": "বাংলাদেশের মোট রপ্তানি আয়ের সিংহভাগ আসে কোন খাত থেকে?",
+                    "options": [
+                        "তৈরি পোশাক খাত",
+                        "কৃষি খাত",
+                        "মৎস্য খাত",
+                        "পর্যটন খাত"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের মোট রপ্তানি আয়ের সিংহভাগ আসে তৈরি পোশাক খাত থেকে।"
                 }
             ]
         },
@@ -87513,6 +89405,490 @@
                     ],
                     "answer": 0,
                     "why": "MS Excel-এ প্রথম সেলের ঠিকানা A1 (কলাম A, সারি ১)।"
+                },
+                {
+                    "q": "ক্যাশ মেমরির প্রধান কাজ কী?",
+                    "options": [
+                        "তথ্য স্থায়ীভাবে সংরক্ষণ করা",
+                        "বারবার ব্যবহৃত তথ্য দ্রুত সরবরাহ করা",
+                        "তথ্য ছাপানো",
+                        "ভাইরাস ধরা"
+                    ],
+                    "answer": 1,
+                    "why": "ক্যাশ মেমরি বারবার ব্যবহৃত তথ্য ধরে রেখে CPU-কে দ্রুত সরবরাহ করে।"
+                },
+                {
+                    "q": "১ গিগাহার্টজ (GHz) সমান কত হার্টজ?",
+                    "options": [
+                        "১০⁶ Hz",
+                        "১০⁹ Hz",
+                        "১০¹² Hz",
+                        "১০³ Hz"
+                    ],
+                    "answer": 1,
+                    "why": "১ গিগাহার্টজ = ১০⁹ হার্টজ, অর্থাৎ প্রতি সেকেন্ডে একশ কোটি চক্র।"
+                },
+                {
+                    "q": "ইউটিলিটি সফটওয়্যারের উদাহরণ কোনটি?",
+                    "options": [
+                        "MS Excel",
+                        "অ্যান্টিভাইরাস",
+                        "Windows",
+                        "Python"
+                    ],
+                    "answer": 1,
+                    "why": "অ্যান্টিভাইরাস একটি ইউটিলিটি সফটওয়্যার; এটি কম্পিউটার রক্ষণাবেক্ষণে সাহায্য করে।"
+                },
+                {
+                    "q": "ওপেন সোর্স সফটওয়্যারের বৈশিষ্ট্য কী?",
+                    "options": [
+                        "সোর্স কোড সবার জন্য উন্মুক্ত থাকে",
+                        "ব্যবহারের জন্য লাইসেন্স কিনতে হয়",
+                        "সোর্স কোড গোপন থাকে",
+                        "শুধু একটি কোম্পানি ব্যবহার করতে পারে"
+                    ],
+                    "answer": 0,
+                    "why": "ওপেন সোর্স সফটওয়্যারের সোর্স কোড সবার জন্য উন্মুক্ত থাকে।"
+                },
+                {
+                    "q": "BIOS-এর প্রধান কাজ কী?",
+                    "options": [
+                        "কম্পিউটার চালু হওয়ার সময় হার্ডওয়্যার পরীক্ষা করা",
+                        "ইন্টারনেট চালানো",
+                        "ফাইল সংরক্ষণ করা",
+                        "ছবি তোলা"
+                    ],
+                    "answer": 0,
+                    "why": "BIOS কম্পিউটার চালু হওয়ার সময় হার্ডওয়্যার পরীক্ষা করে অপারেটিং সিস্টেম লোড করে।"
+                },
+                {
+                    "q": "বাইনারি যোগফল ১ + ১ = কত?",
+                    "options": [
+                        "১",
+                        "১০",
+                        "১১",
+                        "০"
+                    ],
+                    "answer": 1,
+                    "why": "বাইনারি পদ্ধতিতে ১ + ১ = ১০ (দশমিকে ২)।"
+                },
+                {
+                    "q": "বাইনারি সংখ্যা ১০১ + ১১-এর যোগফল কত?",
+                    "options": [
+                        "১১০",
+                        "১০০০",
+                        "১১১",
+                        "১০০১"
+                    ],
+                    "answer": 1,
+                    "why": "১০১ (৫) + ১১ (৩) = ৮; ৮-এর বাইনারি রূপ ১০০০।"
+                },
+                {
+                    "q": "বাইনারি সংখ্যা ১১১ + ১-এর যোগফল কত?",
+                    "options": [
+                        "১১১১",
+                        "১০০০",
+                        "১০০১",
+                        "১১১০"
+                    ],
+                    "answer": 1,
+                    "why": "১১১ (৭) + ১ (১) = ৮; ৮-এর বাইনারি রূপ ১০০০।"
+                },
+                {
+                    "q": "বাইনারি সংখ্যা ১০১০ + ০১০১-এর যোগফল কত?",
+                    "options": [
+                        "১১১১",
+                        "১১১০",
+                        "১০০০",
+                        "১০১০"
+                    ],
+                    "answer": 0,
+                    "why": "১০১০ (১০) + ০১০১ (৫) = ১৫; ১৫-এর বাইনারি রূপ ১১১১।"
+                },
+                {
+                    "q": "১০১০ সংখ্যাটির ১-এর পরিপূরক (1's complement) কত?",
+                    "options": [
+                        "০১০১",
+                        "১১০১",
+                        "১০১০",
+                        "০১০০"
+                    ],
+                    "answer": 0,
+                    "why": "১-এর পরিপূরকে প্রতিটি বিট উল্টে যায়: ১০১০ → ০১০১।"
+                },
+                {
+                    "q": "০১০১ সংখ্যাটির ২-এর পরিপূরক (2's complement) কত?",
+                    "options": [
+                        "১০১০",
+                        "১০১১",
+                        "১১০০",
+                        "০১১০"
+                    ],
+                    "answer": 1,
+                    "why": "২-এর পরিপূরক = ১-এর পরিপূরক + ১; ০১০১ → ১০১০ + ১ = ১০১১।"
+                },
+                {
+                    "q": "২-এর পরিপূরক পদ্ধতি কোন কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "যোগের কাজে",
+                        "বিয়োগের কাজে",
+                        "গুণের কাজে",
+                        "ভাগের কাজে"
+                    ],
+                    "answer": 1,
+                    "why": "কম্পিউটারে ২-এর পরিপূরক পদ্ধতি বিয়োগের কাজে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "বাইনারি বিয়োগ ১০ − ০১ = কত?",
+                    "options": [
+                        "০১",
+                        "১০",
+                        "১১",
+                        "০০"
+                    ],
+                    "answer": 0,
+                    "why": "১০ (২) − ০১ (১) = ১; ১-এর বাইনারি রূপ ০১।"
+                },
+                {
+                    "q": "NAND গেট কী দিয়ে তৈরি?",
+                    "options": [
+                        "NOT + AND",
+                        "NOT + OR",
+                        "AND + OR",
+                        "NOT + XOR"
+                    ],
+                    "answer": 0,
+                    "why": "NAND গেট = NOT + AND; AND গেটের আউটপুটকে উল্টে দিলে NAND পাওয়া যায়।"
+                },
+                {
+                    "q": "একটি ফ্লিপ-ফ্লপ কত বিট তথ্য ধারণ করতে পারে?",
+                    "options": [
+                        "১ বিট",
+                        "২ বিট",
+                        "৪ বিট",
+                        "৮ বিট"
+                    ],
+                    "answer": 0,
+                    "why": "একটি ফ্লিপ-ফ্লপ এক বিট (০ বা ১) তথ্য ধারণ করতে পারে।"
+                },
+                {
+                    "q": "D ফ্লিপ-ফ্লপের আউটপুট কেমন হয়?",
+                    "options": [
+                        "ক্লক পালসে ইনপুটের সমান হয়",
+                        "সবসময় ০ হয়",
+                        "সবসময় ১ হয়",
+                        "ইনপুটের উল্টো হয়"
+                    ],
+                    "answer": 0,
+                    "why": "D ফ্লিপ-ফ্লপে ক্লক পালস এলে আউটপুট ইনপুটের সমান হয়।"
+                },
+                {
+                    "q": "ফ্লিপ-ফ্লপ কোন ধরনের সার্কিট?",
+                    "options": [
+                        "কম্বিনেশনাল সার্কিট",
+                        "সিকোয়েনশিয়াল সার্কিট",
+                        "অ্যানালগ সার্কিট",
+                        "পাওয়ার সার্কিট"
+                    ],
+                    "answer": 1,
+                    "why": "ফ্লিপ-ফ্লপ একটি সিকোয়েনশিয়াল সার্কিট; এর আউটপুট আগের অবস্থার ওপর নির্ভর করে।"
+                },
+                {
+                    "q": "নিচের কোনটি মাল্টিমিডিয়ার উপাদান?",
+                    "options": [
+                        "টেক্সট",
+                        "অডিও",
+                        "ভিডিও",
+                        "উপরের সবগুলো"
+                    ],
+                    "answer": 3,
+                    "why": "টেক্সট, অডিও, ভিডিও, গ্রাফিক্স ও অ্যানিমেশন — সবই মাল্টিমিডিয়ার উপাদান।"
+                },
+                {
+                    "q": "MIDI-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "Musical Instrument Digital Interface",
+                        "Music Internet Data Interface",
+                        "Multimedia Instrument Digital Interface",
+                        "Musical Information Data Interface"
+                    ],
+                    "answer": 0,
+                    "why": "MIDI = Musical Instrument Digital Interface — সংগীত যন্ত্রের ডিজিটাল সংযোগ ব্যবস্থা।"
+                },
+                {
+                    "q": "অ্যানিমেশন কী?",
+                    "options": [
+                        "স্থির ছবিকে চলমান দেখানোর কৌশল",
+                        "ছবি আঁকার যন্ত্র",
+                        "শব্দ রেকর্ড করার পদ্ধতি",
+                        "ভিডিও সংকোচনের পদ্ধতি"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যানিমেশন হলো স্থির ছবিকে একের পর এক দেখিয়ে চলমান মনে করানোর কৌশল।"
+                },
+                {
+                    "q": "'https://www.example.com/page' ঠিকানায় ডোমেইন নাম কোনটি?",
+                    "options": [
+                        "https",
+                        "www.example.com",
+                        "/page",
+                        "www"
+                    ],
+                    "answer": 1,
+                    "why": "URL-এ প্রোটোকলের পরের অংশটি ডোমেইন নাম: www.example.com।"
+                },
+                {
+                    "q": "'www.example.com'-এ 'com' কী বোঝায়?",
+                    "options": [
+                        "বাণিজ্যিক",
+                        "শিক্ষা",
+                        "সরকারি",
+                        "সংস্থা"
+                    ],
+                    "answer": 0,
+                    "why": "'com' ডোমেইন বাণিজ্যিক (commercial) প্রতিষ্ঠানের জন্য ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "স্প্রেডশিটে সারি ও কলামের ছেদস্থলকে কী বলে?",
+                    "options": [
+                        "সেল",
+                        "রেঞ্জ",
+                        "ফর্মুলা",
+                        "শিট"
+                    ],
+                    "answer": 0,
+                    "why": "স্প্রেডশিটে সারি ও কলামের ছেদস্থলকে সেল (Cell) বলে।"
+                },
+                {
+                    "q": "স্প্রেডশিটে একাধিক সেলের সমষ্টিকে কী বলে?",
+                    "options": [
+                        "সেল",
+                        "রেঞ্জ",
+                        "ওয়ার্কবুক",
+                        "চার্ট"
+                    ],
+                    "answer": 1,
+                    "why": "স্প্রেডশিটে একাধিক সেলের সমষ্টিকে রেঞ্জ (Range) বলে।"
+                },
+                {
+                    "q": "ওয়ার্কবুক কী?",
+                    "options": [
+                        "একটি ওয়ার্কশিট",
+                        "একাধিক ওয়ার্কশিটের সমষ্টি",
+                        "একটি চার্ট",
+                        "একটি ফর্মুলা"
+                    ],
+                    "answer": 1,
+                    "why": "ওয়ার্কবুক হলো একাধিক ওয়ার্কশিটের সমষ্টি; Excel ফাইলকেই ওয়ার্কবুক বলে।"
+                },
+                {
+                    "q": "ডিজিটাল স্বাক্ষর তৈরিতে কোন চাবি ব্যবহৃত হয়?",
+                    "options": [
+                        "প্রেরকের ব্যক্তিগত (private) চাবি",
+                        "প্রেরকের সর্বজনীন (public) চাবি",
+                        "গ্রহীতার ব্যক্তিগত চাবি",
+                        "সার্ভারের চাবি"
+                    ],
+                    "answer": 0,
+                    "why": "ডিজিটাল স্বাক্ষর তৈরিতে প্রেরকের ব্যক্তিগত (private) চাবি ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "হ্যাকিং কী?",
+                    "options": [
+                        "অনুমতি ছাড়া কম্পিউটার সিস্টেমে প্রবেশ করা",
+                        "কম্পিউটার মেরামত করা",
+                        "সফটওয়্যার ইনস্টল করা",
+                        "ইন্টারনেটের গতি বাড়ানো"
+                    ],
+                    "answer": 0,
+                    "why": "হ্যাকিং হলো অনুমতি ছাড়া কম্পিউটার সিস্টেমে প্রবেশ করা বা তার ক্ষতি করা।"
+                },
+                {
+                    "q": "পরিচয় চুরি (Identity Theft) কী?",
+                    "options": [
+                        "অন্যের ব্যক্তিগত তথ্য ব্যবহার করে প্রতারণা করা",
+                        "পাসওয়ার্ড ভুলে যাওয়া",
+                        "কম্পিউটার চুরি করা",
+                        "ইমেইল মুছে ফেলা"
+                    ],
+                    "answer": 0,
+                    "why": "পরিচয় চুরি হলো অন্যের নাম, ছবি বা ব্যক্তিগত তথ্য ব্যবহার করে প্রতারণা করা।"
+                },
+                {
+                    "q": "ভার্চুয়াল মেমরি কী?",
+                    "options": [
+                        "হার্ডডিস্কের অংশকে RAM হিসেবে ব্যবহার করা",
+                        "আসল RAM",
+                        "ক্যাশ মেমরি",
+                        "ROM-এর অংশ"
+                    ],
+                    "answer": 0,
+                    "why": "ভার্চুয়াল মেমরি হলো হার্ডডিস্কের একটি অংশকে অস্থায়ী RAM হিসেবে ব্যবহারের ব্যবস্থা।"
+                },
+                {
+                    "q": "অক্টাল পদ্ধতিতে মোট কতটি অঙ্ক ব্যবহৃত হয়?",
+                    "options": [
+                        "২টি",
+                        "৮টি",
+                        "১০টি",
+                        "১৬টি"
+                    ],
+                    "answer": 1,
+                    "why": "অক্টাল পদ্ধতিতে ০ থেকে ৭ পর্যন্ত মোট ৮টি অঙ্ক ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "দশমিক সংখ্যা ৮-এর অক্টাল রূপ কোনটি?",
+                    "options": [
+                        "৮",
+                        "১০",
+                        "১১",
+                        "২০"
+                    ],
+                    "answer": 1,
+                    "why": "দশমিক ৮-এর অক্টাল রূপ ১০।"
+                },
+                {
+                    "q": "প্রাইমারি কি (Primary Key) কেমন হতে হয়?",
+                    "options": [
+                        "অনন্য ও খালি নয় এমন",
+                        "যেকোনো মান হতে পারে",
+                        "খালি হতে পারে",
+                        "একই মান বারবার থাকতে পারে"
+                    ],
+                    "answer": 0,
+                    "why": "প্রাইমারি কি অবশ্যই অনন্য হতে হয় এবং খালি (NULL) হতে পারে না।"
+                },
+                {
+                    "q": "ক্যান্ডিডেট কি কী?",
+                    "options": [
+                        "প্রাইমারি কি হওয়ার যোগ্য কি",
+                        "টেবিলের প্রথম কলাম",
+                        "টেবিলের শেষ কলাম",
+                        "খালি কি"
+                    ],
+                    "answer": 0,
+                    "why": "ক্যান্ডিডেট কি হলো প্রাইমারি কি হওয়ার যোগ্য কি; এদের মধ্য থেকে একটিকে প্রাইমারি কি করা হয়।"
+                },
+                {
+                    "q": "১NF-এর শর্ত কী?",
+                    "options": [
+                        "প্রতিটি মান পারমাণবিক (অবিভাজ্য) হতে হবে",
+                        "সব কি প্রাইমারি হতে হবে",
+                        "টেবিলে একটিই কলাম থাকবে",
+                        "কোনো সম্পর্ক থাকবে না"
+                    ],
+                    "answer": 0,
+                    "why": "প্রথম স্বাভাবিক রূপ (1NF)-এ প্রতিটি মান পারমাণবিক, অর্থাৎ অবিভাজ্য হতে হয়।"
+                },
+                {
+                    "q": "৩NF-এর শর্ত কী?",
+                    "options": [
+                        "কোনো ট্রানজিটিভ নির্ভরতা থাকবে না",
+                        "সব মান একই হতে হবে",
+                        "একটিই কি থাকবে",
+                        "টেবিলে কোনো সম্পর্ক থাকবে না"
+                    ],
+                    "answer": 0,
+                    "why": "তৃতীয় স্বাভাবিক রূপ (3NF)-এ কোনো ট্রানজিটিভ (পরোক্ষ) নির্ভরতা থাকতে পারে না।"
+                },
+                {
+                    "q": "HTTP কোন স্তরের প্রোটোকল?",
+                    "options": [
+                        "ফিজিক্যাল স্তর",
+                        "নেটওয়ার্ক স্তর",
+                        "ট্রান্সপোর্ট স্তর",
+                        "অ্যাপ্লিকেশন স্তর"
+                    ],
+                    "answer": 3,
+                    "why": "HTTP একটি অ্যাপ্লিকেশন স্তরের প্রোটোকল।"
+                },
+                {
+                    "q": "IP ঠিকানা কোন স্তরে কাজ করে?",
+                    "options": [
+                        "ফিজিক্যাল স্তর",
+                        "নেটওয়ার্ক স্তর",
+                        "ট্রান্সপোর্ট স্তর",
+                        "অ্যাপ্লিকেশন স্তর"
+                    ],
+                    "answer": 1,
+                    "why": "IP ঠিকানা OSI মডেলের নেটওয়ার্ক স্তরে কাজ করে।"
+                },
+                {
+                    "q": "for লুপ সাধারণত কখন ব্যবহার করা হয়?",
+                    "options": [
+                        "পুনরাবৃত্তির সংখ্যা জানা থাকলে",
+                        "শর্ত কখনো মিলবে না জানলে",
+                        "একবারও চলবে না জানলে",
+                        "শুধু সংখ্যা গণনায়"
+                    ],
+                    "answer": 0,
+                    "why": "পুনরাবৃত্তির সংখ্যা আগে থেকে জানা থাকলে for লুপ ব্যবহার করা হয়।"
+                },
+                {
+                    "q": "do-while লুপের বৈশিষ্ট্য কী?",
+                    "options": [
+                        "শর্ত যাচাইয়ের আগে অন্তত একবার চলে",
+                        "একবারও চলে না",
+                        "শর্ত মিললে থেমে যায়",
+                        "অসীমভাবে চলে"
+                    ],
+                    "answer": 0,
+                    "why": "do-while লুপে শর্ত যাচাইয়ের আগে লুপের ভেতরের কাজ অন্তত একবার চলে।"
+                },
+                {
+                    "q": "ফ্লোচার্টে সমান্তরিক (parallelogram) কী বোঝায়?",
+                    "options": [
+                        "প্রক্রিয়া",
+                        "সিদ্ধান্ত",
+                        "ইনপুট/আউটপুট",
+                        "শুরু"
+                    ],
+                    "answer": 2,
+                    "why": "ফ্লোচার্টে সমান্তরিক (parallelogram) ইনপুট বা আউটপুট বোঝায়।"
+                },
+                {
+                    "q": "ওয়ার্ম (Worm) ভাইরাসের বৈশিষ্ট্য কী?",
+                    "options": [
+                        "নিজে নিজে ছড়িয়ে পড়ে",
+                        "ফাইলের সঙ্গে লেগে থাকে",
+                        "শুধু ইমেইলে আসে",
+                        "শুধু USB-তে থাকে"
+                    ],
+                    "answer": 0,
+                    "why": "ওয়ার্ম নিজে নিজে নেটওয়ার্কে ছড়িয়ে পড়তে পারে; অন্য ফাইলের প্রয়োজন হয় না।"
+                },
+                {
+                    "q": "ফুল ব্যাকআপ কী?",
+                    "options": [
+                        "সব তথ্যের সম্পূর্ণ অনুলিপি",
+                        "পরিবর্তিত তথ্যের অনুলিপি",
+                        "শুধু ছবির অনুলিপি",
+                        "শুধু সিস্টেম ফাইলের অনুলিপি"
+                    ],
+                    "answer": 0,
+                    "why": "ফুল ব্যাকআপ হলো সব তথ্যের সম্পূর্ণ অনুলিপি সংরক্ষণ করা।"
+                },
+                {
+                    "q": "ইনক্রিমেন্টাল ব্যাকআপ কী?",
+                    "options": [
+                        "সব তথ্যের অনুলিপি",
+                        "শেষ ব্যাকআপের পর পরিবর্তিত তথ্যের অনুলিপি",
+                        "শুধু নতুন ফাইলের অনুলিপি",
+                        "শুধু মুছে ফেলা ফাইলের অনুলিপি"
+                    ],
+                    "answer": 1,
+                    "why": "ইনক্রিমেন্টাল ব্যাকআপে শুধু শেষ ব্যাকআপের পর পরিবর্তিত তথ্যের অনুলিপি নেওয়া হয়।"
+                },
+                {
+                    "q": "প্রাইভেট ক্লাউড কী?",
+                    "options": [
+                        "একটিমাত্র প্রতিষ্ঠানের জন্য সংরক্ষিত ক্লাউড",
+                        "সবার জন্য উন্মুক্ত ক্লাউড",
+                        "বিনামূল্যের ক্লাউড",
+                        "সরকারি ক্লাউড"
+                    ],
+                    "answer": 0,
+                    "why": "প্রাইভেট ক্লাউড শুধু একটি প্রতিষ্ঠানের ব্যবহারের জন্য সংরক্ষিত থাকে।"
                 }
             ]
         }
