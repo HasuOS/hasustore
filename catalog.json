@@ -45,13 +45,13 @@
    "name": "HasuBrowser",
    "tag": "Web browser",
    "desc": "Browser — light and fast browsing with bookmarks, history, downloads and desktop mode.",
-   "code": 16,
-   "versionName": "1.12",
-   "size": 2103736,
+   "code": 17,
+   "versionName": "1.13",
+   "size": 2152888,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/browser.apk",
-   "changes": "Contact added: the About page's Developer card now shows Hasu's email as a tappable row — tap it and the mail app opens with a compose already addressed to him. Nothing else changes.",
-   "ts": 1795584899,
-   "etag": "0x8DF4AB5AC35A0CB"
+   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
+   "ts": 1795614631,
+   "etag": "0x8DF4AFB096DD55F"
   },
   {
    "pkg": "hasu.os.calc",
