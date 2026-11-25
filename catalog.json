@@ -721,13 +721,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 37,
-   "versionName": "1.36",
+   "code": 38,
+   "versionName": "1.37",
    "size": 231349,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "See before you choose: every call-screen style and cover in the picker now opens the REAL call screen as a preview — sample caller, real layout, no call placed — with a Use this style button right there. Key sounds can be LISTENED to first: Settings → Keypad & senior → Key sound → Change gives every sound a ▶ Listen button playing the exact sound the keys make. And now every call surface wears its own theme: the incoming screen, the little banner and the ongoing-call notification each have their own picker with built-in designs (the HasuOS default always there), live previews, and new themes that arrive by themselves from their own feeds — incoming themes can even carry a video background.",
-   "ts": 1795587238,
-   "etag": "0x8DF4ABB2E9BD0F5"
+   "changes": "One fix from your testing: End call is now a round red button with the phone-down sign in every call-screen style — the wide text bar at the bottom of the Split screen is gone, and Split's ringing Answer and Decline are round buttons too, just like the other styles. Everything else from 1.36 — the real call-screen previews, listen-first key sounds and per-surface themes — is unchanged.",
+   "ts": 1795588505,
+   "etag": "0x8DF4ABE380D53E5"
   },
   {
    "pkg": "hasu.os.cell",
