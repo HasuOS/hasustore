@@ -1,0 +1,33 @@
+{
+ "id": "golden-line",
+ "name": "Golden Line",
+ "kind": "glyphs",
+ "glyphs": {
+  "update": "fa:f019",
+  "guide": "fa:f086",
+  "perms": "fa:f084",
+  "about": "fa:f05a",
+  "look": "fa:f53f",
+  "settings": "fa:f013",
+  "back": "fa:f060",
+  "check": "fa:f00c",
+  "close": "fa:f00d",
+  "photo": "fa:f03e",
+  "video": "fa:f03d",
+  "filter": "fa:f0d0",
+  "adjust": "fa:f1de",
+  "rotate": "fa:f2f1",
+  "flip": "fa:f337",
+  "crop": "fa:f125",
+  "text": "fa:f031",
+  "overlay": "fa:f5fd",
+  "draw": "fa:f304",
+  "save": "fa:f0c7",
+  "merge": "fa:f247",
+  "trim": "fa:f0c4",
+  "add": "fa:f067",
+  "trash": "fa:f1f8",
+  "undo": "fa:f0e2",
+  "play": "fa:f04b"
+ }
+}
