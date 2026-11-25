@@ -1,6 +1,6 @@
 {
-    "version": 67,
-    "generatedAt": 1795611338,
+    "version": 69,
+    "generatedAt": 1795613010,
     "subjects": [
         {
             "id": "bangla",
@@ -23142,6 +23142,501 @@
                     ],
                     "answer": 0,
                     "why": "‘বালক’ শব্দের স্ত্রীলিঙ্গ ‘বালিকা’।"
+                },
+                {
+                    "q": "শরৎচন্দ্র চট্টোপাধ্যায়ের জন্ম কত সালে?",
+                    "options": [
+                        "১৮৭৬ সালে",
+                        "১৮৬৮ সালে",
+                        "১৮৮০ সালে",
+                        "১৮৯০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "শরৎচন্দ্র চট্টোপাধ্যায়ের জন্ম ১৮৭৬ সালে।"
+                },
+                {
+                    "q": "শরৎচন্দ্রের বিখ্যাত উপন্যাস 'দেবদাস' প্রকাশিত হয় কত সালে?",
+                    "options": [
+                        "১৯১৭ সালে",
+                        "১৯১৩ সালে",
+                        "১৯২০ সালে",
+                        "১৯২৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "শরৎচন্দ্রের 'দেবদাস' প্রকাশিত হয় ১৯১৭ সালে।"
+                },
+                {
+                    "q": "'পথের দাবী' উপন্যাস কার লেখা?",
+                    "options": [
+                        "শরৎচন্দ্র চট্টোপাধ্যায়",
+                        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                        "মানিক বন্দ্যোপাধ্যায়",
+                        "বিভূতিভূষণ বন্দ্যোপাধ্যায়"
+                    ],
+                    "answer": 0,
+                    "why": "'পথের দাবী' উপন্যাস শরৎচন্দ্র চট্টোপাধ্যায়ের লেখা।"
+                },
+                {
+                    "q": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের জন্ম কত সালে?",
+                    "options": [
+                        "১৮৩৮ সালে",
+                        "১৮২৪ সালে",
+                        "১৮৪০ সালে",
+                        "১৮৫০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের জন্ম ১৮৩৮ সালে।"
+                },
+                {
+                    "q": "বঙ্কিমচন্দ্র কোন পত্রিকার সম্পাদক ছিলেন?",
+                    "options": [
+                        "বঙ্গদর্শন",
+                        "প্রবাসী",
+                        "সাধনা",
+                        "ভারতী"
+                    ],
+                    "answer": 0,
+                    "why": "বঙ্কিমচন্দ্র 'বঙ্গদর্শন' পত্রিকার সম্পাদক ছিলেন।"
+                },
+                {
+                    "q": "মাইকেল মধুসূদন দত্তের জন্ম কত সালে?",
+                    "options": [
+                        "১৮২৪ সালে",
+                        "১৮৩৮ সালে",
+                        "১৮১৪ সালে",
+                        "১৮৪০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "মাইকেল মধুসূদন দত্তের জন্ম ১৮২৪ সালে।"
+                },
+                {
+                    "q": "মধুসূদন দত্তের বিখ্যাত মহাকাব্য কোনটি?",
+                    "options": [
+                        "মেঘনাদবধ কাব্য",
+                        "বীরাঙ্গনা কাব্য",
+                        "তিলোত্তমাসম্ভব কাব্য",
+                        "ব্রজাঙ্গনা কাব্য"
+                    ],
+                    "answer": 0,
+                    "why": "মধুসূদন দত্তের বিখ্যাত মহাকাব্য 'মেঘনাদবধ কাব্য'।"
+                },
+                {
+                    "q": "মধুসূদন দত্ত কোন ছন্দের প্রবর্তক?",
+                    "options": [
+                        "অমিত্রাক্ষর ছন্দ",
+                        "পয়ার ছন্দ",
+                        "ত্রিপদী ছন্দ",
+                        "মাত্রাবৃত্ত ছন্দ"
+                    ],
+                    "answer": 0,
+                    "why": "মধুসূদন দত্ত অমিত্রাক্ষর ছন্দের প্রবর্তক।"
+                },
+                {
+                    "q": "'বীরাঙ্গনা কাব্য' কার লেখা?",
+                    "options": [
+                        "মাইকেল মধুসূদন দত্ত",
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "কাজী নজরুল ইসলাম",
+                        "জসীমউদ্দীন"
+                    ],
+                    "answer": 0,
+                    "why": "'বীরাঙ্গনা কাব্য' মাইকেল মধুসূদন দত্তের লেখা।"
+                },
+                {
+                    "q": "সুফিয়া কামালের জন্ম কত সালে?",
+                    "options": [
+                        "১৯১১ সালে",
+                        "১৯০৫ সালে",
+                        "১৯২০ সালে",
+                        "১৯২৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "সুফিয়া কামালের জন্ম ১৯১১ সালে।"
+                },
+                {
+                    "q": "'সাঁঝের মায়া' কাব্যগ্রন্থের লেখক কে?",
+                    "options": [
+                        "সুফিয়া কামাল",
+                        "শামসুর রাহমান",
+                        "সুকান্ত ভট্টাচার্য",
+                        "জীবনানন্দ দাশ"
+                    ],
+                    "answer": 0,
+                    "why": "'সাঁঝের মায়া' কাব্যগ্রন্থের লেখক সুফিয়া কামাল।"
+                },
+                {
+                    "q": "শামসুর রাহমানের জন্ম কত সালে?",
+                    "options": [
+                        "১৯২৯ সালে",
+                        "১৯২৫ সালে",
+                        "১৯৩৫ সালে",
+                        "১৯১১ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "শামসুর রাহমানের জন্ম ১৯২৯ সালে।"
+                },
+                {
+                    "q": "শামসুর রাহমান কোন কবি হিসেবে পরিচিত?",
+                    "options": [
+                        "নাগরিক কবি",
+                        "পল্লী কবি",
+                        "বিদ্রোহী কবি",
+                        "ছন্দের যাদুকর"
+                    ],
+                    "answer": 0,
+                    "why": "শামসুর রাহমান 'নাগরিক কবি' হিসেবে পরিচিত।"
+                },
+                {
+                    "q": "'প্রথম গান দ্বিতীয় মৃত্যুর আগে' কাব্যগ্রন্থের লেখক কে?",
+                    "options": [
+                        "শামসুর রাহমান",
+                        "সুফিয়া কামাল",
+                        "আল মাহমুদ",
+                        "সৈয়দ শামসুল হক"
+                    ],
+                    "answer": 0,
+                    "why": "'প্রথম গান দ্বিতীয় মৃত্যুর আগে' শামসুর রাহমানের কাব্যগ্রন্থ।"
+                },
+                {
+                    "q": "হুমায়ূন আহমেদের জন্ম কত সালে?",
+                    "options": [
+                        "১৯৪৮ সালে",
+                        "১৯৪০ সালে",
+                        "১৯৫২ সালে",
+                        "১৯৫৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "হুমায়ূন আহমেদের জন্ম ১৯৪৮ সালে।"
+                },
+                {
+                    "q": "সৈয়দ মুজতবা আলীর জন্ম কত সালে?",
+                    "options": [
+                        "১৯০৪ সালে",
+                        "১৮৯৫ সালে",
+                        "১৯১০ সালে",
+                        "১৯২০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "সৈয়দ মুজতবা আলীর জন্ম ১৯০৪ সালে।"
+                },
+                {
+                    "q": "'চাচা কাহিনী' কার লেখা?",
+                    "options": [
+                        "সৈয়দ মুজতবা আলী",
+                        "সৈয়দ ওয়ালীউল্লাহ",
+                        "হুমায়ূন আহমেদ",
+                        "আখতারুজ্জামান ইলিয়াস"
+                    ],
+                    "answer": 0,
+                    "why": "'চাচা কাহিনী' সৈয়দ মুজতবা আলীর লেখা।"
+                },
+                {
+                    "q": "বিরাম চিহ্ন কাকে বলে?",
+                    "options": [
+                        "বাক্যে থামার চিহ্ন",
+                        "বাক্যের শুরু চিহ্ন",
+                        "শব্দের অর্থ",
+                        "বাক্যের ধ্বনি"
+                    ],
+                    "answer": 0,
+                    "why": "বিরাম চিহ্ন হলো বাক্যে থামার চিহ্ন — যেমন দাঁড়ি, কমা, প্রশ্নবোধক চিহ্ন।"
+                },
+                {
+                    "q": "বাক্যের শেষে কোন চিহ্ন বসে?",
+                    "options": [
+                        "দাঁড়ি (।)",
+                        "কমা (,)",
+                        "প্রশ্নবোধক (?)",
+                        "কোলন (:)"
+                    ],
+                    "answer": 0,
+                    "why": "বাক্যের শেষে দাঁড়ি (।) বসে।"
+                },
+                {
+                    "q": "কমা (,) কোন ধরনের চিহ্ন?",
+                    "options": [
+                        "অল্প বিরতির চিহ্ন",
+                        "পূর্ণ বিরতির চিহ্ন",
+                        "প্রশ্নের চিহ্ন",
+                        "বিস্ময়ের চিহ্ন"
+                    ],
+                    "answer": 0,
+                    "why": "কমা (,) হলো অল্প বিরতির চিহ্ন।"
+                },
+                {
+                    "q": "গীতিকবিতা কী?",
+                    "options": [
+                        "কবির ব্যক্তিগত অনুভূতি প্রকাশ পায় যে কবিতায়",
+                        "যুদ্ধের কবিতা",
+                        "ইতিহাসের কবিতা",
+                        "প্রকৃতির বর্ণনা"
+                    ],
+                    "answer": 0,
+                    "why": "গীতিকবিতা হলো সেই কবিতা যেখানে কবির ব্যক্তিগত অনুভূতি প্রকাশ পায়।"
+                },
+                {
+                    "q": "ছোটগল্পের বৈশিষ্ট্য কী?",
+                    "options": [
+                        "একটিমাত্র ঘটনা ও অল্প সময়ের কাহিনি",
+                        "অনেক ঘটনা ও দীর্ঘ কাহিনি",
+                        "শুধু কবিতা",
+                        "শুধু সংলাপ"
+                    ],
+                    "answer": 0,
+                    "why": "ছোটগল্পে একটিমাত্র ঘটনা ও অল্প সময়ের কাহিনি থাকে।"
+                },
+                {
+                    "q": "'বাংলা ভাষার ইতিবৃত্ত' গ্রন্থের লেখক কে?",
+                    "options": [
+                        "মুহম্মদ শহীদুল্লাহ",
+                        "সুনীতিকুমার চট্টোপাধ্যায়",
+                        "সুকুমার সেন",
+                        "মুহম্মদ আবদুল হাই"
+                    ],
+                    "answer": 0,
+                    "why": "'বাংলা ভাষার ইতিবৃত্ত' গ্রন্থের লেখক ড. মুহম্মদ শহীদুল্লাহ।"
+                },
+                {
+                    "q": "'একাত্তরের দিনগুলি' গ্রন্থের লেখক কে?",
+                    "options": [
+                        "জাহানারা ইমাম",
+                        "সেলিনা হোসেন",
+                        "রাবেয়া খাতুন",
+                        "শওকত ওসমান"
+                    ],
+                    "answer": 0,
+                    "why": "'একাত্তরের দিনগুলি' গ্রন্থের লেখক জাহানারা ইমাম।"
+                },
+                {
+                    "q": "ভাষা আন্দোলন দিবস কোনটি?",
+                    "options": [
+                        "২১ ফেব্রুয়ারি",
+                        "২৬ মার্চ",
+                        "১৬ ডিসেম্বর",
+                        "১৪ ডিসেম্বর"
+                    ],
+                    "answer": 0,
+                    "why": "ভাষা আন্দোলন দিবস ২১ ফেব্রুয়ারি।"
+                },
+                {
+                    "q": "রবীন্দ্রনাথ ঠাকুরের জন্ম কত সালে?",
+                    "options": [
+                        "১৮৬১ সালে",
+                        "১৮৪১ সালে",
+                        "১৮৭১ সালে",
+                        "১৮৫১ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "রবীন্দ্রনাথ ঠাকুরের জন্ম ১৮৬১ সালে।"
+                },
+                {
+                    "q": "রবীন্দ্রনাথ ঠাকুরের মৃত্যু হয় কত সালে?",
+                    "options": [
+                        "১৯৪১ সালে",
+                        "১৯৩৫ সালে",
+                        "১৯৪৫ সালে",
+                        "১৯৫০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "রবীন্দ্রনাথ ঠাকুরের মৃত্যু হয় ১৯৪১ সালে।"
+                },
+                {
+                    "q": "কাজী নজরুল ইসলামের জন্ম কত সালে?",
+                    "options": [
+                        "১৮৯৯ সালে",
+                        "১৮৯০ সালে",
+                        "১৯০৫ সালে",
+                        "১৮৮৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "কাজী নজরুল ইসলামের জন্ম ১৮৯৯ সালে।"
+                },
+                {
+                    "q": "নজরুল কোন পত্রিকার সম্পাদক ছিলেন?",
+                    "options": [
+                        "ধূমকেতু",
+                        "বঙ্গদর্শন",
+                        "প্রবাসী",
+                        "সাধনা"
+                    ],
+                    "answer": 0,
+                    "why": "নজরুল 'ধূমকেতু' পত্রিকার সম্পাদক ছিলেন।"
+                },
+                {
+                    "q": "কাজী নজরুল ইসলামের মৃত্যু হয় কত সালে?",
+                    "options": [
+                        "১৯৭৬ সালে",
+                        "১৯৭০ সালে",
+                        "১৯৮০ সালে",
+                        "১৯৬৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "কাজী নজরুল ইসলামের মৃত্যু হয় ১৯৭৬ সালে।"
+                },
+                {
+                    "q": "জসীমউদ্দীন কোন কবি হিসেবে পরিচিত?",
+                    "options": [
+                        "পল্লী কবি",
+                        "বিদ্রোহী কবি",
+                        "নাগরিক কবি",
+                        "ছন্দের যাদুকর"
+                    ],
+                    "answer": 0,
+                    "why": "জসীমউদ্দীন 'পল্লী কবি' হিসেবে পরিচিত।"
+                },
+                {
+                    "q": "'নকশী কাঁথার মাঠ' প্রকাশিত হয় কত সালে?",
+                    "options": [
+                        "১৯২৯ সালে",
+                        "১৯২৫ সালে",
+                        "১৯৩৫ সালে",
+                        "১৯৪০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'নকশী কাঁথার মাঠ' প্রকাশিত হয় ১৯২৯ সালে।"
+                },
+                {
+                    "q": "জসীমউদ্দীনের জন্ম কত সালে?",
+                    "options": [
+                        "১৯০৩ সালে",
+                        "১৮৯৯ সালে",
+                        "১৯১০ সালে",
+                        "১৯২০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "জসীমউদ্দীনের জন্ম ১৯০৩ সালে।"
+                },
+                {
+                    "q": "'রূপসী বাংলা' কাব্যগ্রন্থের লেখক কে?",
+                    "options": [
+                        "জীবনানন্দ দাশ",
+                        "জসীমউদ্দীন",
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "কাজী নজরুল ইসলাম"
+                    ],
+                    "answer": 0,
+                    "why": "'রূপসী বাংলা' কাব্যগ্রন্থের লেখক জীবনানন্দ দাশ।"
+                },
+                {
+                    "q": "জীবনানন্দ দাশের জন্ম কত সালে?",
+                    "options": [
+                        "১৮৯৯ সালে",
+                        "১৯০৩ সালে",
+                        "১৮৯৫ সালে",
+                        "১৯০৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "জীবনানন্দ দাশের জন্ম ১৮৯৯ সালে।"
+                },
+                {
+                    "q": "'ছাড়পত্র' কাব্যগ্রন্থের লেখক কে?",
+                    "options": [
+                        "সুকান্ত ভট্টাচার্য",
+                        "জীবনানন্দ দাশ",
+                        "জসীমউদ্দীন",
+                        "শামসুর রাহমান"
+                    ],
+                    "answer": 0,
+                    "why": "'ছাড়পত্র' কাব্যগ্রন্থের লেখক সুকান্ত ভট্টাচার্য।"
+                },
+                {
+                    "q": "সুকান্ত ভট্টাচার্যের জন্ম কত সালে?",
+                    "options": [
+                        "১৯২৬ সালে",
+                        "১৯২০ সালে",
+                        "১৯৩০ সালে",
+                        "১৯১৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "সুকান্ত ভট্টাচার্যের জন্ম ১৯২৬ সালে।"
+                },
+                {
+                    "q": "'রানার' কবিতার লেখক কে?",
+                    "options": [
+                        "সুকান্ত ভট্টাচার্য",
+                        "জীবনানন্দ দাশ",
+                        "নজরুল ইসলাম",
+                        "জসীমউদ্দীন"
+                    ],
+                    "answer": 0,
+                    "why": "'রানার' কবিতার লেখক সুকান্ত ভট্টাচার্য।"
+                },
+                {
+                    "q": "'বিদ্যা + আলয় = বিদ্যালয়' — এটি কোন সন্ধির উদাহরণ?",
+                    "options": [
+                        "স্বরসন্ধি",
+                        "ব্যঞ্জনসন্ধি",
+                        "বিসর্গসন্ধি",
+                        "নিপাতনে সিদ্ধ সন্ধি"
+                    ],
+                    "answer": 0,
+                    "why": "বিদ্যা + আলয় = বিদ্যালয় — স্বরধ্বনির সঙ্গে স্বরধ্বনির মিলন, তাই স্বরসন্ধি।"
+                },
+                {
+                    "q": "'নীল + আকাশ = নীলাকাশ' — এটি কোন সমাসের উদাহরণ?",
+                    "options": [
+                        "কর্মধারয় সমাস",
+                        "তৎপুরুষ সমাস",
+                        "দ্বন্দ্ব সমাস",
+                        "বহুব্রীহি সমাস"
+                    ],
+                    "answer": 0,
+                    "why": "নীলাকাশ = নীল যে আকাশ — এটি কর্মধারয় সমাস।"
+                },
+                {
+                    "q": "এক কথায় প্রকাশ করো: যার তুলনা নেই",
+                    "options": [
+                        "অতুলনীয়",
+                        "অনির্বচনীয়",
+                        "অদৃশ্য",
+                        "অনন্য"
+                    ],
+                    "answer": 0,
+                    "why": "যার তুলনা নেই — অতুলনীয়।"
+                },
+                {
+                    "q": "এক কথায় প্রকাশ করো: মরণ পর্যন্ত",
+                    "options": [
+                        "আমরণ",
+                        "আজীবন",
+                        "আজন্ম",
+                        "আকণ্ঠ"
+                    ],
+                    "answer": 0,
+                    "why": "মরণ পর্যন্ত — আমরণ।"
+                },
+                {
+                    "q": "'অন্ধের যষ্ঠি' বাগধারাটির অর্থ কী?",
+                    "options": [
+                        "একমাত্র অবলম্বন",
+                        "অন্ধ মানুষ",
+                        "লাঠি",
+                        "অন্ধকার"
+                    ],
+                    "answer": 0,
+                    "why": "'অন্ধের যষ্ঠি' বাগধারার অর্থ একমাত্র অবলম্বন।"
+                },
+                {
+                    "q": "'পানি'-র সমার্থক শব্দ কোনটি?",
+                    "options": [
+                        "জল",
+                        "অগ্নি",
+                        "বায়ু",
+                        "আকাশ"
+                    ],
+                    "answer": 0,
+                    "why": "'পানি'-র সমার্থক শব্দ জল।"
+                },
+                {
+                    "q": "১৯৪৮ সালে উর্দুকে রাষ্ট্রভাষা করার প্রস্তাবের বিরোধিতা করেন কে?",
+                    "options": [
+                        "ধীরেন্দ্রনাথ দত্ত",
+                        "শেখ মুজিবুর রহমান",
+                        "এ কে ফজলুল হক",
+                        "মাওলানা ভাসানী"
+                    ],
+                    "answer": 0,
+                    "why": "১৯৪৮ সালে ধীরেন্দ্রনাথ দত্ত পাকিস্তান গণপরিষদে বাংলাকে রাষ্ট্রভাষা করার দাবি তোলেন।"
                 }
             ]
         },
@@ -46150,6 +46645,358 @@
                     ],
                     "answer": 0,
                     "why": "The suffix in 'careful' is '-ful'."
+                },
+                {
+                    "q": "He is rich ___ he is not happy. (Fill in the blank)",
+                    "options": [
+                        "but",
+                        "and",
+                        "or",
+                        "so"
+                    ],
+                    "answer": 0,
+                    "why": "The sentence shows contrast, so 'but' is correct: 'He is rich but he is not happy.'"
+                },
+                {
+                    "q": "In 'Hurrah! We have won.', 'Hurrah' is —",
+                    "options": [
+                        "an interjection",
+                        "a noun",
+                        "a verb",
+                        "an adjective"
+                    ],
+                    "answer": 0,
+                    "why": "'Hurrah' expresses joy, so it is an interjection."
+                },
+                {
+                    "q": "A phrase is a group of words that —",
+                    "options": [
+                        "has no finite verb and makes no complete sense alone",
+                        "always has a subject and a verb",
+                        "always ends with a full stop",
+                        "is always a question"
+                    ],
+                    "answer": 0,
+                    "why": "A phrase has no finite verb and does not make complete sense alone."
+                },
+                {
+                    "q": "Doctor : Patient :: Teacher : ?",
+                    "options": [
+                        "Student",
+                        "School",
+                        "Book",
+                        "Class"
+                    ],
+                    "answer": 0,
+                    "why": "A doctor treats a patient; a teacher teaches a student."
+                },
+                {
+                    "q": "He is too weak to walk. (Transform using 'so...that')",
+                    "options": [
+                        "He is so weak that he cannot walk.",
+                        "He is so weak that he cannot walks.",
+                        "He is too weak that he cannot walk.",
+                        "He is so weak to walk."
+                    ],
+                    "answer": 0,
+                    "why": "'He is too weak to walk' becomes 'He is so weak that he cannot walk.'"
+                },
+                {
+                    "q": "A present participle ends in —",
+                    "options": [
+                        "-ing",
+                        "-ed",
+                        "-ly",
+                        "-tion"
+                    ],
+                    "answer": 0,
+                    "why": "A present participle ends in -ing, e.g. 'going', 'playing'."
+                },
+                {
+                    "q": "In 'The crying baby is hungry.', 'crying' is a —",
+                    "options": [
+                        "present participle",
+                        "gerund",
+                        "infinitive",
+                        "past participle"
+                    ],
+                    "answer": 0,
+                    "why": "'crying' describes the baby, so it is a present participle."
+                },
+                {
+                    "q": "In 'Swimming is a good exercise.', 'Swimming' is a —",
+                    "options": [
+                        "gerund",
+                        "participle",
+                        "infinitive",
+                        "adjective"
+                    ],
+                    "answer": 0,
+                    "why": "'Swimming' acts as the subject (a noun), so it is a gerund."
+                },
+                {
+                    "q": "In 'I enjoy reading.', 'reading' is a —",
+                    "options": [
+                        "gerund",
+                        "participle",
+                        "infinitive",
+                        "verb"
+                    ],
+                    "answer": 0,
+                    "why": "'reading' is the object of 'enjoy', so it is a gerund."
+                },
+                {
+                    "q": "In 'To err is human.', 'To err' is an —",
+                    "options": [
+                        "infinitive",
+                        "gerund",
+                        "participle",
+                        "clause"
+                    ],
+                    "answer": 0,
+                    "why": "'To err' is an infinitive (to + base verb)."
+                },
+                {
+                    "q": "Which word is a determiner?",
+                    "options": [
+                        "the",
+                        "quickly",
+                        "honest",
+                        "run"
+                    ],
+                    "answer": 0,
+                    "why": "'the' is a determiner — it introduces a noun."
+                },
+                {
+                    "q": "In 'He runs quickly.', 'quickly' is an —",
+                    "options": [
+                        "adverb",
+                        "adjective",
+                        "verb",
+                        "noun"
+                    ],
+                    "answer": 0,
+                    "why": "'quickly' describes the verb 'runs', so it is an adverb."
+                },
+                {
+                    "q": "'Romeo and Juliet' was written by —",
+                    "options": [
+                        "William Shakespeare",
+                        "John Milton",
+                        "P. B. Shelley",
+                        "Lord Byron"
+                    ],
+                    "answer": 0,
+                    "why": "'Romeo and Juliet' was written by William Shakespeare."
+                },
+                {
+                    "q": "'Ode to a Nightingale' was written by —",
+                    "options": [
+                        "John Keats",
+                        "William Wordsworth",
+                        "P. B. Shelley",
+                        "Lord Tennyson"
+                    ],
+                    "answer": 0,
+                    "why": "'Ode to a Nightingale' was written by John Keats."
+                },
+                {
+                    "q": "'Daffodils' (I Wandered Lonely as a Cloud) was written by —",
+                    "options": [
+                        "William Wordsworth",
+                        "John Keats",
+                        "P. B. Shelley",
+                        "S. T. Coleridge"
+                    ],
+                    "answer": 0,
+                    "why": "'Daffodils' was written by William Wordsworth."
+                },
+                {
+                    "q": "'Ode to the West Wind' was written by —",
+                    "options": [
+                        "P. B. Shelley",
+                        "John Keats",
+                        "William Wordsworth",
+                        "Lord Byron"
+                    ],
+                    "answer": 0,
+                    "why": "'Ode to the West Wind' was written by P. B. Shelley."
+                },
+                {
+                    "q": "'The Merchant of Venice' was written by —",
+                    "options": [
+                        "William Shakespeare",
+                        "John Milton",
+                        "Charles Dickens",
+                        "Geoffrey Chaucer"
+                    ],
+                    "answer": 0,
+                    "why": "'The Merchant of Venice' was written by William Shakespeare."
+                },
+                {
+                    "q": "Who is known as the Bard of Avon?",
+                    "options": [
+                        "William Shakespeare",
+                        "John Milton",
+                        "Geoffrey Chaucer",
+                        "John Keats"
+                    ],
+                    "answer": 0,
+                    "why": "William Shakespeare is known as the Bard of Avon."
+                },
+                {
+                    "q": "Who wrote 'Paradise Lost'?",
+                    "options": [
+                        "John Milton",
+                        "William Shakespeare",
+                        "John Keats",
+                        "Alexander Pope"
+                    ],
+                    "answer": 0,
+                    "why": "'Paradise Lost' was written by John Milton."
+                },
+                {
+                    "q": "Who wrote the 'Gitanjali'?",
+                    "options": [
+                        "Rabindranath Tagore",
+                        "Bankim Chandra",
+                        "Sarat Chandra",
+                        "Kazi Nazrul Islam"
+                    ],
+                    "answer": 0,
+                    "why": "The 'Gitanjali' was written by Rabindranath Tagore."
+                },
+                {
+                    "q": "What is the synonym of 'big'?",
+                    "options": [
+                        "large",
+                        "small",
+                        "tiny",
+                        "short"
+                    ],
+                    "answer": 0,
+                    "why": "The synonym of 'big' is 'large'."
+                },
+                {
+                    "q": "What is the synonym of 'fast'?",
+                    "options": [
+                        "quick",
+                        "slow",
+                        "late",
+                        "lazy"
+                    ],
+                    "answer": 0,
+                    "why": "The synonym of 'fast' is 'quick'."
+                },
+                {
+                    "q": "What is the antonym of 'light'?",
+                    "options": [
+                        "dark",
+                        "bright",
+                        "white",
+                        "clear"
+                    ],
+                    "answer": 0,
+                    "why": "The antonym of 'light' is 'dark'."
+                },
+                {
+                    "q": "What is the antonym of 'love'?",
+                    "options": [
+                        "hate",
+                        "like",
+                        "adore",
+                        "care"
+                    ],
+                    "answer": 0,
+                    "why": "The antonym of 'love' is 'hate'."
+                },
+                {
+                    "q": "What is the antonym of 'success'?",
+                    "options": [
+                        "failure",
+                        "win",
+                        "victory",
+                        "gain"
+                    ],
+                    "answer": 0,
+                    "why": "The antonym of 'success' is 'failure'."
+                },
+                {
+                    "q": "She made tea. (Passive voice)",
+                    "options": [
+                        "Tea was made by her.",
+                        "Tea is made by her.",
+                        "Tea has made by her.",
+                        "Tea is being made by her."
+                    ],
+                    "answer": 0,
+                    "why": "The passive of 'She made tea' is 'Tea was made by her.'"
+                },
+                {
+                    "q": "They play football. (Passive voice)",
+                    "options": [
+                        "Football is played by them.",
+                        "Football is playing by them.",
+                        "Football was played by them.",
+                        "Football has played by them."
+                    ],
+                    "answer": 0,
+                    "why": "The passive of 'They play football' is 'Football is played by them.'"
+                },
+                {
+                    "q": "You are coming, ___? (Tag question)",
+                    "options": [
+                        "aren't you",
+                        "are you",
+                        "don't you",
+                        "isn't you"
+                    ],
+                    "answer": 0,
+                    "why": "The tag for 'You are coming' is 'aren't you?'"
+                },
+                {
+                    "q": "He is not late, ___? (Tag question)",
+                    "options": [
+                        "is he",
+                        "isn't he",
+                        "does he",
+                        "has he"
+                    ],
+                    "answer": 0,
+                    "why": "The tag for 'He is not late' is 'is he?'"
+                },
+                {
+                    "q": "He goes to ___ university. (Fill in the blank)",
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                    ],
+                    "answer": 0,
+                    "why": "'University' starts with a consonant sound, so the article is 'a'."
+                },
+                {
+                    "q": "I ___ my homework yesterday. (Fill in the blank)",
+                    "options": [
+                        "did",
+                        "do",
+                        "doing",
+                        "done"
+                    ],
+                    "answer": 0,
+                    "why": "With 'yesterday' the past simple is 'did': 'I did my homework yesterday.'"
+                },
+                {
+                    "q": "A lover of books is called a —",
+                    "options": [
+                        "bibliophile",
+                        "biologist",
+                        "bibliographer",
+                        "librarian"
+                    ],
+                    "answer": 0,
+                    "why": "A lover of books is called a bibliophile."
                 }
             ]
         },
@@ -64944,6 +65791,281 @@
                     ],
                     "answer": 0,
                     "why": "২×২ ম্যাট্রিক্সের নির্ণায়ক = ad − bc।"
+                },
+                {
+                    "q": "ক্রয়মূল্য ২০০ টাকা ও বিক্রয়মূল্য ১৮০ টাকা হলে ক্ষতি কত শতাংশ?",
+                    "options": [
+                        "১০%",
+                        "২০%",
+                        "৫%",
+                        "১৫%"
+                    ],
+                    "answer": 0,
+                    "why": "ক্ষতি = ২০০ − ১৮০ = ২০ টাকা; শতাংশ = ২০/২০০ × ১০০ = ১০%।"
+                },
+                {
+                    "q": "১০% লাভে বিক্রয়মূল্য ১১০ টাকা হলে ক্রয়মূল্য কত?",
+                    "options": [
+                        "১০০ টাকা",
+                        "৯০ টাকা",
+                        "১২০ টাকা",
+                        "১০৫ টাকা"
+                    ],
+                    "answer": 0,
+                    "why": "১০% লাভে বিক্রয়মূল্য = ১১০% = ১১০ টাকা; ক্রয়মূল্য = ১১০ × ১০০/১১০ = ১০০ টাকা।"
+                },
+                {
+                    "q": "সমান্তর ধারা ৩, ৭, ১১, …-এর ৫ম পদ কত?",
+                    "options": [
+                        "১৯",
+                        "১৫",
+                        "২৩",
+                        "১৭"
+                    ],
+                    "answer": 0,
+                    "why": "সাধারণ অন্তর ৪; ৫ম পদ = ৩ + ৪×৪ = ১৯।"
+                },
+                {
+                    "q": "গুণোত্তর ধারা ২, ৪, ৮, ১৬, …-এর পরবর্তী পদ কত?",
+                    "options": [
+                        "৩২",
+                        "২৪",
+                        "২০",
+                        "৬৪"
+                    ],
+                    "answer": 0,
+                    "why": "ধারাটি দ্বিগুণ হচ্ছে: ২, ৪, ৮, ১৬, ৩২।"
+                },
+                {
+                    "q": "2x = ১৬ হলে x = কত?",
+                    "options": [
+                        "৮",
+                        "৩২",
+                        "১৪",
+                        "৬"
+                    ],
+                    "answer": 0,
+                    "why": "x = ১৬ ÷ ২ = ৮।"
+                },
+                {
+                    "q": "f(x) = 2x + 1 হলে f(3) = কত?",
+                    "options": [
+                        "৭",
+                        "৬",
+                        "৫",
+                        "৯"
+                    ],
+                    "answer": 0,
+                    "why": "f(3) = ২×৩ + ১ = ৭।"
+                },
+                {
+                    "q": "দশমিক সংখ্যা পদ্ধতির ভিত্তি কত?",
+                    "options": [
+                        "১০",
+                        "২",
+                        "৮",
+                        "১৬"
+                    ],
+                    "answer": 0,
+                    "why": "দশমিক সংখ্যা পদ্ধতির ভিত্তি ১০।"
+                },
+                {
+                    "q": "১৫-এর গুণনীয়ক কয়টি?",
+                    "options": [
+                        "৪টি",
+                        "৩টি",
+                        "৫টি",
+                        "২টি"
+                    ],
+                    "answer": 0,
+                    "why": "১৫-এর গুণনীয়ক ৪টি: ১, ৩, ৫, ১৫।"
+                },
+                {
+                    "q": "০.৫-এর ভগ্নাংশ রূপ কী?",
+                    "options": [
+                        "১/২",
+                        "১/৪",
+                        "২/৩",
+                        "৩/৪"
+                    ],
+                    "answer": 0,
+                    "why": "০.৫ = ৫/১০ = ১/২।"
+                },
+                {
+                    "q": "৩০০-এর ৫০% কত?",
+                    "options": [
+                        "১৫০",
+                        "১০০",
+                        "২০০",
+                        "২৫০"
+                    ],
+                    "answer": 0,
+                    "why": "৩০০-এর ৫০% = ৩০০ × ৫০/১০০ = ১৫০।"
+                },
+                {
+                    "q": "১:২ অনুপাতে ৩০ টাকা ভাগ করলে ছোট অংশ কত?",
+                    "options": [
+                        "১০ টাকা",
+                        "২০ টাকা",
+                        "১৫ টাকা",
+                        "৫ টাকা"
+                    ],
+                    "answer": 0,
+                    "why": "মোট অংশ ৩; ছোট অংশ = ৩০ × ১/৩ = ১০ টাকা।"
+                },
+                {
+                    "q": "মূলধন ১০০০ টাকা, বার্ষিক হার ৫%, সময় ২ বছর হলে সরল সুদ কত?",
+                    "options": [
+                        "১০০ টাকা",
+                        "৫০ টাকা",
+                        "২০০ টাকা",
+                        "১৫০ টাকা"
+                    ],
+                    "answer": 0,
+                    "why": "সরল সুদ = ১০০০ × ৫ × ২ / ১০০ = ১০০ টাকা।"
+                },
+                {
+                    "q": "পিতার বয়স ৩৬ বছর ও পুত্রের বয়স ১২ বছর হলে তাদের বয়সের অনুপাত কত?",
+                    "options": [
+                        "৩:১",
+                        "২:১",
+                        "৪:১",
+                        "১:৩"
+                    ],
+                    "answer": 0,
+                    "why": "বয়সের অনুপাত = ৩৬:১২ = ৩:১।"
+                },
+                {
+                    "q": "১২০ কিমি দূরত্ব ২ ঘণ্টায় গেলে গতি কত?",
+                    "options": [
+                        "৬০ কিমি/ঘণ্টা",
+                        "২৪০ কিমি/ঘণ্টা",
+                        "৩০ কিমি/ঘণ্টা",
+                        "৯০ কিমি/ঘণ্টা"
+                    ],
+                    "answer": 0,
+                    "why": "গতি = দূরত্ব ÷ সময় = ১২০ ÷ ২ = ৬০ কিমি/ঘণ্টা।"
+                },
+                {
+                    "q": "একজন লোক একটি কাজ ১০ দিনে শেষ করে। ৫ জন লোক একই কাজ কত দিনে শেষ করবে?",
+                    "options": [
+                        "২ দিনে",
+                        "৫ দিনে",
+                        "১০ দিনে",
+                        "৫০ দিনে"
+                    ],
+                    "answer": 0,
+                    "why": "৫ জনে সময় লাগবে ১০ ÷ ৫ = ২ দিন।"
+                },
+                {
+                    "q": "২ জন লোক একটি কাজ ৬ দিনে শেষ করে। ১ জন লোক কত দিনে শেষ করবে?",
+                    "options": [
+                        "১২ দিনে",
+                        "৩ দিনে",
+                        "৬ দিনে",
+                        "৮ দিনে"
+                    ],
+                    "answer": 0,
+                    "why": "১ জনে সময় লাগবে ২ × ৬ = ১২ দিন।"
+                },
+                {
+                    "q": "১, ৪, ৯, ১৬, … ধারার পরবর্তী সংখ্যা কত?",
+                    "options": [
+                        "২৫",
+                        "২০",
+                        "৩৬",
+                        "১৮"
+                    ],
+                    "answer": 0,
+                    "why": "ধারাটি বর্গসংখ্যার: ১², ২², ৩², ৪², ৫² = ২৫।"
+                },
+                {
+                    "q": "২×৩×৪ মাপের বাক্সের আয়তন কত?",
+                    "options": [
+                        "২৪",
+                        "১৮",
+                        "১২",
+                        "৩৬"
+                    ],
+                    "answer": 0,
+                    "why": "আয়তন = ২ × ৩ × ৪ = ২৪।"
+                },
+                {
+                    "q": "বর্গের এক বাহু ৬ সেমি হলে পরিসীমা কত?",
+                    "options": [
+                        "২৪ সেমি",
+                        "৩৬ সেমি",
+                        "১২ সেমি",
+                        "১৮ সেমি"
+                    ],
+                    "answer": 0,
+                    "why": "বর্গের পরিসীমা = ৪ × বাহু = ৪ × ৬ = ২৪ সেমি।"
+                },
+                {
+                    "q": "√২৫ = কত?",
+                    "options": [
+                        "৫",
+                        "২৫",
+                        "১২",
+                        "৬"
+                    ],
+                    "answer": 0,
+                    "why": "√২৫ = ৫, কারণ ৫² = ২৫।"
+                },
+                {
+                    "q": "১৫ ও ২০-এর গসাগু কত?",
+                    "options": [
+                        "৫",
+                        "৩",
+                        "১০",
+                        "৬০"
+                    ],
+                    "answer": 0,
+                    "why": "১৫ ও ২০-এর গরিষ্ঠ সাধারণ গুণনীয়ক ৫।"
+                },
+                {
+                    "q": "3x = ২৭ হলে x = কত?",
+                    "options": [
+                        "৯",
+                        "৮১",
+                        "২৪",
+                        "৩০"
+                    ],
+                    "answer": 0,
+                    "why": "x = ২৭ ÷ ৩ = ৯।"
+                },
+                {
+                    "q": "ক্রয়মূল্য ৩০০ টাকা ও বিক্রয়মূল্য ৩৬০ টাকা হলে লাভ কত শতাংশ?",
+                    "options": [
+                        "২০%",
+                        "১০%",
+                        "৩০%",
+                        "৬০%"
+                    ],
+                    "answer": 0,
+                    "why": "লাভ = ৬০ টাকা; শতাংশ = ৬০/৩০০ × ১০০ = ২০%।"
+                },
+                {
+                    "q": "ক্রয়মূল্য ৮০০ টাকা ও বিক্রয়মূল্য ৭২০ টাকা হলে ক্ষতি কত শতাংশ?",
+                    "options": [
+                        "১০%",
+                        "২০%",
+                        "৫%",
+                        "৮০%"
+                    ],
+                    "answer": 0,
+                    "why": "ক্ষতি = ৮০ টাকা; শতাংশ = ৮০/৮০০ × ১০০ = ১০%।"
+                },
+                {
+                    "q": "১১, ১৩, ১৭, ১৯-এর পরবর্তী মৌলিক সংখ্যা কোনটি?",
+                    "options": [
+                        "২৩",
+                        "২১",
+                        "২০",
+                        "২২"
+                    ],
+                    "answer": 0,
+                    "why": "১৯-এর পরবর্তী মৌলিক সংখ্যা ২৩।"
                 }
             ]
         },
@@ -83660,6 +84782,204 @@
                     ],
                     "answer": 0,
                     "why": "MRT-1 (প্রথম পাতালরেল) নির্মাণ শুরু হয় ২০২৩ সালে।"
+                },
+                {
+                    "q": "বাংলাদেশের জাতীয় প্রতীক কে নকশা করেন?",
+                    "options": [
+                        "কামরুল হাসান",
+                        "জয়নুল আবেদিন",
+                        "কাইয়ুম চৌধুরী",
+                        "হাশেম খান"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের জাতীয় প্রতীক নকশা করেন শিল্পী কামরুল হাসান।"
+                },
+                {
+                    "q": "বাংলাদেশের GDP-তে সবচেয়ে বেশি অবদান কোন খাতের?",
+                    "options": [
+                        "সেবা খাত",
+                        "কৃষি খাত",
+                        "শিল্প খাত",
+                        "মৎস্য খাত"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের GDP-তে সবচেয়ে বেশি অবদান সেবা খাতের।"
+                },
+                {
+                    "q": "IMF প্রতিষ্ঠিত হয় কত সালে?",
+                    "options": [
+                        "১৯৪৪ সালে",
+                        "১৯৪৫ সালে",
+                        "১৯৫০ সালে",
+                        "১৯৬০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "IMF প্রতিষ্ঠিত হয় ১৯৪৪ সালে।"
+                },
+                {
+                    "q": "চাঁদে প্রথম মানুষ অবতরণ করে কত সালে?",
+                    "options": [
+                        "১৯৬৯ সালে",
+                        "১৯৬১ সালে",
+                        "১৯৭১ সালে",
+                        "১৯৫৯ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "চাঁদে প্রথম মানুষ অবতরণ করে ১৯৬৯ সালে (অ্যাপোলো ১১)।"
+                },
+                {
+                    "q": "পৃথিবীর সবচেয়ে কাছের নক্ষত্র কোনটি?",
+                    "options": [
+                        "সূর্য",
+                        "প্রক্সিমা সেন্টরি",
+                        "সিরিয়াস",
+                        "আলফা সেন্টরি"
+                    ],
+                    "answer": 0,
+                    "why": "পৃথিবীর সবচেয়ে কাছের নক্ষত্র সূর্য।"
+                },
+                {
+                    "q": "নিউটন কোন সূত্রের জন্য বিখ্যাত?",
+                    "options": [
+                        "মহাকর্ষ সূত্র",
+                        "আপেক্ষিকতার তত্ত্ব",
+                        "তাপগতিবিদ্যা",
+                        "তড়িৎচুম্বকত্ব"
+                    ],
+                    "answer": 0,
+                    "why": "নিউটন মহাকর্ষ সূত্রের জন্য বিখ্যাত।"
+                },
+                {
+                    "q": "আপেক্ষিকতার তত্ত্বের জনক কে?",
+                    "options": [
+                        "আলবার্ট আইনস্টাইন",
+                        "আইজ্যাক নিউটন",
+                        "গ্যালিলিও",
+                        "নিলস বোর"
+                    ],
+                    "answer": 0,
+                    "why": "আপেক্ষিকতার তত্ত্বের জনক আলবার্ট আইনস্টাইন।"
+                },
+                {
+                    "q": "বাংলাদেশের সংবিধান গৃহীত হয় কত তারিখে?",
+                    "options": [
+                        "৪ নভেম্বর ১৯৭২",
+                        "১৬ ডিসেম্বর ১৯৭২",
+                        "২৬ মার্চ ১৯৭১",
+                        "১০ এপ্রিল ১৯৭১"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের সংবিধান গৃহীত হয় ৪ নভেম্বর ১৯৭২ সালে।"
+                },
+                {
+                    "q": "বাংলাদেশের সংবিধান কার্যকর হয় কত তারিখে?",
+                    "options": [
+                        "১৬ ডিসেম্বর ১৯৭২",
+                        "৪ নভেম্বর ১৯৭২",
+                        "২৬ মার্চ ১৯৭২",
+                        "১ জানুয়ারি ১৯৭৩"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের সংবিধান কার্যকর হয় ১৬ ডিসেম্বর ১৯৭২ সালে।"
+                },
+                {
+                    "q": "বীরশ্রেষ্ঠ খেতাবপ্রাপ্ত মুক্তিযোদ্ধা কয়জন?",
+                    "options": [
+                        "৭ জন",
+                        "৬ জন",
+                        "৮ জন",
+                        "১১ জন"
+                    ],
+                    "answer": 0,
+                    "why": "বীরশ্রেষ্ঠ খেতাবপ্রাপ্ত মুক্তিযোদ্ধা ৭ জন।"
+                },
+                {
+                    "q": "বাংলাদেশের স্বাধীনতা দিবস কোনটি?",
+                    "options": [
+                        "২৬ মার্চ",
+                        "১৬ ডিসেম্বর",
+                        "২১ ফেব্রুয়ারি",
+                        "১৪ ডিসেম্বর"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের স্বাধীনতা দিবস ২৬ মার্চ।"
+                },
+                {
+                    "q": "বাংলাদেশের মেট্রোরেল উদ্বোধন করা হয় কত তারিখে?",
+                    "options": [
+                        "২৮ ডিসেম্বর ২০২২",
+                        "২৫ জুন ২০২২",
+                        "১৬ ডিসেম্বর ২০২২",
+                        "২৬ মার্চ ২০২৩"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের মেট্রোরেল উদ্বোধন করা হয় ২৮ ডিসেম্বর ২০২২ সালে।"
+                },
+                {
+                    "q": "বাংলাদেশের প্রথম স্যাটেলাইটের নাম কী?",
+                    "options": [
+                        "বঙ্গবন্ধু-১",
+                        "বঙ্গবন্ধু-২",
+                        "বাংলাদেশ-১",
+                        "পদ্মা-১"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের প্রথম স্যাটেলাইট বঙ্গবন্ধু-১ (২০১৮ সালে উৎক্ষেপণ)।"
+                },
+                {
+                    "q": "আধুনিক অলিম্পিক গেমস শুরু হয় কত সালে?",
+                    "options": [
+                        "১৮৯৬ সালে",
+                        "১৯০০ সালে",
+                        "১৮৯০ সালে",
+                        "১৯২০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "আধুনিক অলিম্পিক গেমস শুরু হয় ১৮৯৬ সালে (এথেন্স)।"
+                },
+                {
+                    "q": "ফুটবল বিশ্বকাপ শুরু হয় কত সালে?",
+                    "options": [
+                        "১৯৩০ সালে",
+                        "১৯৫০ সালে",
+                        "১৯২০ সালে",
+                        "১৯৪০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "ফুটবল বিশ্বকাপ শুরু হয় ১৯৩০ সালে (উরুগুয়ে)।"
+                },
+                {
+                    "q": "ক্রিকেট বিশ্বকাপ শুরু হয় কত সালে?",
+                    "options": [
+                        "১৯৭৫ সালে",
+                        "১৯৭৯ সালে",
+                        "১৯৮৩ সালে",
+                        "১৯৭১ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "ক্রিকেট বিশ্বকাপ শুরু হয় ১৯৭৫ সালে (ইংল্যান্ড)।"
+                },
+                {
+                    "q": "কার্বন ডাইঅক্সাইডের সংকেত কী?",
+                    "options": [
+                        "CO₂",
+                        "O₂",
+                        "H₂O",
+                        "CO"
+                    ],
+                    "answer": 0,
+                    "why": "কার্বন ডাইঅক্সাইডের সংকেত CO₂।"
+                },
+                {
+                    "q": "রক্তের গ্রুপের আবিষ্কারক কে?",
+                    "options": [
+                        "কার্ল ল্যান্ডস্টাইনার",
+                        "লুই পাস্তুর",
+                        "আলেকজান্ডার ফ্লেমিং",
+                        "এডওয়ার্ড জেনার"
+                    ],
+                    "answer": 0,
+                    "why": "রক্তের গ্রুপের আবিষ্কারক কার্ল ল্যান্ডস্টাইনার।"
                 }
             ]
         },
@@ -114760,6 +116080,435 @@
                     ],
                     "answer": 0,
                     "why": "জন্ম ও মৃত্যু নিবন্ধন আইন পাস হয় ২০০৪ সালে।"
+                },
+                {
+                    "q": "নেটওয়ার্ক টপোলজি কী?",
+                    "options": [
+                        "কম্পিউটারগুলো পরস্পরের সঙ্গে যুক্ত থাকার ধরন",
+                        "এক ধরনের ভাইরাস",
+                        "এক ধরনের সফটওয়্যার",
+                        "এক ধরনের মেমোরি"
+                    ],
+                    "answer": 0,
+                    "why": "নেটওয়ার্ক টপোলজি হলো নেটওয়ার্কে কম্পিউটারগুলো পরস্পরের সঙ্গে যুক্ত থাকার ধরন বা বিন্যাস।"
+                },
+                {
+                    "q": "বাস টপোলজিতে সব কম্পিউটার কীসের সঙ্গে যুক্ত থাকে?",
+                    "options": [
+                        "একটি মাত্র মূল কেবলের সঙ্গে",
+                        "কেন্দ্রীয় হাবের সঙ্গে",
+                        "রাউটারের সঙ্গে",
+                        "স্যাটেলাইটের সঙ্গে"
+                    ],
+                    "answer": 0,
+                    "why": "বাস টপোলজিতে সব কম্পিউটার একটি মাত্র মূল কেবলের (ব্যাকবোন) সঙ্গে যুক্ত থাকে।"
+                },
+                {
+                    "q": "কোন টপোলজিতে কেন্দ্রীয় ডিভাইস নষ্ট হলে পুরো নেটওয়ার্ক বন্ধ হয়ে যায়?",
+                    "options": [
+                        "স্টার টপোলজি",
+                        "বাস টপোলজি",
+                        "রিং টপোলজি",
+                        "মেশ টপোলজি"
+                    ],
+                    "answer": 0,
+                    "why": "স্টার টপোলজিতে কেন্দ্রীয় হাব বা সুইচ নষ্ট হলে পুরো নেটওয়ার্ক বন্ধ হয়ে যায়।"
+                },
+                {
+                    "q": "LAN-এ সাধারণত কোন টপোলজি ব্যবহৃত হয়?",
+                    "options": [
+                        "স্টার টপোলজি",
+                        "বাস টপোলজি",
+                        "রিং টপোলজি",
+                        "ট্রি টপোলজি"
+                    ],
+                    "answer": 0,
+                    "why": "LAN-এ সাধারণত স্টার টপোলজি ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সুইচ ও হাবের মূল পার্থক্য কী?",
+                    "options": [
+                        "সুইচ ডেটা শুধু নির্দিষ্ট গন্তব্যে পাঠায়",
+                        "হাব ডেটা শুধু নির্দিষ্ট গন্তব্যে পাঠায়",
+                        "সুইচে ইন্টারনেট লাগে না",
+                        "হাব বেশি দ্রুত"
+                    ],
+                    "answer": 0,
+                    "why": "সুইচ ডেটা শুধু নির্দিষ্ট গন্তব্য কম্পিউটারে পাঠায়, আর হাব সব কম্পিউটারে পাঠায়।"
+                },
+                {
+                    "q": "মডেম কী?",
+                    "options": [
+                        "ডিজিটাল সংকেতকে অ্যানালগ সংকেতে রূপান্তরকারী যন্ত্র",
+                        "এক ধরনের মনিটর",
+                        "এক ধরনের কীবোর্ড",
+                        "এক ধরনের প্রিন্টার"
+                    ],
+                    "answer": 0,
+                    "why": "মডেম ডিজিটাল সংকেতকে অ্যানালগ সংকেতে ও অ্যানালগ সংকেতকে ডিজিটালে রূপান্তর করে।"
+                },
+                {
+                    "q": "ব্লুটুথ (Bluetooth) নামকরণ করা হয়েছে কার নামে?",
+                    "options": [
+                        "ডেনমার্কের রাজা হারাল্ড ব্লুটুথের নামে",
+                        "একজন বিজ্ঞানীর নামে",
+                        "একটি কোম্পানির নামে",
+                        "একটি ফুলের নামে"
+                    ],
+                    "answer": 0,
+                    "why": "ব্লুটুথের নামকরণ হয়েছে ডেনমার্কের রাজা হারাল্ড ব্লুটুথের নামে।"
+                },
+                {
+                    "q": "DNS কী করে?",
+                    "options": [
+                        "ডোমেইন নামকে IP ঠিকানায় রূপান্তর করে",
+                        "ভাইরাস মুছে ফেলে",
+                        "ই-মেইল পাঠায়",
+                        "ফাইল সংরক্ষণ করে"
+                    ],
+                    "answer": 0,
+                    "why": "DNS ডোমেইন নামকে (যেমন google.com) IP ঠিকানায় রূপান্তর করে।"
+                },
+                {
+                    "q": "ওয়েব ঠিকানায় 'www' কী বোঝায়?",
+                    "options": [
+                        "World Wide Web",
+                        "World Wide Window",
+                        "Web World Wide",
+                        "Wide World Web"
+                    ],
+                    "answer": 0,
+                    "why": "www = World Wide Web — ইন্টারনেটে ওয়েব পৃষ্ঠাগুলোর জাল।"
+                },
+                {
+                    "q": "সার্চ ইঞ্জিন কী?",
+                    "options": [
+                        "ইন্টারনেটে তথ্য খোঁজার ব্যবস্থা",
+                        "এক ধরনের ভাইরাস",
+                        "এক ধরনের গেম",
+                        "এক ধরনের প্রিন্টার"
+                    ],
+                    "answer": 0,
+                    "why": "সার্চ ইঞ্জিন হলো ইন্টারনেটে তথ্য খোঁজার ব্যবস্থা, যেমন গুগল।"
+                },
+                {
+                    "q": "ই-মেইল কী?",
+                    "options": [
+                        "ইন্টারনেটে বার্তা আদানপ্রদানের ব্যবস্থা",
+                        "এক ধরনের টেলিফোন কল",
+                        "এক ধরনের গেম",
+                        "এক ধরনের প্রিন্টার"
+                    ],
+                    "answer": 0,
+                    "why": "ই-মেইল হলো ইন্টারনেটে বার্তা আদানপ্রদানের ব্যবস্থা।"
+                },
+                {
+                    "q": "প্রথম ই-মেইল পাঠানো হয় কত সালে?",
+                    "options": [
+                        "১৯৭১ সালে",
+                        "১৯৬৯ সালে",
+                        "১৯৮০ সালে",
+                        "১৯৯০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "প্রথম ই-মেইল পাঠানো হয় ১৯৭১ সালে (রে টমলিনসন)।"
+                },
+                {
+                    "q": "শক্তিশালী পাসওয়ার্ডে কী থাকা দরকার?",
+                    "options": [
+                        "অক্ষর, সংখ্যা ও চিহ্নের মিশ্রণ",
+                        "শুধু নিজের নাম",
+                        "শুধু সংখ্যা",
+                        "শুধু ছোট হাতের অক্ষর"
+                    ],
+                    "answer": 0,
+                    "why": "শক্তিশালী পাসওয়ার্ডে বড় ও ছোট হাতের অক্ষর, সংখ্যা ও চিহ্নের মিশ্রণ থাকে।"
+                },
+                {
+                    "q": "ক্লাউড কম্পিউটিংয়ে ডেটা কোথায় থাকে?",
+                    "options": [
+                        "ইন্টারনেটের সার্ভারে",
+                        "নিজের হার্ডডিস্কে",
+                        "পেনড্রাইভে",
+                        "সিডিতে"
+                    ],
+                    "answer": 0,
+                    "why": "ক্লাউড কম্পিউটিংয়ে ডেটা ইন্টারনেটের সার্ভারে থাকে, নিজের কম্পিউটারে নয়।"
+                },
+                {
+                    "q": "লিনাক্সের স্রষ্টা কে?",
+                    "options": [
+                        "লিনাস টরভাল্ডস",
+                        "বিল গেটস",
+                        "স্টিভ জবস",
+                        "মার্ক জাকারবার্গ"
+                    ],
+                    "answer": 0,
+                    "why": "লিনাক্সের স্রষ্টা লিনাস টরভাল্ডস।"
+                },
+                {
+                    "q": "অ্যান্ড্রয়েডের বিকাশকারী কোন কোম্পানি?",
+                    "options": [
+                        "গুগল",
+                        "মাইক্রোসফট",
+                        "অ্যাপল",
+                        "স্যামসাং"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যান্ড্রয়েডের বিকাশকারী গুগল।"
+                },
+                {
+                    "q": "সফটওয়্যার লাইসেন্স কী?",
+                    "options": [
+                        "সফটওয়্যার ব্যবহারের অনুমতি ও শর্ত",
+                        "সফটওয়্যার কেনার রসিদ",
+                        "সফটওয়্যারের নাম",
+                        "সফটওয়্যারের আকার"
+                    ],
+                    "answer": 0,
+                    "why": "সফটওয়্যার লাইসেন্স হলো সফটওয়্যার ব্যবহারের অনুমতি ও শর্তাবলি।"
+                },
+                {
+                    "q": "Unicode-এর উদ্দেশ্য কী?",
+                    "options": [
+                        "সব ভাষার লেখা একই ব্যবস্থায় প্রকাশ করা",
+                        "শুধু ইংরেজি লেখা",
+                        "ছবি আঁকা",
+                        "গান শোনা"
+                    ],
+                    "answer": 0,
+                    "why": "Unicode-এর উদ্দেশ্য সব ভাষার লেখা একই কোড ব্যবস্থায় প্রকাশ করা।"
+                },
+                {
+                    "q": "LCD মনিটরে কী ব্যবহৃত হয়?",
+                    "options": [
+                        "তরল ক্রিস্টাল (Liquid Crystal)",
+                        "ক্যাথোড রে",
+                        "লেজার",
+                        "প্লাজমা"
+                    ],
+                    "answer": 0,
+                    "why": "LCD মনিটরে তরল ক্রিস্টাল (Liquid Crystal) ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "বাইনারি সংখ্যা পদ্ধতিতে কোন অঙ্ক ব্যবহৃত হয়?",
+                    "options": [
+                        "০ ও ১",
+                        "০ থেকে ৯",
+                        "০ থেকে ৭",
+                        "০ থেকে ১৫"
+                    ],
+                    "answer": 0,
+                    "why": "বাইনারি সংখ্যা পদ্ধতিতে শুধু ০ ও ১ ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "দশমিক ১০-এর বাইনারি রূপ কী?",
+                    "options": [
+                        "১০১০",
+                        "১০১",
+                        "১১০০",
+                        "১০০১"
+                    ],
+                    "answer": 0,
+                    "why": "দশমিক ১০-এর বাইনারি রূপ ১০১০।"
+                },
+                {
+                    "q": "দশমিক ৫-এর বাইনারি রূপ কী?",
+                    "options": [
+                        "১০১",
+                        "১১০",
+                        "১০০",
+                        "১১১"
+                    ],
+                    "answer": 0,
+                    "why": "দশমিক ৫-এর বাইনারি রূপ ১০১।"
+                },
+                {
+                    "q": "হেক্সাডেসিমেল পদ্ধতিতে কয়টি অঙ্ক ব্যবহৃত হয়?",
+                    "options": [
+                        "১৬টি",
+                        "৮টি",
+                        "১০টি",
+                        "২টি"
+                    ],
+                    "answer": 0,
+                    "why": "হেক্সাডেসিমেল পদ্ধতিতে ১৬টি অঙ্ক ব্যবহৃত হয় (০–৯ ও A–F)।"
+                },
+                {
+                    "q": "ASCII-তে মোট কতটি অক্ষর আছে?",
+                    "options": [
+                        "১২৮টি",
+                        "২৫৬টি",
+                        "৬৪টি",
+                        "১০০টি"
+                    ],
+                    "answer": 0,
+                    "why": "ASCII-তে মোট ১২৮টি অক্ষর আছে।"
+                },
+                {
+                    "q": "কম্পিউটারে Ctrl+Z শর্টকাট কী করে?",
+                    "options": [
+                        "পূর্বের কাজ বাতিল করে (Undo)",
+                        "কপি করে",
+                        "পেস্ট করে",
+                        "সব নির্বাচন করে"
+                    ],
+                    "answer": 0,
+                    "why": "Ctrl+Z শর্টকাট পূর্বের কাজ বাতিল করে (Undo)।"
+                },
+                {
+                    "q": "কম্পিউটারে Ctrl+X শর্টকাট কী করে?",
+                    "options": [
+                        "কেটে নেয় (Cut)",
+                        "কপি করে",
+                        "পেস্ট করে",
+                        "সংরক্ষণ করে"
+                    ],
+                    "answer": 0,
+                    "why": "Ctrl+X শর্টকাট নির্বাচিত অংশ কেটে নেয় (Cut)।"
+                },
+                {
+                    "q": "কম্পিউটারে Ctrl+V শর্টকাট কী করে?",
+                    "options": [
+                        "পেস্ট করে (Paste)",
+                        "কপি করে",
+                        "কেটে নেয়",
+                        "মুছে ফেলে"
+                    ],
+                    "answer": 0,
+                    "why": "Ctrl+V শর্টকাট কপি বা কাটা অংশ পেস্ট করে।"
+                },
+                {
+                    "q": "কম্পিউটারে Ctrl+A শর্টকাট কী করে?",
+                    "options": [
+                        "সব নির্বাচন করে (Select All)",
+                        "সব মুছে ফেলে",
+                        "সব সংরক্ষণ করে",
+                        "সব বন্ধ করে"
+                    ],
+                    "answer": 0,
+                    "why": "Ctrl+A শর্টকাট সবকিছু নির্বাচন করে (Select All)।"
+                },
+                {
+                    "q": "কম্পিউটারে Ctrl+S শর্টকাট কী করে?",
+                    "options": [
+                        "ফাইল সংরক্ষণ করে (Save)",
+                        "ফাইল মুছে ফেলে",
+                        "ফাইল ছাপায়",
+                        "ফাইল খোলে"
+                    ],
+                    "answer": 0,
+                    "why": "Ctrl+S শর্টকাট ফাইল সংরক্ষণ করে (Save)।"
+                },
+                {
+                    "q": "ব্রাউজারে F5 কী চাপলে কী হয়?",
+                    "options": [
+                        "পৃষ্ঠাটি আবার লোড হয় (Refresh)",
+                        "ব্রাউজার বন্ধ হয়",
+                        "নতুন ট্যাব খোলে",
+                        "ইতিহাস মুছে যায়"
+                    ],
+                    "answer": 0,
+                    "why": "ব্রাউজারে F5 চাপলে পৃষ্ঠাটি আবার লোড হয় (Refresh)।"
+                },
+                {
+                    "q": "কম্পিউটারে Ctrl+N শর্টকাট কী করে?",
+                    "options": [
+                        "নতুন ফাইল বা উইন্ডো খোলে",
+                        "ফাইল মুছে ফেলে",
+                        "ফাইল সংরক্ষণ করে",
+                        "ফাইল ছাপায়"
+                    ],
+                    "answer": 0,
+                    "why": "Ctrl+N শর্টকাট নতুন ফাইল বা উইন্ডো খোলে।"
+                },
+                {
+                    "q": "সি (C) প্রোগ্রামিং ভাষার স্রষ্টা কে?",
+                    "options": [
+                        "ডেনিস রিচি",
+                        "জেমস গসলিং",
+                        "বিল গেটস",
+                        "লিনাস টরভাল্ডস"
+                    ],
+                    "answer": 0,
+                    "why": "সি ভাষার স্রষ্টা ডেনিস রিচি।"
+                },
+                {
+                    "q": "ওয়ার্ল্ড ওয়াইড ওয়েবের (WWW) উদ্ভাবক কে?",
+                    "options": [
+                        "টিম বার্নার্স-লি",
+                        "বিল গেটস",
+                        "স্টিভ জবস",
+                        "ল্যারি পেজ"
+                    ],
+                    "answer": 0,
+                    "why": "ওয়ার্ল্ড ওয়াইড ওয়েবের উদ্ভাবক টিম বার্নার্স-লি।"
+                },
+                {
+                    "q": "ডেটাবেসের টেবিলে সারিকে কী বলা হয়?",
+                    "options": [
+                        "রেকর্ড",
+                        "ফিল্ড",
+                        "কলাম",
+                        "কি"
+                    ],
+                    "answer": 0,
+                    "why": "ডেটাবেসের টেবিলে সারিকে রেকর্ড বলা হয়।"
+                },
+                {
+                    "q": "ডেটাবেসের টেবিলে কলামকে কী বলা হয়?",
+                    "options": [
+                        "ফিল্ড",
+                        "রেকর্ড",
+                        "রো",
+                        "কি"
+                    ],
+                    "answer": 0,
+                    "why": "ডেটাবেসের টেবিলে কলামকে ফিল্ড বলা হয়।"
+                },
+                {
+                    "q": "macOS কোন কোম্পানির অপারেটিং সিস্টেম?",
+                    "options": [
+                        "অ্যাপল",
+                        "মাইক্রোসফট",
+                        "গুগল",
+                        "স্যামসাং"
+                    ],
+                    "answer": 0,
+                    "why": "macOS অ্যাপলের অপারেটিং সিস্টেম।"
+                },
+                {
+                    "q": "RAM কোন ধরনের মেমোরি?",
+                    "options": [
+                        "অস্থায়ী (Volatile)",
+                        "স্থায়ী",
+                        "শুধু পড়া যায়",
+                        "বাহ্যিক"
+                    ],
+                    "answer": 0,
+                    "why": "RAM হলো অস্থায়ী (Volatile) মেমোরি — বিদ্যুৎ বন্ধ হলে এর তথ্য মুছে যায়।"
+                },
+                {
+                    "q": "প্রথম ওয়েবসাইট তৈরি হয় কত সালে?",
+                    "options": [
+                        "১৯৯১ সালে",
+                        "১৯৮৯ সালে",
+                        "১৯৯৫ সালে",
+                        "২০০০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "প্রথম ওয়েবসাইট তৈরি হয় ১৯৯১ সালে (টিম বার্নার্স-লি)।"
+                },
+                {
+                    "q": "ই-মেইলের উদ্ভাবক কে?",
+                    "options": [
+                        "রে টমলিনসন",
+                        "বিল গেটস",
+                        "টিম বার্নার্স-লি",
+                        "স্টিভ জবস"
+                    ],
+                    "answer": 0,
+                    "why": "ই-মেইলের উদ্ভাবক রে টমলিনসন।"
                 }
             ]
         }
