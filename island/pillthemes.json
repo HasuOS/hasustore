@@ -1,0 +1,12 @@
+{
+  "themes": [
+    {
+      "id": "crimson-glass",
+      "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/island/pillthemes/crimson-glass.json"
+    },
+    {
+      "id": "mint-glass",
+      "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/island/pillthemes/mint-glass.json"
+    }
+  ]
+}
