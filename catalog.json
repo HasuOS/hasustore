@@ -804,13 +804,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 74,
- "versionName": "1.73",
+ "code": 75,
+ "versionName": "1.74",
  "size": 2737642,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "User ID এখন নিজে নিজেই ধরা পড়ে: যেকোনো আবেদনের ফি page খুললেই app Copy থেকে User ID খুঁজে বসিয়ে দেয় — record-এর সাথে থাকা Copy, download-এর আসল portal নাম, আর Downloads-এ থাকা এই circular-এর Copy, তিন জায়গা থেকেই। TCB-সহ সব portal-এই কাজ করে। আর signature: তোমার দেওয়া 300×80 file-টাই হুবহু থাকে — কোনো crop বা re-encode নয়।",
- "ts": 1795596890,
- "etag": "0x8DF4AD1BBE1634E",
+ "changes": "User ID খোঁজা এবার চোখে দেখা যায়: app Downloads দেখতে না পারলে (ফাইল access বন্ধ থাকলে) ফি page সেটা লুকায় না — পেজেই বলে দেয় কোন Settings চালু করতে হবে, button-এ এক চাপে সেখানে নিয়ে যায়; Settings থেকে ফিরলেই app নিজে আবার খুঁজে User ID বসিয়ে দেয়। access থাকলে নিজে খুঁজে বসায়; খুঁজে না পেলে সেটাও সত্যি করে বলে। Copy থেকে যোগ করুন access না থাকলে সরাসরি file বাছার জায়গায় যায় — একটা Copy বাছলেই User ID বসে যায়। NSD-সহ সব portal-এ।",
+ "ts": 1795597647,
+ "etag": "0x8DF4AD37F7CA251",
  "cat": "Tools"
 }
  ]
