@@ -71,13 +71,13 @@
    "name": "HasuCalendar",
    "tag": "Calendar",
    "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 12,
-   "versionName": "1.09",
-   "size": 62318,
+   "code": 13,
+   "versionName": "1.10",
+   "size": 1840049,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-   "changes": "Event reminders now speak: when a reminder fires, HasuCalendar also says the event's name out loud — twice — and the speaking notification has a Stop button to silence it. Turn the voice off (or on) with the Voice announcement switch at the bottom of the Permissions page.",
-   "etag": "0x8DF4AB14C8A2CBF",
-   "ts": 1795582988
+   "changes": "The Permissions text strip is gone from the top — Permissions is now the lock icon in the header, beside its live toggle. The About page gains a Developer card with the new HasuOS brand logo and Hasu's contact email — tap the email to write to him directly.",
+   "etag": "0x8DF4AB31A7E63E2",
+   "ts": 1795583774
   },
   {
    "pkg": "com.hasucam.camera",
@@ -110,13 +110,13 @@
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 23,
-   "versionName": "1.17",
-   "size": 3251109,
+   "code": 24,
+   "versionName": "1.18",
+   "size": 5028840,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
-   "changes": "Your alarms now speak: when an alarm rings, HasuClock also says its label out loud — twice — so you hear what is ringing (video alarms are never spoken over). Stop or Snooze silences the voice with the sound. Turn it off any time with the new Voice announcement switch on the Alarm tab.",
-   "ts": 1795582988,
-   "etag": "0x8DF4AB14B3ECB63"
+   "changes": "The About page now has a Developer card with the new HasuOS brand logo and Hasu's contact email — tap the email to write to him directly. Nothing else changes.",
+   "ts": 1795583774,
+   "etag": "0x8DF4AB317E980A9"
   },
   {
    "pkg": "hasu.os.dice",
@@ -162,13 +162,13 @@
    "name": "HasuHabit",
    "tag": "Habit tracker",
    "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.",
-   "code": 11,
-   "versionName": "1.10",
-   "size": 66628,
+   "code": 12,
+   "versionName": "1.11",
+   "size": 1844359,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk",
-   "changes": "Habit reminders now speak: when a reminder fires, HasuHabit also says the habit's name out loud — twice — and the speaking notification has a Stop button to silence it. Turn the voice off (or on) with the Voice announcement switch at the bottom of the Permissions page.",
-   "ts": 1795582988,
-   "etag": "0x8DF4AB14EBF138A"
+   "changes": "The Permissions text strip is gone from the top — Permissions is now the lock icon in the header, beside its live toggle. The About page gains a Developer card with the new HasuOS brand logo and Hasu's contact email — tap the email to write to him directly.",
+   "ts": 1795583774,
+   "etag": "0x8DF4AB3202A90C2"
   },
   {
    "pkg": "hasu.os.health",
@@ -409,13 +409,13 @@
    "name": "HasuTask",
    "tag": "To-dos & reminders",
    "desc": "To-dos — tasks with a date, time and priority, and reminders that fire on time. Filter by Today, All or Done.",
-   "code": 12,
-   "versionName": "1.10",
-   "size": 70723,
+   "code": 13,
+   "versionName": "1.11",
+   "size": 1848454,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk",
-   "changes": "Task reminders now speak: when a reminder fires, HasuTask also says the task's name out loud — twice — and the speaking notification has a Stop button to silence it. Turn the voice off (or on) with the Voice announcement switch at the bottom of the Permissions page.",
-   "ts": 1795582988,
-   "etag": "0x8DF4AB14D9BE49C"
+   "changes": "The About page now has a Developer card with the new HasuOS brand logo and Hasu's contact email — tap the email to write to him directly. Nothing else changes.",
+   "ts": 1795583774,
+   "etag": "0x8DF4AB31D52F347"
   },
   {
    "pkg": "hasu.os.tools",
@@ -804,13 +804,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 69,
- "versionName": "1.68",
- "size": 884171,
+ "code": 70,
+ "versionName": "1.69",
+ "size": 2661902,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "NEW: EXAM ALARM. Set an exam yourself on the তথ্য tab (পরীক্ষার অ্যালার্ম — name, date, time), and 10 minutes before it the app SPEAKS to you — “Exam starting soon. Be prepared.” plus the exam's name — again and again until you tap Stop, like HasuBattery's charging voice. The alarm page opens over the lock screen with one big Stop button; if the phone cannot speak, the alarm ringtone loops instead. Voice on/off lives on the Permissions page. Alarms are per person (আমি / বোন), survive restarts, and are inside every backup.",
- "ts": 1795582988,
- "etag": "0x8DF4AB151B3619E",
+ "changes": "Settings page-এ নতুন Developer card: নতুন HasuOS brand logo আর যোগাযোগের email — email-এ চাপ দিলেই সরাসরি mail লেখা যাবে। Exam alarm সহ 1.68-এর সবকিছু আগের মতোই।",
+ "ts": 1795583774,
+ "etag": "0x8DF4AB322C8B497",
  "cat": "Tools"
 }
  ]
