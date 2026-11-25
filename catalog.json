@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 67,
-   "versionName": "5.39",
-   "size": 68930313,
-   "changes": "YOUR VERDICTS, FIXED. THE TOP ROW IS REBUILT: Guide, About, Permissions and theme are now four even glass pills of one height and one style, with drawn Font Awesome glyphs — and the 🔐 switch sits inside its pill instead of spilling out. SKIN TONES ARE PROPER CHIPS NOW: six even chips, each with its real colour swatch and a short name — nothing wraps onto two lines or grows taller. EVERY KEY SOUND PLAYS: the sound engine was rebuilt — all 29 effects load up front, each load is tracked on its own, a failed load retries, and a key press only counts as played when it truly sounds (before, whole effects could silently die in the keyboard while their previews sang). ICON SETS APPLY WHEN YOU TAP: pick a set and the keyboard wears it on its next open — before, the tap changed nothing on the keys themselves. ICON PACKS ARRIVE BY THEMSELVES: new packs sync from the feed automatically when the app or keyboard runs (about once a day) and join the picker — the download button is gone, like you ordered. AND YOUR BRAND LOGO — your exact glossy chrome 'h', untouched — now heads the About page.",
+   "code": 68,
+   "versionName": "5.40",
+   "size": 68946697,
+   "changes": "EVERYTHING ARRIVES BY ITSELF NOW. Sounds, GIFs, emoji sticker packs, fonts, fancy text styles, themes, dictionaries and backgrounds now sync from the feed automatically — no download tap, no app update — and a notification tells you exactly what was added (you can turn it off in Setup, Content updates). Tap a new sound to hear it, a new font shows its own Ag, new themes and backgrounds land in the Theme tab, and 396 new dictionary words join suggestions in English, Bangla, Hindi, Arabic and Urdu. App-icon designs arrive in the picker too — Android only lets a built-in design become the launcher icon, so new artwork still needs an app update, and the picker says so honestly. Everything from 5.39 stays: the rebuilt top row, proper skin-tone chips and the fixed sound engine.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795544188,
-   "etag": "0x8DF4A57002D4584"
+   "ts": 1795570497,
+   "etag": "0x8DF4A9438C883D3"
   },
   {
    "pkg": "hasu.os.browser",
