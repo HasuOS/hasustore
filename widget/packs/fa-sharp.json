@@ -1,0 +1,13 @@
+{
+ "id": "fa-sharp",
+ "name": "FA Sharp",
+ "kind": "glyphs",
+ "glyphs": {
+  "update": "\uf019",
+  "guide": "\uf02d",
+  "perms": "\uf3ed",
+  "about": "\uf05a",
+  "look": "\uf1fc",
+  "add": "\uf067"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "id": "golden-line",
+ "name": "Golden Line",
+ "kind": "glyphs",
+ "glyphs": {
+  "update": "\uf0e7",
+  "guide": "\uf249",
+  "perms": "\uf084",
+  "about": "\uf577",
+  "look": "\uf043",
+  "add": "\uf067"
+ }
+}
