@@ -58,13 +58,13 @@
    "name": "HasuCalc",
    "tag": "Calculator",
    "desc": "Calculator — fast glass calculator with history plus a unit converter for length, weight, temperature, area, speed, data, volume and time.",
-   "code": 11,
-   "versionName": "1.08",
-   "size": 2066862,
+   "code": 12,
+   "versionName": "1.09",
+   "size": 2099630,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calc.apk",
-   "changes": "The calculator now fits one screen — no scrolling, no cut-off keys: the keypad shares the screen height evenly and the display is compact and fixed. The Permissions text strip is gone from the top; Permissions is now the lock icon beside Settings in the header, with its live toggle next to it. Maths, memory keys and everything from 1.07 unchanged.",
-   "etag": "0x8DF4AB097BEF8DB",
-   "ts": 1795582651
+   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
+   "etag": "0x8DF4AFB4F3EB60F",
+   "ts": 1795614774
   },
   {
    "pkg": "hasu.os.calendar",
