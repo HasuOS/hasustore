@@ -1,6 +1,6 @@
 {
-    "version": 48,
-    "generatedAt": 1795578910,
+    "version": 49,
+    "generatedAt": 1795580263,
     "subjects": [
         {
             "id": "bangla",
@@ -16696,6 +16696,270 @@
                     ],
                     "answer": 0,
                     "why": "'আলো'-এর বিপরীত শব্দ অন্ধকার।"
+                },
+                {
+                    "q": "'অগ্নিবীণা' প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯২২ সালে",
+                        "১৯২১ সালে",
+                        "১৯২৫ সালে",
+                        "১৯৩০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'অগ্নিবীণা' ১৯২২ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "'নকশী কাঁথার মাঠ' কাব্যের কবি কে?",
+                    "options": [
+                        "জসীমউদ্দীন",
+                        "কাজী নজরুল ইসলাম",
+                        "জীবনানন্দ দাশ",
+                        "রবীন্দ্রনাথ ঠাকুর"
+                    ],
+                    "answer": 0,
+                    "why": "'নকশী কাঁথার মাঠ' জসীমউদ্দীনের বিখ্যাত কাব্য।"
+                },
+                {
+                    "q": "জীবনানন্দ দাশের উপাধি কী?",
+                    "options": [
+                        "রূপসী বাংলার কবি",
+                        "পল্লীকবি",
+                        "বিদ্রোহী কবি",
+                        "দুখু মিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "জীবনানন্দ দাশকে রূপসী বাংলার কবি বলা হয়।"
+                },
+                {
+                    "q": "'রূপসী বাংলা' কাব্যের কবি কে?",
+                    "options": [
+                        "জীবনানন্দ দাশ",
+                        "জসীমউদ্দীন",
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "কাজী নজরুল ইসলাম"
+                    ],
+                    "answer": 0,
+                    "why": "'রূপসী বাংলা' জীবনানন্দ দাশের কাব্যগ্রন্থ।"
+                },
+                {
+                    "q": "'সুলতানার স্বপ্ন' (Sultana's Dream) কার রচনা?",
+                    "options": [
+                        "বেগম রোকেয়া",
+                        "সুফিয়া কামাল",
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "শরৎচন্দ্র চট্টোপাধ্যায়"
+                    ],
+                    "answer": 0,
+                    "why": "'সুলতানার স্বপ্ন' বেগম রোকেয়ার রচনা।"
+                },
+                {
+                    "q": "'সুলতানার স্বপ্ন' প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯০৫ সালে",
+                        "১৯০৮ সালে",
+                        "১৯১১ সালে",
+                        "১৯১৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'সুলতানার স্বপ্ন' ১৯০৫ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "বেগম রোকেয়া সাখাওয়াত মেমোরিয়াল গার্লস স্কুল প্রতিষ্ঠা করেন কবে?",
+                    "options": [
+                        "১৯১১ সালে",
+                        "১৯০৫ সালে",
+                        "১৯১৬ সালে",
+                        "১৯২০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বেগম রোকেয়া ১৯১১ সালে সাখাওয়াত মেমোরিয়াল গার্লস স্কুল প্রতিষ্ঠা করেন।"
+                },
+                {
+                    "q": "ইউনেসকো ২১ ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস ঘোষণা করে কবে?",
+                    "options": [
+                        "১৯৯৯ সালে",
+                        "১৯৯৫ সালে",
+                        "২০০০ সালে",
+                        "১৯৫২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "ইউনেসকো ১৯৯৯ সালে ২১ ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস ঘোষণা করে।"
+                },
+                {
+                    "q": "'গীতাঞ্জলি' কাব্য প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯১০ সালে",
+                        "১৯১৩ সালে",
+                        "১৯০৫ সালে",
+                        "১৯১২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'গীতাঞ্জলি' ১৯১০ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "'দিন'-এর বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "রাত",
+                        "সকাল",
+                        "সন্ধ্যা",
+                        "দুপুর"
+                    ],
+                    "answer": 0,
+                    "why": "'দিন'-এর বিপরীত শব্দ 'রাত'।"
+                },
+                {
+                    "q": "'ধনী'-র বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "গরিব",
+                        "ধন",
+                        "সম্পদ",
+                        "রাজা"
+                    ],
+                    "answer": 0,
+                    "why": "'ধনী'-র বিপরীত শব্দ 'গরিব'।"
+                },
+                {
+                    "q": "'উঁচু'-র বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "নিচু",
+                        "লম্বা",
+                        "চওড়া",
+                        "বড়"
+                    ],
+                    "answer": 0,
+                    "why": "'উঁচু'-র বিপরীত শব্দ 'নিচু'।"
+                },
+                {
+                    "q": "'শুরু'-র বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "শেষ",
+                        "আরম্ভ",
+                        "আদি",
+                        "প্রথম"
+                    ],
+                    "answer": 0,
+                    "why": "'শুরু'-র বিপরীত শব্দ 'শেষ'।"
+                },
+                {
+                    "q": "'গরম'-এর বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "ঠান্ডা",
+                        "উষ্ণ",
+                        "তাপ",
+                        "আগুন"
+                    ],
+                    "answer": 0,
+                    "why": "'গরম'-এর বিপরীত শব্দ 'ঠান্ডা'।"
+                },
+                {
+                    "q": "কোনটির বানান সঠিক?",
+                    "options": [
+                        "সমীচীন",
+                        "সমিচীন",
+                        "সমীচিন",
+                        "সমিচিন"
+                    ],
+                    "answer": 0,
+                    "why": "'সমীচীন' বানানটি শুদ্ধ।"
+                },
+                {
+                    "q": "সঠিক বানানটি বেছে নাও।",
+                    "options": [
+                        "অতিথি",
+                        "অতিথী",
+                        "অথিতি",
+                        "অতীথি"
+                    ],
+                    "answer": 0,
+                    "why": "'অতিথি' বানানটি শুদ্ধ।"
+                },
+                {
+                    "q": "নিচের কোন শব্দের বানান শুদ্ধ?",
+                    "options": [
+                        "দূরবস্থা",
+                        "দুরবস্থা",
+                        "দূরাবস্থা",
+                        "দুরাবস্থা"
+                    ],
+                    "answer": 0,
+                    "why": "'দূরবস্থা' বানানটি শুদ্ধ।"
+                },
+                {
+                    "q": "শুদ্ধ বানানটি কোনটি?",
+                    "options": [
+                        "নীরব",
+                        "নিরব",
+                        "নীরোব",
+                        "নীরব্"
+                    ],
+                    "answer": 0,
+                    "why": "'নীরব' বানানটি শুদ্ধ।"
+                },
+                {
+                    "q": "'রিনা চামচ দিয়ে ভাত খায়' — 'চামচ দিয়ে' কোন কারক?",
+                    "options": [
+                        "করণ",
+                        "কর্ম",
+                        "অপাদান",
+                        "অধিকরণ"
+                    ],
+                    "answer": 0,
+                    "why": "যার দ্বারা কাজ সম্পন্ন হয় তা করণ কারক; এখানে চামচ দিয়ে খাওয়া হচ্ছে।"
+                },
+                {
+                    "q": "'শিক্ষক ছাত্রকে পুরস্কার দিলেন' — 'ছাত্রকে' কোন কারক?",
+                    "options": [
+                        "সম্প্রদান",
+                        "কর্ম",
+                        "করণ",
+                        "অপাদান"
+                    ],
+                    "answer": 0,
+                    "why": "স্বত্ব ত্যাগ করে দান করলে সম্প্রদান কারক হয়; শিক্ষক ছাত্রকে পুরস্কার দিয়েছেন।"
+                },
+                {
+                    "q": "'পাখি আকাশে ওড়ে' — 'আকাশে' কোন কারক?",
+                    "options": [
+                        "অধিকরণ",
+                        "করণ",
+                        "কর্ম",
+                        "অপাদান"
+                    ],
+                    "answer": 0,
+                    "why": "যেখানে কাজটি ঘটে তা অধিকরণ কারক; পাখি আকাশে ওড়ে।"
+                },
+                {
+                    "q": "'আমি বাজার থেকে ফিরলাম' — 'বাজার থেকে' কোন কারক?",
+                    "options": [
+                        "অপাদান",
+                        "করণ",
+                        "অধিকরণ",
+                        "সম্প্রদান"
+                    ],
+                    "answer": 0,
+                    "why": "যেখান থেকে বিচ্ছেদ বা আগমন বোঝায় তা অপাদান কারক।"
+                },
+                {
+                    "q": "'মা শিশুকে দুধ খাওয়ান' — 'শিশুকে' কোন কারক?",
+                    "options": [
+                        "কর্ম",
+                        "করণ",
+                        "সম্প্রদান",
+                        "অপাদান"
+                    ],
+                    "answer": 0,
+                    "why": "ক্রিয়ার কাজ যার ওপর পড়ে তা কর্ম কারক; শিশুকে খাওয়ানো হচ্ছে।"
+                },
+                {
+                    "q": "'রাজা প্রজাকে ধন দিলেন' — 'প্রজাকে' কোন কারক?",
+                    "options": [
+                        "সম্প্রদান",
+                        "কর্ম",
+                        "করণ",
+                        "অধিকরণ"
+                    ],
+                    "answer": 0,
+                    "why": "স্বত্ব ত্যাগ করে দান করলে সম্প্রদান কারক হয়; রাজা প্রজাকে ধন দিয়েছেন।"
                 }
             ]
         },
@@ -31641,6 +31905,347 @@
                     ],
                     "answer": 1,
                     "why": "Comparative degree: taller."
+                },
+                {
+                    "q": "Change into passive voice: \"He writes a letter.\"",
+                    "options": [
+                        "A letter is written by him.",
+                        "A letter was written by him.",
+                        "A letter is being written by him.",
+                        "A letter has been written by him."
+                    ],
+                    "answer": 0,
+                    "why": "Present indefinite active becomes 'is + past participle' in passive."
+                },
+                {
+                    "q": "Change into passive voice: \"Who broke the window?\"",
+                    "options": [
+                        "By whom was the window broken?",
+                        "Who was the window broken by?",
+                        "By whom the window was broken?",
+                        "Whom was the window broken by?"
+                    ],
+                    "answer": 0,
+                    "why": "'Who' becomes 'By whom' in passive questions."
+                },
+                {
+                    "q": "Change into passive voice: \"I saw him yesterday.\"",
+                    "options": [
+                        "He was seen by me yesterday.",
+                        "He is seen by me yesterday.",
+                        "He had been seen by me yesterday.",
+                        "He was being seen by me yesterday."
+                    ],
+                    "answer": 0,
+                    "why": "Past indefinite active becomes 'was + past participle' in passive."
+                },
+                {
+                    "q": "Change into passive voice: \"The teacher praised him.\"",
+                    "options": [
+                        "He was praised by the teacher.",
+                        "He is praised by the teacher.",
+                        "He has been praised by the teacher.",
+                        "He had praised by the teacher."
+                    ],
+                    "answer": 0,
+                    "why": "Past indefinite passive: 'was praised'."
+                },
+                {
+                    "q": "Change into passive voice: \"He will finish the work.\"",
+                    "options": [
+                        "The work will be finished by him.",
+                        "The work will finish by him.",
+                        "The work is finished by him.",
+                        "The work would be finished by him."
+                    ],
+                    "answer": 0,
+                    "why": "Future indefinite passive: 'will be + past participle'."
+                },
+                {
+                    "q": "Change into passive voice: \"She gave me a book.\"",
+                    "options": [
+                        "A book was given to me by her.",
+                        "A book is given to me by her.",
+                        "A book has given to me by her.",
+                        "A book was gave to me by her."
+                    ],
+                    "answer": 0,
+                    "why": "With two objects, either can become the passive subject; here the book becomes the subject."
+                },
+                {
+                    "q": "Change into passive voice: \"Do it at once.\"",
+                    "options": [
+                        "Let it be done at once.",
+                        "It be done at once.",
+                        "Let it done at once.",
+                        "It is done at once."
+                    ],
+                    "answer": 0,
+                    "why": "Imperative passive: 'Let it be done'."
+                },
+                {
+                    "q": "Change into indirect speech: The teacher said, \"Open your books.\"",
+                    "options": [
+                        "The teacher told us to open our books.",
+                        "The teacher said to open our books.",
+                        "The teacher told that open your books.",
+                        "The teacher ordered us open our books."
+                    ],
+                    "answer": 0,
+                    "why": "Imperative sentences become 'told + object + to + verb' in indirect speech."
+                },
+                {
+                    "q": "Change into indirect speech: He said, \"Hurrah! We have won the match.\"",
+                    "options": [
+                        "He exclaimed with joy that they had won the match.",
+                        "He said that hurrah we have won the match.",
+                        "He exclaimed with joy that we have won the match.",
+                        "He said with joy that they have won the match."
+                    ],
+                    "answer": 0,
+                    "why": "Exclamatory sentences use 'exclaimed with joy' and the tense shifts back."
+                },
+                {
+                    "q": "Change into indirect speech: She said, \"Where do you live?\"",
+                    "options": [
+                        "She asked me where I lived.",
+                        "She asked me where do I live.",
+                        "She said where I lived.",
+                        "She asked where did I live."
+                    ],
+                    "answer": 0,
+                    "why": "Wh-questions keep the wh-word and use statement word order in indirect speech."
+                },
+                {
+                    "q": "Change into indirect speech: He said, \"I saw the film yesterday.\"",
+                    "options": [
+                        "He said that he had seen the film the previous day.",
+                        "He said that he saw the film yesterday.",
+                        "He said that he has seen the film the previous day.",
+                        "He said that I had seen the film the previous day."
+                    ],
+                    "answer": 0,
+                    "why": "Past indefinite becomes past perfect; 'yesterday' becomes 'the previous day'."
+                },
+                {
+                    "q": "Change into indirect speech: \"May you live long,\" said the old man.",
+                    "options": [
+                        "The old man prayed that I might live long.",
+                        "The old man said that may I live long.",
+                        "The old man wished that I may live long.",
+                        "The old man prayed that I may live long."
+                    ],
+                    "answer": 0,
+                    "why": "Optative sentences use 'prayed' and 'may' becomes 'might'."
+                },
+                {
+                    "q": "Change into indirect speech: He said to me, \"Do not waste time.\"",
+                    "options": [
+                        "He advised me not to waste time.",
+                        "He said me do not waste time.",
+                        "He told me that do not waste time.",
+                        "He advised me to not waste time."
+                    ],
+                    "answer": 0,
+                    "why": "Negative imperatives become 'advised + object + not to + verb'."
+                },
+                {
+                    "q": "Change into indirect speech: She said, \"I am reading a novel now.\"",
+                    "options": [
+                        "She said that she was reading a novel then.",
+                        "She said that she is reading a novel now.",
+                        "She said that she was reading a novel now.",
+                        "She said that I was reading a novel then."
+                    ],
+                    "answer": 0,
+                    "why": "Present continuous becomes past continuous; 'now' becomes 'then'."
+                },
+                {
+                    "q": "Fill in the blank with the correct article: He is ___ university student.",
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                    ],
+                    "answer": 0,
+                    "why": "'University' begins with a consonant sound (yu), so it takes 'a'."
+                },
+                {
+                    "q": "Fill in the blank with the correct article: ___ Sun rises in the east.",
+                    "options": [
+                        "The",
+                        "A",
+                        "An",
+                        "No article"
+                    ],
+                    "answer": 0,
+                    "why": "Unique natural objects like the Sun take 'the'."
+                },
+                {
+                    "q": "Fill in the blank with the correct article: He is ___ best boy in the class.",
+                    "options": [
+                        "the",
+                        "a",
+                        "an",
+                        "no article"
+                    ],
+                    "answer": 0,
+                    "why": "Superlative degrees take 'the'."
+                },
+                {
+                    "q": "Fill in the blank with the correct article: ___ water is essential for life.",
+                    "options": [
+                        "No article",
+                        "The",
+                        "A",
+                        "An"
+                    ],
+                    "answer": 0,
+                    "why": "Material nouns used in a general sense take no article."
+                },
+                {
+                    "q": "Fill in the blank with the correct article: I saw ___ one-eyed man on the road.",
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                    ],
+                    "answer": 0,
+                    "why": "'One-eyed' begins with a consonant sound (w), so it takes 'a'."
+                },
+                {
+                    "q": "Fill in the blank with the correct article: ___ Quran is a holy book.",
+                    "options": [
+                        "The",
+                        "A",
+                        "An",
+                        "No article"
+                    ],
+                    "answer": 0,
+                    "why": "Names of holy books take 'the'."
+                },
+                {
+                    "q": "Choose the correct form: If it rains tomorrow, we ___ at home.",
+                    "options": [
+                        "will stay",
+                        "stayed",
+                        "would stay",
+                        "had stayed"
+                    ],
+                    "answer": 0,
+                    "why": "First conditional: present simple in the if-clause, 'will' in the main clause."
+                },
+                {
+                    "q": "Choose the correct form: If I were you, I ___ the offer.",
+                    "options": [
+                        "would accept",
+                        "will accept",
+                        "accepted",
+                        "had accepted"
+                    ],
+                    "answer": 0,
+                    "why": "Second conditional: past simple in the if-clause, 'would' in the main clause."
+                },
+                {
+                    "q": "Choose the correct form: If he had studied hard, he ___ the exam.",
+                    "options": [
+                        "would have passed",
+                        "will pass",
+                        "would pass",
+                        "had passed"
+                    ],
+                    "answer": 0,
+                    "why": "Third conditional: past perfect in the if-clause, 'would have + past participle' in the main clause."
+                },
+                {
+                    "q": "Choose the correct form: If I had a lot of money, I ___ a car.",
+                    "options": [
+                        "would buy",
+                        "will buy",
+                        "bought",
+                        "had bought"
+                    ],
+                    "answer": 0,
+                    "why": "Second conditional for an unreal present situation uses 'would'."
+                },
+                {
+                    "q": "Choose the correct form: Had he come earlier, he ___ the train.",
+                    "options": [
+                        "would have caught",
+                        "will catch",
+                        "would catch",
+                        "had caught"
+                    ],
+                    "answer": 0,
+                    "why": "Inverted third conditional: 'Had + subject + past participle' pairs with 'would have + past participle'."
+                },
+                {
+                    "q": "Add the correct question tag: You are coming with us, ___?",
+                    "options": [
+                        "aren't you",
+                        "are you",
+                        "isn't it",
+                        "don't you"
+                    ],
+                    "answer": 0,
+                    "why": "A positive statement takes a negative tag: 'aren't you'."
+                },
+                {
+                    "q": "Add the correct question tag: He can swim very well, ___?",
+                    "options": [
+                        "can't he",
+                        "can he",
+                        "doesn't he",
+                        "isn't he"
+                    ],
+                    "answer": 0,
+                    "why": "Positive statement with 'can' takes the negative tag 'can't he'."
+                },
+                {
+                    "q": "Add the correct question tag: They don't like fish, ___?",
+                    "options": [
+                        "do they",
+                        "don't they",
+                        "are they",
+                        "did they"
+                    ],
+                    "answer": 0,
+                    "why": "A negative statement takes a positive tag: 'do they'."
+                },
+                {
+                    "q": "Add the correct question tag: Let's go for a walk, ___?",
+                    "options": [
+                        "shall we",
+                        "will we",
+                        "do we",
+                        "can we"
+                    ],
+                    "answer": 0,
+                    "why": "'Let's' always takes the tag 'shall we'."
+                },
+                {
+                    "q": "Add the correct question tag: I am right, ___?",
+                    "options": [
+                        "aren't I",
+                        "am I",
+                        "isn't I",
+                        "don't I"
+                    ],
+                    "answer": 0,
+                    "why": "'I am' takes the special tag 'aren't I'."
+                },
+                {
+                    "q": "Add the correct question tag: She has finished her work, ___?",
+                    "options": [
+                        "hasn't she",
+                        "has she",
+                        "doesn't she",
+                        "isn't she"
+                    ],
+                    "answer": 0,
+                    "why": "Positive statement with 'has' takes the negative tag 'hasn't she'."
                 }
             ]
         },
@@ -44627,6 +45232,248 @@
                     ],
                     "answer": 2,
                     "why": "আয়তক্ষেত্রের ক্ষেত্রফল = ১২ × ৫ = ৬০ বর্গসেমি।"
+                },
+                {
+                    "q": "৩০০ টাকার ১৫% কত টাকা?",
+                    "options": [
+                        "৪৫",
+                        "৩০",
+                        "৬০",
+                        "৯০"
+                    ],
+                    "answer": 0,
+                    "why": "৩০০ × ১৫/১০০ = ৪৫ টাকা।"
+                },
+                {
+                    "q": "৭০০ সংখ্যার ৩০% কত?",
+                    "options": [
+                        "২১০",
+                        "১৮০",
+                        "২৪০",
+                        "২০০"
+                    ],
+                    "answer": 0,
+                    "why": "৭০০ × ৩০/১০০ = ২১০।"
+                },
+                {
+                    "q": "১২০০ টাকার ৫% কত টাকা?",
+                    "options": [
+                        "৬০",
+                        "৫০",
+                        "৪০",
+                        "৮০"
+                    ],
+                    "answer": 0,
+                    "why": "১২০০ × ৫/১০০ = ৬০ টাকা।"
+                },
+                {
+                    "q": "১২০-এর ৭৫% এর মান কত?",
+                    "options": [
+                        "৯০",
+                        "৮০",
+                        "১০০",
+                        "৬০"
+                    ],
+                    "answer": 0,
+                    "why": "১২০ × ৭৫/১০০ = ৯০।"
+                },
+                {
+                    "q": "৯৫০-এর ১০% কত?",
+                    "options": [
+                        "৯৫",
+                        "৯০",
+                        "১০০",
+                        "৮৫"
+                    ],
+                    "answer": 0,
+                    "why": "৯৫০ × ১০/১০০ = ৯৫।"
+                },
+                {
+                    "q": "৮০০ টাকায় কেনা জিনিস ৭২০ টাকায় বিক্রি করলে শতকরা ক্ষতি কত?",
+                    "options": [
+                        "১০%",
+                        "২০%",
+                        "৫%",
+                        "১৫%"
+                    ],
+                    "answer": 0,
+                    "why": "ক্ষতি = ৮০ টাকা; ৮০/৮০০ × ১০০ = ১০%।"
+                },
+                {
+                    "q": "ক্রয়মূল্য ১২০০ টাকা, ২৫% লাভে বিক্রয়মূল্য কত?",
+                    "options": [
+                        "১৫০০",
+                        "১৪০০",
+                        "১৬০০",
+                        "১৩০০"
+                    ],
+                    "answer": 0,
+                    "why": "বিক্রয়মূল্য = ১২০০ × ১২৫/১০০ = ১৫০০ টাকা।"
+                },
+                {
+                    "q": "১০০০ টাকায় কেনা পণ্য ১০% ক্ষতিতে বিক্রি করলে বিক্রয়মূল্য কত?",
+                    "options": [
+                        "৯০০",
+                        "৮০০",
+                        "৯৫০",
+                        "৮৫০"
+                    ],
+                    "answer": 0,
+                    "why": "বিক্রয়মূল্য = ১০০০ × ৯০/১০০ = ৯০০ টাকা।"
+                },
+                {
+                    "q": "১৫০ টাকার জিনিস ১৮০ টাকায় বিক্রি করলে শতকরা লাভ কত?",
+                    "options": [
+                        "২০%",
+                        "১৫%",
+                        "২৫%",
+                        "৩০%"
+                    ],
+                    "answer": 0,
+                    "why": "লাভ = ৩০ টাকা; ৩০/১৫০ × ১০০ = ২০%।"
+                },
+                {
+                    "q": "পিতার বয়স পুত্রের বয়সের ৪ গুণ। তাদের বয়সের সমষ্টি ৪৫ বছর হলে পুত্রের বয়স কত?",
+                    "options": [
+                        "৯ বছর",
+                        "১২ বছর",
+                        "১৫ বছর",
+                        "১০ বছর"
+                    ],
+                    "answer": 0,
+                    "why": "পুত্রের বয়স x হলে ৫x = ৪৫, অর্থাৎ x = ৯ বছর।"
+                },
+                {
+                    "q": "৫ বছর পর রহিমের বয়স হবে ২০ বছর। তার বর্তমান বয়স কত?",
+                    "options": [
+                        "১৫ বছর",
+                        "১০ বছর",
+                        "২৫ বছর",
+                        "১২ বছর"
+                    ],
+                    "answer": 0,
+                    "why": "বর্তমান বয়স = ২০ − ৫ = ১৫ বছর।"
+                },
+                {
+                    "q": "মায়ের বয়স ৩৬ বছর, মেয়ের বয়স ৬ বছর। কত বছর পর মায়ের বয়স মেয়ের বয়সের ৩ গুণ হবে?",
+                    "options": [
+                        "৯ বছর",
+                        "৬ বছর",
+                        "১২ বছর",
+                        "৮ বছর"
+                    ],
+                    "answer": 0,
+                    "why": "x বছর পর (৩৬+x) = ৩(৬+x) → x = ৯ বছর।"
+                },
+                {
+                    "q": "স্রোতের অনুকূলে ঘণ্টায় ১৫ কিমি বেগে নৌকা ৪৫ কিমি পথ যেতে কত সময় নেবে?",
+                    "options": [
+                        "৩ ঘণ্টা",
+                        "২ ঘণ্টা",
+                        "৪ ঘণ্টা",
+                        "৫ ঘণ্টা"
+                    ],
+                    "answer": 0,
+                    "why": "সময় = দূরত্ব ÷ বেগ = ৪৫ ÷ ১৫ = ৩ ঘণ্টা।"
+                },
+                {
+                    "q": "স্থির পানিতে নৌকার বেগ ১২ কিমি/ঘণ্টা, স্রোতের বেগ ৩ কিমি/ঘণ্টা হলে প্রতিকূলে ১৮ কিমি যেতে কত সময় লাগবে?",
+                    "options": [
+                        "২ ঘণ্টা",
+                        "৩ ঘণ্টা",
+                        "১ ঘণ্টা",
+                        "৪ ঘণ্টা"
+                    ],
+                    "answer": 0,
+                    "why": "প্রতিকূলে বেগ = ৯ কিমি/ঘণ্টা; সময় = ১৮ ÷ ৯ = ২ ঘণ্টা।"
+                },
+                {
+                    "q": "A একটি কাজ ১২ দিনে এবং B ৪ দিনে করতে পারে। একসঙ্গে কত দিনে শেষ হবে?",
+                    "options": [
+                        "৩ দিন",
+                        "৪ দিন",
+                        "৬ দিন",
+                        "৮ দিন"
+                    ],
+                    "answer": 0,
+                    "why": "একদিনে করে ১/১২ + ১/৪ = ১/৩ অংশ; কাজটি শেষ হবে ৩ দিনে।"
+                },
+                {
+                    "q": "২০০ মিটার লম্বা একটি ট্রেন ঘণ্টায় ৭২ কিমি বেগে ছুটছে। একটি খুঁটি পেরোতে ট্রেনটির কত সেকেন্ড লাগবে?",
+                    "options": [
+                        "১০ সেকেন্ড",
+                        "৮ সেকেন্ড",
+                        "১২ সেকেন্ড",
+                        "২০ সেকেন্ড"
+                    ],
+                    "answer": 0,
+                    "why": "৭২ কিমি/ঘণ্টা = ২০ মি/সে; সময় = ২০০ ÷ ২০ = ১০ সেকেন্ড।"
+                },
+                {
+                    "q": "১৫০ মিটার লম্বা ট্রেন প্রতি ঘণ্টায় ৫৪ কিলোমিটার বেগে চললে একটি সিগন্যাল পোস্ট অতিক্রম করতে কত সময় নেবে?",
+                    "options": [
+                        "১০ সেকেন্ড",
+                        "৯ সেকেন্ড",
+                        "১২ সেকেন্ড",
+                        "১৫ সেকেন্ড"
+                    ],
+                    "answer": 0,
+                    "why": "৫৪ কিমি/ঘণ্টা = ১৫ মি/সে; সময় = ১৫০ ÷ ১৫ = ১০ সেকেন্ড।"
+                },
+                {
+                    "q": "৯০ কিমি/ঘণ্টা বেগে চলা ২৫০ মিটার দীর্ঘ ট্রেন একটি টেলিগ্রাফ খুঁটি পার হতে কত সেকেন্ড সময় নেবে?",
+                    "options": [
+                        "১০ সেকেন্ড",
+                        "১২ সেকেন্ড",
+                        "৯ সেকেন্ড",
+                        "২৫ সেকেন্ড"
+                    ],
+                    "answer": 0,
+                    "why": "৯০ কিমি/ঘণ্টা = ২৫ মি/সে; সময় = ২৫০ ÷ ২৫ = ১০ সেকেন্ড।"
+                },
+                {
+                    "q": "৩৬ কিমি/ঘণ্টা গতিতে চলমান ১২০ মিটার লম্বা ট্রেন একটি খুঁটি অতিক্রম করতে কতক্ষণ নেবে?",
+                    "options": [
+                        "১২ সেকেন্ড",
+                        "১০ সেকেন্ড",
+                        "১৫ সেকেন্ড",
+                        "৮ সেকেন্ড"
+                    ],
+                    "answer": 0,
+                    "why": "৩৬ কিমি/ঘণ্টা = ১০ মি/সে; সময় = ১২০ ÷ ১০ = ১২ সেকেন্ড।"
+                },
+                {
+                    "q": "√২২৫-এর মান কত?",
+                    "options": [
+                        "১৫",
+                        "১৩",
+                        "১৭",
+                        "২৫"
+                    ],
+                    "answer": 0,
+                    "why": "১৫ × ১৫ = ২২৫, তাই √২২৫ = ১৫।"
+                },
+                {
+                    "q": "√৩২৪-এর মান কত?",
+                    "options": [
+                        "১৮",
+                        "১৬",
+                        "২৪",
+                        "২৮"
+                    ],
+                    "answer": 0,
+                    "why": "১৮ × ১৮ = ৩২৪, তাই √৩২৪ = ১৮।"
+                },
+                {
+                    "q": "৩x + ৪ = ১৯ হলে x-এর মান কত?",
+                    "options": [
+                        "৫",
+                        "৬",
+                        "৪",
+                        "৭"
+                    ],
+                    "answer": 0,
+                    "why": "৩x = ১৫, তাই x = ৫।"
                 }
             ]
         },
@@ -58404,6 +59251,50 @@
                     ],
                     "answer": 2,
                     "why": "ADB-এর সদর দপ্তর ম্যানিলায়; প্রতিষ্ঠিত হয় ১৯৬৬ সালে।"
+                },
+                {
+                    "q": "রিকেট রোগ হয় কোন ভিটামিনের অভাবে?",
+                    "options": [
+                        "ভিটামিন ডি",
+                        "ভিটামিন এ",
+                        "ভিটামিন সি",
+                        "ভিটামিন বি১২"
+                    ],
+                    "answer": 0,
+                    "why": "ভিটামিন ডি-এর অভাবে শিশুদের রিকেট রোগ হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের রপ্তানি আয়ের প্রধান খাত কোনটি?",
+                    "options": [
+                        "তৈরি পোশাক",
+                        "চা",
+                        "চামড়া",
+                        "পাট"
+                    ],
+                    "answer": 0,
+                    "why": "তৈরি পোশাক বাংলাদেশের রপ্তানি আয়ের প্রধান খাত।"
+                },
+                {
+                    "q": "বাংলাদেশ কবে টেস্ট মর্যাদা লাভ করে?",
+                    "options": [
+                        "২০০০ সালে",
+                        "১৯৯৭ সালে",
+                        "১৯৯৯ সালে",
+                        "২০০৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ ২০০০ সালের ২৬ জুন টেস্ট মর্যাদা লাভ করে।"
+                },
+                {
+                    "q": "বাংলাদেশের প্রথম টেস্ট ম্যাচ খেলা হয় কোন দলের বিপক্ষে?",
+                    "options": [
+                        "ভারত",
+                        "পাকিস্তান",
+                        "জিম্বাবুয়ে",
+                        "শ্রীলঙ্কা"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের প্রথম টেস্ট ম্যাচ ২০০০ সালে ভারতের বিপক্ষে খেলা হয়।"
                 }
             ]
         },
@@ -82365,6 +83256,446 @@
                     ],
                     "answer": 1,
                     "why": "স্ট্রিমিং হলো ইন্টারনেটে সরাসরি ভিডিও বা অডিও দেখা-শোনা।"
+                },
+                {
+                    "q": "OSI মডেলের সর্বোচ্চ স্তর কোনটি?",
+                    "options": [
+                        "অ্যাপ্লিকেশন",
+                        "প্রেজেন্টেশন",
+                        "সেশন",
+                        "ট্রান্সপোর্ট"
+                    ],
+                    "answer": 0,
+                    "why": "OSI মডেলের সর্বোচ্চ (৭ম) স্তর অ্যাপ্লিকেশন স্তর।"
+                },
+                {
+                    "q": "নেটওয়ার্কে ডেটার ছোট ছোট অংশকে কী বলা হয়?",
+                    "options": [
+                        "প্যাকেট",
+                        "বিট",
+                        "বাইট",
+                        "ফাইল"
+                    ],
+                    "answer": 0,
+                    "why": "নেটওয়ার্কে পাঠানোর সময় ডেটাকে ছোট ছোট প্যাকেটে ভাগ করা হয়।"
+                },
+                {
+                    "q": "ক্লাস A IP ঠিকানার প্রথম অক্টেটের পরিসর কোনটি?",
+                    "options": [
+                        "১–১২৬",
+                        "১২৮–১৯১",
+                        "১৯২–২২৩",
+                        "২২৪–২৩৯"
+                    ],
+                    "answer": 0,
+                    "why": "ক্লাস A ঠিকানার প্রথম অক্টেট ১ থেকে ১২৬ পর্যন্ত হয়।"
+                },
+                {
+                    "q": "মাল্টিকাস্টের জন্য কোন ক্লাসের IP ঠিকানা ব্যবহৃত হয়?",
+                    "options": [
+                        "ক্লাস D",
+                        "ক্লাস A",
+                        "ক্লাস B",
+                        "ক্লাস C"
+                    ],
+                    "answer": 0,
+                    "why": "ক্লাস D (২২৪–২৩৯) মাল্টিকাস্টের জন্য ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ডোমেইন নামকে IP ঠিকানায় রূপান্তর করে কোন সেবা?",
+                    "options": [
+                        "DNS",
+                        "HTTP",
+                        "FTP",
+                        "SMTP"
+                    ],
+                    "answer": 0,
+                    "why": "DNS (Domain Name System) ডোমেইন নামকে IP ঠিকানায় রূপান্তর করে।"
+                },
+                {
+                    "q": "প্রতিটি নেটওয়ার্ক ডিভাইসের স্থায়ী শনাক্তকারী ঠিকানাকে কী বলে?",
+                    "options": [
+                        "MAC ঠিকানা",
+                        "IP ঠিকানা",
+                        "URL",
+                        "পোর্ট নম্বর"
+                    ],
+                    "answer": 0,
+                    "why": "MAC ঠিকানা নেটওয়ার্ক ডিভাইসের হার্ডওয়্যারে স্থায়ীভাবে দেওয়া শনাক্তকারী।"
+                },
+                {
+                    "q": "দুটি ভিন্ন নেটওয়ার্ককে যুক্ত করে কোন ডিভাইস?",
+                    "options": [
+                        "রাউটার",
+                        "হাব",
+                        "মডেম",
+                        "প্রিন্টার"
+                    ],
+                    "answer": 0,
+                    "why": "রাউটার ভিন্ন ভিন্ন নেটওয়ার্কের মধ্যে ডেটা পাঠায়।"
+                },
+                {
+                    "q": "একই নেটওয়ার্কের ডিভাইসগুলোকে যুক্ত করে কোনটি?",
+                    "options": [
+                        "সুইচ",
+                        "রাউটার",
+                        "মডেম",
+                        "ফায়ারওয়াল"
+                    ],
+                    "answer": 0,
+                    "why": "সুইচ একই নেটওয়ার্কের ডিভাইসগুলোকে পরস্পর যুক্ত করে।"
+                },
+                {
+                    "q": "ব্লুটুথের মাধ্যমে সাধারণত কত দূরত্ব পর্যন্ত সংযোগ হয়?",
+                    "options": [
+                        "১০ মিটার",
+                        "১০০ মিটার",
+                        "১ কিলোমিটার",
+                        "৫০ মিটার"
+                    ],
+                    "answer": 0,
+                    "why": "ব্লুটুথ সাধারণত প্রায় ১০ মিটার দূরত্ব পর্যন্ত কাজ করে।"
+                },
+                {
+                    "q": "ডেটাবেসে প্রতিটি সারিকে (row) কী বলা হয়?",
+                    "options": [
+                        "রেকর্ড",
+                        "ফিল্ড",
+                        "টেবিল",
+                        "কী"
+                    ],
+                    "answer": 0,
+                    "why": "ডেটাবেস টেবিলের প্রতিটি সারি একটি রেকর্ড।"
+                },
+                {
+                    "q": "ডেটাবেসে প্রতিটি কলামকে (column) কী বলা হয়?",
+                    "options": [
+                        "ফিল্ড",
+                        "রেকর্ড",
+                        "টেবিল",
+                        "ইনডেক্স"
+                    ],
+                    "answer": 0,
+                    "why": "ডেটাবেস টেবিলের প্রতিটি কলাম একটি ফিল্ড।"
+                },
+                {
+                    "q": "টেবিলের যে কলাম প্রতিটি রেকর্ডকে এককভাবে চিহ্নিত করে তাকে কী বলে?",
+                    "options": [
+                        "প্রাইমারি কি",
+                        "ফরেন কি",
+                        "ইনডেক্স",
+                        "ফিল্ড"
+                    ],
+                    "answer": 0,
+                    "why": "প্রাইমারি কি প্রতিটি রেকর্ডকে এককভাবে চিহ্নিত করে।"
+                },
+                {
+                    "q": "অন্য টেবিলের প্রাইমারি কিকে নিজের টেবিলে ব্যবহার করলে তাকে কী বলে?",
+                    "options": [
+                        "ফরেন কি",
+                        "প্রাইমারি কি",
+                        "ক্যান্ডিডেট কি",
+                        "অল্টারনেট কি"
+                    ],
+                    "answer": 0,
+                    "why": "অন্য টেবিলের প্রাইমারি কি নিজের টেবিলে ব্যবহৃত হলে তা ফরেন কি।"
+                },
+                {
+                    "q": "ডেটাবেস থেকে তথ্য আনার SQL কমান্ড কোনটি?",
+                    "options": [
+                        "SELECT",
+                        "INSERT",
+                        "DELETE",
+                        "UPDATE"
+                    ],
+                    "answer": 0,
+                    "why": "SELECT কমান্ড দিয়ে ডেটাবেস থেকে তথ্য আনা হয়।"
+                },
+                {
+                    "q": "ডেটাবেসে নতুন তথ্য যোগ করার SQL কমান্ড কোনটি?",
+                    "options": [
+                        "INSERT",
+                        "SELECT",
+                        "DELETE",
+                        "DROP"
+                    ],
+                    "answer": 0,
+                    "why": "INSERT কমান্ড দিয়ে ডেটাবেসে নতুন তথ্য যোগ করা হয়।"
+                },
+                {
+                    "q": "ডেটাবেসের তথ্য পরিবর্তন করার SQL কমান্ড কোনটি?",
+                    "options": [
+                        "UPDATE",
+                        "SELECT",
+                        "INSERT",
+                        "CREATE"
+                    ],
+                    "answer": 0,
+                    "why": "UPDATE কমান্ড দিয়ে ডেটাবেসের তথ্য পরিবর্তন করা হয়।"
+                },
+                {
+                    "q": "ডেটাবেস থেকে তথ্য মুছে ফেলার SQL কমান্ড কোনটি?",
+                    "options": [
+                        "DELETE",
+                        "DROP",
+                        "SELECT",
+                        "INSERT"
+                    ],
+                    "answer": 0,
+                    "why": "DELETE কমান্ড দিয়ে ডেটাবেসের তথ্য মুছে ফেলা হয়।"
+                },
+                {
+                    "q": "নিচের কোনটি একটি RDBMS?",
+                    "options": [
+                        "MySQL",
+                        "MS Word",
+                        "Photoshop",
+                        "Chrome"
+                    ],
+                    "answer": 0,
+                    "why": "MySQL একটি রিলেশনাল ডেটাবেস ম্যানেজমেন্ট সিস্টেম (RDBMS)।"
+                },
+                {
+                    "q": "OOP-তে ক্লাসের বাস্তব উদাহরণকে কী বলে?",
+                    "options": [
+                        "অবজেক্ট",
+                        "ফাংশন",
+                        "ভেরিয়েবল",
+                        "অ্যারে"
+                    ],
+                    "answer": 0,
+                    "why": "ক্লাস হলো নকশা, আর তার বাস্তব উদাহরণ হলো অবজেক্ট।"
+                },
+                {
+                    "q": "একটি ক্লাসের বৈশিষ্ট্য অন্য ক্লাসে পাওয়ার পদ্ধতিকে কী বলে?",
+                    "options": [
+                        "ইনহেরিটেন্স",
+                        "পলিমরফিজম",
+                        "এনক্যাপসুলেশন",
+                        "অ্যাবস্ট্রাকশন"
+                    ],
+                    "answer": 0,
+                    "why": "ইনহেরিটেন্সে একটি ক্লাস অন্য ক্লাসের বৈশিষ্ট্য পায়।"
+                },
+                {
+                    "q": "একই নামের ফাংশন ভিন্ন ভিন্ন কাজ করাকে কী বলে?",
+                    "options": [
+                        "পলিমরফিজম",
+                        "ইনহেরিটেন্স",
+                        "এনক্যাপসুলেশন",
+                        "অ্যাবস্ট্রাকশন"
+                    ],
+                    "answer": 0,
+                    "why": "পলিমরফিজমে একই নামের ফাংশন ভিন্ন ভিন্ন আচরণ করে।"
+                },
+                {
+                    "q": "ডেটা ও ফাংশন একত্রে আবদ্ধ করাকে কী বলে?",
+                    "options": [
+                        "এনক্যাপসুলেশন",
+                        "ইনহেরিটেন্স",
+                        "পলিমরফিজম",
+                        "অ্যাবস্ট্রাকশন"
+                    ],
+                    "answer": 0,
+                    "why": "এনক্যাপসুলেশনে ডেটা ও ফাংশন একক ইউনিটে আবদ্ধ থাকে।"
+                },
+                {
+                    "q": "অপ্রয়োজনীয় বিবরণ লুকিয়ে প্রয়োজনীয় অংশ দেখানোকে কী বলে?",
+                    "options": [
+                        "অ্যাবস্ট্রাকশন",
+                        "ইনহেরিটেন্স",
+                        "এনক্যাপসুলেশন",
+                        "পলিমরফিজম"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যাবস্ট্রাকশনে জটিল বিবরণ লুকিয়ে শুধু প্রয়োজনীয় অংশ দেখানো হয়।"
+                },
+                {
+                    "q": "সমস্যা সমাধানের ধাপে ধাপে নির্দিষ্ট পদ্ধতিকে কী বলে?",
+                    "options": [
+                        "অ্যালগরিদম",
+                        "ফ্লোচার্ট",
+                        "প্রোগ্রাম",
+                        "কম্পাইলার"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যালগরিদম হলো সমস্যা সমাধানের ধাপে ধাপে লিখিত পদ্ধতি।"
+                },
+                {
+                    "q": "অ্যালগরিদমের চিত্ররূপকে কী বলে?",
+                    "options": [
+                        "ফ্লোচার্ট",
+                        "প্রোগ্রাম",
+                        "কোড",
+                        "ডেটাবেস"
+                    ],
+                    "answer": 0,
+                    "why": "ফ্লোচার্ট হলো অ্যালগরিদমের চিত্ররূপ।"
+                },
+                {
+                    "q": "পুরো প্রোগ্রাম একবারে যন্ত্রের ভাষায় রূপান্তর করে কোনটি?",
+                    "options": [
+                        "কম্পাইলার",
+                        "ইন্টারপ্রেটার",
+                        "অ্যাসেম্বলার",
+                        "এডিটর"
+                    ],
+                    "answer": 0,
+                    "why": "কম্পাইলার পুরো প্রোগ্রাম একবারে যন্ত্রের ভাষায় রূপান্তর করে।"
+                },
+                {
+                    "q": "CPU-তে গাণিতিক ও যৌক্তিক হিসাব করে কোন অংশ?",
+                    "options": [
+                        "ALU",
+                        "CU",
+                        "RAM",
+                        "ROM"
+                    ],
+                    "answer": 0,
+                    "why": "ALU (Arithmetic Logic Unit) গাণিতিক ও যৌক্তিক হিসাব করে।"
+                },
+                {
+                    "q": "CPU-এর সব কাজ নিয়ন্ত্রণ করে কোন অংশ?",
+                    "options": [
+                        "কন্ট্রোল ইউনিট",
+                        "ALU",
+                        "ক্যাশ",
+                        "রেজিস্টার"
+                    ],
+                    "answer": 0,
+                    "why": "কন্ট্রোল ইউনিট (CU) CPU-এর সব কাজ নিয়ন্ত্রণ করে।"
+                },
+                {
+                    "q": "CPU-এর অস্থায়ী তথ্য রাখার দ্রুততম স্মৃতিকে কী বলে?",
+                    "options": [
+                        "রেজিস্টার",
+                        "হার্ডডিস্ক",
+                        "RAM",
+                        "ROM"
+                    ],
+                    "answer": 0,
+                    "why": "রেজিস্টার CPU-এর ভেতরের সবচেয়ে দ্রুত অস্থায়ী স্মৃতি।"
+                },
+                {
+                    "q": "কম্পিউটার চালু হওয়ার সময় প্রাথমিক পরীক্ষাকে কী বলে?",
+                    "options": [
+                        "POST",
+                        "BIOS",
+                        "BOOT",
+                        "CMOS"
+                    ],
+                    "answer": 0,
+                    "why": "POST (Power-On Self-Test) চালু হওয়ার সময় হার্ডওয়্যার পরীক্ষা করে।"
+                },
+                {
+                    "q": "BIOS-এর আধুনিক উত্তরসূরি কোনটি?",
+                    "options": [
+                        "UEFI",
+                        "DOS",
+                        "CMOS",
+                        "POST"
+                    ],
+                    "answer": 0,
+                    "why": "UEFI হলো BIOS-এর আধুনিক উত্তরসূরি।"
+                },
+                {
+                    "q": "প্রভাব (impact) প্রিন্টার কোনটি?",
+                    "options": [
+                        "ডট ম্যাট্রিক্স",
+                        "লেজার",
+                        "ইঙ্কজেট",
+                        "থার্মাল"
+                    ],
+                    "answer": 0,
+                    "why": "ডট ম্যাট্রিক্স প্রিন্টার আঘাত করে ছাপে, তাই এটি ইমপ্যাক্ট প্রিন্টার।"
+                },
+                {
+                    "q": "বড় আকারের নকশা বা মানচিত্র ছাপাতে কোন প্রিন্টার ব্যবহৃত হয়?",
+                    "options": [
+                        "প্লটার",
+                        "লেজার",
+                        "ডট ম্যাট্রিক্স",
+                        "ইঙ্কজেট"
+                    ],
+                    "answer": 0,
+                    "why": "প্লটার দিয়ে বড় আকারের নকশা, মানচিত্র ইত্যাদি ছাপা হয়।"
+                },
+                {
+                    "q": "ভুয়া ওয়েবসাইট বা ইমেইলের মাধ্যমে তথ্য চুরির কৌশলকে কী বলে?",
+                    "options": [
+                        "ফিশিং",
+                        "হ্যাকিং",
+                        "ভাইরাস",
+                        "স্প্যাম"
+                    ],
+                    "answer": 0,
+                    "why": "ফিশিংয়ে ভুয়া ওয়েবসাইট বা ইমেইলে তথ্য চুরি করা হয়।"
+                },
+                {
+                    "q": "অযাচিত বিজ্ঞাপনমূলক ইমেইলকে কী বলে?",
+                    "options": [
+                        "স্প্যাম",
+                        "ফিশিং",
+                        "ভাইরাস",
+                        "ম্যালওয়্যার"
+                    ],
+                    "answer": 0,
+                    "why": "অযাচিত বিজ্ঞাপনমূলক ইমেইলকে স্প্যাম বলে।"
+                },
+                {
+                    "q": "কম্পিউটারের ক্ষতিকর প্রোগ্রামকে সাধারণভাবে কী বলে?",
+                    "options": [
+                        "ম্যালওয়্যার",
+                        "সফটওয়্যার",
+                        "ফার্মওয়্যার",
+                        "হার্ডওয়্যার"
+                    ],
+                    "answer": 0,
+                    "why": "ক্ষতিকর প্রোগ্রামকে সাধারণভাবে ম্যালওয়্যার বলে।"
+                },
+                {
+                    "q": "ব্যাবেজ যে যন্ত্রের নকশা করেন, যা আধুনিক কম্পিউটারের ভিত্তি, তার নাম কী?",
+                    "options": [
+                        "অ্যানালিটিক্যাল ইঞ্জিন",
+                        "ডিফারেন্স ইঞ্জিন",
+                        "ENIAC",
+                        "UNIVAC"
+                    ],
+                    "answer": 0,
+                    "why": "ব্যাবেজের অ্যানালিটিক্যাল ইঞ্জিন আধুনিক কম্পিউটারের ভিত্তি হিসেবে ধরা হয়।"
+                },
+                {
+                    "q": "বিশ্বের প্রথম প্রোগ্রামার কাকে ধরা হয়?",
+                    "options": [
+                        "অ্যাডা লাভলেস",
+                        "গ্রেস হপার",
+                        "চার্লস ব্যাবেজ",
+                        "অ্যালান টুরিং"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যাডা লাভলেসকে বিশ্বের প্রথম প্রোগ্রামার ধরা হয়।"
+                },
+                {
+                    "q": "বাংলাদেশে তথ্যপ্রযুক্তি বিভাগের নাম কী?",
+                    "options": [
+                        "তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ",
+                        "ডাক বিভাগ",
+                        "শিক্ষা মন্ত্রণালয়",
+                        "বিজ্ঞান মন্ত্রণালয়"
+                    ],
+                    "answer": 0,
+                    "why": "তথ্যপ্রযুক্তি বিভাগের নাম তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ।"
+                },
+                {
+                    "q": "বাংলাদেশ কম্পিউটার কাউন্সিল (BCC) কোন বিভাগের অধীন?",
+                    "options": [
+                        "তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ",
+                        "শিক্ষা মন্ত্রণালয়",
+                        "ডাক ও টেলিযোগাযোগ বিভাগ",
+                        "অর্থ মন্ত্রণালয়"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ কম্পিউটার কাউন্সিল তথ্য ও যোগাযোগ প্রযুক্তি বিভাগের অধীন।"
                 }
             ]
         }
