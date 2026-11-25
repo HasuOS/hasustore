@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 126,
-   "versionName": "10.56",
+   "code": 127,
+   "versionName": "10.57",
    "size": 17156231,
-   "changes": "Add to home screen no longer duplicates a docked app \u2014 adding a dock-pinned app to the home screen now removes it from the dock, so an app never sits in the dock AND on the home pages at once \u00b7 The Permissions row in Settings now shows the real state: its toggle draws ON only when every permission is truly granted \u00b7 Full audit pass: 66 widget kinds, widget previews match the placed widgets exactly, everything else verified as-is.",
+   "changes": "ICON PACKS WORK NOW. Applying a pack from HasuPack while Home is running really changes the icons — before, the running launcher dropped the signal and nothing happened, even though it said the pack was set. Now the pack applies at once, the confirmation appears only after the icons have really changed, and if a pack cannot be read the app says so honestly instead of pretending.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795545705,
-   "etag": "0x8DF4A5A8DA34E2D"
+   "ts": 1795572355,
+   "etag": "0x8DF4A9894336AB7"
   },
   {
    "pkg": "hasu.os.pdf",
