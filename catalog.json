@@ -71,13 +71,13 @@
    "name": "HasuCalendar",
    "tag": "Calendar",
    "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 10,
-   "versionName": "1.07",
+   "code": 11,
+   "versionName": "1.08",
    "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-   "changes": "NEW: your full daily routine is added as calendar events — a reminder at every block's start time, including the weekly rotation (varsity books, typing English/Bangla, the day's Job Read subject; Friday 10 AM is class). The events are ordinary events: edit or delete any of them.",
-   "etag": "0x8DF4A24958674E5",
-   "ts": 1795522517
+   "changes": "Routine updated: daytime = job study, night = varsity study",
+   "etag": "0x8DF4A5FB2DDC193",
+   "ts": 1795547911
   },
   {
    "pkg": "com.hasucam.camera",
@@ -162,13 +162,13 @@
    "name": "HasuHabit",
    "tag": "Habit tracker",
    "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.",
-   "code": 9,
-   "versionName": "1.08",
+   "code": 10,
+   "versionName": "1.09",
    "size": 62532,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk",
-   "changes": "NEW: your full daily routine is added as habits — every block with a notification at its start time (Fajr, exercise, meals, varsity study, Job Apply, Job Read, typing practice and the rest). The blocks are ordinary habits: mark, edit, re-time or delete them like any other.",
-   "ts": 1795522422,
-   "etag": "0x8DF4A2451B9E76B"
+   "changes": "Routine updated: daytime = job study, night = varsity study",
+   "ts": 1795546066,
+   "etag": "0x8DF4A5B63662833"
   },
   {
    "pkg": "hasu.os.health",
@@ -409,13 +409,13 @@
    "name": "HasuTask",
    "tag": "To-dos & reminders",
    "desc": "To-dos — tasks with a date, time and priority, and reminders that fire on time. Filter by Today, All or Done.",
-   "code": 10,
-   "versionName": "1.08",
+   "code": 11,
+   "versionName": "1.09",
    "size": 66627,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk",
-   "changes": "NEW: your full daily routine is added as tasks — a reminder at every block's start time, including the weekly rotation (this replaces the old routine list). FIXED: repeating task reminders now keep firing — a daily task that is not marked done reminds again the next day instead of going silent, and reminders survive reboots.",
-   "ts": 1795522719,
-   "etag": "0x8DF4A24F56D145D"
+   "changes": "Routine updated: daytime = job study, night = varsity study",
+   "ts": 1795548504,
+   "etag": "0x8DF4A611472692D"
   },
   {
    "pkg": "hasu.os.tools",
@@ -804,13 +804,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 66,
- "versionName": "1.65",
+ "code": 67,
+ "versionName": "1.66",
  "size": 871883,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "১.৬৫: 📚 পড়াশোনা home-এ সব card-এর ফাঁক এখন সমান — আগের বছরের প্রশ্নের card আর উপরের grid-এর গায়ে লেগে থাকে না; ✍️ অনুশীলনী ও ⏱️ মডেল টেস্টে subject এখন উপরে-নিচে সারি — subject চাপলেই তার নিজের page খোলে, আগের pill strip বাদ; 🔔 app না খুললেও নতুন প্রশ্নের notification আসার ব্যবস্থা ঠিক — Permissions page-এ নতুন ব্যাটারি row-তে আসল অবস্থা ও Settings-এর দরজা।",
- "ts": 1795539433,
- "etag": "0x8DF4A4BED7EB47B",
+ "changes": "১.৬৬: 🔍 পুরো app-এর গভীর যাচাই শেষ — সব পরীক্ষা (grouping, display, payment, recognition, isolation, backup) পাস; 🏠 সার্কুলার এখনো না এলে home-এ যে পুরনো \"রিফ্রেশ করুন\" লেখা ছিল তা বাদ — সার্কুলার ট্যাব খুললেই তালিকা নিজে থেকে লোড হয়, কোনো refresh বাটন লাগে না।",
+ "ts": 1795548602,
+ "etag": "0x8DF4A5AF525886B",
  "cat": "Tools"
 }
  ]
