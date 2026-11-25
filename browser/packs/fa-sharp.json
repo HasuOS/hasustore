@@ -1,0 +1,31 @@
+{
+ "id": "fa-sharp",
+ "name": "FA Sharp",
+ "kind": "glyphs",
+ "glyphs": {
+  "lock": "fa:f023",
+  "gear": "fa:f013",
+  "update": "fa:f063",
+  "bell": "fa:f0f3",
+  "globe": "fa:f0ac",
+  "signal": "fa:f012",
+  "home": "fa:f015",
+  "tabs": "fa:f2d2",
+  "bookmark": "fa:f02e",
+  "history": "fa:f1da",
+  "download": "fa:f019",
+  "search": "fa:f002",
+  "find": "fa:f00e",
+  "share": "fa:f064",
+  "trash": "fa:f1f8",
+  "info": "fa:f05a",
+  "guide": "fa:f02d",
+  "back": "fa:f053",
+  "forward": "fa:f054",
+  "reload": "fa:f021",
+  "menu": "fa:f0c9",
+  "desktop": "fa:f108",
+  "text": "fa:f031",
+  "battery": "fa:f240"
+ }
+}
