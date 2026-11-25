@@ -617,13 +617,13 @@
    "name": "HasuTyping",
    "tag": "Typing speed practice",
    "desc": "Typing speed practice in English and Bangla — timed tests with live WPM and accuracy, best speeds and a test history.",
-   "code": 2,
-   "versionName": "1.01",
-   "size": 1932016,
+   "code": 1,
+   "versionName": "1.00",
+   "size": 95086,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/typing.apk",
-   "changes": "1.01: The full family port — Settings with the whole-app language switch (English/বাংলা), Look & icons (themes, icon sets, five app-icon designs, per-surface looks, full-screen preview), an honest Permissions hub, self-update from HasuStore, and a settings backup that carries your best speeds, test history and an unfinished test's draft. An unfinished test now saves itself and can be resumed from the home screen. New icon packs and themes arrive by themselves. Launcher icon: the bare keyboard glyph, flat white on transparent — no border, no tile, no glow (his standing rule) — and every in-app button and icon stands on nothing the same way.",
-   "ts": 1795650267,
-   "etag": "0x8DF4B4DFAEA8B2F"
+   "changes": "NEW APP: ⌨️ Typing speed practice in English and বাংলা — six passages in each. ⏱ 1, 2 or 5 minute tests; the clock starts with your first letter. 🟩 Every letter is coloured as you type — green when right, red when wrong — with live WPM and accuracy. 🏆 Best speed kept for each language, and your recent tests are listed with date, time and score.",
+   "ts": 1795309515,
+   "etag": "0x8DF48349CD9D120"
   },
   {
    "pkg": "hasu.os.diary",
@@ -709,13 +709,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 42,
-   "versionName": "1.41",
-   "size": 2109133,
+   "code": 43,
+   "versionName": "1.42",
+   "size": 2068173,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "HasuPhone 1.41 — কল চলাকালে শব্দ কমানো-বাড়ানো এখন দুই দিকেই সত্যিই কাজ করে: আগের সংস্করণে এক দিকে চাপ দিলেও শব্দের মাত্রা নড়ত না (সিস্টেমের কল-ভলিউম পথ ধরে এখন ধাপ বদলায়, মাত্রা পড়ে যাচাই করে) · শব্দ একদম ফুল থাকলে \"+\" বাটনটা আর দেখায় না, একদম কমে গেলে \"−\" বাটনটা লুকিয়ে যায় — জায়গাটা ফাঁকা থাকে বলে সাজানো লেআউট নড়ে না · ফোনের ভলিউম বাটন দিয়ে বদলালেও স্ক্রিনের মাত্রা সঙ্গে সঙ্গে মিলে যায়।",
-   "ts": 1795612048,
-   "etag": "0x8DF4AF504E95E43"
+   "changes": "HasuPhone 1.42 — launcher icons only: the grey tile is gone — the handset-and-gear is now the bare white glyph on full transparency, and the ring design is resized to match — the same family style everywhere (drawer, HasuOS Home, HasuStore). Nothing else changed.",
+   "ts": 1795650286,
+   "etag": "0x8DF4B4E12F81D16"
   },
   {
    "pkg": "hasu.os.cell",
