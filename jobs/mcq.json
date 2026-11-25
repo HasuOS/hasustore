@@ -1,6 +1,6 @@
 {
-    "version": 59,
-    "generatedAt": 1795597828,
+    "version": 60,
+    "generatedAt": 1795599844,
     "subjects": [
         {
             "id": "bangla",
@@ -20876,6 +20876,435 @@
                     ],
                     "answer": 1,
                     "why": "'ধূসর পাণ্ডুলিপি' জীবনানন্দ দাশের কাব্যগ্রন্থ।"
+                },
+                {
+                    "q": "'ছন্দের যাদুকর' কাকে বলা হয়?",
+                    "options": [
+                        "রবীন্দ্রনাথ ঠাকুর",
+                        "সত্যেন্দ্রনাথ দত্ত",
+                        "জীবনানন্দ দাশ",
+                        "সুকান্ত ভট্টাচার্য"
+                    ],
+                    "answer": 1,
+                    "why": "'ছন্দের যাদুকর' বলা হয় সত্যেন্দ্রনাথ দত্তকে; ছন্দে তাঁর অসাধারণ দক্ষতা ছিল।"
+                },
+                {
+                    "q": "পয়ার ছন্দে প্রতি চরণে কত মাত্রা থাকে?",
+                    "options": [
+                        "১২ মাত্রা",
+                        "১৪ মাত্রা",
+                        "১৮ মাত্রা",
+                        "৮ মাত্রা"
+                    ],
+                    "answer": 1,
+                    "why": "পয়ার ছন্দে প্রতি চরণে ১৪ মাত্রা থাকে (৮ + ৬ ভাগে বিভক্ত)।"
+                },
+                {
+                    "q": "ত্রিপদী ছন্দে মোট কত মাত্রা থাকে?",
+                    "options": [
+                        "১৪ মাত্রা",
+                        "১৬ মাত্রা",
+                        "১৮ মাত্রা",
+                        "২০ মাত্রা"
+                    ],
+                    "answer": 2,
+                    "why": "ত্রিপদী ছন্দে মোট ১৮ মাত্রা থাকে (তিন পর্বে ৬ + ৬ + ৬)।"
+                },
+                {
+                    "q": "মাত্রাবৃত্ত ছন্দকে আর কী বলা হয়?",
+                    "options": [
+                        "তানপ্রধান ছন্দ",
+                        "ধ্বনিপ্রধান ছন্দ",
+                        "শ্বাসাঘাতপ্রধান ছন্দ",
+                        "অক্ষরপ্রধান ছন্দ"
+                    ],
+                    "answer": 1,
+                    "why": "মাত্রাবৃত্ত ছন্দকে ধ্বনিপ্রধান ছন্দও বলা হয়।"
+                },
+                {
+                    "q": "অক্ষরবৃত্ত ছন্দকে আর কী বলা হয়?",
+                    "options": [
+                        "শ্বাসাঘাতপ্রধান ছন্দ",
+                        "ধ্বনিপ্রধান ছন্দ",
+                        "তানপ্রধান ছন্দ",
+                        "লয়প্রধান ছন্দ"
+                    ],
+                    "answer": 2,
+                    "why": "অক্ষরবৃত্ত ছন্দকে তানপ্রধান ছন্দও বলা হয়।"
+                },
+                {
+                    "q": "অমিত্রাক্ষর ছন্দের বৈশিষ্ট্য কী?",
+                    "options": [
+                        "চরণের শেষে মিল থাকে",
+                        "চরণের শেষে মিল থাকে না",
+                        "প্রতি চরণে ৮ মাত্রা",
+                        "প্রতি চরণে ৬ মাত্রা"
+                    ],
+                    "answer": 1,
+                    "why": "অমিত্রাক্ষর ছন্দে চরণের শেষে মিল থাকে না; এটিই এর প্রধান বৈশিষ্ট্য।"
+                },
+                {
+                    "q": "অলংকার প্রধানত কয় প্রকার?",
+                    "options": [
+                        "২ প্রকার",
+                        "৩ প্রকার",
+                        "৪ প্রকার",
+                        "৫ প্রকার"
+                    ],
+                    "answer": 0,
+                    "why": "অলংকার প্রধানত ২ প্রকার: শব্দালংকার ও অর্থালংকার।"
+                },
+                {
+                    "q": "দুটি বস্তুর মধ্যে সাদৃশ্য দেখিয়ে তুলনা করাকে কী বলে?",
+                    "options": [
+                        "রূপক",
+                        "উপমা",
+                        "উৎপ্রেক্ষা",
+                        "যমক"
+                    ],
+                    "answer": 1,
+                    "why": "দুটি বস্তুর মধ্যে সাদৃশ্য দেখিয়ে তুলনা করাকে উপমা অলংকার বলে।"
+                },
+                {
+                    "q": "উপমেয় ও উপমানের মধ্যে অভেদ কল্পনা করাকে কী বলে?",
+                    "options": [
+                        "উপমা",
+                        "রূপক",
+                        "অনুপ্রাস",
+                        "শ্লেষ"
+                    ],
+                    "answer": 1,
+                    "why": "উপমেয় ও উপমানের মধ্যে অভেদ কল্পনা করাকে রূপক অলংকার বলে; যেমন 'মুখচন্দ্র'।"
+                },
+                {
+                    "q": "একই ধ্বনি বা বর্ণের বারবার প্রয়োগকে কী বলে?",
+                    "options": [
+                        "যমক",
+                        "অনুপ্রাস",
+                        "শ্লেষ",
+                        "উপমা"
+                    ],
+                    "answer": 1,
+                    "why": "একই ধ্বনি বা বর্ণের বারবার প্রয়োগকে অনুপ্রাস অলংকার বলে।"
+                },
+                {
+                    "q": "এক শব্দে একাধিক অর্থ প্রকাশ পেলে কোন অলংকার হয়?",
+                    "options": [
+                        "যমক",
+                        "অনুপ্রাস",
+                        "শ্লেষ",
+                        "উপমা"
+                    ],
+                    "answer": 2,
+                    "why": "এক শব্দে একাধিক অর্থ প্রকাশ পেলে শ্লেষ অলংকার হয়।"
+                },
+                {
+                    "q": "কোনো বিষয়কে বাড়িয়ে বলাকে কী বলে?",
+                    "options": [
+                        "উৎপ্রেক্ষা",
+                        "অতিশয়োক্তি",
+                        "বিরোধাভাস",
+                        "সমাসোক্তি"
+                    ],
+                    "answer": 1,
+                    "why": "কোনো বিষয়কে অতিরঞ্জিত করে বাড়িয়ে বলাকে অতিশয়োক্তি অলংকার বলে।"
+                },
+                {
+                    "q": "'মনে হলো যেন চাঁদ উঠেছে' — এখানে কোন অলংকার?",
+                    "options": [
+                        "উপমা",
+                        "উৎপ্রেক্ষা",
+                        "রূপক",
+                        "যমক"
+                    ],
+                    "answer": 1,
+                    "why": "'মনে হলো যেন' দিয়ে সম্ভাবনা বোঝানো হয়েছে; এটি উৎপ্রেক্ষা অলংকার।"
+                },
+                {
+                    "q": "অচেতন বস্তুতে চেতনার আরোপ করাকে কী বলে?",
+                    "options": [
+                        "রূপক",
+                        "সমাসোক্তি",
+                        "শ্লেষ",
+                        "অতিশয়োক্তি"
+                    ],
+                    "answer": 1,
+                    "why": "অচেতন বস্তুতে চেতনার আরোপ করাকে সমাসোক্তি অলংকার বলে।"
+                },
+                {
+                    "q": "প্রথমা বিভক্তির চিহ্ন কোনটি?",
+                    "options": [
+                        "কে",
+                        "রে",
+                        "অ (শূন্য)",
+                        "এর"
+                    ],
+                    "answer": 2,
+                    "why": "প্রথমা বিভক্তির চিহ্ন শূন্য (অ); যেমন 'ছেলে' শব্দে কোনো বিভক্তি চিহ্ন নেই।"
+                },
+                {
+                    "q": "চতুর্থী বিভক্তি কোন কারকে ব্যবহৃত হয়?",
+                    "options": [
+                        "কর্মকারকে",
+                        "সম্প্রদানকারকে",
+                        "অপাদানকারকে",
+                        "অধিকরণকারকে"
+                    ],
+                    "answer": 1,
+                    "why": "চতুর্থী বিভক্তি সম্প্রদানকারকে ব্যবহৃত হয়; যেমন 'ভিক্ষুককে ভিক্ষা দাও'।"
+                },
+                {
+                    "q": "পঞ্চমী বিভক্তির চিহ্ন কোনটি?",
+                    "options": [
+                        "কে",
+                        "দ্বারা",
+                        "হতে",
+                        "এ"
+                    ],
+                    "answer": 2,
+                    "why": "পঞ্চমী বিভক্তির চিহ্ন 'হতে', 'থেকে', 'চেয়ে'; যেমন 'গাছ হতে'।"
+                },
+                {
+                    "q": "ষষ্ঠী বিভক্তির চিহ্ন কোনটি?",
+                    "options": [
+                        "র, এর",
+                        "কে",
+                        "তে",
+                        "দ্বারা"
+                    ],
+                    "answer": 0,
+                    "why": "ষষ্ঠী বিভক্তির চিহ্ন 'র' ও 'এর'; যেমন 'ছেলের', 'বইয়ের'।"
+                },
+                {
+                    "q": "সপ্তমী বিভক্তির চিহ্ন কোনটি?",
+                    "options": [
+                        "কে",
+                        "রে",
+                        "এ, তে",
+                        "হতে"
+                    ],
+                    "answer": 2,
+                    "why": "সপ্তমী বিভক্তির চিহ্ন 'এ', 'য়', 'তে'; যেমন 'ঘরে', 'বনে'।"
+                },
+                {
+                    "q": "বিভক্তি কোথায় যুক্ত হয়?",
+                    "options": [
+                        "শব্দের শুরুতে",
+                        "শব্দের শেষে",
+                        "বাক্যের শুরুতে",
+                        "বাক্যের শেষে"
+                    ],
+                    "answer": 1,
+                    "why": "বিভক্তি শব্দের শেষে যুক্ত হয়; যেমন 'ছেলে' + 'কে' = 'ছেলেকে'।"
+                },
+                {
+                    "q": "কারক কয়টি?",
+                    "options": [
+                        "৫টি",
+                        "৬টি",
+                        "৭টি",
+                        "৮টি"
+                    ],
+                    "answer": 1,
+                    "why": "কারক ৬টি: কর্তৃ, কর্ম, করণ, সম্প্রদান, অপাদান ও অধিকরণ কারক।"
+                },
+                {
+                    "q": "শুদ্ধ বানানটি চিহ্নিত করো —",
+                    "options": [
+                        "সমিচীন",
+                        "সমীচীন",
+                        "সমীচিন",
+                        "সোমীচীন"
+                    ],
+                    "answer": 1,
+                    "why": "শুদ্ধ বানান 'সমীচীন'।"
+                },
+                {
+                    "q": "নিচের শব্দগুলোর মধ্যে শুদ্ধ কোনটি?",
+                    "options": [
+                        "শুশ্রুষা",
+                        "শুশ্রূষা",
+                        "সুশ্রূষা",
+                        "শুশ্রুশা"
+                    ],
+                    "answer": 1,
+                    "why": "শুদ্ধ বানান 'শুশ্রূষা'।"
+                },
+                {
+                    "q": "কোন বানানটি ঠিক আছে?",
+                    "options": [
+                        "মনিষী",
+                        "মনীষী",
+                        "মনীশী",
+                        "মণীষী"
+                    ],
+                    "answer": 1,
+                    "why": "শুদ্ধ বানান 'মনীষী'।"
+                },
+                {
+                    "q": "নিম্নলিখিত শব্দগুলোর মধ্যে সঠিক বানান কোনটি?",
+                    "options": [
+                        "গৃহিনী",
+                        "গৃহিণী",
+                        "গ্রীহিণী",
+                        "গৃহীণী"
+                    ],
+                    "answer": 1,
+                    "why": "শুদ্ধ বানান 'গৃহিণী'।"
+                },
+                {
+                    "q": "কৃৎ প্রত্যয় যুক্ত হয় কোথায়?",
+                    "options": [
+                        "শব্দের পরে",
+                        "ধাতুর পরে",
+                        "বাক্যের পরে",
+                        "উপসর্গের পরে"
+                    ],
+                    "answer": 1,
+                    "why": "কৃৎ প্রত্যয় ধাতুর পরে যুক্ত হয়ে নতুন শব্দ গঠন করে।"
+                },
+                {
+                    "q": "তদ্ধিত প্রত্যয় যুক্ত হয় কোথায়?",
+                    "options": [
+                        "ধাতুর পরে",
+                        "শব্দের পরে",
+                        "বাক্যের পরে",
+                        "সন্ধির পরে"
+                    ],
+                    "answer": 1,
+                    "why": "তদ্ধিত প্রত্যয় শব্দের পরে যুক্ত হয়ে নতুন শব্দ গঠন করে।"
+                },
+                {
+                    "q": "'চলন্ত' শব্দে কোন প্রত্যয় আছে?",
+                    "options": [
+                        "অন্ত",
+                        "অন",
+                        "অক",
+                        "ইত"
+                    ],
+                    "answer": 0,
+                    "why": "'চলন্ত' = চল্ + অন্ত; এখানে 'অন্ত' কৃৎ প্রত্যয়।"
+                },
+                {
+                    "q": "'গমন' শব্দটি কোন প্রত্যয় যোগে গঠিত?",
+                    "options": [
+                        "গম্ + অন",
+                        "গম্ + অক",
+                        "গম্ + ইত",
+                        "গম্ + তৃ"
+                    ],
+                    "answer": 0,
+                    "why": "'গমন' = গম্ + অন; এখানে 'অন' কৃৎ প্রত্যয়।"
+                },
+                {
+                    "q": "'কারক' শব্দটি কোন প্রত্যয় যোগে গঠিত?",
+                    "options": [
+                        "কৃ + অন",
+                        "কৃ + অক",
+                        "কৃ + ইত",
+                        "কৃ + তৃ"
+                    ],
+                    "answer": 1,
+                    "why": "'কারক' = কৃ + অক; এখানে 'অক' কৃৎ প্রত্যয়।"
+                },
+                {
+                    "q": "'চলন' শব্দে কোন প্রত্যয় আছে?",
+                    "options": [
+                        "অক",
+                        "অন",
+                        "ইত",
+                        "তৃ"
+                    ],
+                    "answer": 1,
+                    "why": "'চলন' = চল্ + অন; এখানে 'অন' কৃৎ প্রত্যয়।"
+                },
+                {
+                    "q": "'গায়ক' শব্দটি কোন প্রত্যয় যোগে গঠিত?",
+                    "options": [
+                        "গৈ + অন",
+                        "গৈ + অক",
+                        "গৈ + ইত",
+                        "গৈ + তৃ"
+                    ],
+                    "answer": 1,
+                    "why": "'গায়ক' = গৈ + অক; এখানে 'অক' কৃৎ প্রত্যয়।"
+                },
+                {
+                    "q": "'ভোজন' শব্দটি কোন প্রত্যয় যোগে গঠিত?",
+                    "options": [
+                        "ভুজ্ + অন",
+                        "ভুজ্ + অক",
+                        "ভুজ্ + ইত",
+                        "ভুজ্ + তৃ"
+                    ],
+                    "answer": 0,
+                    "why": "'ভোজন' = ভুজ্ + অন; এখানে 'অন' কৃৎ প্রত্যয়।"
+                },
+                {
+                    "q": "উপকারীর উপকার ভুলে যায় যে — এক কথায় কী?",
+                    "options": [
+                        "কৃতজ্ঞ",
+                        "অকৃতজ্ঞ",
+                        "উদার",
+                        "সদয়"
+                    ],
+                    "answer": 1,
+                    "why": "যে উপকারীর উপকার স্বীকার করে না — অকৃতজ্ঞ।"
+                },
+                {
+                    "q": "যে পুরুষের স্ত্রী মারা গেছে — এক কথায় কী?",
+                    "options": [
+                        "বিধবা",
+                        "বিপত্নীক",
+                        "অনাথ",
+                        "সধবা"
+                    ],
+                    "answer": 1,
+                    "why": "যে পুরুষের স্ত্রী মারা গেছে — বিপত্নীক।"
+                },
+                {
+                    "q": "যার পিতা-মাতা নেই — এক কথায় কী?",
+                    "options": [
+                        "অনাথ",
+                        "সনাথ",
+                        "বিপত্নীক",
+                        "বিধবা"
+                    ],
+                    "answer": 0,
+                    "why": "যার পিতা-মাতা নেই — অনাথ।"
+                },
+                {
+                    "q": "দিনের মধ্যভাগ — এক কথায় কী?",
+                    "options": [
+                        "মধ্যাহ্ন",
+                        "মধ্যরাত্রি",
+                        "প্রভাত",
+                        "সন্ধ্যা"
+                    ],
+                    "answer": 0,
+                    "why": "দিনের মধ্যভাগ — মধ্যাহ্ন।"
+                },
+                {
+                    "q": "অনেকের মধ্যে একজন — এক কথায় কী?",
+                    "options": [
+                        "অন্যতম",
+                        "অনন্য",
+                        "একক",
+                        "প্রথম"
+                    ],
+                    "answer": 0,
+                    "why": "অনেকের মধ্যে একজন — অন্যতম।"
+                },
+                {
+                    "q": "যা ভবিষ্যতে ঘটবে — এক কথায় কী?",
+                    "options": [
+                        "অতীত",
+                        "ভাবী",
+                        "বর্তমান",
+                        "উক্ত"
+                    ],
+                    "answer": 1,
+                    "why": "যা ভবিষ্যতে ঘটবে — ভাবী।"
                 }
             ]
         },
@@ -40375,6 +40804,380 @@
                     ],
                     "answer": 1,
                     "why": "'An apple a day keeps the doctor away' — 'an' before a vowel sound."
+                },
+                {
+                    "q": "How many parts of speech are there in English?",
+                    "options": [
+                        "Six",
+                        "Seven",
+                        "Eight",
+                        "Nine"
+                    ],
+                    "answer": 2,
+                    "why": "There are eight parts of speech in English: noun, pronoun, verb, adjective, adverb, preposition, conjunction and interjection."
+                },
+                {
+                    "q": "A word that names a person, place or thing is —",
+                    "options": [
+                        "a verb",
+                        "a noun",
+                        "an adjective",
+                        "an adverb"
+                    ],
+                    "answer": 1,
+                    "why": "A noun names a person, place or thing; for example, Rahim, Dhaka, book."
+                },
+                {
+                    "q": "A word used instead of a noun is —",
+                    "options": [
+                        "an adjective",
+                        "a pronoun",
+                        "a verb",
+                        "a conjunction"
+                    ],
+                    "answer": 1,
+                    "why": "A pronoun is used instead of a noun; for example, he, she, they."
+                },
+                {
+                    "q": "A word that describes a noun is —",
+                    "options": [
+                        "an adverb",
+                        "an adjective",
+                        "a verb",
+                        "a preposition"
+                    ],
+                    "answer": 1,
+                    "why": "An adjective describes a noun; for example, 'a good boy' — 'good' describes 'boy'."
+                },
+                {
+                    "q": "A word that modifies a verb is —",
+                    "options": [
+                        "an adjective",
+                        "an adverb",
+                        "a noun",
+                        "a pronoun"
+                    ],
+                    "answer": 1,
+                    "why": "An adverb modifies a verb; for example, 'He runs quickly' — 'quickly' modifies 'runs'."
+                },
+                {
+                    "q": "In 'Rahim is a good boy', the word 'good' is —",
+                    "options": [
+                        "a noun",
+                        "an adjective",
+                        "an adverb",
+                        "a verb"
+                    ],
+                    "answer": 1,
+                    "why": "In 'Rahim is a good boy', 'good' describes the noun 'boy', so it is an adjective."
+                },
+                {
+                    "q": "In 'He runs quickly', the word 'quickly' is —",
+                    "options": [
+                        "an adjective",
+                        "an adverb",
+                        "a verb",
+                        "a noun"
+                    ],
+                    "answer": 1,
+                    "why": "In 'He runs quickly', 'quickly' modifies the verb 'runs', so it is an adverb."
+                },
+                {
+                    "q": "In 'He is honest', the word 'He' is —",
+                    "options": [
+                        "a noun",
+                        "a pronoun",
+                        "an adjective",
+                        "a verb"
+                    ],
+                    "answer": 1,
+                    "why": "In 'He is honest', 'He' is used instead of a person's name, so it is a pronoun."
+                },
+                {
+                    "q": "In 'The book is on the table', the word 'on' is —",
+                    "options": [
+                        "a conjunction",
+                        "a preposition",
+                        "an adverb",
+                        "an adjective"
+                    ],
+                    "answer": 1,
+                    "why": "In 'The book is on the table', 'on' shows the relation between 'book' and 'table', so it is a preposition."
+                },
+                {
+                    "q": "In 'Rahim and Karim are friends', the word 'and' is —",
+                    "options": [
+                        "a preposition",
+                        "a conjunction",
+                        "an adverb",
+                        "an interjection"
+                    ],
+                    "answer": 1,
+                    "why": "In 'Rahim and Karim are friends', 'and' joins two words, so it is a conjunction."
+                },
+                {
+                    "q": "'Alas!' is an example of —",
+                    "options": [
+                        "a conjunction",
+                        "an interjection",
+                        "a preposition",
+                        "an adverb"
+                    ],
+                    "answer": 1,
+                    "why": "'Alas!' expresses sudden feeling, so it is an interjection."
+                },
+                {
+                    "q": "'Honesty' is —",
+                    "options": [
+                        "a proper noun",
+                        "a common noun",
+                        "an abstract noun",
+                        "a collective noun"
+                    ],
+                    "answer": 2,
+                    "why": "'Honesty' is a quality that cannot be seen or touched, so it is an abstract noun."
+                },
+                {
+                    "q": "In 'Running is good exercise', the word 'Running' is —",
+                    "options": [
+                        "a gerund",
+                        "a participle",
+                        "an infinitive",
+                        "a verb"
+                    ],
+                    "answer": 0,
+                    "why": "In 'Running is good exercise', 'Running' is a verb-form used as a noun, so it is a gerund."
+                },
+                {
+                    "q": "In 'I like to swim', the words 'to swim' form —",
+                    "options": [
+                        "a gerund",
+                        "an infinitive",
+                        "a participle",
+                        "a clause"
+                    ],
+                    "answer": 1,
+                    "why": "'To swim' is 'to' + base verb, so it is an infinitive."
+                },
+                {
+                    "q": "'Turn down' means —",
+                    "options": [
+                        "to accept",
+                        "to reject",
+                        "to turn",
+                        "to open"
+                    ],
+                    "answer": 1,
+                    "why": "'Turn down' means to reject an offer or request."
+                },
+                {
+                    "q": "'Look for' means —",
+                    "options": [
+                        "to search",
+                        "to care for",
+                        "to watch",
+                        "to find out"
+                    ],
+                    "answer": 0,
+                    "why": "'Look for' means to search for something."
+                },
+                {
+                    "q": "'Find out' means —",
+                    "options": [
+                        "to lose",
+                        "to discover",
+                        "to hide",
+                        "to forget"
+                    ],
+                    "answer": 1,
+                    "why": "'Find out' means to discover or learn something."
+                },
+                {
+                    "q": "'Carry on' means —",
+                    "options": [
+                        "to stop",
+                        "to continue",
+                        "to carry",
+                        "to give up"
+                    ],
+                    "answer": 1,
+                    "why": "'Carry on' means to continue doing something."
+                },
+                {
+                    "q": "She said to me, 'You are late.' (Indirect speech)",
+                    "options": [
+                        "She told me that I was late.",
+                        "She told me that you were late.",
+                        "She said to me that I am late.",
+                        "She told me that I am late."
+                    ],
+                    "answer": 0,
+                    "why": "'Said to' becomes 'told', and 'you' becomes 'I': She told me that I was late."
+                },
+                {
+                    "q": "In indirect speech, 'will' changes into —",
+                    "options": [
+                        "would",
+                        "shall",
+                        "can",
+                        "may"
+                    ],
+                    "answer": 0,
+                    "why": "In indirect speech, 'will' changes into 'would'."
+                },
+                {
+                    "q": "In indirect speech, 'can' changes into —",
+                    "options": [
+                        "could",
+                        "may",
+                        "will",
+                        "shall"
+                    ],
+                    "answer": 0,
+                    "why": "In indirect speech, 'can' changes into 'could'."
+                },
+                {
+                    "q": "In indirect speech, 'this' changes into —",
+                    "options": [
+                        "that",
+                        "these",
+                        "those",
+                        "here"
+                    ],
+                    "answer": 0,
+                    "why": "In indirect speech, 'this' changes into 'that'."
+                },
+                {
+                    "q": "In indirect speech, 'now' changes into —",
+                    "options": [
+                        "today",
+                        "then",
+                        "here",
+                        "yesterday"
+                    ],
+                    "answer": 1,
+                    "why": "In indirect speech, 'now' changes into 'then'."
+                },
+                {
+                    "q": "In indirect speech, 'tomorrow' changes into —",
+                    "options": [
+                        "today",
+                        "the next day",
+                        "yesterday",
+                        "that day"
+                    ],
+                    "answer": 1,
+                    "why": "In indirect speech, 'tomorrow' changes into 'the next day'."
+                },
+                {
+                    "q": "In indirect speech, 'yesterday' changes into —",
+                    "options": [
+                        "tomorrow",
+                        "today",
+                        "the previous day",
+                        "the next day"
+                    ],
+                    "answer": 2,
+                    "why": "In indirect speech, 'yesterday' changes into 'the previous day'."
+                },
+                {
+                    "q": "He said, 'I will come tomorrow.' (Indirect speech)",
+                    "options": [
+                        "He said that he would come the next day.",
+                        "He said that he will come tomorrow.",
+                        "He said that he would come tomorrow.",
+                        "He said that he comes the next day."
+                    ],
+                    "answer": 0,
+                    "why": "'Will' becomes 'would' and 'tomorrow' becomes 'the next day': He said that he would come the next day."
+                },
+                {
+                    "q": "'Said to' is changed into ___ in indirect speech.",
+                    "options": [
+                        "asked",
+                        "told",
+                        "ordered",
+                        "replied"
+                    ],
+                    "answer": 1,
+                    "why": "In indirect speech, 'said to' is changed into 'told'."
+                },
+                {
+                    "q": "One who eats too much is —",
+                    "options": [
+                        "a glutton",
+                        "a miser",
+                        "a drunkard",
+                        "a giant"
+                    ],
+                    "answer": 0,
+                    "why": "One who eats too much is a glutton."
+                },
+                {
+                    "q": "'Open the door.' (Passive voice)",
+                    "options": [
+                        "Let the door be opened.",
+                        "The door is opened.",
+                        "Let the door open.",
+                        "The door was opened."
+                    ],
+                    "answer": 0,
+                    "why": "An imperative sentence becomes passive with 'Let + object + be + past participle': Let the door be opened."
+                },
+                {
+                    "q": "'The letter was written by her.' is in —",
+                    "options": [
+                        "active voice",
+                        "passive voice",
+                        "imperative mood",
+                        "interrogative mood"
+                    ],
+                    "answer": 1,
+                    "why": "'The letter was written by her' is in the passive voice (was + written)."
+                },
+                {
+                    "q": "'He will do it.' (Passive voice)",
+                    "options": [
+                        "It is done by him.",
+                        "It was done by him.",
+                        "It will be done by him.",
+                        "It has been done by him."
+                    ],
+                    "answer": 2,
+                    "why": "Future simple passive uses 'will be + past participle': It will be done by him."
+                },
+                {
+                    "q": "'Do it.' (Passive voice)",
+                    "options": [
+                        "Let it be done.",
+                        "It is done.",
+                        "Let it do.",
+                        "It was done."
+                    ],
+                    "answer": 0,
+                    "why": "'Do it' becomes 'Let it be done' in the passive voice."
+                },
+                {
+                    "q": "'I have eaten rice.' (Passive voice)",
+                    "options": [
+                        "Rice is eaten by me.",
+                        "Rice was eaten by me.",
+                        "Rice has been eaten by me.",
+                        "Rice is being eaten by me."
+                    ],
+                    "answer": 2,
+                    "why": "Present perfect passive: Rice has been eaten by me."
+                },
+                {
+                    "q": "Which word has the correct spelling?",
+                    "options": [
+                        "rhythm",
+                        "rythm",
+                        "rithm",
+                        "rhythem"
+                    ],
+                    "answer": 0,
+                    "why": "The correct spelling is 'rhythm'."
                 }
             ]
         },
@@ -56705,6 +57508,424 @@
                     ],
                     "answer": 1,
                     "why": "দুজনের মোট বয়স = ৫০; অপরজনের বয়স = ৫০ − ৩০ = ২০ বছর।"
+                },
+                {
+                    "q": "x-কে ২ দিয়ে ভাগ করলে ৫ হয়। x-এর মান কত?",
+                    "options": [
+                        "৫",
+                        "৮",
+                        "১০",
+                        "১২"
+                    ],
+                    "answer": 2,
+                    "why": "x ÷ ২ = ৫ হলে x = ৫ × ২ = ১০।"
+                },
+                {
+                    "q": "২a + ৩a = কত?",
+                    "options": [
+                        "৫a",
+                        "৬a",
+                        "৫a²",
+                        "৬a²"
+                    ],
+                    "answer": 0,
+                    "why": "২a + ৩a = (২ + ৩)a = ৫a।"
+                },
+                {
+                    "q": "a³ × a²-এর মান কোনটি?",
+                    "options": [
+                        "a⁵",
+                        "a⁶",
+                        "a⁴",
+                        "a⁹"
+                    ],
+                    "answer": 0,
+                    "why": "একই ভিত্তির ঘাত গুণ করলে ঘাত যোগ হয়: a³ × a² = a³⁺² = a⁵।"
+                },
+                {
+                    "q": "(a²)³ = কত?",
+                    "options": [
+                        "a⁵",
+                        "a⁶",
+                        "a⁸",
+                        "a⁹"
+                    ],
+                    "answer": 1,
+                    "why": "ঘাতের ঘাত গুণ হয়: (a²)³ = a²ˣ³ = a⁶।"
+                },
+                {
+                    "q": "(a + b)²-এর বিস্তৃত রূপ কোনটি?",
+                    "options": [
+                        "a² + ২ab + b²",
+                        "a² − ২ab + b²",
+                        "a² + b²",
+                        "a² + ab + b²"
+                    ],
+                    "answer": 0,
+                    "why": "(a + b)² = a² + ২ab + b²।"
+                },
+                {
+                    "q": "x = ২ হলে ৩x² = কত?",
+                    "options": [
+                        "৬",
+                        "১০",
+                        "১২",
+                        "১৮"
+                    ],
+                    "answer": 2,
+                    "why": "x = ২ হলে ৩x² = ৩ × ৪ = ১২।"
+                },
+                {
+                    "q": "৭x + ১ = ২৯ হলে x-এর মান কত?",
+                    "options": [
+                        "৩",
+                        "৪",
+                        "৫",
+                        "৬"
+                    ],
+                    "answer": 1,
+                    "why": "৭x + ১ = ২৯ হলে ৭x = ২৮, তাই x = ৪।"
+                },
+                {
+                    "q": "x² + ৩x-এর মান কত, যখন x = ২?",
+                    "options": [
+                        "৮",
+                        "৯",
+                        "১০",
+                        "১২"
+                    ],
+                    "answer": 2,
+                    "why": "x = ২ হলে x² + ৩x = ৪ + ৬ = ১০।"
+                },
+                {
+                    "q": "log ১ = কত? (যেকোনো ভিত্তিতে)",
+                    "options": [
+                        "০",
+                        "১",
+                        "১০",
+                        "অনির্ণেয়"
+                    ],
+                    "answer": 0,
+                    "why": "যেকোনো ভিত্তিতে log ১ = ০, কারণ যেকোনো সংখ্যার ঘাত ০ হলে মান ১ হয়।"
+                },
+                {
+                    "q": "log₁₀ ১০ = কত?",
+                    "options": [
+                        "০",
+                        "১",
+                        "২",
+                        "১০"
+                    ],
+                    "answer": 1,
+                    "why": "log₁₀ ১০ = ১, কারণ ১০¹ = ১০।"
+                },
+                {
+                    "q": "log₅ ২৫ = কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৫",
+                        "২৫"
+                    ],
+                    "answer": 0,
+                    "why": "log₅ ২৫ = ২, কারণ ৫² = ২৫।"
+                },
+                {
+                    "q": "log₃ ২৭ = কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৯"
+                    ],
+                    "answer": 1,
+                    "why": "log₃ ২৭ = ৩, কারণ ৩³ = ২৭।"
+                },
+                {
+                    "q": "log₂ ৬৪ = কত?",
+                    "options": [
+                        "৫",
+                        "৬",
+                        "৭",
+                        "৮"
+                    ],
+                    "answer": 1,
+                    "why": "log₂ ৬৪ = ৬, কারণ ২⁶ = ৬৪।"
+                },
+                {
+                    "q": "log₃ ৮১ = কত?",
+                    "options": [
+                        "৩",
+                        "৪",
+                        "৫",
+                        "৯"
+                    ],
+                    "answer": 1,
+                    "why": "log₃ ৮১ = ৪, কারণ ৩⁴ = ৮১।"
+                },
+                {
+                    "q": "ক ৪০০০ টাকা ও খ ৬০০০ টাকা বিনিয়োগ করল। ৫০০০ টাকা লাভ হলে ক কত পাবে?",
+                    "options": [
+                        "১০০০",
+                        "২০০০",
+                        "৩০০০",
+                        "৪০০০"
+                    ],
+                    "answer": 1,
+                    "why": "বিনিয়োগের অনুপাত ৪০০০ : ৬০০০ = ২ : ৩; ক পাবে ৫০০০ × ২/৫ = ২০০০ টাকা।"
+                },
+                {
+                    "q": "ক ও খ-এর বিনিয়োগের অনুপাত ২ : ৩। ৯০০০ টাকা লাভ হলে ক কত পাবে?",
+                    "options": [
+                        "৩৬০০",
+                        "৪৫০০",
+                        "৫৪০০",
+                        "৬০০০"
+                    ],
+                    "answer": 0,
+                    "why": "ক পাবে ৯০০০ × ২/৫ = ৩৬০০ টাকা।"
+                },
+                {
+                    "q": "ক ৫০০০ টাকা ১২ মাস ও খ ৮০০০ টাকা ৬ মাস বিনিয়োগ করল। লাভের অনুপাত কত?",
+                    "options": [
+                        "৫ : ৪",
+                        "৪ : ৫",
+                        "৫ : ৬",
+                        "৬ : ৫"
+                    ],
+                    "answer": 0,
+                    "why": "মূলধন × সময়ের অনুপাত = ৫০০০×১২ : ৮০০০×৬ = ৬০০০০ : ৪৮০০০ = ৫ : ৪।"
+                },
+                {
+                    "q": "ক ১০০০০ টাকা ও খ ১৫০০০ টাকা বিনিয়োগ করল। ১০০০০ টাকা লাভ হলে ক কত পাবে?",
+                    "options": [
+                        "৪০০০",
+                        "৫০০০",
+                        "৬০০০",
+                        "৩০০০"
+                    ],
+                    "answer": 0,
+                    "why": "বিনিয়োগের অনুপাত ২ : ৩; ক পাবে ১০০০০ × ২/৫ = ৪০০০ টাকা।"
+                },
+                {
+                    "q": "ক ২০০০ টাকা ও খ ৩০০০ টাকা বিনিয়োগ করল। ২৫০০ টাকা লাভ হলে খ কত পাবে?",
+                    "options": [
+                        "১০০০",
+                        "১২০০",
+                        "১৫০০",
+                        "২০০০"
+                    ],
+                    "answer": 2,
+                    "why": "বিনিয়োগের অনুপাত ২ : ৩; খ পাবে ২৫০০ × ৩/৫ = ১৫০০ টাকা।"
+                },
+                {
+                    "q": "ক ৩০০০ টাকা ১২ মাস ও খ ৪০০০ টাকা ৯ মাস বিনিয়োগ করল। ৮০০০ টাকা লাভ হলে ক কত পাবে?",
+                    "options": [
+                        "৩০০০",
+                        "৪০০০",
+                        "৫০০০",
+                        "৬০০০"
+                    ],
+                    "answer": 1,
+                    "why": "মূলধন × সময়ের অনুপাত = ৩৬০০০ : ৩৬০০০ = ১ : ১; ক পাবে ৮০০০ ÷ ২ = ৪০০০ টাকা।"
+                },
+                {
+                    "q": "দুই অংশীদারের বিনিয়োগের অনুপাত ৪ : ৫। মোট ৯০০০ টাকা লাভ হলে দ্বিতীয় অংশীদার কত পাবে?",
+                    "options": [
+                        "৪০০০",
+                        "৪৫০০",
+                        "৫০০০",
+                        "৫৫০০"
+                    ],
+                    "answer": 2,
+                    "why": "দ্বিতীয় অংশীদার পাবে ৯০০০ × ৫/৯ = ৫০০০ টাকা।"
+                },
+                {
+                    "q": "২৫ লিটার মিশ্রণে দুধ ও পানির অনুপাত ৪ : ১ হলে পানি কত লিটার?",
+                    "options": [
+                        "৪",
+                        "৫",
+                        "৬",
+                        "৮"
+                    ],
+                    "answer": 1,
+                    "why": "পানি = ২৫ × ১/৫ = ৫ লিটার।"
+                },
+                {
+                    "q": "৩৬ লিটার মিশ্রণে দুধ ও পানির অনুপাত ৫ : ৪ হলে পানি কত লিটার?",
+                    "options": [
+                        "১৪",
+                        "১৫",
+                        "১৬",
+                        "১৮"
+                    ],
+                    "answer": 2,
+                    "why": "পানি = ৩৬ × ৪/৯ = ১৬ লিটার।"
+                },
+                {
+                    "q": "৬০ লিটার মিশ্রণে দুধ ও পানির অনুপাত ৭ : ৫ হলে দুধ কত লিটার?",
+                    "options": [
+                        "৩০",
+                        "৩২",
+                        "৩৫",
+                        "৪০"
+                    ],
+                    "answer": 2,
+                    "why": "দুধ = ৬০ × ৭/১২ = ৩৫ লিটার।"
+                },
+                {
+                    "q": "ধার্য মূল্য ৫০০ টাকা, ২০% ছাড়ে বিক্রয়মূল্য কত?",
+                    "options": [
+                        "৩৫০",
+                        "৩৮০",
+                        "৪০০",
+                        "৪৫০"
+                    ],
+                    "answer": 2,
+                    "why": "বিক্রয়মূল্য = ৫০০ − ৫০০×২০% = ৫০০ − ১০০ = ৪০০ টাকা।"
+                },
+                {
+                    "q": "১০% ছাড়ের পর বিক্রয়মূল্য ৭২০ টাকা হলে ধার্য মূল্য কত?",
+                    "options": [
+                        "৭৫০",
+                        "৮০০",
+                        "৮৫০",
+                        "৯০০"
+                    ],
+                    "answer": 1,
+                    "why": "ধার্য মূল্য × ৯০% = ৭২০ হলে ধার্য মূল্য = ৭২০ ÷ ০.৯ = ৮০০ টাকা।"
+                },
+                {
+                    "q": "ক্রয়মূল্য ৪০০ টাকা, বিক্রয়মূল্য ৫০০ টাকা হলে লাভ কত শতাংশ?",
+                    "options": [
+                        "২০%",
+                        "২৫%",
+                        "৩০%",
+                        "১৫%"
+                    ],
+                    "answer": 1,
+                    "why": "লাভ = ১০০ টাকা; লাভের হার = ১০০/৪০০ × ১০০% = ২৫%।"
+                },
+                {
+                    "q": "২০০০ টাকার পণ্যে ১৫% ছাড় দিলে কত টাকা ছাড় পাওয়া যাবে?",
+                    "options": [
+                        "২০০",
+                        "২৫০",
+                        "৩০০",
+                        "৩৫০"
+                    ],
+                    "answer": 2,
+                    "why": "ছাড় = ২০০০ × ১৫% = ৩০০ টাকা।"
+                },
+                {
+                    "q": "পরপর ১০% ও ১০% ছাড়ে ১০০০ টাকার পণ্যের দাম কত হবে?",
+                    "options": [
+                        "৮০০",
+                        "৮১০",
+                        "৮২০",
+                        "৯০০"
+                    ],
+                    "answer": 1,
+                    "why": "প্রথম ছাড়ে ১০০০ → ৯০০; দ্বিতীয় ছাড়ে ৯০০ → ৮১০ টাকা।"
+                },
+                {
+                    "q": "ধার্য মূল্য ২০০০ টাকা, ২৫% ছাড়ে বিক্রয়মূল্য কত?",
+                    "options": [
+                        "১৪০০",
+                        "১৫০০",
+                        "১৬০০",
+                        "১৭৫০"
+                    ],
+                    "answer": 1,
+                    "why": "বিক্রয়মূল্য = ২০০০ − ২০০০×২৫% = ২০০০ − ৫০০ = ১৫০০ টাকা।"
+                },
+                {
+                    "q": "৬, ৮ ও ১২ — এই তিন সংখ্যার লসাগু কত?",
+                    "options": [
+                        "১২",
+                        "১৮",
+                        "২৪",
+                        "৪৮"
+                    ],
+                    "answer": 2,
+                    "why": "৬, ৮ ও ১২-এর লসাগু ২৪।"
+                },
+                {
+                    "q": "৩ ও ৫-এর লসাগু কত?",
+                    "options": [
+                        "৮",
+                        "১০",
+                        "১৫",
+                        "২০"
+                    ],
+                    "answer": 2,
+                    "why": "৩ ও ৫ পরস্পর মৌলিক, তাই লসাগু = ৩ × ৫ = ১৫।"
+                },
+                {
+                    "q": "১৬ ও ২০-এর গসাগু কত?",
+                    "options": [
+                        "২",
+                        "৪",
+                        "৮",
+                        "১০"
+                    ],
+                    "answer": 1,
+                    "why": "১৬ ও ২০-এর গসাগু ৪।"
+                },
+                {
+                    "q": "২৭ ও ৩৬-এর গসাগু কত?",
+                    "options": [
+                        "৩",
+                        "৬",
+                        "৯",
+                        "১২"
+                    ],
+                    "answer": 2,
+                    "why": "২৭ ও ৩৬-এর গসাগু ৯।"
+                },
+                {
+                    "q": "দুটি মুদ্রা নিক্ষেপে দুটিতেই হেড ওঠার সম্ভাবনা কত?",
+                    "options": [
+                        "১/২",
+                        "১/৩",
+                        "১/৪",
+                        "১/৬"
+                    ],
+                    "answer": 2,
+                    "why": "মোট ফল ৪টি (HH, HT, TH, TT); দুটিতেই হেড ১ভাবে; সম্ভাবনা = ১/৪।"
+                },
+                {
+                    "q": "তাসের প্যাকেট থেকে টেক্কা পাওয়ার সম্ভাবনা কত?",
+                    "options": [
+                        "১/৪",
+                        "১/১৩",
+                        "১/২৬",
+                        "১/৫২"
+                    ],
+                    "answer": 1,
+                    "why": "৫২টি তাসে টেক্কা ৪টি; সম্ভাবনা = ৪/৫২ = ১/১৩।"
+                },
+                {
+                    "q": "এক প্যাকেট তাস থেকে ইসকাবন পাওয়ার সম্ভাবনা কত?",
+                    "options": [
+                        "১/২",
+                        "১/৩",
+                        "১/৪",
+                        "১/১৩"
+                    ],
+                    "answer": 2,
+                    "why": "৫২টি তাসে ইসকাবন ১৩টি; সম্ভাবনা = ১৩/৫২ = ১/৪।"
+                },
+                {
+                    "q": "একটি থলিতে ৩টি লাল ও ২টি সাদা বল আছে। একটি বল তুললে সেটি লাল হওয়ার সম্ভাবনা কত?",
+                    "options": [
+                        "২/৫",
+                        "৩/৫",
+                        "১/২",
+                        "১/৫"
+                    ],
+                    "answer": 1,
+                    "why": "মোট বল ৫টি, লাল ৩টি; সম্ভাবনা = ৩/৫।"
                 }
             ]
         },
@@ -73430,6 +74651,281 @@
                     ],
                     "answer": 2,
                     "why": "বুড়িগঙ্গা নদীর তীরে রাজধানী ঢাকা অবস্থিত।"
+                },
+                {
+                    "q": "অক্সিজেনের রাসায়নিক সংকেত কী?",
+                    "options": [
+                        "O₂",
+                        "CO₂",
+                        "H₂",
+                        "N₂"
+                    ],
+                    "answer": 0,
+                    "why": "অক্সিজেন গ্যাসের অণুতে দুটি অক্সিজেন পরমাণু থাকে; সংকেত O₂।"
+                },
+                {
+                    "q": "কার্বন ডাই-অক্সাইডের সংকেত কী?",
+                    "options": [
+                        "CO",
+                        "CO₂",
+                        "O₂",
+                        "C₂O"
+                    ],
+                    "answer": 1,
+                    "why": "কার্বন ডাই-অক্সাইডের সংকেত CO₂; এতে একটি কার্বন ও দুটি অক্সিজেন পরমাণু আছে।"
+                },
+                {
+                    "q": "DNA-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "Deoxyribonucleic Acid",
+                        "Diribonucleic Acid",
+                        "Deoxyribose Nucleic Atom",
+                        "Dynamic Nucleic Acid"
+                    ],
+                    "answer": 0,
+                    "why": "DNA = Deoxyribonucleic Acid; এটি জীবের বংশগতির ধারক।"
+                },
+                {
+                    "q": "সালোকসংশ্লেষণ হয় উদ্ভিদের কোন অংশে?",
+                    "options": [
+                        "মূলে",
+                        "পাতায়",
+                        "কাণ্ডে",
+                        "ফুলে"
+                    ],
+                    "answer": 1,
+                    "why": "সালোকসংশ্লেষণ হয় উদ্ভিদের পাতায়; পাতার ক্লোরোফিল সূর্যের আলো শোষণ করে।"
+                },
+                {
+                    "q": "OIC-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "Organisation of Islamic Countries",
+                        "Organisation of Islamic Cooperation",
+                        "Organisation of International Cooperation",
+                        "Organisation of Islamic Council"
+                    ],
+                    "answer": 1,
+                    "why": "OIC = Organisation of Islamic Cooperation; মুসলিম দেশগুলোর সংগঠন।"
+                },
+                {
+                    "q": "OIC-এর সদস্য দেশ কয়টি?",
+                    "options": [
+                        "৫৫টি",
+                        "৫৬টি",
+                        "৫৭টি",
+                        "৬০টি"
+                    ],
+                    "answer": 2,
+                    "why": "OIC-এর সদস্য দেশ ৫৭টি।"
+                },
+                {
+                    "q": "বাংলাদেশ OIC-এর সদস্য হয় কত সালে?",
+                    "options": [
+                        "১৯৭২",
+                        "১৯৭৩",
+                        "১৯৭৪",
+                        "১৯৭৫"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশ ১৯৭৪ সালে OIC-এর সদস্য হয়।"
+                },
+                {
+                    "q": "সার্ক গঠনের উদ্যোগ নেয় কোন দেশ?",
+                    "options": [
+                        "ভারত",
+                        "বাংলাদেশ",
+                        "পাকিস্তান",
+                        "নেপাল"
+                    ],
+                    "answer": 1,
+                    "why": "সার্ক গঠনের উদ্যোগ নেয় বাংলাদেশ; প্রস্তাব দেন রাষ্ট্রপতি জিয়াউর রহমান।"
+                },
+                {
+                    "q": "আফগানিস্তান সার্কের সদস্য হয় কত সালে?",
+                    "options": [
+                        "২০০৫",
+                        "২০০৭",
+                        "২০১০",
+                        "২০০২"
+                    ],
+                    "answer": 1,
+                    "why": "আফগানিস্তান ২০০৭ সালে সার্কের অষ্টম সদস্য হয়।"
+                },
+                {
+                    "q": "পদ্মা সেতু উদ্বোধন হয় কত তারিখে?",
+                    "options": [
+                        "২৫ জুন ২০২২",
+                        "২৫ জুন ২০২১",
+                        "১৬ ডিসেম্বর ২০২২",
+                        "২৬ মার্চ ২০২২"
+                    ],
+                    "answer": 0,
+                    "why": "পদ্মা সেতু উদ্বোধন হয় ২৫ জুন ২০২২।"
+                },
+                {
+                    "q": "পদ্মা সেতু বাংলাদেশের কেমন সেতু?",
+                    "options": [
+                        "সবচেয়ে দীর্ঘ সেতু",
+                        "সবচেয়ে উঁচু সেতু",
+                        "প্রথম সেতু",
+                        "সবচেয়ে পুরনো সেতু"
+                    ],
+                    "answer": 0,
+                    "why": "পদ্মা সেতু বাংলাদেশের সবচেয়ে দীর্ঘ সেতু (৬.১৫ কিমি)।"
+                },
+                {
+                    "q": "পদ্মা সেতু কী ধরনের সেতু?",
+                    "options": [
+                        "শুধু সড়ক",
+                        "শুধু রেল",
+                        "সড়ক ও রেল উভয়",
+                        "শুধু পায়ে চলা"
+                    ],
+                    "answer": 2,
+                    "why": "পদ্মা সেতু দ্বিতল সেতু — ওপরে সড়ক ও নিচে রেলপথ।"
+                },
+                {
+                    "q": "বাংলাদেশের প্রথম মেট্রোরেল কোন লাইন?",
+                    "options": [
+                        "MRT-6",
+                        "MRT-1",
+                        "MRT-5",
+                        "MRT-2"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের প্রথম মেট্রোরেল MRT-6 লাইন।"
+                },
+                {
+                    "q": "মেট্রোরেল (MRT-6) কোন পথে চলে?",
+                    "options": [
+                        "উত্তরা-মতিঝিল",
+                        "উত্তরা-কমলাপুর",
+                        "মতিঝিল-সদরঘাট",
+                        "গুলশান-মিরপুর"
+                    ],
+                    "answer": 0,
+                    "why": "MRT-6 লাইন উত্তরা থেকে মতিঝিল পর্যন্ত চলে।"
+                },
+                {
+                    "q": "মেট্রোরেল পরিচালনা করে কোন প্রতিষ্ঠান?",
+                    "options": [
+                        "বিআরটিসি",
+                        "ডিএমটিসিএল",
+                        "রেলওয়ে",
+                        "সিটি করপোরেশন"
+                    ],
+                    "answer": 1,
+                    "why": "ঢাকা মেট্রোরেল পরিচালনা করে ঢাকা ম্যাস ট্রানজিট কোম্পানি লিমিটেড (ডিএমটিসিএল)।"
+                },
+                {
+                    "q": "MRT-6 লাইনের দৈর্ঘ্য প্রায় কত?",
+                    "options": [
+                        "১৬.৪ কিমি",
+                        "২১.২৬ কিমি",
+                        "২৫.৫ কিমি",
+                        "১২.৮ কিমি"
+                    ],
+                    "answer": 1,
+                    "why": "MRT-6 লাইনের দৈর্ঘ্য প্রায় ২১.২৬ কিলোমিটার।"
+                },
+                {
+                    "q": "মুজিবনগর সরকার গঠিত হয় কত তারিখে?",
+                    "options": [
+                        "২৬ মার্চ ১৯৭১",
+                        "১০ এপ্রিল ১৯৭১",
+                        "১৭ এপ্রিল ১৯৭১",
+                        "৭ মার্চ ১৯৭১"
+                    ],
+                    "answer": 1,
+                    "why": "মুজিবনগর সরকার গঠিত হয় ১০ এপ্রিল ১৯৭১; শপথ নেয় ১৭ এপ্রিল।"
+                },
+                {
+                    "q": "অপারেশন সার্চলাইট শুরু হয় কত তারিখে?",
+                    "options": [
+                        "২৫ মার্চ ১৯৭১",
+                        "২৬ মার্চ ১৯৭১",
+                        "৭ মার্চ ১৯৭১",
+                        "১৭ এপ্রিল ১৯৭১"
+                    ],
+                    "answer": 0,
+                    "why": "অপারেশন সার্চলাইট শুরু হয় ১৯৭১ সালের ২৫ মার্চ রাতে।"
+                },
+                {
+                    "q": "মুক্তিবাহিনীর প্রধান সেনাপতি কে ছিলেন?",
+                    "options": [
+                        "তাজউদ্দীন আহমদ",
+                        "এম এ জি ওসমানী",
+                        "সৈয়দ নজরুল ইসলাম",
+                        "জিয়াউর রহমান"
+                    ],
+                    "answer": 1,
+                    "why": "মুক্তিবাহিনীর প্রধান সেনাপতি ছিলেন জেনারেল এম এ জি ওসমানী।"
+                },
+                {
+                    "q": "বাংলাদেশ প্রথম টেস্ট জয় পায় কত সালে?",
+                    "options": [
+                        "২০০০",
+                        "২০০৩",
+                        "২০০৫",
+                        "২০০৭"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশ প্রথম টেস্ট জয় পায় ২০০৫ সালে, জিম্বাবুয়ের বিপক্ষে।"
+                },
+                {
+                    "q": "বাংলাদেশ প্রথম ওয়ানডে খেলে কত সালে?",
+                    "options": [
+                        "১৯৮৬",
+                        "১৯৯৭",
+                        "২০০০",
+                        "১৯৯২"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ প্রথম ওয়ানডে খেলে ১৯৮৬ সালে, পাকিস্তানের বিপক্ষে।"
+                },
+                {
+                    "q": "বাংলাদেশ সাফ চ্যাম্পিয়নশিপ জয় করে কত সালে?",
+                    "options": [
+                        "১৯৯৯",
+                        "২০০৩",
+                        "২০০৯",
+                        "১৯৯৫"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশ ২০০৩ সালে সাফ চ্যাম্পিয়নশিপ জয় করে।"
+                },
+                {
+                    "q": "একুশে পদক চালু হয় কত সালে?",
+                    "options": [
+                        "১৯৭৬",
+                        "১৯৭৭",
+                        "১৯৭১",
+                        "১৯৭২"
+                    ],
+                    "answer": 0,
+                    "why": "একুশে পদক চালু হয় ১৯৭৬ সালে।"
+                },
+                {
+                    "q": "বাংলাদেশের সর্বোচ্চ বেসামরিক পুরস্কার কোনটি?",
+                    "options": [
+                        "একুশে পদক",
+                        "স্বাধীনতা পুরস্কার",
+                        "বাংলা একাডেমি পুরস্কার",
+                        "জাতীয় চলচ্চিত্র পুরস্কার"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশের সর্বোচ্চ বেসামরিক পুরস্কার স্বাধীনতা পুরস্কার।"
+                },
+                {
+                    "q": "বেতার যন্ত্রের আবিষ্কারক কে?",
+                    "options": [
+                        "এডিসন",
+                        "মার্কনি",
+                        "গ্রাহাম বেল",
+                        "টেসলা"
+                    ],
+                    "answer": 1,
+                    "why": "বেতার যন্ত্রের আবিষ্কারক গুলিয়েলমো মার্কনি।"
                 }
             ]
         },
@@ -101329,6 +102825,567 @@
                     ],
                     "answer": 1,
                     "why": "ব্লুটুথ প্রযুক্তি প্রথম উদ্ভাবন করে এরিকসন (১৯৯৪ সালে)।"
+                },
+                {
+                    "q": "HTML কে উদ্ভাবন করেন?",
+                    "options": [
+                        "বিল গেটস",
+                        "টিম বার্নার্স-লি",
+                        "স্টিভ জবস",
+                        "ল্যারি পেজ"
+                    ],
+                    "answer": 1,
+                    "why": "HTML উদ্ভাবন করেন টিম বার্নার্স-লি।"
+                },
+                {
+                    "q": "HTML ডকুমেন্টের মূল ট্যাগ কোনটি?",
+                    "options": [
+                        "<html>",
+                        "<head>",
+                        "<body>",
+                        "<title>"
+                    ],
+                    "answer": 0,
+                    "why": "HTML ডকুমেন্ট <html> ট্যাগ দিয়ে শুরু হয়; এটিই মূল ট্যাগ।"
+                },
+                {
+                    "q": "HTML ডকুমেন্টে শিরোনাম ও মেটা তথ্য কোন অংশে থাকে?",
+                    "options": [
+                        "<body>",
+                        "<head>",
+                        "<p>",
+                        "<div>"
+                    ],
+                    "answer": 1,
+                    "why": "HTML ডকুমেন্টের <head> অংশে শিরোনাম, মেটা তথ্য ও লিংক থাকে।"
+                },
+                {
+                    "q": "ব্রাউজারের ট্যাবে পেজের নাম দেখাতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<head>",
+                        "<title>",
+                        "<h1>",
+                        "<p>"
+                    ],
+                    "answer": 1,
+                    "why": "<title> ট্যাগের লেখা ব্রাউজারের ট্যাবে পেজের নাম হিসেবে দেখায়।"
+                },
+                {
+                    "q": "ওয়েবপেজের দৃশ্যমান বিষয়বস্তু কোন ট্যাগের মধ্যে থাকে?",
+                    "options": [
+                        "<head>",
+                        "<title>",
+                        "<body>",
+                        "<meta>"
+                    ],
+                    "answer": 2,
+                    "why": "ওয়েবপেজের দৃশ্যমান সব বিষয়বস্তু <body> ট্যাগের মধ্যে থাকে।"
+                },
+                {
+                    "q": "অনুচ্ছেদ (paragraph) লিখতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<h1>",
+                        "<p>",
+                        "<br>",
+                        "<a>"
+                    ],
+                    "answer": 1,
+                    "why": "HTML-এ অনুচ্ছেদ লিখতে <p> ট্যাগ ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সবচেয়ে বড় শিরোনাম লিখতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<h6>",
+                        "<h3>",
+                        "<h1>",
+                        "<head>"
+                    ],
+                    "answer": 2,
+                    "why": "HTML-এ <h1> সবচেয়ে বড় ও <h6> সবচেয়ে ছোট শিরোনাম ট্যাগ।"
+                },
+                {
+                    "q": "ওয়েবপেজে লিংক তৈরি করতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<link>",
+                        "<a>",
+                        "<img>",
+                        "<li>"
+                    ],
+                    "answer": 1,
+                    "why": "ওয়েবপেজে লিংক তৈরি করতে <a> (অ্যাংকর) ট্যাগ ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "<a> ট্যাগে লিংকের ঠিকানা দিতে কোন অ্যাট্রিবিউট ব্যবহৃত হয়?",
+                    "options": [
+                        "src",
+                        "href",
+                        "alt",
+                        "title"
+                    ],
+                    "answer": 1,
+                    "why": "<a> ট্যাগের href অ্যাট্রিবিউটে লিংকের ঠিকানা (URL) দেওয়া হয়।"
+                },
+                {
+                    "q": "ওয়েবপেজে ছবি দেখাতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<a>",
+                        "<img>",
+                        "<pic>",
+                        "<photo>"
+                    ],
+                    "answer": 1,
+                    "why": "ওয়েবপেজে ছবি দেখাতে <img> ট্যাগ ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "<img> ট্যাগে ছবির উৎস দিতে কোন অ্যাট্রিবিউট ব্যবহৃত হয়?",
+                    "options": [
+                        "href",
+                        "alt",
+                        "src",
+                        "link"
+                    ],
+                    "answer": 2,
+                    "why": "<img> ট্যাগের src অ্যাট্রিবিউটে ছবির ফাইলের ঠিকানা দেওয়া হয়।"
+                },
+                {
+                    "q": "বুলেট তালিকা তৈরি করতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<ol>",
+                        "<ul>",
+                        "<li>",
+                        "<table>"
+                    ],
+                    "answer": 1,
+                    "why": "বুলেট (অক্রমিক) তালিকা তৈরি করতে <ul> ট্যাগ ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "তালিকার প্রতিটি আইটেম লিখতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<ul>",
+                        "<ol>",
+                        "<li>",
+                        "<tr>"
+                    ],
+                    "answer": 2,
+                    "why": "তালিকার প্রতিটি আইটেম <li> ট্যাগ দিয়ে লেখা হয়।"
+                },
+                {
+                    "q": "টেবিলের সারি (row) তৈরি করতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<td>",
+                        "<tr>",
+                        "<th>",
+                        "<table>"
+                    ],
+                    "answer": 1,
+                    "why": "টেবিলের প্রতিটি সারি <tr> ট্যাগ দিয়ে তৈরি করা হয়।"
+                },
+                {
+                    "q": "টেবিলের ঘর (cell) তৈরি করতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<tr>",
+                        "<th>",
+                        "<td>",
+                        "<tc>"
+                    ],
+                    "answer": 2,
+                    "why": "টেবিলের প্রতিটি ঘর <td> ট্যাগ দিয়ে তৈরি করা হয়।"
+                },
+                {
+                    "q": "লাইন বিরতি (line break) দিতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<p>",
+                        "<br>",
+                        "<hr>",
+                        "<lb>"
+                    ],
+                    "answer": 1,
+                    "why": "লাইন বিরতি দিতে <br> ট্যাগ ব্যবহৃত হয়; এটি বন্ধ করার দরকার হয় না।"
+                },
+                {
+                    "q": "CSS কোন কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "ওয়েবপেজের নকশা ও স্টাইল দিতে",
+                        "ডেটাবেজ চালাতে",
+                        "ভাইরাস ধরতে",
+                        "ছবি তুলতে"
+                    ],
+                    "answer": 0,
+                    "why": "CSS দিয়ে ওয়েবপেজের রং, আকার, বিন্যাসসহ নকশা ও স্টাইল দেওয়া হয়।"
+                },
+                {
+                    "q": "HTML ফাইলের এক্সটেনশন কোনটি?",
+                    "options": [
+                        ".docx",
+                        ".html",
+                        ".exe",
+                        ".jpg"
+                    ],
+                    "answer": 1,
+                    "why": "HTML ফাইলের এক্সটেনশন .html (বা .htm)।"
+                },
+                {
+                    "q": "নিজে নিজে ছড়িয়ে পড়ে এমন ক্ষতিকর প্রোগ্রামকে কী বলে?",
+                    "options": [
+                        "ট্রোজান",
+                        "ওয়ার্ম",
+                        "স্পাইওয়্যার",
+                        "অ্যাডওয়্যার"
+                    ],
+                    "answer": 1,
+                    "why": "ওয়ার্ম (Worm) নিজে নিজে নেটওয়ার্কে ছড়িয়ে পড়ে; এটি চালাতে কোনো ফাইলের দরকার হয় না।"
+                },
+                {
+                    "q": "ভালো সফটওয়্যারের ছদ্মবেশে থাকা ক্ষতিকর প্রোগ্রামকে কী বলে?",
+                    "options": [
+                        "ওয়ার্ম",
+                        "ট্রোজান হর্স",
+                        "র‍্যানসমওয়্যার",
+                        "কীলগার"
+                    ],
+                    "answer": 1,
+                    "why": "ট্রোজান হর্স ভালো সফটওয়্যারের ছদ্মবেশে কম্পিউটারে ঢুকে ক্ষতি করে।"
+                },
+                {
+                    "q": "ব্যবহারকারীর তথ্য গোপনে সংগ্রহ করে এমন সফটওয়্যারকে কী বলে?",
+                    "options": [
+                        "স্পাইওয়্যার",
+                        "অ্যাডওয়্যার",
+                        "ফায়ারওয়াল",
+                        "অ্যান্টিভাইরাস"
+                    ],
+                    "answer": 0,
+                    "why": "স্পাইওয়্যার ব্যবহারকারীর অজান্তে তার তথ্য ও কার্যকলাপ গোপনে সংগ্রহ করে।"
+                },
+                {
+                    "q": "ফাইল এনক্রিপ্ট করে মুক্তিপণ দাবি করে এমন ম্যালওয়্যারকে কী বলে?",
+                    "options": [
+                        "স্পাইওয়্যার",
+                        "অ্যাডওয়্যার",
+                        "র‍্যানসমওয়্যার",
+                        "ওয়ার্ম"
+                    ],
+                    "answer": 2,
+                    "why": "র‍্যানসমওয়্যার ফাইল এনক্রিপ্ট করে ফেলে ও মুক্তিপণ না দিলে ফাইল ফেরত দেয় না।"
+                },
+                {
+                    "q": "ম্যালওয়্যার (Malware) শব্দটি কীসের সংক্ষিপ্ত রূপ?",
+                    "options": [
+                        "Malicious Hardware",
+                        "Malicious Software",
+                        "Manual Software",
+                        "Machine Software"
+                    ],
+                    "answer": 1,
+                    "why": "ম্যালওয়্যার = Malicious Software; ভাইরাস, ওয়ার্ম, ট্রোজানসহ সব ক্ষতিকর সফটওয়্যারের সাধারণ নাম।"
+                },
+                {
+                    "q": "কীবোর্ডে টাইপ করা তথ্য গোপনে রেকর্ড করে এমন প্রোগ্রামকে কী বলে?",
+                    "options": [
+                        "কীলগার",
+                        "ফায়ারওয়াল",
+                        "ব্রাউজার",
+                        "ক্যাশে"
+                    ],
+                    "answer": 0,
+                    "why": "কীলগার কীবোর্ডে টাইপ করা সব তথ্য গোপনে রেকর্ড করে; পাসওয়ার্ড চুরিতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "বুট সেক্টর ভাইরাস কোথায় আক্রমণ করে?",
+                    "options": [
+                        "হার্ডডিস্কের বুট সেক্টরে",
+                        "মনিটরে",
+                        "কীবোর্ডে",
+                        "প্রিন্টারে"
+                    ],
+                    "answer": 0,
+                    "why": "বুট সেক্টর ভাইরাস হার্ডডিস্কের বুট সেক্টরে আক্রমণ করে; কম্পিউটার চালু হলেই এটি সক্রিয় হয়।"
+                },
+                {
+                    "q": "ওয়ার্ড বা এক্সেল ফাইলে লুকিয়ে থাকা ভাইরাসকে কী বলে?",
+                    "options": [
+                        "বুট ভাইরাস",
+                        "ম্যাক্রো ভাইরাস",
+                        "ওয়ার্ম",
+                        "ট্রোজান"
+                    ],
+                    "answer": 1,
+                    "why": "ম্যাক্রো ভাইরাস ওয়ার্ড-এক্সেলের ম্যাক্রোতে লুকিয়ে থাকে; ফাইল খুললেই এটি ছড়ায়।"
+                },
+                {
+                    "q": "নির্দিষ্ট সময়ে বা শর্তে সক্রিয় হয় এমন ক্ষতিকর কোডকে কী বলে?",
+                    "options": [
+                        "লজিক বোমা",
+                        "স্পাইওয়্যার",
+                        "অ্যাডওয়্যার",
+                        "ফিশিং"
+                    ],
+                    "answer": 0,
+                    "why": "লজিক বোমা নির্দিষ্ট তারিখ বা শর্ত পূরণ হলে সক্রিয় হয়ে ক্ষতি করে।"
+                },
+                {
+                    "q": "'কম্পিউটার ভাইরাস' শব্দটি প্রথম ব্যবহার করেন কে?",
+                    "options": [
+                        "বিল গেটস",
+                        "ফ্রেড কোহেন",
+                        "জন ম্যাকাফি",
+                        "লিনাস টরভাল্ডস"
+                    ],
+                    "answer": 1,
+                    "why": "'কম্পিউটার ভাইরাস' শব্দটি প্রথম ব্যবহার করেন ফ্রেড কোহেন (১৯৮৩ সালে)।"
+                },
+                {
+                    "q": "প্রথম পিসি ভাইরাসের নাম কী?",
+                    "options": [
+                        "ILOVEYOU",
+                        "Brain",
+                        "Melissa",
+                        "Code Red"
+                    ],
+                    "answer": 1,
+                    "why": "প্রথম পিসি ভাইরাস 'Brain' (১৯৮৬ সালে তৈরি)।"
+                },
+                {
+                    "q": "কম্পিউটারের প্রধান ইনপুট ডিভাইস কোনটি?",
+                    "options": [
+                        "মনিটর",
+                        "কীবোর্ড",
+                        "প্রিন্টার",
+                        "স্পিকার"
+                    ],
+                    "answer": 1,
+                    "why": "কীবোর্ড কম্পিউটারের প্রধান ইনপুট ডিভাইস; এতে টাইপ করে তথ্য দেওয়া হয়।"
+                },
+                {
+                    "q": "মাউস কোন ধরনের ডিভাইস?",
+                    "options": [
+                        "আউটপুট ডিভাইস",
+                        "ইনপুট ডিভাইস",
+                        "স্টোরেজ ডিভাইস",
+                        "প্রসেসিং ডিভাইস"
+                    ],
+                    "answer": 1,
+                    "why": "মাউস একটি ইনপুট ডিভাইস; এটি দিয়ে পয়েন্টার নাড়ানো ও ক্লিক করা হয়।"
+                },
+                {
+                    "q": "কাগজের ছবি বা লেখা কম্পিউটারে নিতে কোন যন্ত্র ব্যবহৃত হয়?",
+                    "options": [
+                        "প্রিন্টার",
+                        "স্ক্যানার",
+                        "মনিটর",
+                        "স্পিকার"
+                    ],
+                    "answer": 1,
+                    "why": "স্ক্যানার কাগজের ছবি বা লেখা স্ক্যান করে কম্পিউটারে ডিজিটাল রূপে নেয়।"
+                },
+                {
+                    "q": "গেম খেলতে ব্যবহৃত ইনপুট ডিভাইস কোনটি?",
+                    "options": [
+                        "জয়স্টিক",
+                        "প্রিন্টার",
+                        "প্লটার",
+                        "প্রজেক্টর"
+                    ],
+                    "answer": 0,
+                    "why": "জয়স্টিক গেম খেলতে ব্যবহৃত ইনপুট ডিভাইস; এটি দিয়ে খেলার চরিত্র নিয়ন্ত্রণ করা হয়।"
+                },
+                {
+                    "q": "ছাপা লেখা পড়ে কম্পিউটারে রূপান্তর করে কোন প্রযুক্তি?",
+                    "options": [
+                        "OCR",
+                        "OMR",
+                        "MICR",
+                        "BCR"
+                    ],
+                    "answer": 0,
+                    "why": "OCR (Optical Character Recognition) ছাপা লেখা পড়ে সম্পাদনাযোগ্য টেক্সটে রূপান্তর করে।"
+                },
+                {
+                    "q": "ভিডিও কলের সময় ছবি পাঠাতে কোন যন্ত্র ব্যবহৃত হয়?",
+                    "options": [
+                        "প্রিন্টার",
+                        "স্পিকার",
+                        "ওয়েবক্যাম",
+                        "প্লটার"
+                    ],
+                    "answer": 2,
+                    "why": "ওয়েবক্যাম ভিডিও কলের সময় ব্যবহারকারীর ছবি কম্পিউটারে পাঠায়।"
+                },
+                {
+                    "q": "টাচ স্ক্রিন কোন ধরনের ডিভাইস?",
+                    "options": [
+                        "শুধু আউটপুট",
+                        "শুধু ইনপুট",
+                        "ইনপুট ও আউটপুট উভয়",
+                        "স্টোরেজ"
+                    ],
+                    "answer": 2,
+                    "why": "টাচ স্ক্রিন ইনপুট ও আউটপুট উভয়ই — এতে ছবি দেখা যায় আবার স্পর্শ করে নির্দেশও দেওয়া যায়।"
+                },
+                {
+                    "q": "লাইট পেন কোন কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "ছাপাতে",
+                        "স্ক্রিনে সরাসরি লিখতে বা আঁকতে",
+                        "শব্দ শুনতে",
+                        "ফাইল সংরক্ষণে"
+                    ],
+                    "answer": 1,
+                    "why": "লাইট পেন দিয়ে স্ক্রিনে সরাসরি লেখা বা আঁকা যায়; এটি একটি ইনপুট ডিভাইস।"
+                },
+                {
+                    "q": "কম্পিউটারের স্থায়ী স্মৃতি কোনটি?",
+                    "options": [
+                        "RAM",
+                        "ROM",
+                        "ক্যাশে",
+                        "রেজিস্টার"
+                    ],
+                    "answer": 1,
+                    "why": "ROM স্থায়ী (non-volatile) স্মৃতি; বিদ্যুৎ গেলেও এর তথ্য থেকে যায়।"
+                },
+                {
+                    "q": "BIOS সংরক্ষিত থাকে কোথায়?",
+                    "options": [
+                        "RAM-এ",
+                        "ROM-এ",
+                        "হার্ডডিস্কে",
+                        "ক্যাশেতে"
+                    ],
+                    "answer": 1,
+                    "why": "BIOS (Basic Input Output System) ROM-এ সংরক্ষিত থাকে।"
+                },
+                {
+                    "q": "কোন স্মৃতি সবচেয়ে দ্রুত কাজ করে?",
+                    "options": [
+                        "হার্ডডিস্ক",
+                        "RAM",
+                        "ক্যাশে মেমোরি",
+                        "পেনড্রাইভ"
+                    ],
+                    "answer": 2,
+                    "why": "ক্যাশে মেমোরি CPU-এর সবচেয়ে কাছে থাকে বলে সবচেয়ে দ্রুত কাজ করে।"
+                },
+                {
+                    "q": "SRAM-এর বৈশিষ্ট্য কী?",
+                    "options": [
+                        "রিফ্রেশ দরকার হয়",
+                        "রিফ্রেশ দরকার হয় না",
+                        "ধীরগতির",
+                        "সস্তা"
+                    ],
+                    "answer": 1,
+                    "why": "SRAM (Static RAM)-এ রিফ্রেশ দরকার হয় না; এটি দ্রুত কিন্তু দামি।"
+                },
+                {
+                    "q": "DRAM-এর বৈশিষ্ট্য কী?",
+                    "options": [
+                        "রিফ্রেশ দরকার হয় না",
+                        "বারবার রিফ্রেশ দরকার হয়",
+                        "সবচেয়ে দ্রুত",
+                        "ROM-এর মতো স্থায়ী"
+                    ],
+                    "answer": 1,
+                    "why": "DRAM (Dynamic RAM)-এ তথ্য ধরে রাখতে বারবার রিফ্রেশ দরকার হয়; এটি সস্তা ও বেশি ধারণক্ষমতার।"
+                },
+                {
+                    "q": "চতুর্থ প্রজন্মের কম্পিউটারের মূল বৈশিষ্ট্য কী?",
+                    "options": [
+                        "ভ্যাকুয়াম টিউব",
+                        "ট্রানজিস্টর",
+                        "মাইক্রোপ্রসেসর",
+                        "আইসি"
+                    ],
+                    "answer": 2,
+                    "why": "চতুর্থ প্রজন্মের (১৯৭১-) কম্পিউটারে মাইক্রোপ্রসেসর ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "CPU-কে কম্পিউটারের কী বলা হয়?",
+                    "options": [
+                        "হৃৎপিণ্ড",
+                        "মস্তিষ্ক",
+                        "চোখ",
+                        "হাত"
+                    ],
+                    "answer": 1,
+                    "why": "CPU-কে কম্পিউটারের মস্তিষ্ক বলা হয়; এটি সব হিসাব ও নির্দেশনা পরিচালনা করে।"
+                },
+                {
+                    "q": "CU-এর কাজ কী?",
+                    "options": [
+                        "গাণিতিক হিসাব করা",
+                        "তথ্য সংরক্ষণ করা",
+                        "কম্পিউটারের সব কাজ নিয়ন্ত্রণ করা",
+                        "ছবি আঁকা"
+                    ],
+                    "answer": 2,
+                    "why": "CU (Control Unit) কম্পিউটারের সব কাজের নির্দেশনা ও নিয়ন্ত্রণ করে।"
+                },
+                {
+                    "q": "CPU-এর অস্থায়ী সংরক্ষণাগারকে কী বলে?",
+                    "options": [
+                        "ক্যাশে",
+                        "রেজিস্টার",
+                        "RAM",
+                        "ROM"
+                    ],
+                    "answer": 1,
+                    "why": "রেজিস্টার CPU-এর ভেতরের ছোট অস্থায়ী সংরক্ষণাগার; এতে হিসাবের তথ্য রাখা হয়।"
+                },
+                {
+                    "q": "নিচের কোনটি প্রসেসর নির্মাতা প্রতিষ্ঠান?",
+                    "options": [
+                        "মাইক্রোসফট",
+                        "ইন্টেল",
+                        "গুগল",
+                        "অ্যাডোবি"
+                    ],
+                    "answer": 1,
+                    "why": "ইন্টেল বিশ্বের অন্যতম প্রধান প্রসেসর নির্মাতা প্রতিষ্ঠান।"
+                },
+                {
+                    "q": "ইমেইল (E-mail)-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "Electric Mail",
+                        "Electronic Mail",
+                        "Easy Mail",
+                        "Express Mail"
+                    ],
+                    "answer": 1,
+                    "why": "ইমেইল = Electronic Mail; ইন্টারনেটে বার্তা পাঠানোর ব্যবস্থা।"
+                },
+                {
+                    "q": "ইমেইলের সঙ্গে পাঠানো ফাইলকে কী বলে?",
+                    "options": [
+                        "স্প্যাম",
+                        "অ্যাটাচমেন্ট",
+                        "ইনবক্স",
+                        "ড্রাফট"
+                    ],
+                    "answer": 1,
+                    "why": "ইমেইলের সঙ্গে পাঠানো ফাইলকে অ্যাটাচমেন্ট বলে।"
+                },
+                {
+                    "q": "অবাঞ্ছিত বা বিজ্ঞাপনমূলক ইমেইলকে কী বলে?",
+                    "options": [
+                        "স্প্যাম",
+                        "অ্যাটাচমেন্ট",
+                        "ড্রাফট",
+                        "ইনবক্স"
+                    ],
+                    "answer": 0,
+                    "why": "অবাঞ্ছিত বিজ্ঞাপনমূলক ইমেইলকে স্প্যাম বলে।"
+                },
+                {
+                    "q": "Gmail কোন প্রতিষ্ঠানের সেবা?",
+                    "options": [
+                        "মাইক্রোসফট",
+                        "গুগল",
+                        "অ্যাপল",
+                        "ইয়াহু"
+                    ],
+                    "answer": 1,
+                    "why": "Gmail গুগলের বিনামূল্যের ইমেইল সেবা।"
                 }
             ]
         }
