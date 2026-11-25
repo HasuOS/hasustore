@@ -6,13 +6,13 @@
    "name": "HasuBackup",
    "tag": "APK backup",
    "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-   "code": 21,
-   "versionName": "1.18",
-   "size": 2062756,
+   "code": 22,
+   "versionName": "1.19",
+   "size": 2087332,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
-   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
-   "etag": "0x8DF4AFCA83F429A",
-   "ts": 1795615319
+   "changes": "আইকন এখন সব জায়গায় পরিষ্কার দেখা যাবে — ব্যাকগ্রাউন্ড পুরোপুরি transparent, glyph-এর গায়ে teal glow ধার, কোনো tile নেই",
+   "etag": "0x8DF4B004474F8B1",
+   "ts": 1795616868
   },
   {
    "pkg": "hasu.os.battery",
