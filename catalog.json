@@ -6,13 +6,13 @@
    "name": "HasuBackup",
    "tag": "APK backup",
    "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-   "code": 9,
-   "versionName": "1.06",
-   "size": 50030,
+   "code": 10,
+   "versionName": "1.07",
+   "size": 264396,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only then, repainted on every return (the drawable was always blue). The Guide and About pages list both.",
-   "etag": "0x8DF47D2AA55349E",
-   "ts": 1795267451
+   "changes": "THE FULL SYSTEM ARRIVES. HasuBackup now updates itself — its own check, notification, download and install, offered only after the new version has settled and verified. A new Look system: every icon in the app is changeable from one picker (four built-in sets including Font Awesome, six themes, four launcher icon designs), tap a set and it applies at once. New icon packs arrive by themselves from the feed and a notification tells you what was added, with its own switch in the new Settings page. The refresh button is gone — the app list re-scans by itself when apps change. Permissions were already complete and stay that way.",
+   "etag": "0x8DF4A96AC48FE6E",
+   "ts": 1795571522
   },
   {
    "pkg": "hasu.os.battery",
