@@ -6,13 +6,13 @@
    "name": "HasuBackup",
    "tag": "APK backup",
    "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-   "code": 20,
-   "versionName": "1.17",
-   "size": 2091428,
+   "code": 21,
+   "versionName": "1.18",
+   "size": 2062756,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
-   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
-   "etag": "0x8DF4AFA09EA73DD",
-   "ts": 1795614195
+   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
+   "etag": "0x8DF4AFCA83F429A",
+   "ts": 1795615319
   },
   {
    "pkg": "hasu.os.battery",
