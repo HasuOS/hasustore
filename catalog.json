@@ -643,13 +643,13 @@
    "name": "HasuBook",
    "tag": "Social feed",
    "desc": "Your own corner of the community — a feed with stories, photo posts, likes, comments, friends and alerts, all on this phone.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 82798,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 1968825,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/book.apk",
-   "changes": "NEW APP: HasuBook 1.00 — your own corner of the community. A feed with stories, a composer with photo posts, and likes, comments and share on every post. Friends tab with requests and people you may know, Alerts with 12-hour times, search across posts and people, and your own editable profile. A sample community is bundled so it is alive from the first open; everything lives only on this phone. 📖 Guide page and 🔐 Permissions hub included — no permissions, no account.",
-   "ts": 1795325354,
-   "etag": "0x8DF485979E3D7A2"
+   "changes": "HasuBook 1.01 — the full family port: a real Settings page with backup & restore of everything (book_app + book_look + book.json), Look with switchable icon sets, themes and per-surface designs that arrive by themselves from the new book/ feeds, self-update with background checks, full English/Bangla language switch, draft autosave for half-written posts, a rewritten Guide and an honest Permissions hub. New launcher icon in the family style — a thin border with the white open-book glyph on transparency, so the page behind it shows through.",
+   "ts": 1795648810,
+   "etag": "0x8DF4B4A91375611"
   },
   {"pkg": "hasu.os.community", "name": "HasuCommunity", "tag": "Messaging", "desc": "Chats with your people in HasuOS glass — bubbles, photo messages, seen ticks and group chats, all on this phone.", "code": 2, "versionName": "1.01", "size": 1944259, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/community.apk", "changes": "সম্পূর্ণ ফ্যামিলি পোর্ট: সেটিংস পেজ (ভাষা English/বাংলা, আপডেট ও নতুন ডিজাইনের সতর্কতা, শব্দ ও কম্পন, ব্যাকআপ — সব চ্যাটসহ), লুক ও আইকন (থিম, আইকন সেট, পাঁচটি অ্যাপ-আইকন ডিজাইন, প্রতিটি পেজের নিজের থিম, পুরো-স্ক্রিন প্রিভিউ), অ্যাপ নিজে নিজে আপডেট হয়, নতুন আইকন সেট ও থিম নিজে নিজে আসে, সব আইকন এখন Font Awesome ছবিতে, অর্ধেক লেখা বার্তা খসড়া হিসেবে নিজে নিজে সেভ হয়, গাইড এখন বাংলায়ও।", "ts": 1795621750, "etag": "0x8DF4B0B8ABA6891"},
   {
