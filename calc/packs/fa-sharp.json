@@ -1,0 +1,20 @@
+{
+ "id": "fa-sharp",
+ "name": "FA Sharp",
+ "kind": "glyphs",
+ "glyphs": {
+  "lock": "fa:f023",
+  "gear": "fa:f013",
+  "update": "fa:f063",
+  "bell": "fa:f0f3",
+  "battery": "fa:f240",
+  "calc": "fa:f1ec",
+  "conv": "fa:f362",
+  "history": "fa:f1da",
+  "trash": "fa:f1f8",
+  "swap": "fa:f0dc",
+  "copy": "fa:f0c5",
+  "info": "fa:f05a",
+  "guide": "fa:f02d"
+ }
+}
