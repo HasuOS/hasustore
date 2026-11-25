@@ -110,13 +110,13 @@
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 25,
-   "versionName": "1.19",
-   "size": 5069800,
+   "code": 26,
+   "versionName": "1.20",
+   "size": 5032936,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
-   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
-   "ts": 1795615143,
-   "etag": "0x8DF4AFC4141C263"
+   "changes": "HasuClock 1.20 — launcher icon only: the blue tile is gone — now the bare white clock glyph on full transparency, the same family style everywhere (drawer, HasuOS Home, HasuStore). Nothing else changed.",
+   "ts": 1795650082,
+   "etag": "0x8DF4B4D9A12FB4B"
   },
   {
    "pkg": "hasu.os.dice",
