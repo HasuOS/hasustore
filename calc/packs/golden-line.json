@@ -1,0 +1,20 @@
+{
+ "id": "golden-line",
+ "name": "Golden Line",
+ "kind": "glyphs",
+ "glyphs": {
+  "lock": "⚿",
+  "gear": "⚙",
+  "update": "⬇",
+  "bell": "♪",
+  "battery": "▭",
+  "calc": "±",
+  "conv": "⇄",
+  "history": "↺",
+  "trash": "✕",
+  "swap": "⇅",
+  "copy": "⧉",
+  "info": "ⓘ",
+  "guide": "☰"
+ }
+}
