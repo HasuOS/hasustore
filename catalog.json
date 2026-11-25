@@ -71,13 +71,13 @@
    "name": "HasuCalendar",
    "tag": "Calendar",
    "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 22,
-   "versionName": "1.19",
-   "size": 2684830,
+   "code": 23,
+   "versionName": "1.20",
+   "size": 2389918,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-   "changes": "নতুন ব্র্যান্ড আইকন — ইলেকট্রিক-ব্লু ক্রোম স্টাইল (তোমার বেছে নেওয়া ডিজাইন)",
-   "etag": "0x8DF4B1355EF1B1A",
-   "ts": 1795625062
+   "changes": "আইকন ফিক্স — এখন পুরো টাইলটাই দেখা যায়, জুম হয়ে কাটে না",
+   "etag": "0x8DF4B13F3130114",
+   "ts": 1795625332
   },
   {
    "pkg": "com.hasucam.camera",
