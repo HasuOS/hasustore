@@ -71,13 +71,13 @@
    "name": "HasuCalendar",
    "tag": "Calendar",
    "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 13,
-   "versionName": "1.10",
-   "size": 1840049,
+   "code": 14,
+   "versionName": "1.11",
+   "size": 1868721,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-   "changes": "The Permissions text strip is gone from the top — Permissions is now the lock icon in the header, beside its live toggle. The About page gains a Developer card with the new HasuOS brand logo and Hasu's contact email — tap the email to write to him directly.",
-   "etag": "0x8DF4AB31A7E63E2",
-   "ts": 1795583774
+   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
+   "etag": "0x8DF4AFB9EB2AA3F",
+   "ts": 1795614869
   },
   {
    "pkg": "com.hasucam.camera",
