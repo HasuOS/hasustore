@@ -651,19 +651,7 @@
    "ts": 1795325354,
    "etag": "0x8DF485979E3D7A2"
   },
-  {
-   "pkg": "hasu.os.community",
-   "name": "HasuCommunity",
-   "tag": "Messaging",
-   "desc": "Chats with your people in HasuOS glass — bubbles, photo messages, seen ticks and group chats, all on this phone.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 74606,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/community.apk",
-   "changes": "NEW APP: HasuCommunity 1.00 — chats with your people, in HasuOS glass. A chat list with last messages, 12-hour times and unread badges, an active-now row, message bubbles with photo messages, ✓ Delivered and ✓✓ Seen, group chats with named senders, a People tab and search. The bundled sample friends reply on the phone itself; every chat lives only on this device. 📖 Guide page and 🔐 Permissions hub included — no permissions, no account.",
-   "ts": 1795325354,
-   "etag": "0x8DF48597A9395B1"
-  },
+  {"pkg": "hasu.os.community", "name": "HasuCommunity", "tag": "Messaging", "desc": "Chats with your people in HasuOS glass — bubbles, photo messages, seen ticks and group chats, all on this phone.", "code": 2, "versionName": "1.01", "size": 1944259, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/community.apk", "changes": "সম্পূর্ণ ফ্যামিলি পোর্ট: সেটিংস পেজ (ভাষা English/বাংলা, আপডেট ও নতুন ডিজাইনের সতর্কতা, শব্দ ও কম্পন, ব্যাকআপ — সব চ্যাটসহ), লুক ও আইকন (থিম, আইকন সেট, পাঁচটি অ্যাপ-আইকন ডিজাইন, প্রতিটি পেজের নিজের থিম, পুরো-স্ক্রিন প্রিভিউ), অ্যাপ নিজে নিজে আপডেট হয়, নতুন আইকন সেট ও থিম নিজে নিজে আসে, সব আইকন এখন Font Awesome ছবিতে, অর্ধেক লেখা বার্তা খসড়া হিসেবে নিজে নিজে সেভ হয়, গাইড এখন বাংলায়ও।", "ts": 1795621750, "etag": "0x8DF4B0B8ABA6891"},
   {
    "pkg": "hasu.os.shorts",
    "name": "HasuShorts",
