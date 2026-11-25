@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 243,
-   "versionName": "2.50",
-   "size": 115115191,
+   "code": 244,
+   "versionName": "2.51",
+   "size": 115295486,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Permissions header is honest now \u2014 every row counts, and an unreadable state reads OFF, never ON \u00b7 App icons never show blank: a brand-new app gets a drawn initial until its real icon arrives \u00b7 Search now finds categories too (try games or tools) \u00b7 The store's own update waits for the same settle + ETag check as every other app, so a download never fails its version check \u00b7 Duplicate Settings card title fixed \u2014 the info card is now App info.",
-   "ts": 1795545310,
-   "etag": "0x8DF4A597FCE7CE8"
+   "changes": "THE STORE'S OWN ICONS JOIN THE SYSTEM. Every Store tool, button and chrome icon is now changeable from one picker — Settings, Icons — with six built-in sets (Classic, Font Awesome, Neon, Bold, Slim, Emoji Pop) shown as rendered previews; tap a set and it applies everywhere at once. New icon packs now arrive by themselves from the feed and merge into the same picker, and a notification tells you what was added (its own switch in Settings). Two starter packs are already in the feed: FA Sharp and Golden Line. Other apps' icons in the grid stay their real icons. Everything from 2.50 stays: the honest Permissions aggregate, the never-blank app icons, category search and the settle-checked self-update.",
+   "ts": 1795570660,
+   "etag": "0x8DF4A949AF968CE"
   },
   {
    "pkg": "hasu.os.tasbih",
