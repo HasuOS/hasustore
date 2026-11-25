@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 133,
-   "versionName": "10.63",
-   "size": 19036892,
-   "changes": "HasuOS Home 10.63 — (১) এখন যেকোনো অ্যাপের আইকন বদলানো যায়: আইকনে চাপ দিয়ে ধরে রাখলেই \"Change icon\" — পুরো স্ক্রিনের পিকারে সব আইকন প্যাকের সব আইকন ছবিসহ দেখা যায়, খুঁজে নিয়ে এক ট্যাপেই বসে যায়; \"Home\" আইকনটার ক্ষেত্রেও একইভাবে কাজ করে, আর নিজের ছবি থেকেও আইকন বসানো যায় আগের মতোই; (২) হাবের গিয়ার আইকনটা এখন নিয়মমতো স্বচ্ছ ব্যাকগ্রাউন্ডে সাদা গিয়ার — ধূসর টাইলটা সরিয়ে দেওয়া হয়েছে; (৩) বেছে নেওয়া কাস্টম আইকনগুলো এখন হোম ব্যাকআপের ভিতরেও থাকে — ব্যাকআপ রিস্টোর করলে আইকনগুলোও সঙ্গে ফিরে আসে।",
+   "code": 134,
+   "versionName": "10.64",
+   "size": 19065564,
+   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795613236,
-   "etag": "0x8DF4AF7CCA1EBB4"
+   "ts": 1795614372,
+   "etag": "0x8DF4AFA70AA4751"
   },
   {
    "pkg": "hasu.os.pdf",
