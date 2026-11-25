@@ -1,6 +1,6 @@
 {
-    "version": 65,
-    "generatedAt": 1795606828,
+    "version": 66,
+    "generatedAt": 1795608718,
     "subjects": [
         {
             "id": "bangla",
@@ -22009,6 +22009,589 @@
                     ],
                     "answer": 0,
                     "why": "অধ্যাপক আনিসুজ্জামান বাংলা ভাষা ও সাহিত্যের প্রখ্যাত পণ্ডিত ছিলেন।"
+                },
+                {
+                    "q": "অনুসর্গ কাকে বলে?",
+                    "options": [
+                        "যে শব্দ অন্য শব্দের পরে বসে সম্পর্ক যোগ করে",
+                        "যে শব্দ বাক্যের শুরুতে বসে",
+                        "যে শব্দের অর্থ বদলায় না",
+                        "যে শব্দ ক্রিয়ার কাজ করে"
+                    ],
+                    "answer": 0,
+                    "why": "অনুসর্গ অন্য শব্দের পরে বসে তার সঙ্গে অন্য শব্দের সম্পর্ক যোগ করে, যেমন 'দিয়ে', 'থেকে'।"
+                },
+                {
+                    "q": "নিচের কোনটি অনুসর্গ?",
+                    "options": [
+                        "দিয়ে",
+                        "এবং",
+                        "খুব",
+                        "ভালো"
+                    ],
+                    "answer": 0,
+                    "why": "'দিয়ে' অনুসর্গ — যেমন 'আমি কলম দিয়ে লিখি।'"
+                },
+                {
+                    "q": "‘সে বাড়ি থেকে এলো।’ — এখানে 'থেকে' কী?",
+                    "options": [
+                        "অনুসর্গ",
+                        "বিশেষণ",
+                        "সর্বনাম",
+                        "ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'থেকে' অনুসর্গ — 'বাড়ি' শব্দের পরে বসে উৎসের সম্পর্ক বোঝাচ্ছে।"
+                },
+                {
+                    "q": "‘সকাল পর্যন্ত অপেক্ষা করো।’ — এখানে 'পর্যন্ত' কী?",
+                    "options": [
+                        "অনুসর্গ",
+                        "বিশেষণ",
+                        "অব্যয়",
+                        "ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'পর্যন্ত' অনুসর্গ — সময়ের সীমা বোঝাচ্ছে।"
+                },
+                {
+                    "q": "‘তোমার জন্য এনেছি।’ — এখানে 'জন্য' কী?",
+                    "options": [
+                        "অনুসর্গ",
+                        "সর্বনাম",
+                        "বিশেষণ",
+                        "ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'জন্য' অনুসর্গ — কার জন্য, তা বোঝাচ্ছে।"
+                },
+                {
+                    "q": "‘সে আমার সাথে যাবে।’ — এখানে 'সাথে' কী?",
+                    "options": [
+                        "অনুসর্গ",
+                        "বিশেষণ",
+                        "অব্যয়",
+                        "ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'সাথে' অনুসর্গ — সঙ্গে যাওয়ার সম্পর্ক বোঝাচ্ছে।"
+                },
+                {
+                    "q": "নিচের কোন বাক্যটি শুদ্ধ?",
+                    "options": [
+                        "আমি গতকাল ঢাকা গিয়েছিলাম।",
+                        "আমি গতকাল ঢাকা যাব।",
+                        "আমি গতকাল ঢাকা যাইতেছি।",
+                        "আমি গতকাল ঢাকা যাই।"
+                    ],
+                    "answer": 0,
+                    "why": "'গতকাল' অতীত সময় বোঝায়, তাই ক্রিয়া অতীতকালে হবে: 'আমি গতকাল ঢাকা গিয়েছিলাম।'"
+                },
+                {
+                    "q": "‘আমি এখনই আসছি’ — বাক্যটি কেমন?",
+                    "options": [
+                        "শুদ্ধ",
+                        "অশুদ্ধ",
+                        "অসম্পূর্ণ",
+                        "অর্থহীন"
+                    ],
+                    "answer": 0,
+                    "why": "'আমি এখনই আসছি' — বর্তমান কালের শুদ্ধ বাক্য।"
+                },
+                {
+                    "q": "‘তিনটি বই’ — এখানে 'তিনটি' কোন ধরনের বিশেষণ?",
+                    "options": [
+                        "সংখ্যাবাচক বিশেষণ",
+                        "গুণবাচক বিশেষণ",
+                        "পরিমাণবাচক বিশেষণ",
+                        "নির্দেশক বিশেষণ"
+                    ],
+                    "answer": 0,
+                    "why": "'তিনটি' সংখ্যা বোঝাচ্ছে, তাই এটি সংখ্যাবাচক বিশেষণ।"
+                },
+                {
+                    "q": "‘অনেক পানি’ — এখানে 'অনেক' কোন ধরনের বিশেষণ?",
+                    "options": [
+                        "পরিমাণবাচক বিশেষণ",
+                        "গুণবাচক বিশেষণ",
+                        "সংখ্যাবাচক বিশেষণ",
+                        "ক্রিয়াবাচক বিশেষণ"
+                    ],
+                    "answer": 0,
+                    "why": "'অনেক' পরিমাণ বোঝাচ্ছে, তাই এটি পরিমাণবাচক বিশেষণ।"
+                },
+                {
+                    "q": "‘এই বইটি’ — এখানে 'এই' কোন ধরনের বিশেষণ?",
+                    "options": [
+                        "নির্দেশক বিশেষণ",
+                        "গুণবাচক বিশেষণ",
+                        "সংখ্যাবাচক বিশেষণ",
+                        "পরিমাণবাচক বিশেষণ"
+                    ],
+                    "answer": 0,
+                    "why": "'এই' নির্দিষ্ট করে দেখাচ্ছে, তাই এটি নির্দেশক বিশেষণ।"
+                },
+                {
+                    "q": "‘প্রথম শ্রেণি’ — এখানে 'প্রথম' কোন ধরনের বিশেষণ?",
+                    "options": [
+                        "ক্রমবাচক বিশেষণ",
+                        "গুণবাচক বিশেষণ",
+                        "পরিমাণবাচক বিশেষণ",
+                        "নির্দেশক বিশেষণ"
+                    ],
+                    "answer": 0,
+                    "why": "'প্রথম' ক্রম বা ধাপ বোঝাচ্ছে, তাই এটি ক্রমবাচক বিশেষণ।"
+                },
+                {
+                    "q": "নিচের কোনটি অব্যয়?",
+                    "options": [
+                        "এবং",
+                        "বই",
+                        "ভালো",
+                        "যাওয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'এবং' অব্যয় — দুটি শব্দ বা বাক্য যুক্ত করে।"
+                },
+                {
+                    "q": "‘সে আসবে, কিন্তু দেরি হবে।’ — এখানে 'কিন্তু' কী?",
+                    "options": [
+                        "অব্যয়",
+                        "বিশেষণ",
+                        "সর্বনাম",
+                        "ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'কিন্তু' অব্যয় — দুটি বাক্যের মধ্যে বৈপরীত্যের সম্পর্ক বোঝাচ্ছে।"
+                },
+                {
+                    "q": "‘যদি বৃষ্টি হয়, তবে যাব না।’ — এখানে 'যদি' কী?",
+                    "options": [
+                        "অব্যয়",
+                        "বিশেষণ",
+                        "সর্বনাম",
+                        "ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'যদি' শর্তবাচক অব্যয় — শর্ত বোঝাচ্ছে।"
+                },
+                {
+                    "q": "‘স্কুল’ থেকে 'ইস্কুল' হওয়া কোন ধ্বনি পরিবর্তন?",
+                    "options": [
+                        "স্বরাগম",
+                        "স্বরলোপ",
+                        "সমীভবন",
+                        "অপিনিহিতি"
+                    ],
+                    "answer": 0,
+                    "why": "শব্দের শুরুতে স্বরধ্বনি যুক্ত হওয়াকে স্বরাগম বলে: স্কুল → ইস্কুল।"
+                },
+                {
+                    "q": "‘জানালা’ থেকে 'জানলা' হওয়া কোন ধ্বনি পরিবর্তন?",
+                    "options": [
+                        "স্বরলোপ",
+                        "স্বরাগম",
+                        "সমীভবন",
+                        "ধ্বনিবিপর্যয়"
+                    ],
+                    "answer": 0,
+                    "why": "শব্দের মধ্য থেকে স্বরধ্বনি লোপ পাওয়াকে স্বরলোপ বলে: জানালা → জানলা।"
+                },
+                {
+                    "q": "‘বিলাতি’ থেকে 'বিলেতি' হওয়া কোন ধ্বনি পরিবর্তন?",
+                    "options": [
+                        "স্বরসঙ্গতি",
+                        "স্বরাগম",
+                        "অপিনিহিতি",
+                        "সমীভবন"
+                    ],
+                    "answer": 0,
+                    "why": "একটি স্বরধ্বনি অন্য স্বরধ্বনিকে প্রভাবিত করলে তাকে স্বরসঙ্গতি বলে: বিলাতি → বিলেতি।"
+                },
+                {
+                    "q": "‘সত্য’ থেকে 'সইত্য' হওয়া কোন ধ্বনি পরিবর্তন?",
+                    "options": [
+                        "অপিনিহিতি",
+                        "স্বরসঙ্গতি",
+                        "সমীভবন",
+                        "স্বরলোপ"
+                    ],
+                    "answer": 0,
+                    "why": "য-ফলার আগমনকে অপিনিহিতি বলে: সত্য → সইত্য।"
+                },
+                {
+                    "q": "‘রিকশা’ থেকে 'রিসকা' হওয়া কোন ধ্বনি পরিবর্তন?",
+                    "options": [
+                        "ধ্বনিবিপর্যয়",
+                        "স্বরাগম",
+                        "স্বরলোপ",
+                        "সমীভবন"
+                    ],
+                    "answer": 0,
+                    "why": "শব্দের মধ্যে দুটি ধ্বনির স্থান বদলকে ধ্বনিবিপর্যয় বলে: রিকশা → রিসকা।"
+                },
+                {
+                    "q": "‘পদ্ম’ থেকে 'পদ্দ' হওয়া কোন ধ্বনি পরিবর্তন?",
+                    "options": [
+                        "সমীভবন",
+                        "স্বরসঙ্গতি",
+                        "অপিনিহিতি",
+                        "ধ্বনিবিপর্যয়"
+                    ],
+                    "answer": 0,
+                    "why": "পাশাপাশি দুটি ভিন্ন ধ্বনি এক রকম হয়ে যাওয়াকে সমীভবন বলে: পদ্ম → পদ্দ।"
+                },
+                {
+                    "q": "‘করিয়া’ থেকে 'কইরা' হওয়া কোন ধ্বনি পরিবর্তন?",
+                    "options": [
+                        "অভিশ্রুতি",
+                        "স্বরাগম",
+                        "স্বরলোপ",
+                        "সমীভবন"
+                    ],
+                    "answer": 0,
+                    "why": "অপিনিহিতির 'ই'-কার পরে গিয়ে পূর্ব স্বরের সঙ্গে মিলে যাওয়াকে অভিশ্রুতি বলে: করিয়া → কইরা।"
+                },
+                {
+                    "q": "‘ফাল্গুন’ থেকে 'ফাগুন' হওয়া কোন ধ্বনি পরিবর্তন?",
+                    "options": [
+                        "অন্তর্হতি",
+                        "স্বরাগম",
+                        "স্বরসঙ্গতি",
+                        "ধ্বনিবিপর্যয়"
+                    ],
+                    "answer": 0,
+                    "why": "শব্দের মধ্য থেকে ব্যঞ্জনধ্বনি লোপ পাওয়াকে অন্তর্হতি বলে: ফাল্গুন → ফাগুন।"
+                },
+                {
+                    "q": "‘আমি ভাত খাই।’ — এটি কোন বাচ্য?",
+                    "options": [
+                        "কর্তৃবাচ্য",
+                        "কর্মবাচ্য",
+                        "ভাববাচ্য",
+                        "কর্মকর্তৃবাচ্য"
+                    ],
+                    "answer": 0,
+                    "why": "এখানে কর্তা (আমি) প্রধান, তাই এটি কর্তৃবাচ্য।"
+                },
+                {
+                    "q": "‘আমার দ্বারা ভাত খাওয়া হলো।’ — এটি কোন বাচ্য?",
+                    "options": [
+                        "কর্মবাচ্য",
+                        "কর্তৃবাচ্য",
+                        "ভাববাচ্য",
+                        "কর্মকর্তৃবাচ্য"
+                    ],
+                    "answer": 0,
+                    "why": "এখানে কর্ম (ভাত) প্রধান ও 'দ্বারা' আছে, তাই এটি কর্মবাচ্য।"
+                },
+                {
+                    "q": "‘আমার যাওয়া হবে না।’ — এটি কোন বাচ্য?",
+                    "options": [
+                        "ভাববাচ্য",
+                        "কর্তৃবাচ্য",
+                        "কর্মবাচ্য",
+                        "কর্মকর্তৃবাচ্য"
+                    ],
+                    "answer": 0,
+                    "why": "এখানে ক্রিয়ার ভাবই প্রধান, তাই এটি ভাববাচ্য।"
+                },
+                {
+                    "q": "‘এটি, ওটি, সেটি’ — এগুলো কোন ধরনের সর্বনাম?",
+                    "options": [
+                        "নির্দেশক সর্বনাম",
+                        "ব্যক্তিবাচক সর্বনাম",
+                        "প্রশ্নবাচক সর্বনাম",
+                        "আত্মবাচক সর্বনাম"
+                    ],
+                    "answer": 0,
+                    "why": "'এটি, ওটি' নির্দেশ করে বোঝায়, তাই এগুলো নির্দেশক সর্বনাম।"
+                },
+                {
+                    "q": "‘কে, কী, কারা’ — এগুলো কোন ধরনের সর্বনাম?",
+                    "options": [
+                        "প্রশ্নবাচক সর্বনাম",
+                        "নির্দেশক সর্বনাম",
+                        "ব্যক্তিবাচক সর্বনাম",
+                        "সাপেক্ষ সর্বনাম"
+                    ],
+                    "answer": 0,
+                    "why": "'কে, কী' দিয়ে প্রশ্ন করা হয়, তাই এগুলো প্রশ্নবাচক সর্বনাম।"
+                },
+                {
+                    "q": "‘কেউ, কিছু’ — এগুলো কোন ধরনের সর্বনাম?",
+                    "options": [
+                        "অনির্দিষ্ট সর্বনাম",
+                        "নির্দেশক সর্বনাম",
+                        "ব্যক্তিবাচক সর্বনাম",
+                        "প্রশ্নবাচক সর্বনাম"
+                    ],
+                    "answer": 0,
+                    "why": "'কেউ, কিছু' নির্দিষ্ট কাউকে বোঝায় না, তাই এগুলো অনির্দিষ্ট সর্বনাম।"
+                },
+                {
+                    "q": "‘যে পরিশ্রম করে, সে সফল হয়।’ — এখানে 'যে' কোন ধরনের সর্বনাম?",
+                    "options": [
+                        "সাপেক্ষ সর্বনাম",
+                        "নির্দেশক সর্বনাম",
+                        "প্রশ্নবাচক সর্বনাম",
+                        "ব্যক্তিবাচক সর্বনাম"
+                    ],
+                    "answer": 0,
+                    "why": "'যে...সে' পরস্পরের সাপেক্ষে ব্যবহৃত হয়, তাই 'যে' সাপেক্ষ সর্বনাম।"
+                },
+                {
+                    "q": "‘আমি ভাত খাই।’ — এখানে 'খাই' কোন ধরনের ক্রিয়া?",
+                    "options": [
+                        "সকর্মক ক্রিয়া",
+                        "অকর্মক ক্রিয়া",
+                        "প্রযোজক ক্রিয়া",
+                        "অসমাপিকা ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'খাই'-এর কর্ম (ভাত) আছে, তাই এটি সকর্মক ক্রিয়া।"
+                },
+                {
+                    "q": "‘সে ঘুমায়।’ — এখানে 'ঘুমায়' কোন ধরনের ক্রিয়া?",
+                    "options": [
+                        "অকর্মক ক্রিয়া",
+                        "সকর্মক ক্রিয়া",
+                        "প্রযোজক ক্রিয়া",
+                        "সমাপিকা ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'ঘুমায়'-এর কোনো কর্ম নেই, তাই এটি অকর্মক ক্রিয়া।"
+                },
+                {
+                    "q": "‘শিক্ষক ছাত্রকে পড়ান।’ — এখানে 'পড়ান' কোন ধরনের ক্রিয়া?",
+                    "options": [
+                        "প্রযোজক ক্রিয়া",
+                        "সকর্মক ক্রিয়া",
+                        "অকর্মক ক্রিয়া",
+                        "অসমাপিকা ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "অন্যের দ্বারা কাজ করানো বোঝালে তাকে প্রযোজক ক্রিয়া বলে: শিক্ষক ছাত্রকে পড়ান।"
+                },
+                {
+                    "q": "‘আমি বই পড়ে স্কুলে গেলাম।’ — এখানে 'পড়ে' কী?",
+                    "options": [
+                        "অসমাপিকা ক্রিয়া",
+                        "সমাপিকা ক্রিয়া",
+                        "প্রযোজক ক্রিয়া",
+                        "বিশেষণ"
+                    ],
+                    "answer": 0,
+                    "why": "'পড়ে' দিয়ে বাক্য শেষ হয় না, তাই এটি অসমাপিকা ক্রিয়া।"
+                },
+                {
+                    "q": "মাত্রাবৃত্ত ছন্দের অপর নাম কী?",
+                    "options": [
+                        "ধ্বনিপ্রধান ছন্দ",
+                        "তানপ্রধান ছন্দ",
+                        "ছড়ার ছন্দ",
+                        "অক্ষরপ্রধান ছন্দ"
+                    ],
+                    "answer": 0,
+                    "why": "মাত্রাবৃত্ত ছন্দের অপর নাম ধ্বনিপ্রধান ছন্দ।"
+                },
+                {
+                    "q": "স্বরবৃত্ত ছন্দের অপর নাম কী?",
+                    "options": [
+                        "ছড়ার ছন্দ",
+                        "তানপ্রধান ছন্দ",
+                        "ধ্বনিপ্রধান ছন্দ",
+                        "অক্ষরপ্রধান ছন্দ"
+                    ],
+                    "answer": 0,
+                    "why": "স্বরবৃত্ত ছন্দের অপর নাম ছড়ার ছন্দ।"
+                },
+                {
+                    "q": "পয়ার ছন্দে মোট কয়টি মাত্রা থাকে?",
+                    "options": [
+                        "১৪টি",
+                        "১২টি",
+                        "১৬টি",
+                        "১০টি"
+                    ],
+                    "answer": 0,
+                    "why": "পয়ার ছন্দে ৮ + ৬ = ১৪টি মাত্রা থাকে।"
+                },
+                {
+                    "q": "‘মেঘ যেন কালো চুল’ — এখানে কোন অলংকার?",
+                    "options": [
+                        "উৎপ্রেক্ষা",
+                        "উপমা",
+                        "রূপক",
+                        "অনুপ্রাস"
+                    ],
+                    "answer": 0,
+                    "why": "'যেন' দিয়ে সম্ভাবনা বোঝানো হয়েছে, তাই এটি উৎপ্রেক্ষা অলংকার।"
+                },
+                {
+                    "q": "‘কাক কালো কোকিল কালো’ — এখানে কোন অলংকার?",
+                    "options": [
+                        "অনুপ্রাস",
+                        "উপমা",
+                        "রূপক",
+                        "যমক"
+                    ],
+                    "answer": 0,
+                    "why": "একই ধ্বনির বারবার ব্যবহারকে অনুপ্রাস বলে।"
+                },
+                {
+                    "q": "এক শব্দে দুই অর্থ প্রকাশকে কী বলে?",
+                    "options": [
+                        "শ্লেষ",
+                        "যমক",
+                        "উপমা",
+                        "রূপক"
+                    ],
+                    "answer": 0,
+                    "why": "এক শব্দে একাধিক অর্থ প্রকাশ পেলে তাকে শ্লেষ অলংকার বলে।"
+                },
+                {
+                    "q": "একই শব্দ ভিন্ন অর্থে বারবার ব্যবহৃত হলে তাকে কী বলে?",
+                    "options": [
+                        "যমক",
+                        "শ্লেষ",
+                        "উপমা",
+                        "অনুপ্রাস"
+                    ],
+                    "answer": 0,
+                    "why": "একই শব্দ ভিন্ন ভিন্ন অর্থে পুনরাবৃত্ত হলে তাকে যমক অলংকার বলে।"
+                },
+                {
+                    "q": "চর্যাপদ কোন সময়ে রচিত?",
+                    "options": [
+                        "১০ম–১২শ শতাব্দী",
+                        "১৪শ–১৫শ শতাব্দী",
+                        "১৬শ–১৭শ শতাব্দী",
+                        "১৮শ শতাব্দী"
+                    ],
+                    "answer": 0,
+                    "why": "চর্যাপদ বাংলা সাহিত্যের প্রাচীনতম নিদর্শন, রচিত ১০ম–১২শ শতাব্দীতে।"
+                },
+                {
+                    "q": "‘সতী ময়না ও লোরচন্দ্রানী’ কাব্যের রচয়িতা কে?",
+                    "options": [
+                        "দৌলত কাজী",
+                        "আলাওল",
+                        "ভারতচন্দ্র",
+                        "বড়ু চণ্ডীদাস"
+                    ],
+                    "answer": 0,
+                    "why": "'সতী ময়না ও লোরচন্দ্রানী' কাব্যের রচয়িতা দৌলত কাজী।"
+                },
+                {
+                    "q": "মৈমনসিংহ গীতিকা সংগ্রহ করেন কে?",
+                    "options": [
+                        "চন্দ্রকুমার দে",
+                        "দীনেশচন্দ্র সেন",
+                        "হরপ্রসাদ শাস্ত্রী",
+                        "সুকুমার সেন"
+                    ],
+                    "answer": 0,
+                    "why": "মৈমনসিংহ গীতিকা সংগ্রহ করেন চন্দ্রকুমার দে; সম্পাদনা করেন দীনেশচন্দ্র সেন।"
+                },
+                {
+                    "q": "‘সীতার বনবাস’ গ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+                        "মাইকেল মধুসূদন দত্ত",
+                        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                        "শরৎচন্দ্র চট্টোপাধ্যায়"
+                    ],
+                    "answer": 0,
+                    "why": "'সীতার বনবাস' ঈশ্বরচন্দ্র বিদ্যাসাগরের রচনা।"
+                },
+                {
+                    "q": "‘নূরলদীনের সারাজীবন’ কাব্যের রচয়িতা কে?",
+                    "options": [
+                        "সৈয়দ শামসুল হক",
+                        "শামসুর রাহমান",
+                        "আল মাহমুদ",
+                        "সুফিয়া কামাল"
+                    ],
+                    "answer": 0,
+                    "why": "'নূরলদীনের সারাজীবন' সৈয়দ শামসুল হকের বিখ্যাত কাব্যনাট্য।"
+                },
+                {
+                    "q": "‘বন্দী শিবির থেকে’ কাব্যের রচয়িতা কে?",
+                    "options": [
+                        "শামসুর রাহমান",
+                        "সৈয়দ শামসুল হক",
+                        "আল মাহমুদ",
+                        "সুফিয়া কামাল"
+                    ],
+                    "answer": 0,
+                    "why": "'বন্দী শিবির থেকে' শামসুর রাহমানের মুক্তিযুদ্ধভিত্তিক কাব্যগ্রন্থ।"
+                },
+                {
+                    "q": "‘তাহারেই পড়ে মনে’ কবিতার রচয়িতা কে?",
+                    "options": [
+                        "সুফিয়া কামাল",
+                        "শামসুর রাহমান",
+                        "জসীমউদ্দীন",
+                        "কাজী নজরুল ইসলাম"
+                    ],
+                    "answer": 0,
+                    "why": "'তাহারেই পড়ে মনে' সুফিয়া কামালের বিখ্যাত কবিতা।"
+                },
+                {
+                    "q": "বাংলা ভাষায় প্রথম উপন্যাস কোনটি?",
+                    "options": [
+                        "আলালের ঘরের দুলাল",
+                        "দুর্গেশনন্দিনী",
+                        "কপালকুণ্ডলা",
+                        "হুতোম প্যাঁচার নকশা"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলা ভাষার প্রথম উপন্যাস 'আলালের ঘরের দুলাল' (১৮৫৮), রচয়িতা প্যারীচাঁদ মিত্র।"
+                },
+                {
+                    "q": "‘বেঙ্গল গেজেট’ প্রকাশিত হয় কত সালে?",
+                    "options": [
+                        "১৭৮০ সালে",
+                        "১৮১৮ সালে",
+                        "১৮৩১ সালে",
+                        "১৮৫৮ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'বেঙ্গল গেজেট' (১৭৮০) ভারতের প্রথম সংবাদপত্র; সম্পাদক জেমস অগাস্টাস হিকি।"
+                },
+                {
+                    "q": "‘বঙ্গদর্শন’ পত্রিকা প্রকাশিত হয় কত সালে?",
+                    "options": [
+                        "১৮৭২ সালে",
+                        "১৮৫৮ সালে",
+                        "১৮৬৫ সালে",
+                        "১৯১৪ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'বঙ্গদর্শন' (১৮৭২) পত্রিকার সম্পাদক ছিলেন বঙ্কিমচন্দ্র চট্টোপাধ্যায়।"
+                },
+                {
+                    "q": "‘কল্লোল’ পত্রিকা প্রকাশিত হয় কত সালে?",
+                    "options": [
+                        "১৯২৩ সালে",
+                        "১৯১৪ সালে",
+                        "১৯২২ সালে",
+                        "১৯২৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'কল্লোল' (১৯২৩) আধুনিক বাংলা সাহিত্যের গুরুত্বপূর্ণ পত্রিকা।"
+                },
+                {
+                    "q": "‘সাপ্তাহিক বেগম’ পত্রিকা প্রকাশিত হয় কত সালে?",
+                    "options": [
+                        "১৯৪৭ সালে",
+                        "১৯৩৬ সালে",
+                        "১৯৫২ সালে",
+                        "১৯২২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'সাপ্তাহিক বেগম' (১৯৪৭) নারীদের প্রথম সাপ্তাহিক পত্রিকা; সম্পাদক নূরজাহান বেগম।"
                 }
             ]
         },
@@ -43180,6 +43763,1106 @@
                     ],
                     "answer": 0,
                     "why": "Third conditional: 'Had I been rich, I would have helped the poor'."
+                },
+                {
+                    "q": "'Nobody can do this.' — Its interrogative form is —",
+                    "options": [
+                        "Can anybody do this?",
+                        "Can nobody do this?",
+                        "Who can do this?",
+                        "Can somebody do this?"
+                    ],
+                    "answer": 0,
+                    "why": "In the interrogative form, 'nobody' becomes 'anybody': 'Can anybody do this?'"
+                },
+                {
+                    "q": "'What a beautiful flower it is!' — Its assertive form is —",
+                    "options": [
+                        "It is a very beautiful flower.",
+                        "It is a beautiful flower.",
+                        "It is very beautiful flower.",
+                        "It is the most beautiful flower."
+                    ],
+                    "answer": 0,
+                    "why": "The exclamatory form becomes assertive: 'It is a very beautiful flower.'"
+                },
+                {
+                    "q": "'Being ill, he could not come.' — Its complex form is —",
+                    "options": [
+                        "As he was ill, he could not come.",
+                        "He was ill and could not come.",
+                        "Because of illness, he could not come.",
+                        "He could not come, as he was ill."
+                    ],
+                    "answer": 0,
+                    "why": "'Being ill' becomes the clause 'As he was ill'."
+                },
+                {
+                    "q": "'In spite of his poverty, he is honest.' — Its complex form is —",
+                    "options": [
+                        "Though he is poor, he is honest.",
+                        "As he is poor, he is honest.",
+                        "He is poor but honest.",
+                        "He is honest, though he is poor."
+                    ],
+                    "answer": 0,
+                    "why": "'In spite of' becomes 'though': 'Though he is poor, he is honest.'"
+                },
+                {
+                    "q": "'He worked hard to pass the exam.' — Its complex form is —",
+                    "options": [
+                        "He worked hard so that he could pass the exam.",
+                        "He worked hard and passed the exam.",
+                        "He worked hard but passed the exam.",
+                        "He worked hard to passing the exam."
+                    ],
+                    "answer": 0,
+                    "why": "'To pass' becomes 'so that he could pass'."
+                },
+                {
+                    "q": "'I saw a man running.' — Its complex form is —",
+                    "options": [
+                        "I saw a man who was running.",
+                        "I saw a man and running.",
+                        "I saw a man run.",
+                        "I saw a running man."
+                    ],
+                    "answer": 0,
+                    "why": "'Running' becomes the relative clause 'who was running'."
+                },
+                {
+                    "q": "'Dhaka is bigger than Chittagong.' — Its positive form is —",
+                    "options": [
+                        "Chittagong is not as big as Dhaka.",
+                        "Chittagong is as big as Dhaka.",
+                        "Dhaka is as big as Chittagong.",
+                        "Chittagong is bigger than Dhaka."
+                    ],
+                    "answer": 0,
+                    "why": "Comparative 'bigger than' becomes positive: 'Chittagong is not as big as Dhaka.'"
+                },
+                {
+                    "q": "'He is the best boy in the class.' — Its comparative form is —",
+                    "options": [
+                        "He is better than any other boy in the class.",
+                        "He is better than all boys in the class.",
+                        "He is better than the other boys.",
+                        "He is the better boy in the class."
+                    ],
+                    "answer": 0,
+                    "why": "Superlative 'the best' becomes comparative: 'He is better than any other boy in the class.'"
+                },
+                {
+                    "q": "'No other boy is as tall as Rahim.' — Its comparative form is —",
+                    "options": [
+                        "Rahim is taller than any other boy.",
+                        "Rahim is taller than all boys.",
+                        "Rahim is the tallest boy.",
+                        "Rahim is taller than other boy."
+                    ],
+                    "answer": 0,
+                    "why": "'No other...as tall as' becomes 'taller than any other boy'."
+                },
+                {
+                    "q": "'Very few cities are as big as Dhaka.' — Its comparative form is —",
+                    "options": [
+                        "Dhaka is bigger than most other cities.",
+                        "Dhaka is bigger than all cities.",
+                        "Dhaka is the biggest city.",
+                        "Dhaka is bigger than any city."
+                    ],
+                    "answer": 0,
+                    "why": "'Very few...as big as' becomes 'bigger than most other cities'."
+                },
+                {
+                    "q": "'Iron is more useful than any other metal.' — Its superlative form is —",
+                    "options": [
+                        "Iron is the most useful of all metals.",
+                        "Iron is the most useful metal.",
+                        "Iron is more useful than all metals.",
+                        "Iron is the most useful than any metal."
+                    ],
+                    "answer": 0,
+                    "why": "'More useful than any other' becomes 'the most useful of all metals'."
+                },
+                {
+                    "q": "'Gold is more precious than silver.' — Its positive form is —",
+                    "options": [
+                        "Silver is not as precious as gold.",
+                        "Silver is as precious as gold.",
+                        "Gold is as precious as silver.",
+                        "Silver is more precious than gold."
+                    ],
+                    "answer": 0,
+                    "why": "Comparative becomes positive: 'Silver is not as precious as gold.'"
+                },
+                {
+                    "q": "'She is the tallest girl in the class.' — Its positive form is —",
+                    "options": [
+                        "No other girl in the class is as tall as she.",
+                        "No girl in the class is as tall as she.",
+                        "She is taller than any girl.",
+                        "She is as tall as any girl."
+                    ],
+                    "answer": 0,
+                    "why": "Superlative becomes positive: 'No other girl in the class is as tall as she.'"
+                },
+                {
+                    "q": "'Either Rahim or his friends ___ done it.' — Fill in the blank.",
+                    "options": [
+                        "have",
+                        "has",
+                        "is",
+                        "was"
+                    ],
+                    "answer": 0,
+                    "why": "With 'either...or', the verb agrees with the nearer subject (friends): 'have'."
+                },
+                {
+                    "q": "'Neither he nor his brothers ___ present.' — Fill in the blank.",
+                    "options": [
+                        "were",
+                        "was",
+                        "is",
+                        "has been"
+                    ],
+                    "answer": 0,
+                    "why": "With 'neither...nor', the verb agrees with the nearer subject (brothers): 'were'."
+                },
+                {
+                    "q": "'Each boy and each girl ___ a pen.' — Fill in the blank.",
+                    "options": [
+                        "has",
+                        "have",
+                        "are",
+                        "is having"
+                    ],
+                    "answer": 0,
+                    "why": "'Each' takes a singular verb even when joined by 'and': 'Each boy and each girl has a pen.'"
+                },
+                {
+                    "q": "'Everybody ___ a duty.' — Fill in the blank.",
+                    "options": [
+                        "has",
+                        "have",
+                        "are",
+                        "were"
+                    ],
+                    "answer": 0,
+                    "why": "'Everybody' takes a singular verb: 'Everybody has a duty.'"
+                },
+                {
+                    "q": "'Fifty miles ___ a long distance.' — Fill in the blank.",
+                    "options": [
+                        "is",
+                        "are",
+                        "were",
+                        "have"
+                    ],
+                    "answer": 0,
+                    "why": "A distance taken as one amount takes a singular verb: 'Fifty miles is a long distance.'"
+                },
+                {
+                    "q": "'Mathematics ___ my favourite subject.' — Fill in the blank.",
+                    "options": [
+                        "is",
+                        "are",
+                        "were",
+                        "have"
+                    ],
+                    "answer": 0,
+                    "why": "'Mathematics' is a singular subject name: 'Mathematics is my favourite subject.'"
+                },
+                {
+                    "q": "'It is time we ___ home.' — Fill in the blank.",
+                    "options": [
+                        "went",
+                        "go",
+                        "have gone",
+                        "will go"
+                    ],
+                    "answer": 0,
+                    "why": "After 'It is time', the past form is used: 'It is time we went home.'"
+                },
+                {
+                    "q": "'I wish I ___ a king.' — Fill in the blank.",
+                    "options": [
+                        "were",
+                        "am",
+                        "was",
+                        "will be"
+                    ],
+                    "answer": 0,
+                    "why": "After 'wish', the past subjunctive 'were' is used: 'I wish I were a king.'"
+                },
+                {
+                    "q": "'He speaks as if he ___ everything.' — Fill in the blank.",
+                    "options": [
+                        "knew",
+                        "knows",
+                        "has known",
+                        "will know"
+                    ],
+                    "answer": 0,
+                    "why": "After 'as if', the past form is used: 'He speaks as if he knew everything.'"
+                },
+                {
+                    "q": "'Had I been there, I ___ have helped you.' — Fill in the blank.",
+                    "options": [
+                        "would",
+                        "will",
+                        "shall",
+                        "can"
+                    ],
+                    "answer": 0,
+                    "why": "'Had I been there, I would have helped you' — third conditional."
+                },
+                {
+                    "q": "'If he had come, I ___ have met him.' — Fill in the blank.",
+                    "options": [
+                        "would",
+                        "will",
+                        "shall",
+                        "can"
+                    ],
+                    "answer": 0,
+                    "why": "Third conditional: 'If he had come, I would have met him.'"
+                },
+                {
+                    "q": "'If I were you, I ___ do it.' — Fill in the blank.",
+                    "options": [
+                        "would",
+                        "will",
+                        "shall",
+                        "can"
+                    ],
+                    "answer": 0,
+                    "why": "Second conditional: 'If I were you, I would do it.'"
+                },
+                {
+                    "q": "'He has been reading ___ morning.' — Fill in the blank.",
+                    "options": [
+                        "since",
+                        "for",
+                        "from",
+                        "by"
+                    ],
+                    "answer": 0,
+                    "why": "'Since' is used with a point of time (morning)."
+                },
+                {
+                    "q": "'Let him ___.' — Fill in the blank.",
+                    "options": [
+                        "go",
+                        "to go",
+                        "going",
+                        "went"
+                    ],
+                    "answer": 0,
+                    "why": "After 'let', the bare infinitive is used: 'Let him go.'"
+                },
+                {
+                    "q": "'You had better ___ now.' — Fill in the blank.",
+                    "options": [
+                        "leave",
+                        "to leave",
+                        "leaving",
+                        "left"
+                    ],
+                    "answer": 0,
+                    "why": "After 'had better', the bare infinitive is used: 'You had better leave now.'"
+                },
+                {
+                    "q": "'He is used to ___ hard.' — Fill in the blank.",
+                    "options": [
+                        "working",
+                        "work",
+                        "to work",
+                        "worked"
+                    ],
+                    "answer": 0,
+                    "why": "After 'used to' (accustomed), the -ing form is used: 'He is used to working hard.'"
+                },
+                {
+                    "q": "'It is high time we ___ our habit.' — Fill in the blank.",
+                    "options": [
+                        "changed",
+                        "change",
+                        "have changed",
+                        "will change"
+                    ],
+                    "answer": 0,
+                    "why": "After 'It is high time', the past form is used: 'It is high time we changed our habit.'"
+                },
+                {
+                    "q": "'He insisted on my ___ there.' — Fill in the blank.",
+                    "options": [
+                        "going",
+                        "go",
+                        "to go",
+                        "went"
+                    ],
+                    "answer": 0,
+                    "why": "After a preposition ('on'), the -ing form is used: 'He insisted on my going there.'"
+                },
+                {
+                    "q": "'I look forward to ___ you.' — Fill in the blank.",
+                    "options": [
+                        "meeting",
+                        "meet",
+                        "to meet",
+                        "met"
+                    ],
+                    "answer": 0,
+                    "why": "After 'look forward to', the -ing form is used: 'I look forward to meeting you.'"
+                },
+                {
+                    "q": "'He denied ___ the money.' — Fill in the blank.",
+                    "options": [
+                        "stealing",
+                        "steal",
+                        "to steal",
+                        "stole"
+                    ],
+                    "answer": 0,
+                    "why": "After 'deny', the -ing form is used: 'He denied stealing the money.'"
+                },
+                {
+                    "q": "'Would you mind ___ the door?' — Fill in the blank.",
+                    "options": [
+                        "opening",
+                        "open",
+                        "to open",
+                        "opened"
+                    ],
+                    "answer": 0,
+                    "why": "After 'mind', the -ing form is used: 'Would you mind opening the door?'"
+                },
+                {
+                    "q": "'By the time he came, we ___ finished.' — Fill in the blank.",
+                    "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "will have"
+                    ],
+                    "answer": 0,
+                    "why": "Past perfect is used for the earlier action: 'By the time he came, we had finished.'"
+                },
+                {
+                    "q": "'If you read more, you ___.' — Complete the sentence.",
+                    "options": [
+                        "will learn more",
+                        "would learn more",
+                        "learnt more",
+                        "learn more"
+                    ],
+                    "answer": 0,
+                    "why": "First conditional: 'If you read more, you will learn more.'"
+                },
+                {
+                    "q": "'As soon as he came, ___.' — Complete the sentence.",
+                    "options": [
+                        "we left",
+                        "we leave",
+                        "we will leave",
+                        "we had left"
+                    ],
+                    "answer": 0,
+                    "why": "'As soon as he came, we left' — both actions in the past."
+                },
+                {
+                    "q": "'No sooner had he come ___ we left.' — Fill in the blank.",
+                    "options": [
+                        "than",
+                        "when",
+                        "as",
+                        "then"
+                    ],
+                    "answer": 0,
+                    "why": "'No sooner...than' is the correct pair: 'No sooner had he come than we left.'"
+                },
+                {
+                    "q": "'Hardly had I reached there ___ it started raining.' — Fill in the blank.",
+                    "options": [
+                        "when",
+                        "than",
+                        "then",
+                        "as"
+                    ],
+                    "answer": 0,
+                    "why": "'Hardly...when' is the correct pair: 'Hardly had I reached there when it started raining.'"
+                },
+                {
+                    "q": "'He is so weak that ___.' — Complete the sentence.",
+                    "options": [
+                        "he cannot walk",
+                        "he can walk",
+                        "he walks",
+                        "he walked"
+                    ],
+                    "answer": 0,
+                    "why": "'He is so weak that he cannot walk' — 'so...that' shows result."
+                },
+                {
+                    "q": "'Lest you should miss the train, ___.' — Complete the sentence.",
+                    "options": [
+                        "start early",
+                        "start late",
+                        "sleep well",
+                        "wait long"
+                    ],
+                    "answer": 0,
+                    "why": "'Lest you should miss the train, start early' — 'lest' means 'so that not'."
+                },
+                {
+                    "q": "'He ran fast so that he ___ catch the bus.' — Fill in the blank.",
+                    "options": [
+                        "could",
+                        "can",
+                        "will",
+                        "may"
+                    ],
+                    "answer": 0,
+                    "why": "Past purpose: 'He ran fast so that he could catch the bus.'"
+                },
+                {
+                    "q": "'If you heat ice, it ___.' — Fill in the blank.",
+                    "options": [
+                        "melts",
+                        "will melt",
+                        "would melt",
+                        "melted"
+                    ],
+                    "answer": 0,
+                    "why": "Zero conditional (universal truth): 'If you heat ice, it melts.'"
+                },
+                {
+                    "q": "'If I get the money, I ___ buy a book.' — Fill in the blank.",
+                    "options": [
+                        "will",
+                        "would",
+                        "shall have",
+                        "can"
+                    ],
+                    "answer": 0,
+                    "why": "First conditional: 'If I get the money, I will buy a book.'"
+                },
+                {
+                    "q": "'If he had studied, he ___ have passed.' — Fill in the blank.",
+                    "options": [
+                        "would",
+                        "will",
+                        "shall",
+                        "can"
+                    ],
+                    "answer": 0,
+                    "why": "Third conditional: 'If he had studied, he would have passed.'"
+                },
+                {
+                    "q": "'I have just ___ my work.' — Fill in the blank.",
+                    "options": [
+                        "finished",
+                        "finish",
+                        "finishing",
+                        "finishes"
+                    ],
+                    "answer": 0,
+                    "why": "With 'just', the present perfect is used: 'I have just finished my work.'"
+                },
+                {
+                    "q": "'He has been ill ___ Monday.' — Fill in the blank.",
+                    "options": [
+                        "since",
+                        "for",
+                        "from",
+                        "by"
+                    ],
+                    "answer": 0,
+                    "why": "'Since' is used with a point of time: 'He has been ill since Monday.'"
+                },
+                {
+                    "q": "'They will have ___ by then.' — Fill in the blank.",
+                    "options": [
+                        "reached",
+                        "reach",
+                        "reaching",
+                        "reaches"
+                    ],
+                    "answer": 0,
+                    "why": "Future perfect: 'They will have reached by then.'"
+                },
+                {
+                    "q": "'While I was walking, I ___ an accident.' — Fill in the blank.",
+                    "options": [
+                        "saw",
+                        "see",
+                        "have seen",
+                        "am seeing"
+                    ],
+                    "answer": 0,
+                    "why": "Past continuous with simple past: 'While I was walking, I saw an accident.'"
+                },
+                {
+                    "q": "'He will be ___ at this time tomorrow.' — Fill in the blank.",
+                    "options": [
+                        "playing",
+                        "play",
+                        "played",
+                        "plays"
+                    ],
+                    "answer": 0,
+                    "why": "Future continuous: 'He will be playing at this time tomorrow.'"
+                },
+                {
+                    "q": "'He is interested ___ reading.' — Fill in the blank.",
+                    "options": [
+                        "in",
+                        "on",
+                        "at",
+                        "for"
+                    ],
+                    "answer": 0,
+                    "why": "'Interested in' is the correct phrase: 'He is interested in reading.'"
+                },
+                {
+                    "q": "'I have known him ___ ten years.' — Fill in the blank.",
+                    "options": [
+                        "for",
+                        "since",
+                        "from",
+                        "by"
+                    ],
+                    "answer": 0,
+                    "why": "'For' is used with a period of time: 'I have known him for ten years.'"
+                },
+                {
+                    "q": "'He came ___ bus.' — Fill in the blank.",
+                    "options": [
+                        "by",
+                        "in",
+                        "on",
+                        "with"
+                    ],
+                    "answer": 0,
+                    "why": "'By bus' is correct for a means of transport."
+                },
+                {
+                    "q": "'She is blind ___ one eye.' — Fill in the blank.",
+                    "options": [
+                        "in",
+                        "to",
+                        "of",
+                        "with"
+                    ],
+                    "answer": 0,
+                    "why": "'Blind in one eye' is correct; 'blind to' is used for faults."
+                },
+                {
+                    "q": "'He is blind ___ his own faults.' — Fill in the blank.",
+                    "options": [
+                        "to",
+                        "in",
+                        "of",
+                        "with"
+                    ],
+                    "answer": 0,
+                    "why": "'Blind to' is used for something one fails to notice: 'He is blind to his own faults.'"
+                },
+                {
+                    "q": "'He is better than ___ other student.' — Fill in the blank.",
+                    "options": [
+                        "any",
+                        "all",
+                        "every",
+                        "each"
+                    ],
+                    "answer": 0,
+                    "why": "'Better than any other student' is the correct comparative form."
+                },
+                {
+                    "q": "'I know where he lives.' — 'Where he lives' is a —",
+                    "options": [
+                        "Noun clause",
+                        "Adjective clause",
+                        "Adverb clause",
+                        "Phrase"
+                    ],
+                    "answer": 0,
+                    "why": "'Where he lives' acts as the object of 'know', so it is a noun clause."
+                },
+                {
+                    "q": "'The boy who is playing is my brother.' — 'Who is playing' is a —",
+                    "options": [
+                        "Adjective clause",
+                        "Noun clause",
+                        "Adverb clause",
+                        "Phrase"
+                    ],
+                    "answer": 0,
+                    "why": "'Who is playing' describes the noun 'boy', so it is an adjective clause."
+                },
+                {
+                    "q": "'If you work hard, you will succeed.' — 'If you work hard' is a —",
+                    "options": [
+                        "Adverb clause",
+                        "Noun clause",
+                        "Adjective clause",
+                        "Phrase"
+                    ],
+                    "answer": 0,
+                    "why": "'If you work hard' modifies the verb 'will succeed', so it is an adverb clause."
+                },
+                {
+                    "q": "'Walking is good for health.' — 'Walking' is a —",
+                    "options": [
+                        "Gerund phrase",
+                        "Infinitive phrase",
+                        "Participle phrase",
+                        "Prepositional phrase"
+                    ],
+                    "answer": 0,
+                    "why": "'Walking' acts as the subject (noun), so it is a gerund phrase."
+                },
+                {
+                    "q": "'He came here to see me.' — 'To see me' is a —",
+                    "options": [
+                        "Infinitive phrase",
+                        "Gerund phrase",
+                        "Participle phrase",
+                        "Noun phrase"
+                    ],
+                    "answer": 0,
+                    "why": "'To see me' is a 'to + verb' form, so it is an infinitive phrase."
+                },
+                {
+                    "q": "'The man with a stick is my uncle.' — 'With a stick' is a —",
+                    "options": [
+                        "Adjective phrase",
+                        "Adverb phrase",
+                        "Noun phrase",
+                        "Verb phrase"
+                    ],
+                    "answer": 0,
+                    "why": "'With a stick' describes the noun 'man', so it is an adjective phrase."
+                },
+                {
+                    "q": "What is the prefix in 'unhappy'?",
+                    "options": [
+                        "un-",
+                        "happy",
+                        "-py",
+                        "unh-"
+                    ],
+                    "answer": 0,
+                    "why": "'Unhappy' = 'un-' + 'happy'; 'un-' is the prefix meaning 'not'."
+                },
+                {
+                    "q": "What is the prefix in 'misunderstand'?",
+                    "options": [
+                        "mis-",
+                        "under-",
+                        "stand",
+                        "misun-"
+                    ],
+                    "answer": 0,
+                    "why": "'Misunderstand' = 'mis-' + 'understand'; 'mis-' means 'wrongly'."
+                },
+                {
+                    "q": "What is the prefix in 'rewrite'?",
+                    "options": [
+                        "re-",
+                        "wri-",
+                        "write",
+                        "-te"
+                    ],
+                    "answer": 0,
+                    "why": "'Rewrite' = 're-' + 'write'; 're-' means 'again'."
+                },
+                {
+                    "q": "What is the prefix in 'prepaid'?",
+                    "options": [
+                        "pre-",
+                        "paid",
+                        "prepa-",
+                        "-id"
+                    ],
+                    "answer": 0,
+                    "why": "'Prepaid' = 'pre-' + 'paid'; 'pre-' means 'before'."
+                },
+                {
+                    "q": "What is the prefix in 'dislike'?",
+                    "options": [
+                        "dis-",
+                        "like",
+                        "disl-",
+                        "-ke"
+                    ],
+                    "answer": 0,
+                    "why": "'Dislike' = 'dis-' + 'like'; 'dis-' means 'not'."
+                },
+                {
+                    "q": "What is the suffix in 'kindness'?",
+                    "options": [
+                        "-ness",
+                        "kind-",
+                        "-ess",
+                        "kindn-"
+                    ],
+                    "answer": 0,
+                    "why": "'Kindness' = 'kind' + '-ness'; '-ness' turns an adjective into a noun."
+                },
+                {
+                    "q": "What is the suffix in 'beautiful'?",
+                    "options": [
+                        "-ful",
+                        "beauti-",
+                        "-ul",
+                        "beau-"
+                    ],
+                    "answer": 0,
+                    "why": "'Beautiful' = 'beauty' + '-ful'; '-ful' means 'full of'."
+                },
+                {
+                    "q": "What is the suffix in 'careless'?",
+                    "options": [
+                        "-less",
+                        "care-",
+                        "-ess",
+                        "carel-"
+                    ],
+                    "answer": 0,
+                    "why": "'Careless' = 'care' + '-less'; '-less' means 'without'."
+                },
+                {
+                    "q": "What is the suffix in 'quickly'?",
+                    "options": [
+                        "-ly",
+                        "quick-",
+                        "-y",
+                        "quic-"
+                    ],
+                    "answer": 0,
+                    "why": "'Quickly' = 'quick' + '-ly'; '-ly' turns an adjective into an adverb."
+                },
+                {
+                    "q": "What is the suffix in 'teacher'?",
+                    "options": [
+                        "-er",
+                        "teach-",
+                        "-her",
+                        "teac-"
+                    ],
+                    "answer": 0,
+                    "why": "'Teacher' = 'teach' + '-er'; '-er' means 'one who does'."
+                },
+                {
+                    "q": "What is the suffix in 'childhood'?",
+                    "options": [
+                        "-hood",
+                        "child-",
+                        "-ood",
+                        "chil-"
+                    ],
+                    "answer": 0,
+                    "why": "'Childhood' = 'child' + '-hood'; '-hood' means 'the state of being'."
+                },
+                {
+                    "q": "What is the suffix in 'freedom'?",
+                    "options": [
+                        "-dom",
+                        "free-",
+                        "-om",
+                        "fre-"
+                    ],
+                    "answer": 0,
+                    "why": "'Freedom' = 'free' + '-dom'; '-dom' means 'the state of'."
+                },
+                {
+                    "q": "'They have done it, ___?' — Fill in the blank.",
+                    "options": [
+                        "haven't they",
+                        "have they",
+                        "didn't they",
+                        "don't they"
+                    ],
+                    "answer": 0,
+                    "why": "Positive statement takes a negative tag: 'They have done it, haven't they?'"
+                },
+                {
+                    "q": "'Let us go, ___?' — Fill in the blank.",
+                    "options": [
+                        "shall we",
+                        "will we",
+                        "should we",
+                        "can we"
+                    ],
+                    "answer": 0,
+                    "why": "After 'Let us', the tag is 'shall we': 'Let us go, shall we?'"
+                },
+                {
+                    "q": "'I am a student, ___?' — Fill in the blank.",
+                    "options": [
+                        "aren't I",
+                        "amn't I",
+                        "isn't I",
+                        "don't I"
+                    ],
+                    "answer": 0,
+                    "why": "The tag for 'I am' is 'aren't I': 'I am a student, aren't I?'"
+                },
+                {
+                    "q": "'Nobody came, ___?' — Fill in the blank.",
+                    "options": [
+                        "did they",
+                        "didn't they",
+                        "did he",
+                        "didn't he"
+                    ],
+                    "answer": 0,
+                    "why": "'Nobody' takes a plural pronoun and a positive tag: 'Nobody came, did they?'"
+                },
+                {
+                    "q": "'He never comes, ___?' — Fill in the blank.",
+                    "options": [
+                        "does he",
+                        "doesn't he",
+                        "did he",
+                        "is he"
+                    ],
+                    "answer": 0,
+                    "why": "'Never' makes the statement negative, so the tag is positive: 'He never comes, does he?'"
+                },
+                {
+                    "q": "'Open the door, ___?' — Fill in the blank.",
+                    "options": [
+                        "will you",
+                        "won't you",
+                        "shall you",
+                        "do you"
+                    ],
+                    "answer": 0,
+                    "why": "An imperative takes the tag 'will you': 'Open the door, will you?'"
+                },
+                {
+                    "q": "'He gave me a book.' — Its passive form is —",
+                    "options": [
+                        "A book was given to me by him.",
+                        "A book is given to me by him.",
+                        "I was given a book by him.",
+                        "A book was gave to me by him."
+                    ],
+                    "answer": 0,
+                    "why": "Past simple passive: 'A book was given to me by him.'"
+                },
+                {
+                    "q": "'Who broke the glass?' — Its passive form is —",
+                    "options": [
+                        "By whom was the glass broken?",
+                        "By whom the glass was broken?",
+                        "Who was the glass broken by?",
+                        "By whom was the glass break?"
+                    ],
+                    "answer": 0,
+                    "why": "Passive of a 'who' question: 'By whom was the glass broken?'"
+                },
+                {
+                    "q": "'Do it.' — Its passive form is —",
+                    "options": [
+                        "Let it be done.",
+                        "Let it do.",
+                        "It be done.",
+                        "Let it is done."
+                    ],
+                    "answer": 0,
+                    "why": "Imperative passive: 'Do it' becomes 'Let it be done.'"
+                },
+                {
+                    "q": "'They will build a bridge.' — Its passive form is —",
+                    "options": [
+                        "A bridge will be built by them.",
+                        "A bridge will build by them.",
+                        "A bridge is built by them.",
+                        "A bridge will be build by them."
+                    ],
+                    "answer": 0,
+                    "why": "Future passive: 'A bridge will be built by them.'"
+                },
+                {
+                    "q": "'He said to me, \"Are you ill?\"' — Its indirect form is —",
+                    "options": [
+                        "He asked me if I was ill.",
+                        "He asked me that I was ill.",
+                        "He said to me if I am ill.",
+                        "He asked me whether I am ill."
+                    ],
+                    "answer": 0,
+                    "why": "Yes/no questions use 'if/whether' and the past tense: 'He asked me if I was ill.'"
+                },
+                {
+                    "q": "'She said, \"May you be happy!\"' — Its indirect form is —",
+                    "options": [
+                        "She wished that I might be happy.",
+                        "She wished that I may be happy.",
+                        "She said that I am happy.",
+                        "She wished that you may be happy."
+                    ],
+                    "answer": 0,
+                    "why": "Optative sentences use 'wished' and 'might': 'She wished that I might be happy.'"
+                },
+                {
+                    "q": "'The teacher said, \"Do not make a noise.\"' — Its indirect form is —",
+                    "options": [
+                        "The teacher forbade us to make a noise.",
+                        "The teacher said us not to make a noise.",
+                        "The teacher ordered us make a noise.",
+                        "The teacher said that we do not make a noise."
+                    ],
+                    "answer": 0,
+                    "why": "Negative imperatives use 'forbade...to': 'The teacher forbade us to make a noise.'"
+                },
+                {
+                    "q": "'He said, \"Hurrah! We have won.\"' — Its indirect form is —",
+                    "options": [
+                        "He exclaimed with joy that they had won.",
+                        "He exclaimed with joy that we have won.",
+                        "He said that they had won.",
+                        "He exclaimed that we won."
+                    ],
+                    "answer": 0,
+                    "why": "Exclamatory sentences use 'exclaimed with joy': 'He exclaimed with joy that they had won.'"
+                },
+                {
+                    "q": "'He said to me, \"Please help me.\"' — Its indirect form is —",
+                    "options": [
+                        "He requested me to help him.",
+                        "He requested me that help him.",
+                        "He said to me to help him.",
+                        "He requested me help him."
+                    ],
+                    "answer": 0,
+                    "why": "'Please' shows a request: 'He requested me to help him.'"
+                },
+                {
+                    "q": "'At a loss' means —",
+                    "options": [
+                        "Puzzled",
+                        "Lost money",
+                        "Angry",
+                        "Happy"
+                    ],
+                    "answer": 0,
+                    "why": "'At a loss' means puzzled or unable to decide what to do."
+                },
+                {
+                    "q": "'In the long run' means —",
+                    "options": [
+                        "In the end",
+                        "For a long time",
+                        "Running fast",
+                        "In a race"
+                    ],
+                    "answer": 0,
+                    "why": "'In the long run' means in the end or ultimately."
+                },
+                {
+                    "q": "'By leaps and bounds' means —",
+                    "options": [
+                        "Rapidly",
+                        "Slowly",
+                        "Carefully",
+                        "Secretly"
+                    ],
+                    "answer": 0,
+                    "why": "'By leaps and bounds' means very rapidly."
+                },
+                {
+                    "q": "'Cut a sorry figure' means —",
+                    "options": [
+                        "Make a poor impression",
+                        "Cut a picture",
+                        "Look sad",
+                        "Feel sorry"
+                    ],
+                    "answer": 0,
+                    "why": "'Cut a sorry figure' means to make a poor impression."
+                },
+                {
+                    "q": "'To take to task' means —",
+                    "options": [
+                        "To rebuke",
+                        "To give work",
+                        "To praise",
+                        "To help"
+                    ],
+                    "answer": 0,
+                    "why": "'To take to task' means to scold or rebuke someone."
+                },
+                {
+                    "q": "'Crocodile tears' means —",
+                    "options": [
+                        "False tears",
+                        "Real sorrow",
+                        "Tears of joy",
+                        "Animal tears"
+                    ],
+                    "answer": 0,
+                    "why": "'Crocodile tears' means pretended or false sorrow."
+                },
+                {
+                    "q": "'To end in smoke' means —",
+                    "options": [
+                        "To fail",
+                        "To succeed",
+                        "To burn",
+                        "To disappear"
+                    ],
+                    "answer": 0,
+                    "why": "'To end in smoke' means to come to nothing; to fail."
+                },
+                {
+                    "q": "'Out of the question' means —",
+                    "options": [
+                        "Impossible",
+                        "Easy",
+                        "Possible",
+                        "Doubtful"
+                    ],
+                    "answer": 0,
+                    "why": "'Out of the question' means impossible or not to be considered."
+                },
+                {
+                    "q": "'Man of letters' means —",
+                    "options": [
+                        "A scholar",
+                        "A postman",
+                        "A writer of letters",
+                        "A teacher"
+                    ],
+                    "answer": 0,
+                    "why": "'Man of letters' means a learned person or scholar."
+                },
+                {
+                    "q": "'Hard and fast' means —",
+                    "options": [
+                        "Fixed",
+                        "Difficult",
+                        "Quick",
+                        "Strong"
+                    ],
+                    "answer": 0,
+                    "why": "'Hard and fast' means fixed and unchangeable, as in 'a hard and fast rule'."
+                },
+                {
+                    "q": "'To keep one's word' means —",
+                    "options": [
+                        "To keep one's promise",
+                        "To speak loudly",
+                        "To remain silent",
+                        "To write a letter"
+                    ],
+                    "answer": 0,
+                    "why": "'To keep one's word' means to keep one's promise."
                 }
             ]
         },
@@ -61050,6 +62733,446 @@
                     ],
                     "answer": 0,
                     "why": "ঘনকের ১২টি ধার থাকে।"
+                },
+                {
+                    "q": "{a, b} সেটের উপসেট কয়টি?",
+                    "options": [
+                        "৪টি",
+                        "২টি",
+                        "৩টি",
+                        "৬টি"
+                    ],
+                    "answer": 0,
+                    "why": "n উপাদানের সেটের উপসেট ২^n টি: ২^২ = ৪টি।"
+                },
+                {
+                    "q": "শূন্য সেটকে কোন চিহ্ন দিয়ে প্রকাশ করা হয়?",
+                    "options": [
+                        "∅",
+                        "∞",
+                        "∈",
+                        "⊂"
+                    ],
+                    "answer": 0,
+                    "why": "শূন্য সেটকে ∅ চিহ্ন দিয়ে প্রকাশ করা হয়।"
+                },
+                {
+                    "q": "A = {১, ২, ৩, ৪} হলে A-এর প্রকৃত উপসেট কয়টি?",
+                    "options": [
+                        "১৫টি",
+                        "১৬টি",
+                        "১৪টি",
+                        "৮টি"
+                    ],
+                    "answer": 0,
+                    "why": "মোট উপসেট ২^৪ = ১৬টি; প্রকৃত উপসেট = ১৬ − ১ = ১৫টি।"
+                },
+                {
+                    "q": "x² − ৭x + ১২ = ০ সমীকরণের মূলদ্বয় কত?",
+                    "options": [
+                        "৩, ৪",
+                        "২, ৬",
+                        "১, ১২",
+                        "৪, ৫"
+                    ],
+                    "answer": 0,
+                    "why": "x² − ৭x + ১২ = (x − ৩)(x − ৪) = ০, তাই মূলদ্বয় ৩ ও ৪।"
+                },
+                {
+                    "q": "x² − ৪x + ৪ = ০ সমীকরণের নিশ্চায়ক (b² − ৪ac) কত?",
+                    "options": [
+                        "০",
+                        "৪",
+                        "−৪",
+                        "১৬"
+                    ],
+                    "answer": 0,
+                    "why": "b² − ৪ac = (−৪)² − ৪×১×৪ = ১৬ − ১৬ = ০; মূলদ্বয় সমান।"
+                },
+                {
+                    "q": "x² − ৬x + ৮ = ০ সমীকরণের মূলদ্বয়ের সমষ্টি কত?",
+                    "options": [
+                        "৬",
+                        "৮",
+                        "−৬",
+                        "১৪"
+                    ],
+                    "answer": 0,
+                    "why": "মূলদ্বয়ের সমষ্টি = −b/a = ৬।"
+                },
+                {
+                    "q": "tan ৬০° = কত?",
+                    "options": [
+                        "√৩",
+                        "১/√৩",
+                        "১",
+                        "√৩/২"
+                    ],
+                    "answer": 0,
+                    "why": "tan ৬০° = √৩।"
+                },
+                {
+                    "q": "sin ৬০° = কত?",
+                    "options": [
+                        "√৩/২",
+                        "১/২",
+                        "১/√২",
+                        "১"
+                    ],
+                    "answer": 0,
+                    "why": "sin ৬০° = √৩/২।"
+                },
+                {
+                    "q": "cos ৩০° = কত?",
+                    "options": [
+                        "√৩/২",
+                        "১/২",
+                        "১/√২",
+                        "১"
+                    ],
+                    "answer": 0,
+                    "why": "cos ৩০° = √৩/২।"
+                },
+                {
+                    "q": "secθ = কত?",
+                    "options": [
+                        "১/cosθ",
+                        "১/sinθ",
+                        "১/tanθ",
+                        "sinθ/cosθ"
+                    ],
+                    "answer": 0,
+                    "why": "secθ = ১/cosθ।"
+                },
+                {
+                    "q": "cosecθ = কত?",
+                    "options": [
+                        "১/sinθ",
+                        "১/cosθ",
+                        "১/tanθ",
+                        "sinθ/cosθ"
+                    ],
+                    "answer": 0,
+                    "why": "cosecθ = ১/sinθ।"
+                },
+                {
+                    "q": "cotθ = কত?",
+                    "options": [
+                        "১/tanθ",
+                        "১/sinθ",
+                        "১/cosθ",
+                        "sinθ/cosθ"
+                    ],
+                    "answer": 0,
+                    "why": "cotθ = ১/tanθ = cosθ/sinθ।"
+                },
+                {
+                    "q": "বর্গক্ষেত্রের এক বাহু ৮ সেমি হলে ক্ষেত্রফল কত?",
+                    "options": [
+                        "৬৪ বর্গ সেমি",
+                        "৩২ বর্গ সেমি",
+                        "১৬ বর্গ সেমি",
+                        "৮ বর্গ সেমি"
+                    ],
+                    "answer": 0,
+                    "why": "বর্গক্ষেত্রের ক্ষেত্রফল = বাহু² = ৮² = ৬৪ বর্গ সেমি।"
+                },
+                {
+                    "q": "ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয় ১০ সেমি ও ৬ সেমি, উচ্চতা ৪ সেমি হলে ক্ষেত্রফল কত?",
+                    "options": [
+                        "৩২ বর্গ সেমি",
+                        "৬৪ বর্গ সেমি",
+                        "৪০ বর্গ সেমি",
+                        "১৬ বর্গ সেমি"
+                    ],
+                    "answer": 0,
+                    "why": "ট্রাপিজিয়ামের ক্ষেত্রফল = (সমান্তরাল বাহুর সমষ্টি/২) × উচ্চতা = (১৬/২) × ৪ = ৩২ বর্গ সেমি।"
+                },
+                {
+                    "q": "ঘনকের এক বাহু ৫ সেমি হলে সমগ্র পৃষ্ঠতলের ক্ষেত্রফল কত?",
+                    "options": [
+                        "১৫০ বর্গ সেমি",
+                        "১২৫ বর্গ সেমি",
+                        "২৫ বর্গ সেমি",
+                        "৭৫ বর্গ সেমি"
+                    ],
+                    "answer": 0,
+                    "why": "ঘনকের পৃষ্ঠতল = ৬ × বাহু² = ৬ × ২৫ = ১৫০ বর্গ সেমি।"
+                },
+                {
+                    "q": "সিলিন্ডারের ব্যাসার্ধ ৭ সেমি, উচ্চতা ১০ সেমি হলে আয়তন কত? (π = ২২/৭)",
+                    "options": [
+                        "১৫৪০ ঘন সেমি",
+                        "৪৪০ ঘন সেমি",
+                        "১৫৪ ঘন সেমি",
+                        "৭৭০ ঘন সেমি"
+                    ],
+                    "answer": 0,
+                    "why": "সিলিন্ডারের আয়তন = πr²h = (২২/৭) × ৪৯ × ১০ = ১৫৪০ ঘন সেমি।"
+                },
+                {
+                    "q": "a = ৫, b = ৩ হলে a² − b² = কত?",
+                    "options": [
+                        "১৬",
+                        "৮",
+                        "২",
+                        "৩৪"
+                    ],
+                    "answer": 0,
+                    "why": "a² − b² = ২৫ − ৯ = ১৬।"
+                },
+                {
+                    "q": "x + ১/x = ৪ হলে x² + ১/x² = কত?",
+                    "options": [
+                        "১৪",
+                        "১৬",
+                        "১২",
+                        "১৮"
+                    ],
+                    "answer": 0,
+                    "why": "x² + ১/x² = (x + ১/x)² − ২ = ১৬ − ২ = ১৪।"
+                },
+                {
+                    "q": "৩(x − ২) = ১২ হলে x = কত?",
+                    "options": [
+                        "৬",
+                        "৪",
+                        "২",
+                        "৮"
+                    ],
+                    "answer": 0,
+                    "why": "x − ২ = ৪, তাই x = ৬।"
+                },
+                {
+                    "q": "৫, ১০, ১৫, ২০, ২৫-এর মধ্যক কত?",
+                    "options": [
+                        "১৫",
+                        "১০",
+                        "২০",
+                        "১২"
+                    ],
+                    "answer": 0,
+                    "why": "মাঝের মান ১৫, তাই মধ্যক ১৫।"
+                },
+                {
+                    "q": "২, ৪, ৬, ৮, ১০, ১২-এর মধ্যক কত?",
+                    "options": [
+                        "৭",
+                        "৬",
+                        "৮",
+                        "৫"
+                    ],
+                    "answer": 0,
+                    "why": "জোড় সংখ্যক মানের মধ্যক = মাঝের দুটির গড় = (৬ + ৮)/২ = ৭।"
+                },
+                {
+                    "q": "৪, ৮, ৬, ৪, ৯, ৪-এর প্রচুরক কত?",
+                    "options": [
+                        "৪",
+                        "৮",
+                        "৬",
+                        "৯"
+                    ],
+                    "answer": 0,
+                    "why": "৪ সবচেয়ে বেশি বার (৩ বার) আছে, তাই প্রচুরক ৪।"
+                },
+                {
+                    "q": "০–১০ শ্রেণির শ্রেণি ব্যবধান কত?",
+                    "options": [
+                        "১০",
+                        "৫",
+                        "০",
+                        "২০"
+                    ],
+                    "answer": 0,
+                    "why": "শ্রেণি ব্যবধান = ঊর্ধ্বসীমা − নিম্নসীমা = ১০ − ০ = ১০।"
+                },
+                {
+                    "q": "বর্গক্ষেত্রের কর্ণদ্বয় পরস্পরকে কেমনভাবে ছেদ করে?",
+                    "options": [
+                        "সমকোণে সমদ্বিখণ্ডিত করে",
+                        "সমান্তরালভাবে",
+                        "অসমভাবে",
+                        "তির্যকভাবে"
+                    ],
+                    "answer": 0,
+                    "why": "বর্গক্ষেত্রের কর্ণদ্বয় পরস্পরকে সমকোণে সমদ্বিখণ্ডিত করে।"
+                },
+                {
+                    "q": "রম্বসের কর্ণদ্বয় পরস্পরকে কেমনভাবে ছেদ করে?",
+                    "options": [
+                        "সমকোণে সমদ্বিখণ্ডিত করে",
+                        "সমানভাবে নয়",
+                        "সমান্তরালভাবে",
+                        "তির্যকভাবে"
+                    ],
+                    "answer": 0,
+                    "why": "রম্বসের কর্ণদ্বয় পরস্পরকে সমকোণে সমদ্বিখণ্ডিত করে।"
+                },
+                {
+                    "q": "ট্রাপিজিয়ামের কয় জোড়া বিপরীত বাহু সমান্তরাল?",
+                    "options": [
+                        "এক জোড়া",
+                        "দুই জোড়া",
+                        "কোনোটিই নয়",
+                        "তিন জোড়া"
+                    ],
+                    "answer": 0,
+                    "why": "ট্রাপিজিয়ামের এক জোড়া বিপরীত বাহু সমান্তরাল হয়।"
+                },
+                {
+                    "q": "৩, ৬, ১২, ২৪, … ধারার ৬ষ্ঠ পদ কত?",
+                    "options": [
+                        "৯৬",
+                        "৪৮",
+                        "৭২",
+                        "১৯২"
+                    ],
+                    "answer": 0,
+                    "why": "গুণোত্তর ধারা, সাধারণ অনুপাত ২: ৬ষ্ঠ পদ = ৩ × ২⁵ = ৯৬।"
+                },
+                {
+                    "q": "২, ৬, ১৮, … ধারার ৫ম পদ কত?",
+                    "options": [
+                        "১৬২",
+                        "৫৪",
+                        "১০৮",
+                        "২৪৩"
+                    ],
+                    "answer": 0,
+                    "why": "গুণোত্তর ধারা, সাধারণ অনুপাত ৩: ৫ম পদ = ২ × ৩⁴ = ১৬২।"
+                },
+                {
+                    "q": "প্রথম পদ ৫, সাধারণ অনুপাত ৩ হলে গুণোত্তর ধারার ৪র্থ পদ কত?",
+                    "options": [
+                        "১৩৫",
+                        "৪৫",
+                        "৯০",
+                        "৪০৫"
+                    ],
+                    "answer": 0,
+                    "why": "৪র্থ পদ = ৫ × ৩³ = ৫ × ২৭ = ১৩৫।"
+                },
+                {
+                    "q": "⁵P₂ = কত?",
+                    "options": [
+                        "২০",
+                        "১০",
+                        "২৫",
+                        "৫"
+                    ],
+                    "answer": 0,
+                    "why": "⁵P₂ = ৫ × ৪ = ২০।"
+                },
+                {
+                    "q": "⁵C₂ = কত?",
+                    "options": [
+                        "১০",
+                        "২০",
+                        "৫",
+                        "২৫"
+                    ],
+                    "answer": 0,
+                    "why": "⁵C₂ = (৫ × ৪)/(২ × ১) = ১০।"
+                },
+                {
+                    "q": "তাসের প্যাক থেকে লাল কার্ড তোলার সম্ভাবনা কত?",
+                    "options": [
+                        "১/২",
+                        "১/৪",
+                        "১/৩",
+                        "১/১৩"
+                    ],
+                    "answer": 0,
+                    "why": "৫২টি তাসের মধ্যে লাল ২৬টি: সম্ভাবনা ২৬/৫২ = ১/২।"
+                },
+                {
+                    "q": "১ থেকে ১০ পর্যন্ত সংখ্যা থেকে জোড় সংখ্যা তোলার সম্ভাবনা কত?",
+                    "options": [
+                        "১/২",
+                        "১/৫",
+                        "২/৫",
+                        "৩/৫"
+                    ],
+                    "answer": 0,
+                    "why": "১–১০-এ জোড় সংখ্যা ৫টি: সম্ভাবনা ৫/১০ = ১/২।"
+                },
+                {
+                    "q": "আসল ৫০০০ টাকা, বার্ষিক সুদ ১০%, ২ বছরে সরল সুদ কত?",
+                    "options": [
+                        "১০০০ টাকা",
+                        "৫০০ টাকা",
+                        "২০০০ টাকা",
+                        "১৫০০ টাকা"
+                    ],
+                    "answer": 0,
+                    "why": "সরল সুদ = (৫০০০ × ১০ × ২)/১০০ = ১০০০ টাকা।"
+                },
+                {
+                    "q": "আসল ১০০০০ টাকা, বার্ষিক সুদ ৫%, ৩ বছরে সরল সুদ কত?",
+                    "options": [
+                        "১৫০০ টাকা",
+                        "৫০০ টাকা",
+                        "৩০০০ টাকা",
+                        "১০০০ টাকা"
+                    ],
+                    "answer": 0,
+                    "why": "সরল সুদ = (১০০০০ × ৫ × ৩)/১০০ = ১৫০০ টাকা।"
+                },
+                {
+                    "q": "আসল ১০০০ টাকা, বার্ষিক চক্রবৃদ্ধি সুদ ১০%, ২ বছর পর সুদ-আসল কত?",
+                    "options": [
+                        "১২১০ টাকা",
+                        "১২০০ টাকা",
+                        "১১০০ টাকা",
+                        "১৩০০ টাকা"
+                    ],
+                    "answer": 0,
+                    "why": "চক্রবৃদ্ধি সুদ-আসল = ১০০০ × (১.১)² = ১২১০ টাকা।"
+                },
+                {
+                    "q": "আসল ৪০০০ টাকা, বার্ষিক চক্রবৃদ্ধি সুদ ১০%, ১ বছর পর সুদ-আসল কত?",
+                    "options": [
+                        "৪৪০০ টাকা",
+                        "৪০০০ টাকা",
+                        "৪৮০০ টাকা",
+                        "৪২০০ টাকা"
+                    ],
+                    "answer": 0,
+                    "why": "চক্রবৃদ্ধি সুদ-আসল = ৪০০০ × ১.১ = ৪৪০০ টাকা।"
+                },
+                {
+                    "q": "ক্রয়মূল্য ৫০০ টাকা, বিক্রয়মূল্য ৪৫০ টাকা হলে ক্ষতির হার কত?",
+                    "options": [
+                        "১০%",
+                        "৫%",
+                        "১৫%",
+                        "২০%"
+                    ],
+                    "answer": 0,
+                    "why": "ক্ষতি = ৫০ টাকা; ক্ষতির হার = (৫০/৫০০) × ১০০ = ১০%।"
+                },
+                {
+                    "q": "নৌকার বেগ ১২ কিমি/ঘণ্টা, স্রোতের বেগ ৪ কিমি/ঘণ্টা হলে স্রোতের প্রতিকূলে বেগ কত?",
+                    "options": [
+                        "৮ কিমি/ঘণ্টা",
+                        "১৬ কিমি/ঘণ্টা",
+                        "১২ কিমি/ঘণ্টা",
+                        "৪ কিমি/ঘণ্টা"
+                    ],
+                    "answer": 0,
+                    "why": "প্রতিকূলে বেগ = নৌকার বেগ − স্রোতের বেগ = ১২ − ৪ = ৮ কিমি/ঘণ্টা।"
+                },
+                {
+                    "q": "x : y = ৩ : ৪ এবং x + y = ২৮ হলে x = কত?",
+                    "options": [
+                        "১২",
+                        "১৬",
+                        "৭",
+                        "২১"
+                    ],
+                    "answer": 0,
+                    "why": "x = ২৮ × ৩/(৩ + ৪) = ২৮ × ৩/৭ = ১২।"
                 }
             ]
         },
@@ -78952,6 +81075,160 @@
                     ],
                     "answer": 0,
                     "why": "মঙ্গলের মাটিতে আয়রন অক্সাইড (মরিচা) থাকায় গ্রহটি লাল দেখায়।"
+                },
+                {
+                    "q": "বাংলাদেশের জলবায়ু কেমন?",
+                    "options": [
+                        "ক্রান্তীয় মৌসুমি জলবায়ু",
+                        "মরু জলবায়ু",
+                        "শীতল জলবায়ু",
+                        "ভূমধ্যসাগরীয় জলবায়ু"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের জলবায়ু ক্রান্তীয় মৌসুমি জলবায়ু।"
+                },
+                {
+                    "q": "মুদ্রাস্ফীতি বলতে কী বোঝায়?",
+                    "options": [
+                        "দ্রব্যমূল্যের সাধারণ বৃদ্ধি",
+                        "মুদ্রার মূল্য বৃদ্ধি",
+                        "সুদের হার কমা",
+                        "বেকারত্ব বাড়া"
+                    ],
+                    "answer": 0,
+                    "why": "মুদ্রাস্ফীতি হলো সময়ের সঙ্গে দ্রব্য ও সেবার সাধারণ মূল্যস্তর বৃদ্ধি।"
+                },
+                {
+                    "q": "বাংলাদেশের চা উৎপাদনে বিখ্যাত জেলা কোনটি?",
+                    "options": [
+                        "সিলেট",
+                        "ঢাকা",
+                        "খুলনা",
+                        "বরিশাল"
+                    ],
+                    "answer": 0,
+                    "why": "সিলেট ও মৌলভীবাজারে বাংলাদেশের বেশিরভাগ চা বাগান আছে।"
+                },
+                {
+                    "q": "WTO-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "World Trade Organization",
+                        "World Transport Organization",
+                        "World Tourism Organization",
+                        "World Treaty Organization"
+                    ],
+                    "answer": 0,
+                    "why": "WTO = World Trade Organization — বিশ্ব বাণিজ্য সংস্থা।"
+                },
+                {
+                    "q": "UNESCO-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "United Nations Educational, Scientific and Cultural Organization",
+                        "United Nations Economic and Social Organization",
+                        "United Nations Environment and Science Organization",
+                        "United Nations Education and Sports Organization"
+                    ],
+                    "answer": 0,
+                    "why": "UNESCO = United Nations Educational, Scientific and Cultural Organization।"
+                },
+                {
+                    "q": "মুক্তিযুদ্ধে সর্বোচ্চ খেতাব 'বীরশ্রেষ্ঠ' কতজন পান?",
+                    "options": [
+                        "৭ জন",
+                        "৬৯ জন",
+                        "১৭৫ জন",
+                        "৪২৬ জন"
+                    ],
+                    "answer": 0,
+                    "why": "মুক্তিযুদ্ধে বীরশ্রেষ্ঠ খেতাব পান ৭ জন।"
+                },
+                {
+                    "q": "মুজিবনগর সরকার শপথ নেয় কত তারিখে?",
+                    "options": [
+                        "১৭ এপ্রিল ১৯৭১",
+                        "১০ এপ্রিল ১৯৭১",
+                        "২৬ মার্চ ১৯৭১",
+                        "১৬ ডিসেম্বর ১৯৭১"
+                    ],
+                    "answer": 0,
+                    "why": "মুজিবনগর সরকার গঠিত হয় ১০ এপ্রিল ও শপথ নেয় ১৭ এপ্রিল ১৯৭১।"
+                },
+                {
+                    "q": "ছয় দফা দাবি উত্থাপিত হয় কত সালে?",
+                    "options": [
+                        "১৯৬৬ সালে",
+                        "১৯৬৯ সালে",
+                        "১৯৬৮ সালে",
+                        "১৯৭০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বঙ্গবন্ধু শেখ মুজিবুর রহমান ১৯৬৬ সালে ছয় দফা দাবি উত্থাপন করেন।"
+                },
+                {
+                    "q": "ভাষা আন্দোলনের শহীদদের মধ্যে কে 'শহীদ' হিসেবে প্রথম পরিচিত?",
+                    "options": [
+                        "সালাম, বরকত, রফিক, জব্বার, শফিউর",
+                        "সালাম ও বরকত",
+                        "রফিক ও জব্বার",
+                        "শফিউর ও সালাম"
+                    ],
+                    "answer": 0,
+                    "why": "২১ ফেব্রুয়ারি ১৯৫২ সালে সালাম, বরকত, রফিক, জব্বার ও শফিউর শহীদ হন।"
+                },
+                {
+                    "q": "ঢাকা মেট্রোরেল (MRT-6) প্রথম চালু হয় কত সালে?",
+                    "options": [
+                        "২০২২ সালে",
+                        "২০২১ সালে",
+                        "২০২৩ সালে",
+                        "২০২০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "ঢাকা মেট্রোরেলের প্রথম অংশ (উত্তরা–আগারগাঁও) ২৮ ডিসেম্বর ২০২২ সালে চালু হয়।"
+                },
+                {
+                    "q": "বঙ্গবন্ধু টানেল উদ্বোধন হয় কত সালে?",
+                    "options": [
+                        "২০২৩ সালে",
+                        "২০২২ সালে",
+                        "২০২৪ সালে",
+                        "২০২১ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বঙ্গবন্ধু টানেল ২৮ অক্টোবর ২০২৩ সালে উদ্বোধন হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের প্রথম পারমাণবিক বিদ্যুৎকেন্দ্র কোনটি?",
+                    "options": [
+                        "রূপপুর",
+                        "কাপ্তাই",
+                        "আশুগঞ্জ",
+                        "মাতারবাড়ী"
+                    ],
+                    "answer": 0,
+                    "why": "রূপপুর বাংলাদেশের প্রথম পারমাণবিক বিদ্যুৎকেন্দ্র।"
+                },
+                {
+                    "q": "ষাট গম্বুজ মসজিদ UNESCO বিশ্ব ঐতিহ্য হয় কত সালে?",
+                    "options": [
+                        "১৯৮৫ সালে",
+                        "১৯৯৭ সালে",
+                        "১৯৯৯ সালে",
+                        "২০০০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাগেরহাটের ষাট গম্বুজ মসজিদ ১৯৮৫ সালে UNESCO বিশ্ব ঐতিহ্য হয়।"
+                },
+                {
+                    "q": "পাহাড়পুর বৌদ্ধবিহার UNESCO বিশ্ব ঐতিহ্য হয় কত সালে?",
+                    "options": [
+                        "১৯৮৫ সালে",
+                        "১৯৯৭ সালে",
+                        "১৯৯৯ সালে",
+                        "২০০০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "নওগাঁর পাহাড়পুর বৌদ্ধবিহার ১৯৮৫ সালে UNESCO বিশ্ব ঐতিহ্য হয়।"
                 }
             ]
         },
@@ -108765,6 +111042,281 @@
                     ],
                     "answer": 0,
                     "why": "উইন্ডোজে সফটওয়্যার ইনস্টল করতে সাধারণত .exe (Executable) ফাইল চালানো হয়।"
+                },
+                {
+                    "q": "এথিক্যাল হ্যাকিং কাকে বলে?",
+                    "options": [
+                        "অনুমতি নিয়ে নিরাপত্তার দুর্বলতা খুঁজে বের করা",
+                        "অনুমতি ছাড়া অন্যের তথ্য চুরি করা",
+                        "ভাইরাস তৈরি করা",
+                        "পাসওয়ার্ড ভেঙে ঢোকা"
+                    ],
+                    "answer": 0,
+                    "why": "এথিক্যাল হ্যাকিং হলো মালিকের অনুমতি নিয়ে সিস্টেমের নিরাপত্তার দুর্বলতা খুঁজে ঠিক করা।"
+                },
+                {
+                    "q": "গ্রে হ্যাট হ্যাকার কে?",
+                    "options": [
+                        "কখনো ভালো, কখনো মন্দ উদ্দেশ্যে হ্যাক করেন",
+                        "শুধু ভালো কাজ করেন",
+                        "শুধু খারাপ কাজ করেন",
+                        "হ্যাকিং জানেন না"
+                    ],
+                    "answer": 0,
+                    "why": "গ্রে হ্যাট হ্যাকার হোয়াইট ও ব্ল্যাক হ্যাটের মাঝামাঝি — অনুমতি ছাড়া ঢুকলেও ক্ষতি না করে দুর্বলতা জানিয়ে দেন।"
+                },
+                {
+                    "q": "পেনিট্রেশন টেস্টিং কী?",
+                    "options": [
+                        "অনুমতি নিয়ে সিস্টেমের নিরাপত্তা পরীক্ষা করা",
+                        "ভাইরাস ছড়ানো",
+                        "পাসওয়ার্ড ভাঙা",
+                        "ডেটা মুছে ফেলা"
+                    ],
+                    "answer": 0,
+                    "why": "পেনিট্রেশন টেস্টিং হলো অনুমতি নিয়ে হ্যাকারের মতো করে সিস্টেমের দুর্বলতা খুঁজে বের করা।"
+                },
+                {
+                    "q": "সাইবার নিরাপত্তায় 'ভালনারেবিলিটি' বলতে কী বোঝায়?",
+                    "options": [
+                        "সিস্টেমের দুর্বলতা, যেখান দিয়ে আক্রমণ সম্ভব",
+                        "শক্তিশালী পাসওয়ার্ড",
+                        "ভালো অ্যান্টিভাইরাস",
+                        "দ্রুত ইন্টারনেট"
+                    ],
+                    "answer": 0,
+                    "why": "ভালনারেবিলিটি হলো সিস্টেমের এমন দুর্বলতা, যা দিয়ে আক্রমণকারী ঢুকতে পারে।"
+                },
+                {
+                    "q": "বাংলাদেশে সাইবার অপরাধ নিয়ন্ত্রণে প্রথম আইন কোনটি?",
+                    "options": [
+                        "তথ্য ও যোগাযোগ প্রযুক্তি আইন, ২০০৬",
+                        "ডিজিটাল নিরাপত্তা আইন, ২০১৮",
+                        "সাইবার নিরাপত্তা আইন, ২০২৩",
+                        "দণ্ডবিধি, ১৮৬০"
+                    ],
+                    "answer": 0,
+                    "why": "তথ্য ও যোগাযোগ প্রযুক্তি (ICT) আইন, ২০০৬ বাংলাদেশে সাইবার অপরাধ নিয়ন্ত্রণের প্রথম আইন।"
+                },
+                {
+                    "q": "e-GP কীসের জন্য ব্যবহৃত হয়?",
+                    "options": [
+                        "সরকারি ক্রয় (টেন্ডার) অনলাইনে করতে",
+                        "ব্যক্তিগত কেনাকাটা করতে",
+                        "পরীক্ষার ফল দেখতে",
+                        "টিকিট কাটতে"
+                    ],
+                    "answer": 0,
+                    "why": "e-GP-এর মাধ্যমে সরকারি দপ্তরের টেন্ডার ও ক্রয় প্রক্রিয়া অনলাইনে সম্পন্ন হয়।"
+                },
+                {
+                    "q": "গেটওয়ে কী?",
+                    "options": [
+                        "দুটি ভিন্ন ধরনের নেটওয়ার্ককে যুক্ত করা যন্ত্র",
+                        "এক ধরনের কেবল",
+                        "এক ধরনের প্রিন্টার",
+                        "এক ধরনের মেমোরি"
+                    ],
+                    "answer": 0,
+                    "why": "গেটওয়ে ভিন্ন প্রোটোকল বা ভিন্ন ধরনের দুটি নেটওয়ার্ককে পরস্পর যুক্ত করে।"
+                },
+                {
+                    "q": "ব্রিজ কী করে?",
+                    "options": [
+                        "দুটি ল্যান অংশকে যুক্ত করে",
+                        "ইন্টারনেটের গতি বাড়ায়",
+                        "ভাইরাস ধরে",
+                        "ফাইল সংরক্ষণ করে"
+                    ],
+                    "answer": 0,
+                    "why": "ব্রিজ (Bridge) দুটি ল্যান অংশকে যুক্ত করে ডেটা চলাচল নিয়ন্ত্রণ করে।"
+                },
+                {
+                    "q": "MAC ঠিকানা কাকে বলে?",
+                    "options": [
+                        "নেটওয়ার্ক ডিভাইসের স্থায়ী ভৌত ঠিকানা",
+                        "ই-মেইল ঠিকানা",
+                        "ওয়েবসাইটের ঠিকানা",
+                        "কম্পিউটারের নাম"
+                    ],
+                    "answer": 0,
+                    "why": "MAC ঠিকানা হলো নেটওয়ার্ক ডিভাইসের (যেমন নেটওয়ার্ক কার্ডের) স্থায়ী ভৌত ঠিকানা।"
+                },
+                {
+                    "q": "192.168.0.1 ধরনের ঠিকানা কোন শ্রেণির?",
+                    "options": [
+                        "ব্যক্তিগত (Private) IP ঠিকানা",
+                        "পাবলিক IP ঠিকানা",
+                        "DNS ঠিকানা",
+                        "MAC ঠিকানা"
+                    ],
+                    "answer": 0,
+                    "why": "১৯২.১৬৮.x.x হলো ব্যক্তিগত নেটওয়ার্কে ব্যবহৃত Private IP ঠিকানা।"
+                },
+                {
+                    "q": "HTML-এ সবচেয়ে বড় শিরোনাম (heading) কোন ট্যাগে লেখা হয়?",
+                    "options": [
+                        "<h1>",
+                        "<h6>",
+                        "<head>",
+                        "<title>"
+                    ],
+                    "answer": 0,
+                    "why": "HTML-এ <h1> সবচেয়ে বড় শিরোনাম, <h6> সবচেয়ে ছোট।"
+                },
+                {
+                    "q": "CSS-এ ক্লাস সিলেক্ট করতে কোন চিহ্ন ব্যবহৃত হয়?",
+                    "options": [
+                        "ডট (.)",
+                        "হ্যাশ (#)",
+                        "তারকা (*)",
+                        "ডলার ($)"
+                    ],
+                    "answer": 0,
+                    "why": "CSS-এ ক্লাস সিলেক্ট করতে ডট (.) ও আইডি সিলেক্ট করতে হ্যাশ (#) ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "JavaScript-এ সতর্কবার্তা (alert) দেখাতে কোন ফাংশন ব্যবহৃত হয়?",
+                    "options": [
+                        "alert()",
+                        "print()",
+                        "show()",
+                        "msg()"
+                    ],
+                    "answer": 0,
+                    "why": "JavaScript-এ alert() ফাংশন দিয়ে ব্রাউজারে সতর্কবার্তা দেখানো হয়।"
+                },
+                {
+                    "q": "Python-এ তালিকা (list) লিখতে কোন বন্ধনী ব্যবহৃত হয়?",
+                    "options": [
+                        "তৃতীয় বন্ধনী [ ]",
+                        "প্রথম বন্ধনী ( )",
+                        "দ্বিতীয় বন্ধনী { }",
+                        "কোণ বন্ধনী < >"
+                    ],
+                    "answer": 0,
+                    "why": "Python-এ লিস্ট লিখতে তৃতীয় বন্ধনী [ ] ব্যবহৃত হয়, যেমন [1, 2, 3]।"
+                },
+                {
+                    "q": "Python-এ টাপল (tuple) লিখতে কোন বন্ধনী ব্যবহৃত হয়?",
+                    "options": [
+                        "প্রথম বন্ধনী ( )",
+                        "তৃতীয় বন্ধনী [ ]",
+                        "দ্বিতীয় বন্ধনী { }",
+                        "কোণ বন্ধনী < >"
+                    ],
+                    "answer": 0,
+                    "why": "Python-এ টাপল লিখতে প্রথম বন্ধনী ( ) ব্যবহৃত হয়, যেমন (1, 2, 3)।"
+                },
+                {
+                    "q": "Python-এ ডিকশনারি লিখতে কোন বন্ধনী ব্যবহৃত হয়?",
+                    "options": [
+                        "দ্বিতীয় বন্ধনী { }",
+                        "প্রথম বন্ধনী ( )",
+                        "তৃতীয় বন্ধনী [ ]",
+                        "কোণ বন্ধনী < >"
+                    ],
+                    "answer": 0,
+                    "why": "Python-এ ডিকশনারি key-value জোড়ায় দ্বিতীয় বন্ধনী { }-তে লেখা হয়।"
+                },
+                {
+                    "q": "Java প্রোগ্রাম চালাতে কোনটি প্রয়োজন?",
+                    "options": [
+                        "JVM (Java Virtual Machine)",
+                        "কম্পাইলার শুধু",
+                        "ব্রাউজার শুধু",
+                        "ইন্টারনেট"
+                    ],
+                    "answer": 0,
+                    "why": "Java প্রোগ্রাম চালাতে JVM (Java Virtual Machine) প্রয়োজন।"
+                },
+                {
+                    "q": "অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিংয়ে ক্লাস কাকে বলে?",
+                    "options": [
+                        "অবজেক্ট তৈরির নকশা বা ছাঁচ",
+                        "এক ধরনের ফাংশন",
+                        "এক ধরনের ভেরিয়েবল",
+                        "এক ধরনের লুপ"
+                    ],
+                    "answer": 0,
+                    "why": "ক্লাস হলো অবজেক্ট তৈরির নকশা; ক্লাস থেকে অনেক অবজেক্ট তৈরি করা যায়।"
+                },
+                {
+                    "q": "ডেটাবেজ থেকে তথ্য দেখতে কোন SQL কমান্ড ব্যবহৃত হয়?",
+                    "options": [
+                        "SELECT",
+                        "INSERT",
+                        "DELETE",
+                        "UPDATE"
+                    ],
+                    "answer": 0,
+                    "why": "ডেটাবেজ থেকে তথ্য দেখতে বা বের করতে SELECT কমান্ড ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ডেটাবেজে নতুন তথ্য যোগ করতে কোন SQL কমান্ড ব্যবহৃত হয়?",
+                    "options": [
+                        "INSERT",
+                        "SELECT",
+                        "DELETE",
+                        "UPDATE"
+                    ],
+                    "answer": 0,
+                    "why": "ডেটাবেজে নতুন রেকর্ড যোগ করতে INSERT কমান্ড ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "অ্যান্ড্রয়েড অ্যাপ ইনস্টল করতে কোন ফাইল ব্যবহৃত হয়?",
+                    "options": [
+                        "APK ফাইল",
+                        "EXE ফাইল",
+                        "DOCX ফাইল",
+                        "MP3 ফাইল"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যান্ড্রয়েড অ্যাপের ইনস্টল ফাইল APK (Android Package Kit) ফরম্যাটে থাকে।"
+                },
+                {
+                    "q": "APK-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "Android Package Kit",
+                        "Android Program Key",
+                        "Application Package Kit",
+                        "Android Phone Kit"
+                    ],
+                    "answer": 0,
+                    "why": "APK = Android Package Kit — অ্যান্ড্রয়েড অ্যাপের প্যাকেজ ফাইল।"
+                },
+                {
+                    "q": "অ্যান্ড্রয়েড অ্যাপ তৈরিতে সাধারণত কোন সফটওয়্যার ব্যবহৃত হয়?",
+                    "options": [
+                        "Android Studio",
+                        "MS Word",
+                        "Photoshop",
+                        "Excel"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যান্ড্রয়েড অ্যাপ তৈরির সরকারি IDE হলো Android Studio।"
+                },
+                {
+                    "q": "ওয়েবসাইট হোস্টিং কাকে বলে?",
+                    "options": [
+                        "ওয়েবসাইটের ফাইল সার্ভারে রেখে ইন্টারনেটে চালু রাখা",
+                        "ওয়েবসাইট তৈরি করা",
+                        "ডোমেইন কেনা",
+                        "ই-মেইল পাঠানো"
+                    ],
+                    "answer": 0,
+                    "why": "হোস্টিং হলো ওয়েবসাইটের ফাইল সার্ভারে রেখে তা ইন্টারনেটে চালু রাখার সেবা।"
+                },
+                {
+                    "q": "ওয়েব সার্ভারের কাজ কী?",
+                    "options": [
+                        "ব্রাউজারের অনুরোধে ওয়েবপৃষ্ঠা পাঠানো",
+                        "ফাইল প্রিন্ট করা",
+                        "ভাইরাস ধরা",
+                        "ই-মেইল পাঠানো"
+                    ],
+                    "answer": 0,
+                    "why": "ওয়েব সার্ভার ব্রাউজারের অনুরোধ পেলে সংরক্ষিত ওয়েবপৃষ্ঠা পাঠিয়ে দেয়।"
                 }
             ]
         }
