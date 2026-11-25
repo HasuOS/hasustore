@@ -776,13 +776,13 @@
    "name": "HasuIsland",
    "tag": "The Dynamic Island, as its own app",
    "desc": "The Dynamic Island in its own app, connected to HasuOS Home: time, your song with play/pause, charging, incoming calls, timer and stopwatch — floating over every app. Living in its own app, a launcher restart can never take it down.",
-   "code": 6,
-   "versionName": "1.05",
+   "code": 7,
+   "versionName": "1.06",
    "size": 1907380,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/island.apk",
-   "changes": "Look & icons: themes, icon sets and pill looks (new ones arrive by themselves), 5 app-icon designs · Settings page with notification controls, quiet hours and a full settings backup · island returns by itself after a phone restart · background update checks · Permissions page completed",
-   "ts": 1795592342,
-   "etag": "0x8DF4AC7258D3DF7",
+   "changes": "Fixes from your screenshots: every app-icon design now shows its picture in Look (tiles + full preview) · the Battery (unrestricted) row now really opens the switch · the main screen no longer hides under the status bar — and neither do Look, Settings, Permissions, About or Guide",
+   "ts": 1795593001,
+   "etag": "0x8DF4AC8AD617502",
    "cat": "HasuOS"
   },
   {
