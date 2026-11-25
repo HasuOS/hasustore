@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "generatedAt": 1795532680,
+    "generatedAt": 1795561379,
     "jobs": [
         {
             "id": "bpsc-non-cadre-2026",
@@ -273,6 +273,50 @@
             "category": "ICT",
             "track": "graduate",
             "location": "সারা দেশ",
+            "pdfUrl": ""
+        },
+        {
+            "id": "bcps-computer-operator-2026",
+            "title": "বাংলাদেশ কলেজ অব ফিজিশিয়ানস্ এন্ড সার্জনস্ নিয়োগ বিজ্ঞপ্তি ২০২৬",
+            "org": "Bangladesh College of Physicians & Surgeons (BCPS)",
+            "posts": "কম্পিউটার অপারেটর (Computer Operator) — ১২টি",
+            "vacancy": 12,
+            "qualification": "Bachelor's degree or equivalent from a recognised university AND a Diploma in Computer from a recognised institute; MS Office proficiency preferred. Age up to 32 (as of 22 Nov 2026).",
+            "salary": "সর্বসাকুল্যে ৳20,212 per month (fixed consolidated pay — outsourcing, no pay scale)",
+            "startDate": "2026-11-23",
+            "deadline": "2026-12-15",
+            "deadlineTime": "14:00",
+            "fee": "৳500 (bank draft / pay order, non-refundable)",
+            "applyUrl": "",
+            "sourceUrl": "https://bdgovt.info/bcps-job-circular/",
+            "published": "2026-11-23",
+            "note": "This is an OUTSOURCING appointment on a fully temporary basis, NOT a permanent government post: fixed consolidated monthly pay ৳20,212, no grade/pay scale. Circular (memo BCPS No-776/2026/27451, 22 Nov 2026; published in The Daily Star, 23 Nov 2026) covers 22 posts in 4 categories — of them, only the Computer Operator post (12) is open to bachelor's-degree holders with a computer diploma. This application is NOT online: write on plain paper with a full CV and send by registered post, courier or in person to the Secretary, BCPS, 67 Shahid Tajuddin Ahmed Sarani, Mohakhali, Dhaka-1212, with a ৳500 bank draft/pay order, so it arrives by 15 Dec 2026, 2:00 PM. One candidate may apply for only one post.",
+            "grade": "Consolidated ৳20,212",
+            "category": "ICT",
+            "track": "graduate",
+            "location": "ঢাকা",
+            "pdfUrl": ""
+        },
+        {
+            "id": "dmp-steno-computer-operator-2026",
+            "title": "ঢাকা মেট্রোপলিটন পুলিশ নিয়োগ বিজ্ঞপ্তি ২০২৬",
+            "org": "Dhaka Metropolitan Police (DMP)",
+            "posts": "সাঁটলিপিকার কাম-কম্পিউটার অপারেটর — ১টি • সাঁট-মুদ্রাক্ষরিক কাম-কম্পিউটার অপারেটর — ৩টি",
+            "vacancy": 4,
+            "qualification": "Bachelor's degree or equivalent with at least 2nd class / equivalent CGPA from a recognised university, with computer proficiency. Age up to 32 (as of 1 Nov 2026).",
+            "salary": "Stenographer cum Computer Operator: Grade-13 ৳24,000–58,000 • Steno-Typist cum Computer Operator: Grade-14 ৳23,500–56,800 (National Pay Scale 2026)",
+            "startDate": "2026-11-12",
+            "deadline": "2026-11-30",
+            "deadlineTime": "17:00",
+            "fee": "৳112 (Teletalk)",
+            "applyUrl": "https://dmp.teletalk.com.bd",
+            "sourceUrl": "https://bdgovtjob.net/dmp-job-circular/",
+            "published": "2026-11-05",
+            "note": "Circular (memo DMP(HQ)/Admin/Recruitment/A-84-2026/2001, 4 Nov 2026; confirmed live on the official alljobs.teletalk.com.bd portal) advertises 20 posts in 5 categories at Dhaka Metropolitan Police — of them, these two steno-cum-computer-operator posts (4 posts) are open to any bachelor's-degree holder (2nd class) with computer proficiency. The Computer Operator post (6) in the same circular needs a Science honours degree, so it is not included. Candidates from all districts may apply. Apply online at dmp.teletalk.com.bd and pay ৳112 by Teletalk SMS within 72 hours.",
+            "grade": "Grade-13 / Grade-14",
+            "category": "ICT",
+            "track": "graduate",
+            "location": "ঢাকা",
             "pdfUrl": ""
         }
     ]
