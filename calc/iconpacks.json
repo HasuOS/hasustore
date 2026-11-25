@@ -1,0 +1,12 @@
+{
+ "packs": [
+  {
+   "id": "fa-sharp",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/calc/packs/fa-sharp.json"
+  },
+  {
+   "id": "golden-line",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/calc/packs/golden-line.json"
+  }
+ ]
+}
