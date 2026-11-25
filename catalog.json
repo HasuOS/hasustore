@@ -630,13 +630,13 @@
    "name": "HasuDiary",
    "tag": "Private diary with PIN lock",
    "desc": "A private diary behind a 4-digit PIN — dated entries with a mood and a photo, search, and everything kept only on the phone.",
-   "code": 2,
-   "versionName": "1.01",
+   "code": 3,
+   "versionName": "1.02",
    "size": 1915567,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/diary.apk",
-   "changes": "1.01: The full family port \u2014 Settings (language English/\u09ac\u09be\u0982\u09b2\u09be, notification choices, app update, and a backup of the diary itself: settings, the PIN hash and every entry; entry photos are files and stay out, said plainly on the card), Look & icons (themes in dark and light, icon sets, five app-icon designs, a look of their own for the entry list, the editor and the app pages, full-screen preview), self-update with twice-a-day background checks, icon packs and themes that arrive by themselves with a notification saying what arrived, a rewritten guide and an honest permissions hub. Drafts save themselves while you write. The app icon is now the bare diary glyph, flat white.",
-   "ts": 1795649448,
-   "etag": "0x8DF4B4C0D40E12C"
+   "changes": "1.02: Bare-glyph UI (his standing rule): every button and icon now stands on its own \u2014 no border ring, no filled plate behind headers, rows, toolbars, dialogs or menus; a picked state shows in the glyph's own accent colour and glow (the mood picker included). Content cards and text fields keep their glass, exactly as the rule scopes it. On top of 1.01's full family port.",
+   "ts": 1795649617,
+   "etag": "0x8DF4B4C82ED584C"
   },
   {
    "pkg": "hasu.os.book",
