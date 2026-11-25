@@ -1,6 +1,6 @@
 {
-    "version": 54,
-    "generatedAt": 1795588891,
+    "version": 55,
+    "generatedAt": 1795591001,
     "subjects": [
         {
             "id": "bangla",
@@ -18841,6 +18841,512 @@
                     ],
                     "answer": 0,
                     "why": "'বর্ণপরিচয়' (১৮৫৫) বিদ্যাসাগরের বিখ্যাত শিশুপাঠ্য গ্রন্থ।"
+                },
+                {
+                    "q": "বাংলায় বিরাম চিহ্ন কয়টি?",
+                    "options": [
+                        "১০টি",
+                        "১১টি",
+                        "১২টি",
+                        "১৪টি"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলায় বিরাম চিহ্ন ১২টি: দাঁড়ি, কমা, সেমিকোলন, প্রশ্নবোধক, বিস্ময়বোধক, কোলন, ড্যাশ, হাইফেন, উদ্ধরণ চিহ্ন, বন্ধনী, লোপ চিহ্ন ও বিকল্প চিহ্ন।"
+                },
+                {
+                    "q": "বিস্ময়বোধক চিহ্ন কোনটি?",
+                    "options": [
+                        "?",
+                        "!",
+                        ".",
+                        ";"
+                    ],
+                    "answer": 1,
+                    "why": "বিস্ময়বোধক চিহ্ন (!) আনন্দ, দুঃখ বা বিস্ময় প্রকাশে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "কমা (,) চিহ্ন কখন ব্যবহৃত হয়?",
+                    "options": [
+                        "বাক্যের শেষে",
+                        "বাক্যের মধ্যে স্বল্প বিরতি বোঝাতে",
+                        "প্রশ্ন করতে",
+                        "উদ্ধৃতি দিতে"
+                    ],
+                    "answer": 1,
+                    "why": "কমা বাক্যের মধ্যে স্বল্প বিরতি বোঝাতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সেমিকোলন (;) চিহ্ন কখন ব্যবহৃত হয়?",
+                    "options": [
+                        "কমার চেয়ে বেশি কিন্তু দাঁড়ির চেয়ে কম বিরতি বোঝাতে",
+                        "বাক্যের শেষে",
+                        "প্রশ্ন করতে",
+                        "শব্দ যুক্ত করতে"
+                    ],
+                    "answer": 0,
+                    "why": "সেমিকোলন কমার চেয়ে বেশি কিন্তু দাঁড়ির চেয়ে কম বিরতি বোঝায়।"
+                },
+                {
+                    "q": "কোলন (:) চিহ্ন কখন ব্যবহৃত হয়?",
+                    "options": [
+                        "উদাহরণ বা ব্যাখ্যা দেওয়ার আগে",
+                        "বাক্যের শেষে",
+                        "প্রশ্ন করতে",
+                        "দুটি শব্দ যুক্ত করতে"
+                    ],
+                    "answer": 0,
+                    "why": "কোলন উদাহরণ, ব্যাখ্যা বা তালিকা দেওয়ার আগে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ড্যাশ (—) চিহ্নের ব্যবহার কী?",
+                    "options": [
+                        "বাক্যের মধ্যে ভাব প্রকাশে বিরতি বা ব্যাখ্যায়",
+                        "শব্দ যুক্ত করতে",
+                        "প্রশ্ন করতে",
+                        "বাক্যের শেষে"
+                    ],
+                    "answer": 0,
+                    "why": "ড্যাশ বাক্যের মধ্যে ভাব প্রকাশে বিরতি বা ব্যাখ্যা দিতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "হাইফেন (-) চিহ্নের ব্যবহার কী?",
+                    "options": [
+                        "দুটি শব্দ যুক্ত করতে",
+                        "বাক্যের শেষে",
+                        "প্রশ্ন করতে",
+                        "উদ্ধৃতি দিতে"
+                    ],
+                    "answer": 0,
+                    "why": "হাইফেন দুটি শব্দ যুক্ত করতে ব্যবহৃত হয়; যেমন: মা-বাবা।"
+                },
+                {
+                    "q": "উদ্ধরণ চিহ্ন (' ') কখন ব্যবহৃত হয়?",
+                    "options": [
+                        "কারো উক্তি বা উদ্ধৃতি লিখতে",
+                        "বাক্যের শেষে",
+                        "প্রশ্ন করতে",
+                        "শব্দ যুক্ত করতে"
+                    ],
+                    "answer": 0,
+                    "why": "কারো উক্তি বা উদ্ধৃতি লিখতে উদ্ধরণ চিহ্ন ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "যুক্তবর্ণ কী?",
+                    "options": [
+                        "দুই বা ততোধিক ব্যঞ্জনবর্ণের যুক্ত রূপ",
+                        "দুটি স্বরবর্ণের যুক্ত রূপ",
+                        "একটি স্বরবর্ণ",
+                        "একটি সংখ্যা"
+                    ],
+                    "answer": 0,
+                    "why": "যুক্তবর্ণ হলো দুই বা ততোধিক ব্যঞ্জনবর্ণের যুক্ত রূপ; যেমন: ক্ষ, জ্ঞ, ত্র।"
+                },
+                {
+                    "q": "'ক্ষ' যুক্তবর্ণটি কী দিয়ে গঠিত?",
+                    "options": [
+                        "ক্ + ষ",
+                        "ক্ + খ",
+                        "খ্ + ষ",
+                        "ক্ + স"
+                    ],
+                    "answer": 0,
+                    "why": "'ক্ষ' যুক্তবর্ণটি ক্ + ষ দিয়ে গঠিত।"
+                },
+                {
+                    "q": "'জ্ঞ' যুক্তবর্ণটি কী দিয়ে গঠিত?",
+                    "options": [
+                        "জ্ + ঞ",
+                        "গ্ + ঞ",
+                        "জ্ + য",
+                        "ঞ্ + জ"
+                    ],
+                    "answer": 0,
+                    "why": "'জ্ঞ' যুক্তবর্ণটি জ্ + ঞ দিয়ে গঠিত।"
+                },
+                {
+                    "q": "ধাতু কত প্রকার?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৫"
+                    ],
+                    "answer": 1,
+                    "why": "ধাতু ৩ প্রকার: মৌলিক ধাতু, সাধিত ধাতু ও যৌগিক ধাতু।"
+                },
+                {
+                    "q": "'কর' ধাতুর সঙ্গে 'অন' যুক্ত হয়ে কোন শব্দ গঠিত হয়?",
+                    "options": [
+                        "করণ",
+                        "করা",
+                        "করবে",
+                        "করুন"
+                    ],
+                    "answer": 0,
+                    "why": "'কর' ধাতুর সঙ্গে 'অন' প্রত্যয় যুক্ত হয়ে 'করণ' শব্দ গঠিত হয়।"
+                },
+                {
+                    "q": "বিশেষ্য কয় প্রকার?",
+                    "options": [
+                        "৩",
+                        "৪",
+                        "৫",
+                        "৬"
+                    ],
+                    "answer": 2,
+                    "why": "বিশেষ্য ৫ প্রকার: নামবাচক, জাতিবাচক, বস্তুবাচক, সমষ্টিবাচক ও ভাববাচক।"
+                },
+                {
+                    "q": "'ঢাকা' কোন ধরনের বিশেষ্য?",
+                    "options": [
+                        "জাতিবাচক",
+                        "নামবাচক",
+                        "ভাববাচক",
+                        "সমষ্টিবাচক"
+                    ],
+                    "answer": 1,
+                    "why": "'ঢাকা' একটি নির্দিষ্ট স্থানের নাম, তাই এটি নামবাচক বিশেষ্য।"
+                },
+                {
+                    "q": "'মানুষ' কোন ধরনের বিশেষ্য?",
+                    "options": [
+                        "নামবাচক",
+                        "জাতিবাচক",
+                        "ভাববাচক",
+                        "বস্তুবাচক"
+                    ],
+                    "answer": 1,
+                    "why": "'মানুষ' একটি জাতির নাম বোঝায়, তাই এটি জাতিবাচক বিশেষ্য।"
+                },
+                {
+                    "q": "'দয়া' কোন ধরনের বিশেষ্য?",
+                    "options": [
+                        "নামবাচক",
+                        "জাতিবাচক",
+                        "ভাববাচক",
+                        "সমষ্টিবাচক"
+                    ],
+                    "answer": 2,
+                    "why": "'দয়া' একটি ভাব বা গুণের নাম, তাই এটি ভাববাচক বিশেষ্য।"
+                },
+                {
+                    "q": "'দল' কোন ধরনের বিশেষ্য?",
+                    "options": [
+                        "নামবাচক",
+                        "জাতিবাচক",
+                        "ভাববাচক",
+                        "সমষ্টিবাচক"
+                    ],
+                    "answer": 3,
+                    "why": "'দল' একসঙ্গে অনেকের সমষ্টি বোঝায়, তাই এটি সমষ্টিবাচক বিশেষ্য।"
+                },
+                {
+                    "q": "'আমি, তুমি, সে' — এগুলো কোন সর্বনাম?",
+                    "options": [
+                        "ব্যক্তিবাচক সর্বনাম",
+                        "সম্বন্ধবাচক সর্বনাম",
+                        "নির্দেশক সর্বনাম",
+                        "প্রশ্নবাচক সর্বনাম"
+                    ],
+                    "answer": 0,
+                    "why": "'আমি, তুমি, সে' ব্যক্তিকে বোঝায়, তাই এগুলো ব্যক্তিবাচক সর্বনাম।"
+                },
+                {
+                    "q": "'যে, যা, যিনি' — এগুলো কোন সর্বনাম?",
+                    "options": [
+                        "ব্যক্তিবাচক সর্বনাম",
+                        "সম্বন্ধবাচক সর্বনাম",
+                        "নির্দেশক সর্বনাম",
+                        "প্রশ্নবাচক সর্বনাম"
+                    ],
+                    "answer": 1,
+                    "why": "'যে, যা, যিনি' সম্বন্ধ বোঝায়, তাই এগুলো সম্বন্ধবাচক সর্বনাম।"
+                },
+                {
+                    "q": "'এবং, কিন্তু, অথবা' — এগুলো কোন অব্যয়?",
+                    "options": [
+                        "সংযোজক অব্যয়",
+                        "ভাববাচক অব্যয়",
+                        "অনুকার অব্যয়",
+                        "সম্বোধনসূচক অব্যয়"
+                    ],
+                    "answer": 0,
+                    "why": "'এবং, কিন্তু, অথবা' দুটি বাক্য বা শব্দ যুক্ত করে, তাই এগুলো সংযোজক অব্যয়।"
+                },
+                {
+                    "q": "'হায়! আহা!' — এগুলো কোন অব্যয়?",
+                    "options": [
+                        "সংযোজক অব্যয়",
+                        "ভাববাচক অব্যয়",
+                        "সম্বোধনসূচক অব্যয়",
+                        "অনুকার অব্যয়"
+                    ],
+                    "answer": 1,
+                    "why": "'হায়! আহা!' মনের ভাব প্রকাশ করে, তাই এগুলো ভাববাচক অব্যয়।"
+                },
+                {
+                    "q": "বচন কাকে বলে?",
+                    "options": [
+                        "সংখ্যার ধারণা প্রকাশকারী ব্যাকরণিক রূপকে",
+                        "ক্রিয়ার কালকে",
+                        "শব্দের অর্থকে",
+                        "বাক্যের ধরনকে"
+                    ],
+                    "answer": 0,
+                    "why": "বচন হলো সংখ্যার ধারণা প্রকাশকারী ব্যাকরণিক রূপ; যেমন: একবচন, বহুবচন।"
+                },
+                {
+                    "q": "বাংলা ভাষায় বচন কয় প্রকার?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৫"
+                    ],
+                    "answer": 0,
+                    "why": "বচন ২ প্রকার: একবচন ও বহুবচন।"
+                },
+                {
+                    "q": "'বইগুলো' কোন বচন?",
+                    "options": [
+                        "একবচন",
+                        "বহুবচন",
+                        "দ্বিবচন",
+                        "কোনোটিই নয়"
+                    ],
+                    "answer": 1,
+                    "why": "'বইগুলো' অনেকগুলো বই বোঝায়, তাই এটি বহুবচন।"
+                },
+                {
+                    "q": "বহুবচন বোঝাতে কোন প্রত্যয় ব্যবহৃত হয়?",
+                    "options": [
+                        "টি",
+                        "খানা",
+                        "গুলো",
+                        "জন"
+                    ],
+                    "answer": 2,
+                    "why": "বহুবচন বোঝাতে 'গুলো', 'গণ', 'সমূহ' ইত্যাদি প্রত্যয় ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ব্যাকরণে 'পুরুষ' কয় প্রকার?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৫"
+                    ],
+                    "answer": 1,
+                    "why": "পুরুষ ৩ প্রকার: উত্তম পুরুষ, মধ্যম পুরুষ ও নাম পুরুষ।"
+                },
+                {
+                    "q": "কর্মবাচ্যে কর্তা কী দিয়ে প্রকাশ পায়?",
+                    "options": [
+                        "দ্বারা বা কর্তৃক দিয়ে",
+                        "কে দিয়ে",
+                        "থেকে দিয়ে",
+                        "জন্য দিয়ে"
+                    ],
+                    "answer": 0,
+                    "why": "কর্মবাচ্যে কর্তা 'দ্বারা' বা 'কর্তৃক' দিয়ে প্রকাশ পায়; যেমন: 'আমার দ্বারা কাজটি করা হলো।'"
+                },
+                {
+                    "q": "'আমার খাওয়া হলো না।' — এটি কোন বাচ্য?",
+                    "options": [
+                        "কর্তৃবাচ্য",
+                        "কর্মবাচ্য",
+                        "ভাববাচ্য",
+                        "কোনোটিই নয়"
+                    ],
+                    "answer": 2,
+                    "why": "এখানে ক্রিয়ার ভাবই প্রধান, তাই এটি ভাববাচ্য।"
+                },
+                {
+                    "q": "'তোমার দ্বারা এ কাজ হবে না।' — এটি কোন বাচ্য?",
+                    "options": [
+                        "কর্তৃবাচ্য",
+                        "কর্মবাচ্য",
+                        "ভাববাচ্য",
+                        "কোনোটিই নয়"
+                    ],
+                    "answer": 1,
+                    "why": "কর্ম (কাজ) প্রধান হওয়ায় এটি কর্মবাচ্য।"
+                },
+                {
+                    "q": "'আনন্দমঠ' উপন্যাস কত সালে প্রকাশিত হয়?",
+                    "options": [
+                        "১৮৬৫",
+                        "১৮৭৩",
+                        "১৮৮২",
+                        "১৮৯০"
+                    ],
+                    "answer": 2,
+                    "why": "'আনন্দমঠ' ১৮৮২ সালে প্রকাশিত হয়; এতে 'বন্দে মাতরম' গান আছে।"
+                },
+                {
+                    "q": "শরৎচন্দ্র চট্টোপাধ্যায়ের জন্মস্থান কোথায়?",
+                    "options": [
+                        "দেবানন্দপুর, হুগলি",
+                        "কলকাতা",
+                        "ঢাকা",
+                        "চট্টগ্রাম"
+                    ],
+                    "answer": 0,
+                    "why": "শরৎচন্দ্র ১৮৭৬ সালে হুগলির দেবানন্দপুর গ্রামে জন্মগ্রহণ করেন।"
+                },
+                {
+                    "q": "শামসুর রাহমানের উপাধি কী?",
+                    "options": [
+                        "পল্লীকবি",
+                        "নাগরিক কবি",
+                        "বিদ্রোহী কবি",
+                        "ছন্দের জাদুকর"
+                    ],
+                    "answer": 1,
+                    "why": "শামসুর রাহমান 'নাগরিক কবি' নামে পরিচিত।"
+                },
+                {
+                    "q": "'বিধ্বস্ত নীলিমা' কাব্যের রচয়িতা কে?",
+                    "options": [
+                        "শামসুর রাহমান",
+                        "আল মাহমুদ",
+                        "সুকান্ত ভট্টাচার্য",
+                        "রফিক আজাদ"
+                    ],
+                    "answer": 0,
+                    "why": "'বিধ্বস্ত নীলিমা' (১৯৬৭) শামসুর রাহমানের কাব্যগ্রন্থ।"
+                },
+                {
+                    "q": "আল মাহমুদের জন্মস্থান কোথায়?",
+                    "options": [
+                        "মোড়েলগঞ্জ, বাগেরহাট",
+                        "কুমিল্লা",
+                        "চট্টগ্রাম",
+                        "ঢাকা"
+                    ],
+                    "answer": 0,
+                    "why": "আল মাহমুদ ১৯৩৬ সালে বাগেরহাটের মোড়েলগঞ্জে জন্মগ্রহণ করেন।"
+                },
+                {
+                    "q": "'কাবিলের বোন' উপন্যাসের রচয়িতা কে?",
+                    "options": [
+                        "আল মাহমুদ",
+                        "হুমায়ূন আহমেদ",
+                        "সেলিনা হোসেন",
+                        "আখতারুজ্জামান ইলিয়াস"
+                    ],
+                    "answer": 0,
+                    "why": "'কাবিলের বোন' (১৯৯২) আল মাহমুদের উপন্যাস।"
+                },
+                {
+                    "q": "'পাখির কাছে ফুলের কাছে' কাব্যের রচয়িতা কে?",
+                    "options": [
+                        "আল মাহমুদ",
+                        "শামসুর রাহমান",
+                        "সুকান্ত ভট্টাচার্য",
+                        "নির্মলেন্দু গুণ"
+                    ],
+                    "answer": 0,
+                    "why": "'পাখির কাছে ফুলের কাছে' (১৯৮০) আল মাহমুদের কাব্যগ্রন্থ।"
+                },
+                {
+                    "q": "হুমায়ূন আহমেদের জন্মস্থান কোথায়?",
+                    "options": [
+                        "কুতুবপুর, নেত্রকোনা",
+                        "ঢাকা",
+                        "চট্টগ্রাম",
+                        "সিলেট"
+                    ],
+                    "answer": 0,
+                    "why": "হুমায়ূন আহমেদ ১৯৪৮ সালে নেত্রকোনার কুতুবপুর গ্রামে জন্মগ্রহণ করেন।"
+                },
+                {
+                    "q": "'এইসব দিনরাত্রি' কার রচনা?",
+                    "options": [
+                        "হুমায়ূন আহমেদ",
+                        "শরৎচন্দ্র",
+                        "জসীমউদ্দীন",
+                        "আল মাহমুদ"
+                    ],
+                    "answer": 0,
+                    "why": "'এইসব দিনরাত্রি' (১৯৮৫) হুমায়ূন আহমেদের বিখ্যাত টেলিভিশন নাটক।"
+                },
+                {
+                    "q": "'নীল ময়ূরের যৌবন' উপন্যাসের রচয়িতা কে?",
+                    "options": [
+                        "সেলিনা হোসেন",
+                        "তসলিমা নাসরিন",
+                        "মাহমুদা খাতুন সিদ্দিকা",
+                        "রিজিয়া রহমান"
+                    ],
+                    "answer": 0,
+                    "why": "'নীল ময়ূরের যৌবন' (১৯৮৩) সেলিনা হোসেনের উপন্যাস।"
+                },
+                {
+                    "q": "'যাপিত জীবন' উপন্যাসের রচয়িতা কে?",
+                    "options": [
+                        "সেলিনা হোসেন",
+                        "তসলিমা নাসরিন",
+                        "শাহীন আখতার",
+                        "নাসরীন জাহান"
+                    ],
+                    "answer": 0,
+                    "why": "'যাপিত জীবন' (১৯৮১) সেলিনা হোসেনের উপন্যাস।"
+                },
+                {
+                    "q": "'শিকড়ে বিপুল ক্ষুধা' কাব্যগ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "তসলিমা নাসরিন",
+                        "সেলিনা হোসেন",
+                        "শামসুর রাহমান",
+                        "আল মাহমুদ"
+                    ],
+                    "answer": 0,
+                    "why": "'শিকড়ে বিপুল ক্ষুধা' (১৯৮৬) তসলিমা নাসরিনের প্রথম কাব্যগ্রন্থ।"
+                },
+                {
+                    "q": "'দ্বিখণ্ডিত' কার রচনা?",
+                    "options": [
+                        "তসলিমা নাসরিন",
+                        "সেলিনা হোসেন",
+                        "হুমায়ূন আহমেদ",
+                        "আখতারুজ্জামান ইলিয়াস"
+                    ],
+                    "answer": 0,
+                    "why": "'দ্বিখণ্ডিত' (২০০৩) তসলিমা নাসরিনের আত্মজীবনীমূলক রচনা।"
+                },
+                {
+                    "q": "আখতারুজ্জামান ইলিয়াসের জন্মস্থান কোথায়?",
+                    "options": [
+                        "গোটিয়া, গাইবান্ধা",
+                        "ঢাকা",
+                        "চট্টগ্রাম",
+                        "কুমিল্লা"
+                    ],
+                    "answer": 0,
+                    "why": "আখতারুজ্জামান ইলিয়াস ১৯৪৩ সালে গাইবান্ধার গোটিয়া গ্রামে জন্মগ্রহণ করেন।"
+                },
+                {
+                    "q": "'অন্য ঘরে অন্য স্বর' গল্পগ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "আখতারুজ্জামান ইলিয়াস",
+                        "হুমায়ূন আহমেদ",
+                        "শওকত ওসমান",
+                        "সৈয়দ শামসুল হক"
+                    ],
+                    "answer": 0,
+                    "why": "'অন্য ঘরে অন্য স্বর' (১৯৭৬) আখতারুজ্জামান ইলিয়াসের গল্পগ্রন্থ।"
+                },
+                {
+                    "q": "'দুধভাতে উৎপাত' গল্পগ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "আখতারুজ্জামান ইলিয়াস",
+                        "হুমায়ূন আহমেদ",
+                        "আল মাহমুদ",
+                        "সেলিনা হোসেন"
+                    ],
+                    "answer": 0,
+                    "why": "'দুধভাতে উৎপাত' (১৯৮৫) আখতারুজ্জামান ইলিয়াসের গল্পগ্রন্থ।"
                 }
             ]
         },
@@ -36228,6 +36734,369 @@
                     ],
                     "answer": 0,
                     "why": "'তুমি কোথায় থাকো?' translates to 'Where do you live?'"
+                },
+                {
+                    "q": "I ___ my homework yesterday.",
+                    "options": [
+                        "do",
+                        "did",
+                        "doing",
+                        "does"
+                    ],
+                    "answer": 1,
+                    "why": "'Yesterday' shows past time, so the past form 'did' is used."
+                },
+                {
+                    "q": "By next year, he ___ his degree.",
+                    "options": [
+                        "completes",
+                        "will complete",
+                        "will have completed",
+                        "completed"
+                    ],
+                    "answer": 2,
+                    "why": "'By next year' with a future perfect sense needs 'will have completed'."
+                },
+                {
+                    "q": "Which sentence is in the past perfect tense?",
+                    "options": [
+                        "She finished the work.",
+                        "She has finished the work.",
+                        "She had finished the work before he came.",
+                        "She will finish the work."
+                    ],
+                    "answer": 2,
+                    "why": "Past perfect is formed with 'had + past participle': 'had finished'."
+                },
+                {
+                    "q": "Which one is an abstract noun?",
+                    "options": [
+                        "table",
+                        "honesty",
+                        "boy",
+                        "river"
+                    ],
+                    "answer": 1,
+                    "why": "'Honesty' names a quality that cannot be touched; it is an abstract noun."
+                },
+                {
+                    "q": "She sings ___.",
+                    "options": [
+                        "beautiful",
+                        "beauty",
+                        "beautifully",
+                        "beautify"
+                    ],
+                    "answer": 2,
+                    "why": "An adverb is needed to modify the verb 'sings': 'beautifully'."
+                },
+                {
+                    "q": "Which is the comparative of 'bad'?",
+                    "options": [
+                        "worst",
+                        "worse",
+                        "badder",
+                        "baddest"
+                    ],
+                    "answer": 1,
+                    "why": "The comparative of 'bad' is 'worse' ('worst' is the superlative)."
+                },
+                {
+                    "q": "He runs ___ than I do.",
+                    "options": [
+                        "fast",
+                        "faster",
+                        "fastest",
+                        "fastly"
+                    ],
+                    "answer": 1,
+                    "why": "A comparison between two people needs the comparative: 'faster'."
+                },
+                {
+                    "q": "Which one is a reflexive pronoun?",
+                    "options": [
+                        "he",
+                        "himself",
+                        "his",
+                        "him"
+                    ],
+                    "answer": 1,
+                    "why": "'Himself' is a reflexive pronoun; it refers back to the subject."
+                },
+                {
+                    "q": "___ is your pen?",
+                    "options": [
+                        "Who",
+                        "Whom",
+                        "Which",
+                        "What"
+                    ],
+                    "answer": 2,
+                    "why": "'Which' is used to choose one thing from a known set: 'Which is your pen?'"
+                },
+                {
+                    "q": "This is the boy ___ won the prize.",
+                    "options": [
+                        "who",
+                        "whom",
+                        "whose",
+                        "which"
+                    ],
+                    "answer": 0,
+                    "why": "'Who' is the relative pronoun for a person as the subject of the clause."
+                },
+                {
+                    "q": "Which one is a demonstrative pronoun?",
+                    "options": [
+                        "this",
+                        "he",
+                        "who",
+                        "which"
+                    ],
+                    "answer": 0,
+                    "why": "'This' points to something near; it is a demonstrative pronoun."
+                },
+                {
+                    "q": "Which one is a conjunction?",
+                    "options": [
+                        "and",
+                        "quickly",
+                        "happy",
+                        "book"
+                    ],
+                    "answer": 0,
+                    "why": "'And' joins words or clauses; it is a conjunction."
+                },
+                {
+                    "q": "Which one is an interjection?",
+                    "options": [
+                        "Alas!",
+                        "and",
+                        "quickly",
+                        "book"
+                    ],
+                    "answer": 0,
+                    "why": "'Alas!' expresses sudden feeling; it is an interjection."
+                },
+                {
+                    "q": "He is poor ___ honest.",
+                    "options": [
+                        "and",
+                        "but",
+                        "or",
+                        "so"
+                    ],
+                    "answer": 1,
+                    "why": "The contrast between 'poor' and 'honest' needs 'but'."
+                },
+                {
+                    "q": "___ you work hard, you will fail.",
+                    "options": [
+                        "If",
+                        "Unless",
+                        "When",
+                        "Because"
+                    ],
+                    "answer": 1,
+                    "why": "'Unless' means 'if not': 'Unless you work hard, you will fail.'"
+                },
+                {
+                    "q": "'In the morning' is a—",
+                    "options": [
+                        "phrase",
+                        "clause",
+                        "sentence",
+                        "word"
+                    ],
+                    "answer": 0,
+                    "why": "'In the morning' has no subject and verb, so it is a phrase."
+                },
+                {
+                    "q": "In 'I know that he is honest', the clause 'that he is honest' is a—",
+                    "options": [
+                        "noun clause",
+                        "adjective clause",
+                        "adverb clause",
+                        "main clause"
+                    ],
+                    "answer": 0,
+                    "why": "The clause acts as the object of 'know', so it is a noun clause."
+                },
+                {
+                    "q": "In 'The man who is standing there is my teacher', 'who is standing there' is a—",
+                    "options": [
+                        "noun clause",
+                        "adjective clause",
+                        "adverb clause",
+                        "main clause"
+                    ],
+                    "answer": 1,
+                    "why": "The clause describes the noun 'man', so it is an adjective clause."
+                },
+                {
+                    "q": "Which is a phrase?",
+                    "options": [
+                        "on the table",
+                        "He is reading",
+                        "She sings well",
+                        "They are playing"
+                    ],
+                    "answer": 0,
+                    "why": "'On the table' has no subject and verb; the others are clauses."
+                },
+                {
+                    "q": "Choose the correct sentence: 'One of my friends ___ a doctor.'",
+                    "options": [
+                        "are",
+                        "is",
+                        "were",
+                        "have"
+                    ],
+                    "answer": 1,
+                    "why": "The subject is 'one', so the singular verb 'is' is used."
+                },
+                {
+                    "q": "One who speaks many languages is called a—",
+                    "options": [
+                        "monolingual",
+                        "polyglot",
+                        "linguist",
+                        "bilingual"
+                    ],
+                    "answer": 1,
+                    "why": "One who speaks many languages is a polyglot."
+                },
+                {
+                    "q": "The masculine gender of 'nun' is—",
+                    "options": [
+                        "monk",
+                        "priest",
+                        "father",
+                        "brother"
+                    ],
+                    "answer": 0,
+                    "why": "The masculine gender of 'nun' is 'monk'."
+                },
+                {
+                    "q": "Iron is ___ than gold.",
+                    "options": [
+                        "useful",
+                        "more useful",
+                        "most useful",
+                        "usefullest"
+                    ],
+                    "answer": 1,
+                    "why": "A comparison between two things needs the comparative: 'more useful'."
+                },
+                {
+                    "q": "Which is a modal auxiliary?",
+                    "options": [
+                        "can",
+                        "is",
+                        "has",
+                        "does"
+                    ],
+                    "answer": 0,
+                    "why": "'Can' is a modal auxiliary; 'is', 'has' and 'does' are primary auxiliaries."
+                },
+                {
+                    "q": "You ___ respect your elders.",
+                    "options": [
+                        "should",
+                        "may",
+                        "might",
+                        "can"
+                    ],
+                    "answer": 0,
+                    "why": "'Should' expresses duty or obligation: 'You should respect your elders.'"
+                },
+                {
+                    "q": "He ___ swim very well.",
+                    "options": [
+                        "can",
+                        "may",
+                        "must",
+                        "should"
+                    ],
+                    "answer": 0,
+                    "why": "'Can' expresses ability: 'He can swim very well.'"
+                },
+                {
+                    "q": "The passive form of 'She made tea' is—",
+                    "options": [
+                        "Tea is made by her.",
+                        "Tea was made by her.",
+                        "Tea has been made by her.",
+                        "Tea is being made by her."
+                    ],
+                    "answer": 1,
+                    "why": "Past simple passive: 'was + past participle' — 'Tea was made by her.'"
+                },
+                {
+                    "q": "The active form of 'The work was done by them' is—",
+                    "options": [
+                        "They did the work.",
+                        "They do the work.",
+                        "They are doing the work.",
+                        "They have done the work."
+                    ],
+                    "answer": 0,
+                    "why": "Past simple active of 'was done' is 'did': 'They did the work.'"
+                },
+                {
+                    "q": "The passive form of 'They will finish the work' is—",
+                    "options": [
+                        "The work will be finished by them.",
+                        "The work is finished by them.",
+                        "The work was finished by them.",
+                        "The work has been finished by them."
+                    ],
+                    "answer": 0,
+                    "why": "Future simple passive: 'will be + past participle' — 'The work will be finished by them.'"
+                },
+                {
+                    "q": "He is used to ___ in the morning.",
+                    "options": [
+                        "walk",
+                        "walking",
+                        "walked",
+                        "walks"
+                    ],
+                    "answer": 1,
+                    "why": "After 'used to' in the sense of being accustomed, the gerund is used: 'used to walking'."
+                },
+                {
+                    "q": "I saw him ___ the road.",
+                    "options": [
+                        "cross",
+                        "crossing",
+                        "crossed",
+                        "to cross"
+                    ],
+                    "answer": 1,
+                    "why": "After 'saw' (verb of perception), the -ing form is used: 'I saw him crossing the road.'"
+                },
+                {
+                    "q": "It is high time we ___ home.",
+                    "options": [
+                        "go",
+                        "went",
+                        "going",
+                        "gone"
+                    ],
+                    "answer": 1,
+                    "why": "After 'It is high time', the past simple is used: 'It is high time we went home.'"
+                },
+                {
+                    "q": "Bird : Nest :: Man : ?",
+                    "options": [
+                        "House",
+                        "Tree",
+                        "Cave",
+                        "Forest"
+                    ],
+                    "answer": 0,
+                    "why": "A bird lives in a nest; a man lives in a house."
                 }
             ]
         },
@@ -50996,6 +51865,292 @@
                     ],
                     "answer": 1,
                     "why": "যোগফল ২৪; গড় = ২৪ ÷ ৩ = ৮।"
+                },
+                {
+                    "q": "√১৯৬ = কত?",
+                    "options": [
+                        "১২",
+                        "১৪",
+                        "১৬",
+                        "১৮"
+                    ],
+                    "answer": 1,
+                    "why": "১৪ × ১৪ = ১৯৬, তাই √১৯৬ = ১৪।"
+                },
+                {
+                    "q": "√০.০৯ = কত?",
+                    "options": [
+                        "০.৩",
+                        "০.০৩",
+                        "০.৯",
+                        "৩"
+                    ],
+                    "answer": 0,
+                    "why": "০.৩ × ০.৩ = ০.০৯, তাই √০.০৯ = ০.৩।"
+                },
+                {
+                    "q": "³√২৭ = কত?",
+                    "options": [
+                        "৩",
+                        "৯",
+                        "৬",
+                        "২৭"
+                    ],
+                    "answer": 0,
+                    "why": "৩ × ৩ × ৩ = ২৭, তাই ³√২৭ = ৩।"
+                },
+                {
+                    "q": "³√৬৪ = কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৮"
+                    ],
+                    "answer": 2,
+                    "why": "৪ × ৪ × ৪ = ৬৪, তাই ³√৬৪ = ৪।"
+                },
+                {
+                    "q": "৫x = ৩x + ৮ হলে x-এর মান কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৫"
+                    ],
+                    "answer": 2,
+                    "why": "৫x − ৩x = ৮, অর্থাৎ ২x = ৮, তাই x = ৪।"
+                },
+                {
+                    "q": "সমকোণী ত্রিভুজের একটি কোণ ৩০° হলে অপর সূক্ষ্মকোণ কত?",
+                    "options": [
+                        "৪৫°",
+                        "৬০°",
+                        "৯০°",
+                        "৩০°"
+                    ],
+                    "answer": 1,
+                    "why": "সমকোণী ত্রিভুজের দুটি সূক্ষ্মকোণের সমষ্টি ৯০°; তাই অপর কোণ = ৯০° − ৩০° = ৬০°।"
+                },
+                {
+                    "q": "ঘনকের এক ধার ৩ সেমি হলে আয়তন কত?",
+                    "options": [
+                        "৯ ঘন সেমি",
+                        "১৮ ঘন সেমি",
+                        "২৭ ঘন সেমি",
+                        "৩৬ ঘন সেমি"
+                    ],
+                    "answer": 2,
+                    "why": "ঘনকের আয়তন = ধার³ = ৩³ = ২৭ ঘন সেমি।"
+                },
+                {
+                    "q": "সমবাহু ত্রিভুজের এক বাহু ৪ সেমি হলে পরিসীমা কত?",
+                    "options": [
+                        "৮ সেমি",
+                        "১২ সেমি",
+                        "১৬ সেমি",
+                        "২০ সেমি"
+                    ],
+                    "answer": 1,
+                    "why": "পরিসীমা = ৩ × বাহু = ৩ × ৪ = ১২ সেমি।"
+                },
+                {
+                    "q": "৪০° কোণের সম্পূরক কোণ কত?",
+                    "options": [
+                        "৫০°",
+                        "৯০°",
+                        "১৪০°",
+                        "১৮০°"
+                    ],
+                    "answer": 2,
+                    "why": "সম্পূরক কোণ = ১৮০° − ৪০° = ১৪০°।"
+                },
+                {
+                    "q": "৩০° কোণের পূরক কোণ কত?",
+                    "options": [
+                        "৩০°",
+                        "৬০°",
+                        "৯০°",
+                        "১৫০°"
+                    ],
+                    "answer": 1,
+                    "why": "পূরক কোণ = ৯০° − ৩০° = ৬০°।"
+                },
+                {
+                    "q": "২, ৪, ৬, ৮, ... ধারার ১০ম পদ কত?",
+                    "options": [
+                        "১৬",
+                        "১৮",
+                        "২০",
+                        "২২"
+                    ],
+                    "answer": 2,
+                    "why": "এটি সমান্তর ধারা (পার্থক্য ২); ১০ম পদ = ২ + ৯ × ২ = ২০।"
+                },
+                {
+                    "q": "৩, ৯, ২৭, ... ধারার ৫ম পদ কত?",
+                    "options": [
+                        "৮১",
+                        "২৪৩",
+                        "৭২৯",
+                        "১৬২"
+                    ],
+                    "answer": 1,
+                    "why": "এটি গুণোত্তর ধারা (অনুপাত ৩); ৫ম পদ = ৩ × ৩⁴ = ২৪৩।"
+                },
+                {
+                    "q": "সমান্তর ধারা ১, ৩, ৫, ৭-এর ২০তম পদ কত?",
+                    "options": [
+                        "৩৭",
+                        "৩৯",
+                        "৪১",
+                        "৪৩"
+                    ],
+                    "answer": 1,
+                    "why": "২০তম পদ = ১ + ১৯ × ২ = ৩৯।"
+                },
+                {
+                    "q": "একটি থলিতে ৩টি লাল ও ২টি নীল বল আছে। লাল বল তোলার সম্ভাবনা কত?",
+                    "options": [
+                        "২/৫",
+                        "৩/৫",
+                        "১/২",
+                        "৩/২"
+                    ],
+                    "answer": 1,
+                    "why": "মোট বল ৫টি, লাল ৩টি; সম্ভাবনা = ৩/৫।"
+                },
+                {
+                    "q": "৫টি বইয়ের মধ্যে ৩টি কতভাবে সাজানো যায়?",
+                    "options": [
+                        "২০",
+                        "৬০",
+                        "১২০",
+                        "১৫"
+                    ],
+                    "answer": 1,
+                    "why": "বিন্যাস P(৫,৩) = ৫ × ৪ × ৩ = ৬০।"
+                },
+                {
+                    "q": "৪ জন বন্ধুর মধ্যে ২ জন কতভাবে নির্বাচন করা যায়?",
+                    "options": [
+                        "৪",
+                        "৬",
+                        "৮",
+                        "১২"
+                    ],
+                    "answer": 1,
+                    "why": "সমাবেশ C(৪,২) = ৪ × ৩ ÷ ২ = ৬।"
+                },
+                {
+                    "q": "৬ জন ছাত্রের মধ্যে ৩ জন কতভাবে নির্বাচন করা যায়?",
+                    "options": [
+                        "১৫",
+                        "২০",
+                        "৩০",
+                        "৬০"
+                    ],
+                    "answer": 1,
+                    "why": "সমাবেশ C(৬,৩) = ৬ × ৫ × ৪ ÷ (৩ × ২ × ১) = ২০।"
+                },
+                {
+                    "q": "৩টি অক্ষর A, B, C দিয়ে কতটি বিন্যাস করা যায়?",
+                    "options": [
+                        "৩",
+                        "৬",
+                        "৯",
+                        "২৭"
+                    ],
+                    "answer": 1,
+                    "why": "বিন্যাস = ৩! = ৩ × ২ × ১ = ৬।"
+                },
+                {
+                    "q": "ফাঁকা সেটের উপসেটের সংখ্যা কত?",
+                    "options": [
+                        "০",
+                        "১",
+                        "২",
+                        "অসংখ্য"
+                    ],
+                    "answer": 1,
+                    "why": "ফাঁকা সেটের একমাত্র উপসেট ফাঁকা সেট নিজেই; সংখ্যা ১।"
+                },
+                {
+                    "q": "log₂ ৮ = কত?",
+                    "options": [
+                        "২",
+                        "৩",
+                        "৪",
+                        "৮"
+                    ],
+                    "answer": 1,
+                    "why": "২³ = ৮, তাই log₂ ৮ = ৩।"
+                },
+                {
+                    "q": "log₂ ৩২ = কত?",
+                    "options": [
+                        "৩",
+                        "৪",
+                        "৫",
+                        "৬"
+                    ],
+                    "answer": 2,
+                    "why": "২⁵ = ৩২, তাই log₂ ৩২ = ৫।"
+                },
+                {
+                    "q": "sin ৯০° = কত?",
+                    "options": [
+                        "০",
+                        "১/২",
+                        "১",
+                        "√৩/২"
+                    ],
+                    "answer": 2,
+                    "why": "sin ৯০° = ১।"
+                },
+                {
+                    "q": "cos ০° = কত?",
+                    "options": [
+                        "০",
+                        "১/২",
+                        "১",
+                        "√৩/২"
+                    ],
+                    "answer": 2,
+                    "why": "cos ০° = ১।"
+                },
+                {
+                    "q": "একটি নল ১২ মিনিটে একটি চৌবাচ্চা পূর্ণ করে। ৩ মিনিটে কত অংশ পূর্ণ হবে?",
+                    "options": [
+                        "১/২",
+                        "১/৩",
+                        "১/৪",
+                        "১/৬"
+                    ],
+                    "answer": 2,
+                    "why": "১ মিনিটে পূর্ণ হয় ১/১২ অংশ; ৩ মিনিটে ৩/১২ = ১/৪ অংশ।"
+                },
+                {
+                    "q": "একটি নল ১০ ঘণ্টায় চৌবাচ্চা পূর্ণ করে এবং অপর নল ১৫ ঘণ্টায় খালি করে। দুটি একসঙ্গে খোলা থাকলে কত ঘণ্টায় পূর্ণ হবে?",
+                    "options": [
+                        "৫ ঘণ্টা",
+                        "১২ ঘণ্টা",
+                        "২৫ ঘণ্টা",
+                        "৩০ ঘণ্টা"
+                    ],
+                    "answer": 3,
+                    "why": "১ ঘণ্টায় পূর্ণ হয় ১/১০ − ১/১৫ = ১/৩০ অংশ; তাই পূর্ণ হতে ৩০ ঘণ্টা লাগবে।"
+                },
+                {
+                    "q": "দুটি নল একসঙ্গে ৬ ঘণ্টায় একটি চৌবাচ্চা পূর্ণ করে। একটি নল একা ১০ ঘণ্টায় পূর্ণ করলে অপরটি একা কত ঘণ্টায় পূর্ণ করবে?",
+                    "options": [
+                        "১২ ঘণ্টা",
+                        "১৫ ঘণ্টা",
+                        "১৬ ঘণ্টা",
+                        "২০ ঘণ্টা"
+                    ],
+                    "answer": 1,
+                    "why": "অপর নলের হার = ১/৬ − ১/১০ = ১/১৫; তাই একা ১৫ ঘণ্টায় পূর্ণ করবে।"
                 }
             ]
         },
@@ -66500,6 +67655,281 @@
                     ],
                     "answer": 1,
                     "why": "মংলা সমুদ্রবন্দর বাগেরহাট জেলায় অবস্থিত।"
+                },
+                {
+                    "q": "কক্সবাজার জেলা কোন বিভাগে অবস্থিত?",
+                    "options": [
+                        "ঢাকা",
+                        "সিলেট",
+                        "চট্টগ্রাম",
+                        "খুলনা"
+                    ],
+                    "answer": 2,
+                    "why": "কক্সবাজার চট্টগ্রাম বিভাগের জেলা।"
+                },
+                {
+                    "q": "চট্টগ্রাম বন্দর কোন নদীর তীরে অবস্থিত?",
+                    "options": [
+                        "পদ্মা",
+                        "মেঘনা",
+                        "কর্ণফুলী",
+                        "সুরমা"
+                    ],
+                    "answer": 2,
+                    "why": "চট্টগ্রাম বন্দর কর্ণফুলী নদীর তীরে অবস্থিত।"
+                },
+                {
+                    "q": "সিলেটের বিখ্যাত চা বাগান অঞ্চল কোনটি?",
+                    "options": [
+                        "শ্রীমঙ্গল",
+                        "সিলেট সদর",
+                        "হবিগঞ্জ",
+                        "সুনামগঞ্জ"
+                    ],
+                    "answer": 0,
+                    "why": "শ্রীমঙ্গল (মৌলভীবাজার) চা বাগানের জন্য বিখ্যাত।"
+                },
+                {
+                    "q": "রাজশাহী শহর কোন নদীর তীরে অবস্থিত?",
+                    "options": [
+                        "মেঘনা",
+                        "যমুনা",
+                        "পদ্মা",
+                        "সুরমা"
+                    ],
+                    "answer": 2,
+                    "why": "রাজশাহী শহর পদ্মা নদীর তীরে অবস্থিত।"
+                },
+                {
+                    "q": "বরিশাল বিভাগ কত সালে গঠিত হয়?",
+                    "options": [
+                        "১৯৮৪",
+                        "১৯৯৩",
+                        "২০০১",
+                        "২০১০"
+                    ],
+                    "answer": 1,
+                    "why": "বরিশাল বিভাগ ১৯৯৩ সালে গঠিত হয়।"
+                },
+                {
+                    "q": "খুলনা বিভাগ কত সালে গঠিত হয়?",
+                    "options": [
+                        "১৯৪৭",
+                        "১৯৬০",
+                        "১৯৭২",
+                        "১৯৯৩"
+                    ],
+                    "answer": 1,
+                    "why": "খুলনা বিভাগ ১৯৬০ সালে গঠিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশে মোট কয়টি উপজেলা আছে?",
+                    "options": [
+                        "৪৫০টি",
+                        "৪৭০টি",
+                        "৪৯৫টি",
+                        "৫১০টি"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশে মোট ৪৯৫টি উপজেলা আছে।"
+                },
+                {
+                    "q": "বাংলাদেশের সবচেয়ে দক্ষিণের স্থান কোনটি?",
+                    "options": [
+                        "সেন্টমার্টিন",
+                        "ছেঁড়া দ্বীপ",
+                        "কক্সবাজার",
+                        "টেকনাফ"
+                    ],
+                    "answer": 1,
+                    "why": "ছেঁড়া দ্বীপ (সেন্টমার্টিনের দক্ষিণে) বাংলাদেশের সবচেয়ে দক্ষিণের স্থান।"
+                },
+                {
+                    "q": "আইএমএফ (IMF)-এর পূর্ণরূপ কী?",
+                    "options": [
+                        "International Monetary Fund",
+                        "International Money Foundation",
+                        "Indian Monetary Fund",
+                        "International Market Fund"
+                    ],
+                    "answer": 0,
+                    "why": "IMF = International Monetary Fund (আন্তর্জাতিক মুদ্রা তহবিল)।"
+                },
+                {
+                    "q": "আইএমএফের সদর দপ্তর কোথায়?",
+                    "options": [
+                        "লন্ডন",
+                        "ওয়াশিংটন ডিসি",
+                        "প্যারিস",
+                        "জেনেভা"
+                    ],
+                    "answer": 1,
+                    "why": "আইএমএফের সদর দপ্তর যুক্তরাষ্ট্রের ওয়াশিংটন ডিসিতে।"
+                },
+                {
+                    "q": "বাংলাদেশ বিশ্বব্যাংকের সদস্য হয় কত সালে?",
+                    "options": [
+                        "১৯৭২",
+                        "১৯৭৩",
+                        "১৯৭৫",
+                        "১৯৮০"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ ১৯৭২ সালে বিশ্বব্যাংকের সদস্য হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের প্রথম বাজেট কত সালে পেশ করা হয়?",
+                    "options": [
+                        "১৯৭২",
+                        "১৯৭৩",
+                        "১৯৭৪",
+                        "১৯৭৫"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের প্রথম বাজেট ১৯৭২ সালে পেশ করেন তাজউদ্দীন আহমদ।"
+                },
+                {
+                    "q": "বাংলাদেশ সবচেয়ে বেশি রপ্তানি করে কোন দেশে?",
+                    "options": [
+                        "চীন",
+                        "ভারত",
+                        "যুক্তরাষ্ট্র",
+                        "জাপান"
+                    ],
+                    "answer": 2,
+                    "why": "যুক্তরাষ্ট্র বাংলাদেশের বৃহত্তম রপ্তানি বাজার।"
+                },
+                {
+                    "q": "বাংলাদেশে সবচেয়ে বেশি উৎপাদিত ফসল কোনটি?",
+                    "options": [
+                        "গম",
+                        "ধান",
+                        "পাট",
+                        "আলু"
+                    ],
+                    "answer": 1,
+                    "why": "ধান বাংলাদেশে সবচেয়ে বেশি উৎপাদিত ফসল।"
+                },
+                {
+                    "q": "সুপ্রিম কোর্টের প্রধান বিচারপতি কে নিয়োগ দেন?",
+                    "options": [
+                        "প্রধানমন্ত্রী",
+                        "রাষ্ট্রপতি",
+                        "স্পিকার",
+                        "আইনমন্ত্রী"
+                    ],
+                    "answer": 1,
+                    "why": "রাষ্ট্রপতি সুপ্রিম কোর্টের প্রধান বিচারপতি নিয়োগ দেন।"
+                },
+                {
+                    "q": "বাংলাদেশ সেনাবাহিনী কত সালে প্রতিষ্ঠিত হয়?",
+                    "options": [
+                        "১৯৭১",
+                        "১৯৭২",
+                        "১৯৭৩",
+                        "১৯৭৫"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ সেনাবাহিনী ১৯৭১ সালের ১২ জুলাই প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশ বিমান বাহিনী কত সালে প্রতিষ্ঠিত হয়?",
+                    "options": [
+                        "১৯৭১",
+                        "১৯৭২",
+                        "১৯৭৩",
+                        "১৯৭৫"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ বিমান বাহিনী ১৯৭১ সালের ২৮ সেপ্টেম্বর প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের জাতীয় বিমান সংস্থার নাম কী?",
+                    "options": [
+                        "বিমান বাংলাদেশ এয়ারলাইন্স",
+                        "ইউএস-বাংলা এয়ারলাইন্স",
+                        "নভোএয়ার",
+                        "রিজেন্ট এয়ারওয়েজ"
+                    ],
+                    "answer": 0,
+                    "why": "বিমান বাংলাদেশ এয়ারলাইন্স বাংলাদেশের জাতীয় বিমান সংস্থা।"
+                },
+                {
+                    "q": "বাংলাদেশে প্রাথমিক শিক্ষা বাধ্যতামূলক করা হয় কত সালে?",
+                    "options": [
+                        "১৯৯০",
+                        "১৯৯৩",
+                        "২০০০",
+                        "২০১০"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশে প্রাথমিক শিক্ষা ১৯৯৩ সালে বাধ্যতামূলক করা হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের জনসংখ্যা প্রায় কত?",
+                    "options": [
+                        "১৫ কোটি",
+                        "১৬ কোটি",
+                        "১৭ কোটি",
+                        "২০ কোটি"
+                    ],
+                    "answer": 2,
+                    "why": "২০২২ সালের আদমশুমারি অনুযায়ী বাংলাদেশের জনসংখ্যা প্রায় ১৭ কোটি।"
+                },
+                {
+                    "q": "বাংলাদেশের জনসংখ্যার ঘনত্ব কত (প্রতি বর্গকিমি)?",
+                    "options": [
+                        "৮০০ জন",
+                        "১,০০০ জন",
+                        "প্রায় ১,১৫০ জন",
+                        "১,৫০০ জন"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশের জনসংখ্যার ঘনত্ব প্রতি বর্গকিমিতে প্রায় ১,১৫০ জন।"
+                },
+                {
+                    "q": "বাংলাদেশের আবহাওয়া অধিদপ্তরের পূর্বাভাসে ঘূর্ণিঝড়ের সংকেত কয়টি?",
+                    "options": [
+                        "৭টি",
+                        "৯টি",
+                        "১১টি",
+                        "১৩টি"
+                    ],
+                    "answer": 2,
+                    "why": "ঘূর্ণিঝড়ের সংকেত ১ থেকে ১১ পর্যন্ত মোট ১১টি।"
+                },
+                {
+                    "q": "বাংলাদেশে বর্ষাকাল কোন মাসে হয়?",
+                    "options": [
+                        "চৈত্র-বৈশাখ",
+                        "আষাঢ়-শ্রাবণ",
+                        "কার্তিক-অগ্রহায়ণ",
+                        "মাঘ-ফাল্গুন"
+                    ],
+                    "answer": 1,
+                    "why": "বাংলাদেশে বর্ষাকাল আষাঢ়-শ্রাবণ মাসে (জুন-আগস্ট) হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের স্বাস্থ্য সেবার জাতীয় হটলাইন নম্বর কোনটি?",
+                    "options": [
+                        "৯৯৯",
+                        "১৬২৬৩",
+                        "৩৩৩",
+                        "১০৯"
+                    ],
+                    "answer": 1,
+                    "why": "স্বাস্থ্য সেবার জাতীয় হটলাইন (স্বাস্থ্য বাতায়ন) নম্বর ১৬২৬৩।"
+                },
+                {
+                    "q": "বাংলাদেশে প্রথম করোনা রোগী শনাক্ত হয় কবে?",
+                    "options": [
+                        "৮ মার্চ ২০২০",
+                        "৮ এপ্রিল ২০২০",
+                        "৮ জানুয়ারি ২০২০",
+                        "৮ ফেব্রুয়ারি ২০২০"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশে প্রথম করোনা রোগী শনাক্ত হয় ২০২০ সালের ৮ মার্চ।"
                 }
             ]
         },
@@ -92914,6 +94344,490 @@
                     ],
                     "answer": 0,
                     "why": "ফিশিংয়ে ভুয়া ওয়েবসাইট বা মেইলের মাধ্যমে ব্যবহারকারীর পাসওয়ার্ড ও তথ্য হাতিয়ে নেওয়া হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের সাইবার নিরাপত্তা আইন কত সালে প্রণীত হয়?",
+                    "options": [
+                        "২০১৮",
+                        "২০২৩",
+                        "২০০৬",
+                        "২০১৩"
+                    ],
+                    "answer": 1,
+                    "why": "সাইবার নিরাপত্তা আইন ২০২৩ সালে প্রণীত হয়।"
+                },
+                {
+                    "q": "ওয়ার্ম (Worm) ও ভাইরাসের মূল পার্থক্য কী?",
+                    "options": [
+                        "ওয়ার্ম নিজে নিজে ছড়ায়, ভাইরাস অন্য ফাইলে যুক্ত হয়ে ছড়ায়",
+                        "ওয়ার্ম ধীরগতির",
+                        "ভাইরাস নিজে ছড়ায় না",
+                        "দুটো একই"
+                    ],
+                    "answer": 0,
+                    "why": "ওয়ার্ম নিজে নিজে নেটওয়ার্কে ছড়িয়ে পড়ে; ভাইরাস অন্য ফাইলে যুক্ত হয়ে ছড়ায়।"
+                },
+                {
+                    "q": "পাবলিক কি এনক্রিপশনে কয়টি কি থাকে?",
+                    "options": [
+                        "১টি",
+                        "২টি",
+                        "৩টি",
+                        "৪টি"
+                    ],
+                    "answer": 1,
+                    "why": "পাবলিক কি এনক্রিপশনে দুটি কি থাকে—পাবলিক কি ও প্রাইভেট কি।"
+                },
+                {
+                    "q": "শক্তিশালী পাসওয়ার্ডের বৈশিষ্ট্য কী?",
+                    "options": [
+                        "শুধু নাম ব্যবহার করা",
+                        "দীর্ঘ এবং অক্ষর, সংখ্যা ও চিহ্নের মিশ্রণ",
+                        "শুধু সংখ্যা ব্যবহার করা",
+                        "সহজ শব্দ ব্যবহার করা"
+                    ],
+                    "answer": 1,
+                    "why": "শক্তিশালী পাসওয়ার্ড দীর্ঘ হয় এবং অক্ষর, সংখ্যা ও চিহ্নের মিশ্রণ থাকে।"
+                },
+                {
+                    "q": "ব্যাকআপের প্রধান উদ্দেশ্য কী?",
+                    "options": [
+                        "তথ্য হারিয়ে গেলে তা পুনরুদ্ধার করা",
+                        "কম্পিউটারের গতি বাড়ানো",
+                        "ভাইরাস তৈরি করা",
+                        "ফাইল মুছে ফেলা"
+                    ],
+                    "answer": 0,
+                    "why": "ব্যাকআপ রাখা হয় যাতে তথ্য হারিয়ে গেলে বা নষ্ট হলে তা পুনরুদ্ধার করা যায়।"
+                },
+                {
+                    "q": "রিলেশনাল ডেটাবেসে তথ্য কী আকারে থাকে?",
+                    "options": [
+                        "টেবিলে (সারি ও কলামে)",
+                        "ছবি আকারে",
+                        "শব্দ আকারে",
+                        "ভিডিও আকারে"
+                    ],
+                    "answer": 0,
+                    "why": "রিলেশনাল ডেটাবেসে তথ্য টেবিল আকারে থাকে; প্রতিটি টেবিলে সারি (রেকর্ড) ও কলাম (ক্ষেত্র) থাকে।"
+                },
+                {
+                    "q": "SQL-এ তথ্য নেওয়ার (retrieval) কমান্ড কোনটি?",
+                    "options": [
+                        "INSERT",
+                        "SELECT",
+                        "DELETE",
+                        "UPDATE"
+                    ],
+                    "answer": 1,
+                    "why": "SQL-এ তথ্য নিতে SELECT কমান্ড ব্যবহৃত হয়; যেমন: SELECT * FROM students;"
+                },
+                {
+                    "q": "SQL-এ তথ্য পরিবর্তনের কমান্ড কোনটি?",
+                    "options": [
+                        "SELECT",
+                        "INSERT",
+                        "DELETE",
+                        "UPDATE"
+                    ],
+                    "answer": 3,
+                    "why": "SQL-এ তথ্য পরিবর্তন করতে UPDATE কমান্ড ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সি ভাষায় আউটপুট দেখানোর ফাংশন কোনটি?",
+                    "options": [
+                        "scanf()",
+                        "printf()",
+                        "main()",
+                        "getch()"
+                    ],
+                    "answer": 1,
+                    "why": "সি ভাষায় আউটপুট দেখাতে printf() ফাংশন ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সি ভাষায় ইনপুট নেওয়ার ফাংশন কোনটি?",
+                    "options": [
+                        "printf()",
+                        "scanf()",
+                        "main()",
+                        "include"
+                    ],
+                    "answer": 1,
+                    "why": "সি ভাষায় ইনপুট নিতে scanf() ফাংশন ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সি ভাষায় হেডার ফাইল অন্তর্ভুক্ত করতে কোন নির্দেশ ব্যবহৃত হয়?",
+                    "options": [
+                        "#include",
+                        "#define",
+                        "#main",
+                        "#printf"
+                    ],
+                    "answer": 0,
+                    "why": "সি ভাষায় হেডার ফাইল অন্তর্ভুক্ত করতে #include নির্দেশ ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "সি ভাষায় প্রধান ফাংশনের নাম কী?",
+                    "options": [
+                        "start()",
+                        "main()",
+                        "begin()",
+                        "run()"
+                    ],
+                    "answer": 1,
+                    "why": "সি প্রোগ্রাম main() ফাংশন থেকে চালু হয়।"
+                },
+                {
+                    "q": "জাভাস্ক্রিপ্ট (JavaScript) কে তৈরি করেন?",
+                    "options": [
+                        "ব্রেন্ডন আইখ",
+                        "জেমস গসলিং",
+                        "ডেনিস রিচি",
+                        "টিম বার্নার্স-লি"
+                    ],
+                    "answer": 0,
+                    "why": "জাভাস্ক্রিপ্ট তৈরি করেন ব্রেন্ডন আইখ (১৯৯৫ সালে)।"
+                },
+                {
+                    "q": "জাভাস্ক্রিপ্ট প্রধানত কোথায় চলে?",
+                    "options": [
+                        "ওয়েব ব্রাউজারে (ক্লায়েন্ট সাইডে)",
+                        "প্রিন্টারে",
+                        "হার্ডডিস্কে",
+                        "মনিটরে"
+                    ],
+                    "answer": 0,
+                    "why": "জাভাস্ক্রিপ্ট প্রধানত ওয়েব ব্রাউজারে চলে; এটি ওয়েবপেজকে ইন্টারঅ্যাক্টিভ করে।"
+                },
+                {
+                    "q": "HTML-এ শিরোনাম (heading) দেখাতে কোন ট্যাগ ব্যবহৃত হয়?",
+                    "options": [
+                        "<p>",
+                        "<h1>",
+                        "<img>",
+                        "<a>"
+                    ],
+                    "answer": 1,
+                    "why": "HTML-এ শিরোনাম দেখাতে <h1> থেকে <h6> ট্যাগ ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ফ্লোচার্টে সমান্তরাল চতুর্ভুজ (parallelogram) কী বোঝায়?",
+                    "options": [
+                        "সিদ্ধান্ত",
+                        "ইনপুট বা আউটপুট",
+                        "প্রক্রিয়া",
+                        "শুরু বা শেষ"
+                    ],
+                    "answer": 1,
+                    "why": "ফ্লোচার্টে সমান্তরাল চতুর্ভুজ দিয়ে ইনপুট বা আউটপুট বোঝানো হয়।"
+                },
+                {
+                    "q": "ফ্লোচার্টে ডায়মন্ড (রম্বস) কী বোঝায়?",
+                    "options": [
+                        "প্রক্রিয়া",
+                        "ইনপুট",
+                        "সিদ্ধান্ত (decision)",
+                        "শেষ"
+                    ],
+                    "answer": 2,
+                    "why": "ফ্লোচার্টে ডায়মন্ড বা রম্বস দিয়ে সিদ্ধান্ত বোঝানো হয়।"
+                },
+                {
+                    "q": "ওয়াই-ফাই (Wi-Fi) কোন প্রযুক্তি?",
+                    "options": [
+                        "তারবিহীন নেটওয়ার্ক প্রযুক্তি",
+                        "তারযুক্ত নেটওয়ার্ক প্রযুক্তি",
+                        "মুদ্রণ প্রযুক্তি",
+                        "স্যাটেলাইট প্রযুক্তি"
+                    ],
+                    "answer": 0,
+                    "why": "ওয়াই-ফাই (IEEE 802.11) তারবিহীন নেটওয়ার্ক প্রযুক্তি।"
+                },
+                {
+                    "q": "ব্লুটুথের ব্যবহার কী?",
+                    "options": [
+                        "স্বল্প দূরত্বে ডিভাইসের মধ্যে তথ্য আদান-প্রদান",
+                        "ইন্টারনেট ব্রাউজ করা",
+                        "ছবি ছাপানো",
+                        "বিদ্যুৎ উৎপাদন"
+                    ],
+                    "answer": 0,
+                    "why": "ব্লুটুথ স্বল্প দূরত্বে (প্রায় ১০ মিটার) ডিভাইসের মধ্যে তথ্য আদান-প্রদান করে।"
+                },
+                {
+                    "q": "USB 3.0-এর সর্বোচ্চ ডেটা স্থানান্তরের গতি কত?",
+                    "options": [
+                        "৪৮০ Mbps",
+                        "৫ Gbps",
+                        "১০ Gbps",
+                        "১২ Mbps"
+                    ],
+                    "answer": 1,
+                    "why": "USB 3.0 (SuperSpeed)-এর সর্বোচ্চ গতি ৫ Gbps; USB 2.0-এর গতি ৪৮০ Mbps।"
+                },
+                {
+                    "q": "CPU-এর প্রধান দুটি অংশ কী?",
+                    "options": [
+                        "ALU ও CU",
+                        "RAM ও ROM",
+                        "মনিটর ও কিবোর্ড",
+                        "হার্ডডিস্ক ও SSD"
+                    ],
+                    "answer": 0,
+                    "why": "CPU-এর প্রধান দুটি অংশ ALU (গাণিতিক যুক্তি একক) ও CU (নিয়ন্ত্রণ একক)।"
+                },
+                {
+                    "q": "হার্ডডিস্কে তথ্য সংরক্ষণের ক্ষুদ্রতম একক কী?",
+                    "options": [
+                        "সেক্টর",
+                        "ফাইল",
+                        "ফোল্ডার",
+                        "বাইট"
+                    ],
+                    "answer": 0,
+                    "why": "হার্ডডিস্কে তথ্য সংরক্ষণের ক্ষুদ্রতম একক সেক্টর (সাধারণত ৫১২ বাইট)।"
+                },
+                {
+                    "q": "স্ক্যানারের প্রধান দুই ধরন কোনটি?",
+                    "options": [
+                        "ফ্ল্যাটবেড ও হ্যান্ডহেল্ড",
+                        "লেজার ও ইঙ্কজেট",
+                        "CRT ও LCD",
+                        "ডট ম্যাট্রিক্স ও থার্মাল"
+                    ],
+                    "answer": 0,
+                    "why": "স্ক্যানারের প্রধান দুই ধরন ফ্ল্যাটবেড ও হ্যান্ডহেল্ড (এছাড়া শিট-ফেড ও ড্রাম স্ক্যানার আছে)।"
+                },
+                {
+                    "q": "অপটিক্যাল মাউস কী দিয়ে কাজ করে?",
+                    "options": [
+                        "আলো বা LED সেন্সর দিয়ে",
+                        "বল দিয়ে",
+                        "চুম্বক দিয়ে",
+                        "শব্দ দিয়ে"
+                    ],
+                    "answer": 0,
+                    "why": "অপটিক্যাল মাউস LED আলো ও সেন্সর দিয়ে নড়াচড়া শনাক্ত করে।"
+                },
+                {
+                    "q": "কিবোর্ডে ফাংশন কি (F1–F12) কয়টি?",
+                    "options": [
+                        "১০টি",
+                        "১২টি",
+                        "১৪টি",
+                        "৮টি"
+                    ],
+                    "answer": 1,
+                    "why": "কিবোর্ডে ফাংশন কি F1 থেকে F12 পর্যন্ত মোট ১২টি।"
+                },
+                {
+                    "q": "মনিটরের রেজোলিউশন বলতে কী বোঝায়?",
+                    "options": [
+                        "পিক্সেলের সংখ্যা (প্রস্থ × উচ্চতা)",
+                        "মনিটরের ওজন",
+                        "মনিটরের দাম",
+                        "মনিটরের রং"
+                    ],
+                    "answer": 0,
+                    "why": "রেজোলিউশন হলো মনিটরে পিক্সেলের সংখ্যা; যেমন ১৯২০ × ১০৮০।"
+                },
+                {
+                    "q": "হার্ডওয়্যার ও সফটওয়্যারের পার্থক্য কী?",
+                    "options": [
+                        "হার্ডওয়্যার স্পর্শযোগ্য যন্ত্রাংশ, সফটওয়্যার নির্দেশনা",
+                        "হার্ডওয়্যার দ্রুততর",
+                        "সফটওয়্যার স্পর্শযোগ্য",
+                        "কোনো পার্থক্য নেই"
+                    ],
+                    "answer": 0,
+                    "why": "হার্ডওয়্যার কম্পিউটারের স্পর্শযোগ্য যন্ত্রাংশ; সফটওয়্যার হলো নির্দেশনা বা প্রোগ্রাম।"
+                },
+                {
+                    "q": "IP ঠিকানার দুটি ধরন কী?",
+                    "options": [
+                        "IPv4 ও IPv6",
+                        "IPv1 ও IPv2",
+                        "IP ও URL",
+                        "TCP ও UDP"
+                    ],
+                    "answer": 0,
+                    "why": "IP ঠিকানার দুটি ধরন IPv4 (৩২ বিট) ও IPv6 (১২৮ বিট)।"
+                },
+                {
+                    "q": "URL-এর অংশগুলো কী কী?",
+                    "options": [
+                        "প্রোটোকল, ডোমেইন নাম ও পথ",
+                        "শুধু ডোমেইন নাম",
+                        "শুধু পাসওয়ার্ড",
+                        "শুধু IP ঠিকানা"
+                    ],
+                    "answer": 0,
+                    "why": "URL-এ প্রোটোকল (যেমন https), ডোমেইন নাম ও পথ থাকে।"
+                },
+                {
+                    "q": "ইন্টারনেটে তথ্য পাঠানোর একক কী?",
+                    "options": [
+                        "প্যাকেট",
+                        "ফাইল",
+                        "বাইট",
+                        "বিট"
+                    ],
+                    "answer": 0,
+                    "why": "ইন্টারনেটে তথ্য ছোট ছোট প্যাকেট আকারে পাঠানো হয়।"
+                },
+                {
+                    "q": "ই-লার্নিং কী?",
+                    "options": [
+                        "ইন্টারনেটভিত্তিক শিক্ষা",
+                        "ই-মেইল শিক্ষা",
+                        "টিভিতে শিক্ষা",
+                        "বই পড়া"
+                    ],
+                    "answer": 0,
+                    "why": "ই-লার্নিং হলো ইন্টারনেট ও তথ্যপ্রযুক্তি ব্যবহার করে শিক্ষা গ্রহণ।"
+                },
+                {
+                    "q": "টেলিমেডিসিন কী?",
+                    "options": [
+                        "দূর থেকে তথ্যপ্রযুক্তির মাধ্যমে চিকিৎসা সেবা",
+                        "টেলিফোনে গল্প করা",
+                        "টিভিতে চিকিৎসা দেখা",
+                        "ঔষধ তৈরি করা"
+                    ],
+                    "answer": 0,
+                    "why": "টেলিমেডিসিনে দূর থেকে তথ্যপ্রযুক্তির মাধ্যমে রোগ নির্ণয় ও চিকিৎসা পরামর্শ দেওয়া হয়।"
+                },
+                {
+                    "q": "এক্সেলে যোগফল বের করার ফাংশন কোনটি?",
+                    "options": [
+                        "SUM()",
+                        "ADD()",
+                        "TOTAL()",
+                        "COUNT()"
+                    ],
+                    "answer": 0,
+                    "why": "এক্সেলে যোগফল বের করতে SUM() ফাংশন ব্যবহৃত হয়; যেমন: =SUM(A1:A5)।"
+                },
+                {
+                    "q": "এক্সেলে গড় বের করার ফাংশন কোনটি?",
+                    "options": [
+                        "SUM()",
+                        "MAX()",
+                        "AVERAGE()",
+                        "MIN()"
+                    ],
+                    "answer": 2,
+                    "why": "এক্সেলে গড় বের করতে AVERAGE() ফাংশন ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "এক্সেলে সর্বোচ্চ মান বের করার ফাংশন কোনটি?",
+                    "options": [
+                        "MIN()",
+                        "MAX()",
+                        "SUM()",
+                        "COUNT()"
+                    ],
+                    "answer": 1,
+                    "why": "এক্সেলে সর্বোচ্চ মান বের করতে MAX() ফাংশন ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "পাওয়ারপয়েন্টে একটি পৃষ্ঠাকে কী বলে?",
+                    "options": [
+                        "শিট",
+                        "স্লাইড",
+                        "পেজ",
+                        "সেল"
+                    ],
+                    "answer": 1,
+                    "why": "পাওয়ারপয়েন্টে একটি পৃষ্ঠাকে স্লাইড বলে।"
+                },
+                {
+                    "q": "পাওয়ারপয়েন্টে স্লাইড প্রদর্শন (slideshow) শুরু করতে কোন কি চাপতে হয়?",
+                    "options": [
+                        "F1",
+                        "F5",
+                        "F9",
+                        "F12"
+                    ],
+                    "answer": 1,
+                    "why": "পাওয়ারপয়েন্টে স্লাইড প্রদর্শন শুরু করতে F5 কি চাপতে হয়।"
+                },
+                {
+                    "q": "মাইক্রোসফট ওয়ার্ডে নতুন নথি খুলতে কোন শর্টকাট ব্যবহৃত হয়?",
+                    "options": [
+                        "Ctrl+S",
+                        "Ctrl+N",
+                        "Ctrl+O",
+                        "Ctrl+P"
+                    ],
+                    "answer": 1,
+                    "why": "ওয়ার্ডে নতুন নথি খুলতে Ctrl+N শর্টকাট ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "মাইক্রোসফট ওয়ার্ডে সংরক্ষণ (Save) করতে কোন শর্টকাট ব্যবহৃত হয়?",
+                    "options": [
+                        "Ctrl+N",
+                        "Ctrl+S",
+                        "Ctrl+P",
+                        "Ctrl+C"
+                    ],
+                    "answer": 1,
+                    "why": "ওয়ার্ডে নথি সংরক্ষণ করতে Ctrl+S শর্টকাট ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "কম্পিউটারে কপি করতে কোন শর্টকাট ব্যবহৃত হয়?",
+                    "options": [
+                        "Ctrl+X",
+                        "Ctrl+V",
+                        "Ctrl+C",
+                        "Ctrl+Z"
+                    ],
+                    "answer": 2,
+                    "why": "কম্পিউটারে কপি করতে Ctrl+C শর্টকাট ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "গুগল (Google) কে প্রতিষ্ঠা করেন?",
+                    "options": [
+                        "ল্যারি পেজ ও সের্গেই ব্রিন",
+                        "বিল গেটস ও পল অ্যালেন",
+                        "স্টিভ জবস ও স্টিভ ওজনিয়াক",
+                        "মার্ক জাকারবার্গ"
+                    ],
+                    "answer": 0,
+                    "why": "গুগল প্রতিষ্ঠা করেন ল্যারি পেজ ও সের্গেই ব্রিন (১৯৯৮ সালে)।"
+                },
+                {
+                    "q": "গুগলের সার্চ ইঞ্জিন চালু হয় কত সালে?",
+                    "options": [
+                        "১৯৯৫",
+                        "১৯৯৮",
+                        "২০০১",
+                        "২০০৪"
+                    ],
+                    "answer": 1,
+                    "why": "গুগলের সার্চ ইঞ্জিন চালু হয় ১৯৯৮ সালে।"
+                },
+                {
+                    "q": "ই-মেইল ঠিকানায় '@' চিহ্নের পরের অংশকে কী বলে?",
+                    "options": [
+                        "ইউজারনেম",
+                        "ডোমেইন",
+                        "পাসওয়ার্ড",
+                        "সার্ভার"
+                    ],
+                    "answer": 1,
+                    "why": "ই-মেইল ঠিকানায় '@'-এর পরের অংশ ডোমেইন; যেমন: example.com।"
+                },
+                {
+                    "q": "ওয়েব ব্রাউজারের উদাহরণ কোনটি?",
+                    "options": [
+                        "MS Word",
+                        "Google Chrome",
+                        "Photoshop",
+                        "Excel"
+                    ],
+                    "answer": 1,
+                    "why": "Google Chrome একটি ওয়েব ব্রাউজার; MS Word ও Excel অফিস সফটওয়্যার।"
                 }
             ]
         }
