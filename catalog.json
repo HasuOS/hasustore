@@ -19,26 +19,26 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 25,
-   "versionName": "1.23",
-   "size": 116086,
+   "code": 26,
+   "versionName": "1.24",
+   "size": 342740,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "NEW: the charging card and the status-bar minutes icon are now separate. Clear the card and it stays away for the rest of that charge — but the minutes icon in your status bar is permanent: it belongs to a small silent carrier notification whose only job is to hold it, so it stays for the whole charge while Charging time is on, whatever you clear, and leaves only when you unplug or switch the feature off. The 'Bring back after clear' switch is gone — there is nothing to choose anymore. The countdown text now shows minutes AND seconds (29 min 41 sec left), ticking every second. Voice alerts, the Stop buttons, the anchored countdown and the charge-limit detection work exactly as before.",
-   "ts": 1795442649,
-   "etag": "0x8DF496A88A6FA3F"
+   "changes": "THE FULL SYSTEM ARRIVES. HasuBattery now updates itself — its own check, notification, download and install, offered only after the new version has settled and verified. A new Appearance picker in the new Settings page: six themes, icon sets for every icon in the app (Font Awesome included), and four launcher icon designs — tap and it applies at once. New icon packs arrive by themselves from the feed, and a notification tells you what was added, with its own switch in Settings. The Permissions hub gains the Install updates row, and its toggle counts it too. The Website in About is a proper button now, and one stale line about the charging card was corrected. Nothing about the monitor, the charging time or the voice alerts has changed.",
+   "ts": 1795572758,
+   "etag": "0x8DF4A997DA31F1A"
   },
   {
    "pkg": "hasu.os.keyboard",
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 68,
-   "versionName": "5.40",
+   "code": 69,
+   "versionName": "5.41",
    "size": 68946697,
-   "changes": "EVERYTHING ARRIVES BY ITSELF NOW. Sounds, GIFs, emoji sticker packs, fonts, fancy text styles, themes, dictionaries and backgrounds now sync from the feed automatically — no download tap, no app update — and a notification tells you exactly what was added (you can turn it off in Setup, Content updates). Tap a new sound to hear it, a new font shows its own Ag, new themes and backgrounds land in the Theme tab, and 396 new dictionary words join suggestions in English, Bangla, Hindi, Arabic and Urdu. App-icon designs arrive in the picker too — Android only lets a built-in design become the launcher icon, so new artwork still needs an app update, and the picker says so honestly. Everything from 5.39 stays: the rebuilt top row, proper skin-tone chips and the fixed sound engine.",
+   "changes": "CLIPBOARD FIXED: copied text is saved to the clipboard history again — and if clipboard encryption ever fails on your phone, your clips are kept safely (still behind the fingerprint lock) and the panel tells you honestly instead of silently losing them. The clipboard panel also captures the current copy no matter how you open it, and an empty panel now explains why (Incognito pause, encryption problem, or nothing copied yet).",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795570497,
-   "etag": "0x8DF4A9438C883D3"
+   "ts": 1795572758,
+   "etag": "0x8DF4A998763005B"
   },
   {
    "pkg": "hasu.os.browser",
