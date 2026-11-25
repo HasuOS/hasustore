@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 30,
-   "versionName": "1.28",
-   "size": 2137004,
+   "code": 31,
+   "versionName": "1.29",
+   "size": 2190252,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "One charging notification only: the plain second 'Charging time' notification under the premium card is gone for good — the premium live countdown card is now the single charging notification (the status-bar minutes icon rides on it). The About page's Developer card also gains his tappable contact email. Nothing else changes.",
-   "ts": 1795584899,
-   "etag": "0x8DF4AB5AB3096DE"
+   "changes": "HasuBattery 1.29 — লঞ্চার আইকন ঠিক করা হয়েছে: এখন Samsung সহ সব লঞ্চারে আইকন ঠিকঠাক দেখা যাবে (আগে সাদা ফাঁকা দেখাত)।",
+   "ts": 1795612443,
+   "etag": "0x8DF4AF5F9277D86"
   },
   {
    "pkg": "hasu.os.keyboard",
