@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 77,
-   "versionName": "5.49",
+   "code": 78,
+   "versionName": "5.50",
    "size": 70531998,
-   "changes": "Clipboard fixed and completed: tapping a clip now pastes it into the field (with an automatic fallback and an honest message if a field refuses — never silent). New: ⬇ Save clip saves the current clipboard in one tap, long-press a clip to edit it, ⧉ copies a clip back, every clip shows when it was copied, and Clear history now keeps your 📌 pinned clips.",
+   "changes": "Two fixes from your testing. The Settings button in the keyboard's top tools bar works again — it now opens HasuBoard reliably (and says so honestly if it ever can't). And saving a copied text is unmissable: ⬇ Save clip and ＋ Add sit pinned at the top of the clipboard panel, and inside Add a new 📋 Paste button fills the field with the text you already copied — check it, edit it, save it, no retyping. Everything from 5.49 (tap-to-paste clips, pinned clips, timestamps) is unchanged.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795584899,
-   "etag": "0x8DF4AB5B21F59FD"
+   "ts": 1795586798,
+   "etag": "0x8DF4ABA34CFEB34"
   },
   {
    "pkg": "hasu.os.browser",
