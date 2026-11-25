@@ -6,13 +6,13 @@
    "name": "HasuBackup",
    "tag": "APK backup",
    "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-   "code": 15,
-   "versionName": "1.12",
+   "code": 17,
+   "versionName": "1.14",
    "size": 2062756,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
-   "changes": "Design fix: the Permissions text strip above the header is gone — the lock icon and its live toggle now sit in the header's icon row, beside Settings and About. Nothing else changes.",
-   "etag": "0x8DF4AB1AA738D18",
-   "ts": 1795583155
+   "changes": "Connected icons: the app list now shows each app's current icon — change an app's icon inside that app and the new icon shows here too, exactly like on Home. The About page also gains the Developer card with the new HasuOS brand logo and Hasu's tappable contact email.",
+   "etag": "0x8DF4AB49AB9DD4B",
+   "ts": 1795584432
   },
   {
    "pkg": "hasu.os.battery",
@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 75,
-   "versionName": "5.47",
+   "code": 76,
+   "versionName": "5.48",
    "size": 70527902,
-   "changes": "Design fix: the Permissions header icon is now the family's Font Awesome lock glyph, matching the other header icons. Nothing else changes.",
+   "changes": "Connected icons: the App shortcuts panel now shows each app's current icon — change an app's icon inside that app and the new icon shows on the keyboard's shortcuts too. (Plus the contact/logo tidy-up from the same round.)",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795583155,
-   "etag": "0x8DF4AB1B8151192"
+   "ts": 1795584432,
+   "etag": "0x8DF4AB4A94DA22B"
   },
   {
    "pkg": "hasu.os.browser",
@@ -136,13 +136,13 @@
    "name": "HasuFiles",
    "tag": "File manager",
    "desc": "File manager — browse all storage, categories for images, videos, music, documents & APKs, search, copy/move, zip & extract.",
-   "code": 30,
-   "versionName": "05.11",
+   "code": 31,
+   "versionName": "05.12",
    "size": 342958,
-   "changes": "NEW: 📱 Apps — every installed app on the phone, with its version and APK size — your own apps first, system apps hidden until you tap “System apps”; tap an app to open it, see its App info, back up its APK to Downloads, or uninstall it (system apps cannot be uninstalled). FIXED: moving a file into the folder it is already in leaves it alone now, instead of renaming it to “Name (1)”. FIXED: the ＋ New folder button only shows while you are inside a folder — in a category or a search it used to sit there and do nothing. FIXED: Recent, Large files, Duplicates and Junk now say so when the scan stops early, instead of silently missing folders past the cap. The Guide and About pages list all four.",
+   "changes": "Connected icons: the Apps list now shows each app's current icon — if you change an app's icon inside that app, the new icon shows here too, exactly like on Home.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/files.apk",
-   "ts": 1795196710,
-   "etag": "0x8DF472DEED5C98F"
+   "ts": 1795584432,
+   "etag": "0x8DF4AB4970598C4"
   },
   {
    "pkg": "hasu.os.gamebox",
@@ -201,13 +201,13 @@
    "name": "HasuLock",
    "tag": "App lock",
    "desc": "App lock — protect any app with a PIN pad and fingerprint unlock.",
-   "code": 9,
-   "versionName": "1.07",
+   "code": 10,
+   "versionName": "1.08",
    "size": 58222,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/lock.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: the lock pad now sits below the real status bar on every phone — it used a fixed 56 dp top gap before. FIXED: the app picker opens at once — app icons now load in the background instead of freezing the screen while every icon is read. DESIGN: the app icon on the About page now sits on a glass tile, like the main screen.",
-   "ts": 1795262773,
-   "etag": "0x8DF47C7CE548FD0"
+   "changes": "Connected icons: the lock screen now shows the locked app's current icon — change an app's icon inside that app and the new icon shows on its lock screen too.",
+   "ts": 1795584432,
+   "etag": "0x8DF4AB497AF3892"
   },
   {
    "pkg": "hasu.os.music",
@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 128,
-   "versionName": "10.58",
+   "code": 129,
+   "versionName": "10.59",
    "size": 18933962,
-   "changes": "New HasuOS brand logo — the blue chrome h, corners transparent — now everywhere the brand logo appears in this app. Nothing else changes.",
+   "changes": "Connected icons: Home now always shows each app's current icon — change an app's icon inside that app and Home, the lock-screen shortcuts and the template previews all show the new icon too. (Plus the contact/logo tidy-up from the same round.)",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795582458,
-   "etag": "0x8DF4AAFD5F955E1"
+   "ts": 1795584432,
+   "etag": "0x8DF4AB4A05FA305"
   },
   {
    "pkg": "hasu.os.pdf",
@@ -292,13 +292,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 48,
-   "versionName": "2.23",
-   "size": 796299,
+   "code": 49,
+   "versionName": "2.24",
+   "size": 2574030,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "BALL CONTROL FIX. If you grab the ball again while it is still gliding to the edge, the glide now stops instantly and the ball follows your finger — before, the glide and your drag fought over the ball and it could jump. Everything else stays as it was: your chosen ball face, size, fade and snap behaviour are untouched.",
-   "ts": 1795570757,
-   "etag": "0x8DF4A94E4E41369"
+   "changes": "Connected icons: the favourites panel now shows each app's current icon — change an app's icon inside that app and the new icon shows on the ball's panel too. (Plus the contact/logo tidy-up from the same round.)",
+   "ts": 1795584432,
+   "etag": "0x8DF4AB4AABF2382"
   },
   {
    "pkg": "hasu.os.radio",
@@ -370,13 +370,13 @@
    "name": "HasuSpeed",
    "tag": "Live internet speed",
    "desc": "Live internet speed in your notification — download & upload now, today's totals and per-app usage.",
-   "code": 37,
-   "versionName": "02.12",
+   "code": 38,
+   "versionName": "02.13",
    "size": 66485,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk",
-   "changes": "FIXED: 🔢 The status-bar speed number now stays in its place — it no longer jumps to the front of the icon row every time the speed changes. The number is now its own tiny silent notification that only ever updates in place, and the big detail card is separate: swipe it away and it stays away until you open the app again, while the number keeps updating. Turn the meter off and both go away.",
-   "ts": 1795442796,
-   "etag": "0x8DF496A883E7AF7"
+   "changes": "Connected icons: the per-app data list now shows each app's current icon — change an app's icon inside that app and the new icon shows here too, exactly like on Home.",
+   "ts": 1795584432,
+   "etag": "0x8DF4AB498C4FE24"
   },
   {
    "pkg": "hasu.os.store",
@@ -435,13 +435,13 @@
    "name": "HasuUsage",
    "tag": "Screen time",
    "desc": "Usage — see where your time goes: screen time and data per app for today, yesterday and the last 7 days.",
-   "code": 8,
-   "versionName": "1.05",
+   "code": 9,
+   "versionName": "1.06",
    "size": 41838,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/usage.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. NEW: search the app list — a search box with a ✕ clear button filters by app name or package, with a match count, while the total card keeps showing the whole period; the search text survives rotation. FIXED: the total screen time now counts every app you opened, even briefly — short visits used to be left out of the total while the 7-day chart still counted them. FIXED: the 🔐 Permissions toggle is now honest — grey with the knob on the left until Usage access is really on, blue only then, repainted on every return. FIXED: the 7-day chart days now read Su Mo Tu We Th Fr Sa — Tuesday and Thursday were both just T before. DESIGN: the About page icon now sits on a glass tile.",
-   "ts": 1795327864,
-   "etag": "0x8DF485F422B4805"
+   "changes": "Connected icons: the usage list now shows each app's current icon — change an app's icon inside that app and the new icon shows here too, exactly like on Home.",
+   "ts": 1795584432,
+   "etag": "0x8DF4AB4983DF4C7"
   },
   {
    "pkg": "hasu.os.vault",
@@ -790,13 +790,13 @@
    "name": "HasuWidget",
    "tag": "Every HasuOS Home widget, one tap to add",
    "desc": "The widget gallery for HasuOS Home: all 66 widget kinds in one glass list — every row now shows a live preview of the widget itself, plus search, categories and favourites. Tap Add on any widget and it appears on your home screen.",
-   "code": 9,
-   "versionName": "1.08",
+   "code": 10,
+   "versionName": "1.09",
    "size": 107445,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/widget.apk",
-   "changes": "FIXED: every widget preview now shows the widget exactly as it sits on HasuOS Home — same size, same layout, same values (all 66 previews rebuilt from Home's own rendering) — and the Widget ↔ Home connection is fixed end to end: placed widgets report their real sizes, the music widget no longer goes missing from the list, and previews use Home's real grid size. DESIGN: more premium — real Font Awesome glyphs, gradient Add and Apply buttons, glass chips.",
-   "ts": 1795429467,
-   "etag": "0x8DF494BC9450FD4",
+   "changes": "Connected icons: widget previews now show each app's current icon, the same icon Home shows — change an app's icon and the preview matches it.",
+   "ts": 1795584432,
+   "etag": "0x8DF4AB4996A5043",
    "cat": "HasuOS"
   },
   {
