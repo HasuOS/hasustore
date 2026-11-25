@@ -292,13 +292,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 47,
-   "versionName": "2.22",
+   "code": 48,
+   "versionName": "2.23",
    "size": 796299,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "HasuQuick now updates itself: an App update card on the main screen opens its own update page — latest version, Posted date, What's new, Download with Pause/Resume/Stop, then Install — the same system as HasuStore, inside the app. Update notifications arrive on their own too. (Internet is now used only for this update check and download.)",
-   "ts": 1795397600,
-   "etag": "0x8DF49019C2D6FE2"
+   "changes": "BALL CONTROL FIX. If you grab the ball again while it is still gliding to the edge, the glide now stops instantly and the ball follows your finger — before, the glide and your drag fought over the ball and it could jump. Everything else stays as it was: your chosen ball face, size, fade and snap behaviour are untouched.",
+   "ts": 1795570757,
+   "etag": "0x8DF4A94E4E41369"
   },
   {
    "pkg": "hasu.os.radio",
@@ -748,13 +748,13 @@
    "name": "HasuWallet",
    "tag": "Your passwords & cards, in HasuOS glass",
    "desc": "A full password vault that lives only on your phone: master password + fingerprint unlock, AES-256 encryption, and — once you make it the default autofill service in its Settings — auto fill and auto save for logins across apps and websites. Cards, notes, favourites, search and a strong-password generator. No account, no cloud, no internet.",
-   "code": 7,
-   "versionName": "1.06",
-   "size": 83082,
+   "code": 8,
+   "versionName": "1.07",
+   "size": 95370,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wallet.apk",
-   "changes": "NEW: the vault now lives inside HasuBoard too. HasuBoard's 🔐 tool opens this vault's login list right inside the keyboard — names and IDs only — and tapping one types the ID and password into the login screen together, on any app. The list and the pair come from HasuWallet at that moment, over a channel only family-signed apps can open; the keyboard stores nothing. The list appears only while the vault is unlocked — while it is locked, the keyboard shows an unlock door that opens HasuWallet, and the master password is only ever typed here. Cards, notes and the two copy-only USER app logins stay out of the keyboard list. If 'Master password on fill' is ON, tapping an item in the keyboard does not fill — it sends you to the unlock door so the ask happens properly; turn it OFF and a tap fills at once while the vault is open. Everything else — the fill switch, App logins, autofill, default-wallet listing — is unchanged.",
-   "ts": 1795528797,
-   "etag": "0x8DF4A33289304AA",
+   "changes": "THE FILL SWITCH, PROVEN + SELF-UPDATE ARRIVES. The master-password-on-fill switch now does exactly what it says on every surface: ON means HasuWallet asks for the master password before any fill, every time; OFF means it fills automatically. The Permissions page now tells the truth about HasuWallet itself (it carried another app's leftover text — fixed). And HasuWallet can now update itself: its own check, notification, download and install, with an App update card in Settings and an Install updates row in Permissions.",
+   "ts": 1795570757,
+   "etag": "0x8DF4A94E059727F",
    "cat": "Tools"
   },
   {
