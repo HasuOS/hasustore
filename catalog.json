@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 71,
-   "versionName": "5.43",
+   "code": 72,
+   "versionName": "5.44",
    "size": 69024521,
-   "changes": "New HasuOS icon set — the family's own glyphs, first in the picker. Bold, Slim and Neon tool icons are now their own real designs, and the four extra app icons are new artwork too. Updates are offered only once the file has settled and its fingerprint matches. Feed fixes heal by themselves, removed items disappear, refused items are named in Setup with the reason, and the new-content notification opens the exact section. Wallet panel is in English, Back works on sub-pages, and Restore is exact.",
+   "changes": "About page fixed: the big picture at the top is now your app icon itself — the same icon your Home screen shows, in whichever design you picked in the icon picker. The HasuOS brand logo was not removed: it moved to its own small spot beside the BRAND row in the Developer card. Everything else is exactly as in 5.43.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795576246,
-   "etag": "0x8DF4AA1A35776D6"
+   "ts": 1795576921,
+   "etag": "0x8DF4AA31A4FCF73"
   },
   {
    "pkg": "hasu.os.browser",
