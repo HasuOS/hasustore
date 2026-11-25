@@ -721,13 +721,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 38,
-   "versionName": "1.37",
-   "size": 231349,
+   "code": 39,
+   "versionName": "1.38",
+   "size": 235445,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "One fix from your testing: End call is now a round red button with the phone-down sign in every call-screen style — the wide text bar at the bottom of the Split screen is gone, and Split's ringing Answer and Decline are round buttons too, just like the other styles. Everything else from 1.36 — the real call-screen previews, listen-first key sounds and per-surface themes — is unchanged.",
-   "ts": 1795588505,
-   "etag": "0x8DF4ABE380D53E5"
+   "changes": "One honest fix from your testing: the Full-screen incoming calls switch is Android's own — Android turns it off for apps installed outside the Play Store, and can do it again after an update; no app can hold it on by itself, and HasuPhone will not fake it. What the app now does: it notices the moment the switch is off, the Permissions row says why in plain words, and once per update a card on the main screen offers the few-seconds fix — one tap opens the exact system page. And while the switch is off, a ringing call still shows its banner and rings and vibrates as usual; only the full screen over the lock screen waits. Everything from 1.37 — real call-screen previews, listen-first key sounds, per-surface themes and the round End call button — is unchanged.",
+   "ts": 1795592700,
+   "etag": "0x8DF4ABFB2E5B475"
   },
   {
    "pkg": "hasu.os.cell",
