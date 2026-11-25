@@ -1,0 +1,10 @@
+{
+ "packs": [
+  {
+   "id": "aurora",
+   "name": "Aurora",
+   "zip": "packs/aurora.zip",
+   "size": 4246875
+  }
+ ]
+}
