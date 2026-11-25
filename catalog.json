@@ -71,13 +71,13 @@
    "name": "HasuCalendar",
    "tag": "Calendar",
    "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 16,
-   "versionName": "1.13",
-   "size": 2013086,
+   "code": 15,
+   "versionName": "1.12",
+   "size": 1840049,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-   "changes": "আইকন এখন adaptive — নিজের premium glass background সহ, Samsung-সহ সব জায়গায় পরিষ্কার দেখা যাবে",
-   "etag": "0x8DF4B035D4F91F8",
-   "ts": 1795618251
+   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
+   "etag": "0x8DF4B01B92A8DBA",
+   "ts": 1795616143
   },
   {
    "pkg": "com.hasucam.camera",
@@ -713,7 +713,7 @@
    "size": 2022068,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/edit.apk",
    "changes": "1.03: the family pass, completed. Settings, Look & icons, the full-screen Preview and the Update page are wired in at last (they existed but could not be opened), with five launcher-icon designs, per-surface themes and icon sets. NEW: drafts — leave a photo or video edit half done and it comes back exactly as you left it when you return (the Guide always promised this; now it is true), and saving the finished edit clears its draft. Both editors now follow the app's language (English/Bangla) and the icon set in use, video text overlays gained a colour choice, picked files stay readable after a restart, and two icon packs + two themes now arrive by themselves from the feed.",
-   "ts": 1795618048,
+   "ts": 1795618435,
    "etag": "0x8DF4B02FAFB8075"
   },
   {
