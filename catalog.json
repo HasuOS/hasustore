@@ -6,13 +6,13 @@
    "name": "HasuBackup",
    "tag": "APK backup",
    "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-   "code": 18,
-   "versionName": "1.15",
-   "size": 2116004,
+   "code": 19,
+   "versionName": "1.16",
+   "size": 2083236,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
-   "changes": "HasuBackup 1.15 — লঞ্চার আইকন ঠিক করা হয়েছে: এখন Samsung সহ সব লঞ্চারে আইকন ঠিকঠাক দেখা যাবে (আগে সাদা ফাঁকা দেখাত)।",
-   "etag": "0x8DF4AF57B2132F0",
-   "ts": 1795612252
+   "changes": "HasuBackup 1.16 — লঞ্চার আইকন ঠিক করা হয়েছে: পরিষ্কার ফ্যামিলি গ্লাস টাইলের উপর আইকন বসানো হয়েছে, এখন Samsung সহ সব লঞ্চারে আইকন ঠিকঠাক দেখা যাবে।",
+   "etag": "0x8DF4AF86BD01392",
+   "ts": 1795613501
   },
   {
    "pkg": "hasu.os.battery",
