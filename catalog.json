@@ -71,13 +71,13 @@
    "name": "HasuCalendar",
    "tag": "Calendar",
    "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 11,
-   "versionName": "1.08",
-   "size": 58222,
+   "code": 12,
+   "versionName": "1.09",
+   "size": 62318,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-   "changes": "Routine updated: daytime = job study, night = varsity study",
-   "etag": "0x8DF4A5FB2DDC193",
-   "ts": 1795547911
+   "changes": "Event reminders now speak: when a reminder fires, HasuCalendar also says the event's name out loud — twice — and the speaking notification has a Stop button to silence it. Turn the voice off (or on) with the Voice announcement switch at the bottom of the Permissions page.",
+   "etag": "0x8DF4AB14C8A2CBF",
+   "ts": 1795582988
   },
   {
    "pkg": "com.hasucam.camera",
@@ -110,13 +110,13 @@
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 22,
-   "versionName": "1.16",
-   "size": 3247013,
+   "code": 23,
+   "versionName": "1.17",
+   "size": 3251109,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
-   "changes": "NEW: four alarm tones recorded from real life — 🌊 Ocean Waves, 🌧 Gentle Rain, 🐦 Dawn Birds and 🏞 Forest Stream (CC0 recordings, built into the app) — the built-in set is now 14 tones, and the timer can use them too. Each is a 30-second level-normalised loop with a gentle fade, so it rings smoothly until you stop it. The Guide and About pages list them.",
-   "ts": 1795429467,
-   "etag": "0x8DF494BDB477669"
+   "changes": "Your alarms now speak: when an alarm rings, HasuClock also says its label out loud — twice — so you hear what is ringing (video alarms are never spoken over). Stop or Snooze silences the voice with the sound. Turn it off any time with the new Voice announcement switch on the Alarm tab.",
+   "ts": 1795582988,
+   "etag": "0x8DF4AB14B3ECB63"
   },
   {
    "pkg": "hasu.os.dice",
@@ -162,13 +162,13 @@
    "name": "HasuHabit",
    "tag": "Habit tracker",
    "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.",
-   "code": 10,
-   "versionName": "1.09",
-   "size": 62532,
+   "code": 11,
+   "versionName": "1.10",
+   "size": 66628,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk",
-   "changes": "Routine updated: daytime = job study, night = varsity study",
-   "ts": 1795546066,
-   "etag": "0x8DF4A5B63662833"
+   "changes": "Habit reminders now speak: when a reminder fires, HasuHabit also says the habit's name out loud — twice — and the speaking notification has a Stop button to silence it. Turn the voice off (or on) with the Voice announcement switch at the bottom of the Permissions page.",
+   "ts": 1795582988,
+   "etag": "0x8DF4AB14EBF138A"
   },
   {
    "pkg": "hasu.os.health",
@@ -409,13 +409,13 @@
    "name": "HasuTask",
    "tag": "To-dos & reminders",
    "desc": "To-dos — tasks with a date, time and priority, and reminders that fire on time. Filter by Today, All or Done.",
-   "code": 11,
-   "versionName": "1.09",
-   "size": 66627,
+   "code": 12,
+   "versionName": "1.10",
+   "size": 70723,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk",
-   "changes": "Routine updated: daytime = job study, night = varsity study",
-   "ts": 1795548504,
-   "etag": "0x8DF4A611472692D"
+   "changes": "Task reminders now speak: when a reminder fires, HasuTask also says the task's name out loud — twice — and the speaking notification has a Stop button to silence it. Turn the voice off (or on) with the Voice announcement switch at the bottom of the Permissions page.",
+   "ts": 1795582988,
+   "etag": "0x8DF4AB14D9BE49C"
   },
   {
    "pkg": "hasu.os.tools",
@@ -804,13 +804,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 68,
- "versionName": "1.67",
- "size": 871883,
+ "code": 69,
+ "versionName": "1.68",
+ "size": 884171,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "BACKGROUND CHECKS ARE FASTER NOW. The app now checks the feeds by itself every 15 minutes instead of 45 — a new circular, new questions, admit or result news reaches you within about 15 minutes even if you never open the app. Nothing else changes.",
- "ts": 1795571186,
- "etag": "0x8DF4A95CEEC7DDF",
+ "changes": "NEW: EXAM ALARM. Set an exam yourself on the তথ্য tab (পরীক্ষার অ্যালার্ম — name, date, time), and 10 minutes before it the app SPEAKS to you — “Exam starting soon. Be prepared.” plus the exam's name — again and again until you tap Stop, like HasuBattery's charging voice. The alarm page opens over the lock screen with one big Stop button; if the phone cannot speak, the alarm ringtone loops instead. Voice on/off lives on the Permissions page. Alarms are per person (আমি / বোন), survive restarts, and are inside every backup.",
+ "ts": 1795582988,
+ "etag": "0x8DF4AB151B3619E",
  "cat": "Tools"
 }
  ]
