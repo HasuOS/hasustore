@@ -45,13 +45,13 @@
    "name": "HasuBrowser",
    "tag": "Web browser",
    "desc": "Browser — light and fast browsing with bookmarks, history, downloads and desktop mode.",
-   "code": 12,
-   "versionName": "1.08",
-   "size": 74606,
+   "code": 13,
+   "versionName": "1.09",
+   "size": 465336,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/browser.apk",
-   "changes": "FIX: HasuBrowser now appears in Settings → Default apps → Browser app. It never answered web links, so Android never listed it — the link handling is added, and a link tapped in any app now opens here in a new tab.",
-   "ts": 1795342865,
-   "etag": "0x8DF48824380F731"
+   "changes": "HasuBrowser grows the full family system: it now updates itself (its own update page, verified downloads with pause and resume), has a Settings page with themes and one icon picker for the whole app — the family's own HasuOS set first — and four launcher designs drawn your way: white glyphs, no backgrounds (Original, Orbit, Compass, Window). Icon packs arrive by themselves from the feed, checks run in the background every ~12 hours and hold quietly at night, the Permissions hub shows the new Notifications and Install updates rows with their real states, and the speed-dial page carries the app's real icon and name.",
+   "ts": 1795580747,
+   "etag": "0x8DF4AAC28B368B2"
   },
   {
    "pkg": "hasu.os.calc",
