@@ -617,13 +617,13 @@
    "name": "HasuTyping",
    "tag": "Typing speed practice",
    "desc": "Typing speed practice in English and Bangla — timed tests with live WPM and accuracy, best speeds and a test history.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 95086,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 1932016,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/typing.apk",
-   "changes": "NEW APP: ⌨️ Typing speed practice in English and বাংলা — six passages in each. ⏱ 1, 2 or 5 minute tests; the clock starts with your first letter. 🟩 Every letter is coloured as you type — green when right, red when wrong — with live WPM and accuracy. 🏆 Best speed kept for each language, and your recent tests are listed with date, time and score.",
-   "ts": 1795309515,
-   "etag": "0x8DF48349CD9D120"
+   "changes": "1.01: The full family port — Settings with the whole-app language switch (English/বাংলা), Look & icons (themes, icon sets, five app-icon designs, per-surface looks, full-screen preview), an honest Permissions hub, self-update from HasuStore, and a settings backup that carries your best speeds, test history and an unfinished test's draft. An unfinished test now saves itself and can be resumed from the home screen. New icon packs and themes arrive by themselves. Launcher icon: the bare keyboard glyph, flat white on transparent — no border, no tile, no glow (his standing rule) — and every in-app button and icon stands on nothing the same way.",
+   "ts": 1795650267,
+   "etag": "0x8DF4B4DFAEA8B2F"
   },
   {
    "pkg": "hasu.os.diary",
