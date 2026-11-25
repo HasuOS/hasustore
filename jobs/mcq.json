@@ -1,6 +1,6 @@
 {
-    "version": 47,
-    "generatedAt": 1795578656,
+    "version": 48,
+    "generatedAt": 1795578910,
     "subjects": [
         {
             "id": "bangla",
@@ -16256,6 +16256,446 @@
                     ],
                     "answer": 0,
                     "why": "'ধৈর্যের ফল মিষ্টি' মানে ধৈর্য ধরলে শেষে ভালো ফল পাওয়া যায়।"
+                },
+                {
+                    "q": "'যথাসময়' কোন সমাস?",
+                    "options": [
+                        "অব্যয়ীভাব সমাস",
+                        "দ্বন্দ্ব সমাস",
+                        "তৎপুরুষ সমাস",
+                        "বহুব্রীহি সমাস"
+                    ],
+                    "answer": 0,
+                    "why": "'যথাসময়' অব্যয়ীভাব সমাস।"
+                },
+                {
+                    "q": "'জল + আশয় = জলাশয়' — এটি কোন সন্ধি?",
+                    "options": [
+                        "স্বরসন্ধি",
+                        "ব্যঞ্জনসন্ধি",
+                        "বিসর্গ সন্ধি",
+                        "নিপাতনে সিদ্ধ"
+                    ],
+                    "answer": 0,
+                    "why": "'জলাশয়' স্বরসন্ধির উদাহরণ।"
+                },
+                {
+                    "q": "'সৎ + জন = সজ্জন' — এটি কোন সন্ধি?",
+                    "options": [
+                        "স্বরসন্ধি",
+                        "ব্যঞ্জনসন্ধি",
+                        "বিসর্গ সন্ধি",
+                        "নিপাতনে সিদ্ধ"
+                    ],
+                    "answer": 1,
+                    "why": "'সজ্জন' ব্যঞ্জনসন্ধির উদাহরণ।"
+                },
+                {
+                    "q": "'বাক্ + দান = বাগদান' — এটি কোন সন্ধি?",
+                    "options": [
+                        "স্বরসন্ধি",
+                        "ব্যঞ্জনসন্ধি",
+                        "বিসর্গ সন্ধি",
+                        "নিপাতনে সিদ্ধ"
+                    ],
+                    "answer": 1,
+                    "why": "'বাগদান' ব্যঞ্জনসন্ধির উদাহরণ।"
+                },
+                {
+                    "q": "'ঠোঁট কাটা' বাগধারার অর্থ কী?",
+                    "options": [
+                        "ঠোঁট কাটা যাওয়া",
+                        "স্পষ্টবাদী",
+                        "মিথ্যাবাদী",
+                        "চুপচাপ থাকা"
+                    ],
+                    "answer": 1,
+                    "why": "'ঠোঁট কাটা' বাগধারার অর্থ স্পষ্টবাদী।"
+                },
+                {
+                    "q": "'জল'-এর সমার্থক শব্দ কোনটি?",
+                    "options": [
+                        "অনল",
+                        "সলিল",
+                        "ভানু",
+                        "গগন"
+                    ],
+                    "answer": 1,
+                    "why": "'জল'-এর সমার্থক শব্দ সলিল।"
+                },
+                {
+                    "q": "'খাওয়া' ক্রিয়ার ধাতু কোনটি?",
+                    "options": [
+                        "খা",
+                        "খাওয়া",
+                        "খাই",
+                        "খেয়েছে"
+                    ],
+                    "answer": 0,
+                    "why": "'খাওয়া' ক্রিয়ার ধাতু 'খা'।"
+                },
+                {
+                    "q": "'সে ভাত খায়' — এখানে 'খায়' কোন ধরনের ক্রিয়া?",
+                    "options": [
+                        "সকর্মক ক্রিয়া",
+                        "অকর্মক ক্রিয়া",
+                        "যৌগিক ক্রিয়া",
+                        "প্রযোজক ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'খায়' ক্রিয়ার কর্ম 'ভাত' আছে, তাই এটি সকর্মক ক্রিয়া।"
+                },
+                {
+                    "q": "'সুলতানার স্বপ্ন'-এর রচয়িতা কে?",
+                    "options": [
+                        "বেগম রোকেয়া",
+                        "সুফিয়া কামাল",
+                        "জাহানারা ইমাম",
+                        "সেলিনা হোসেন"
+                    ],
+                    "answer": 0,
+                    "why": "'সুলতানার স্বপ্ন'-এর রচয়িতা বেগম রোকেয়া।"
+                },
+                {
+                    "q": "'ছেলেটিকে ডাকো' — 'ছেলেটিকে' কোন কারক?",
+                    "options": [
+                        "কর্তৃ",
+                        "কর্ম",
+                        "করণ",
+                        "অপাদান"
+                    ],
+                    "answer": 1,
+                    "why": "'ছেলেটিকে' কর্ম কারক।"
+                },
+                {
+                    "q": "'বাড়ি থেকে এলাম' — 'বাড়ি থেকে' কোন কারক?",
+                    "options": [
+                        "কর্তৃ",
+                        "কর্ম",
+                        "করণ",
+                        "অপাদান"
+                    ],
+                    "answer": 3,
+                    "why": "'বাড়ি থেকে' অপাদান কারক — উৎপত্তিস্থল বোঝাচ্ছে।"
+                },
+                {
+                    "q": "'রামের বই' — 'রামের' কোন পদ?",
+                    "options": [
+                        "কর্তৃ কারক",
+                        "কর্ম কারক",
+                        "সম্বন্ধ পদ",
+                        "অধিকরণ কারক"
+                    ],
+                    "answer": 2,
+                    "why": "'রামের' সম্বন্ধ পদ।"
+                },
+                {
+                    "q": "'অতিবৃষ্টি' শব্দে কোন উপসর্গ আছে?",
+                    "options": [
+                        "অতি",
+                        "অ",
+                        "বৃষ্টি",
+                        "অত"
+                    ],
+                    "answer": 0,
+                    "why": "'অতিবৃষ্টি' শব্দে 'অতি' উপসর্গ আছে।"
+                },
+                {
+                    "q": "'প্রতিদিন' শব্দে কোন উপসর্গ আছে?",
+                    "options": [
+                        "প্রতি",
+                        "প্র",
+                        "দিন",
+                        "প্রত"
+                    ],
+                    "answer": 0,
+                    "why": "'প্রতিদিন' শব্দে 'প্রতি' উপসর্গ আছে।"
+                },
+                {
+                    "q": "'নিখুঁত' শব্দে কোন উপসর্গ আছে?",
+                    "options": [
+                        "নি",
+                        "নিখুঁ",
+                        "খুঁত",
+                        "ন"
+                    ],
+                    "answer": 0,
+                    "why": "'নিখুঁত' শব্দে 'নি' উপসর্গ আছে।"
+                },
+                {
+                    "q": "'বিপদ' শব্দে কোন উপসর্গ আছে?",
+                    "options": [
+                        "বি",
+                        "বিপ",
+                        "পদ",
+                        "ব"
+                    ],
+                    "answer": 0,
+                    "why": "'বিপদ' শব্দে 'বি' উপসর্গ আছে।"
+                },
+                {
+                    "q": "'সুন্দর' শব্দে কোন উপসর্গ আছে?",
+                    "options": [
+                        "সু",
+                        "সুন",
+                        "ন্দর",
+                        "স"
+                    ],
+                    "answer": 0,
+                    "why": "'সুন্দর' শব্দে 'সু' উপসর্গ আছে।"
+                },
+                {
+                    "q": "'কুখ্যাত' শব্দে কোন উপসর্গ আছে?",
+                    "options": [
+                        "কু",
+                        "কুখ্য",
+                        "খ্যাত",
+                        "ক"
+                    ],
+                    "answer": 0,
+                    "why": "'কুখ্যাত' শব্দে 'কু' উপসর্গ আছে।"
+                },
+                {
+                    "q": "'মানবতা' শব্দে কোন প্রত্যয় আছে?",
+                    "options": [
+                        "তা",
+                        "মান",
+                        "বতা",
+                        "আ"
+                    ],
+                    "answer": 0,
+                    "why": "'মানবতা' শব্দে 'তা' প্রত্যয় আছে।"
+                },
+                {
+                    "q": "'বন্ধুত্ব' শব্দে কোন প্রত্যয় আছে?",
+                    "options": [
+                        "ত্ব",
+                        "বন্ধু",
+                        "তু",
+                        "ত্বত"
+                    ],
+                    "answer": 0,
+                    "why": "'বন্ধুত্ব' শব্দে 'ত্ব' প্রত্যয় আছে।"
+                },
+                {
+                    "q": "'চালক' শব্দে কোন প্রত্যয় আছে?",
+                    "options": [
+                        "অক",
+                        "চাল",
+                        "লক",
+                        "ক"
+                    ],
+                    "answer": 0,
+                    "why": "'চালক' শব্দে 'অক' প্রত্যয় আছে।"
+                },
+                {
+                    "q": "'লেখক' শব্দে কোন প্রত্যয় আছে?",
+                    "options": [
+                        "অক",
+                        "লেখ",
+                        "খক",
+                        "ক"
+                    ],
+                    "answer": 0,
+                    "why": "'লেখক' শব্দে 'অক' প্রত্যয় আছে।"
+                },
+                {
+                    "q": "'দোকানদার' শব্দে কোন প্রত্যয় আছে?",
+                    "options": [
+                        "দার",
+                        "দোকান",
+                        "দারি",
+                        "আর"
+                    ],
+                    "answer": 0,
+                    "why": "'দোকানদার' শব্দে 'দার' প্রত্যয় আছে।"
+                },
+                {
+                    "q": "'বালকেরা' কোন বচন?",
+                    "options": [
+                        "একবচন",
+                        "বহুবচন",
+                        "দ্বিবচন",
+                        "উভয়বচন"
+                    ],
+                    "answer": 1,
+                    "why": "'বালকেরা' বহুবচন।"
+                },
+                {
+                    "q": "'আমরা' কোন বচন?",
+                    "options": [
+                        "একবচন",
+                        "বহুবচন",
+                        "দ্বিবচন",
+                        "উভয়বচন"
+                    ],
+                    "answer": 1,
+                    "why": "'আমরা' বহুবচন।"
+                },
+                {
+                    "q": "'বালক'-এর স্ত্রীলিঙ্গ কোনটি?",
+                    "options": [
+                        "বালিকা",
+                        "বালকী",
+                        "বালকা",
+                        "বালিকাা"
+                    ],
+                    "answer": 0,
+                    "why": "'বালক'-এর স্ত্রীলিঙ্গ 'বালিকা'।"
+                },
+                {
+                    "q": "'সোজন বাদিয়ার ঘাট' কাব্যগ্রন্থের রচয়িতা কে?",
+                    "options": [
+                        "জসীমউদ্দীন",
+                        "সুকান্ত ভট্টাচার্য",
+                        "শামসুর রাহমান",
+                        "আল মাহমুদ"
+                    ],
+                    "answer": 0,
+                    "why": "'সোজন বাদিয়ার ঘাট' কাব্যগ্রন্থের রচয়িতা জসীমউদ্দীন।"
+                },
+                {
+                    "q": "শহীদ মিনার প্রথম নির্মিত হয় কবে?",
+                    "options": [
+                        "২১ ফেব্রুয়ারি ১৯৫২",
+                        "২৩ ফেব্রুয়ারি ১৯৫২",
+                        "২১ ফেব্রুয়ারি ১৯৫৩",
+                        "২৩ ফেব্রুয়ারি ১৯৫৩"
+                    ],
+                    "answer": 1,
+                    "why": "শহীদ মিনার প্রথম নির্মিত হয় ২৩ ফেব্রুয়ারি ১৯৫২ সালে।"
+                },
+                {
+                    "q": "বাংলা ভাষায় মোট বর্ণ কয়টি?",
+                    "options": [
+                        "৩৯টি",
+                        "৪৫টি",
+                        "৫০টি",
+                        "৫২টি"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলা ভাষায় মোট বর্ণ ৫০টি — স্বরবর্ণ ১১টি ও ব্যঞ্জনবর্ণ ৩৯টি।"
+                },
+                {
+                    "q": "'রহিম স্কুলে যায়' — 'রহিম' কোন পদ?",
+                    "options": [
+                        "বিশেষ্য",
+                        "বিশেষণ",
+                        "সর্বনাম",
+                        "ক্রিয়া"
+                    ],
+                    "answer": 0,
+                    "why": "'রহিম' বিশেষ্য পদ।"
+                },
+                {
+                    "q": "'ভালো ছেলে' — 'ভালো' কোন পদ?",
+                    "options": [
+                        "বিশেষ্য",
+                        "বিশেষণ",
+                        "সর্বনাম",
+                        "ক্রিয়া"
+                    ],
+                    "answer": 1,
+                    "why": "'ভালো' বিশেষণ পদ।"
+                },
+                {
+                    "q": "'এবং' কোন পদ?",
+                    "options": [
+                        "বিশেষ্য",
+                        "সর্বনাম",
+                        "অব্যয়",
+                        "ক্রিয়া"
+                    ],
+                    "answer": 2,
+                    "why": "'এবং' অব্যয় পদ।"
+                },
+                {
+                    "q": "'তাহারা' চলিত রীতিতে কী হয়?",
+                    "options": [
+                        "তারা",
+                        "তাহারা",
+                        "তাদের",
+                        "তিনি"
+                    ],
+                    "answer": 0,
+                    "why": "'তাহারা' চলিত রীতিতে 'তারা' হয়।"
+                },
+                {
+                    "q": "'করিয়াছিল' চলিত রীতিতে কী হয়?",
+                    "options": [
+                        "করেছিল",
+                        "করিয়াছিল",
+                        "করিতেছে",
+                        "করিবে"
+                    ],
+                    "answer": 0,
+                    "why": "'করিয়াছিল' চলিত রীতিতে 'করেছিল' হয়।"
+                },
+                {
+                    "q": "'উড়নচণ্ডী' বাগধারার অর্থ কী?",
+                    "options": [
+                        "অমিতব্যয়ী",
+                        "মিতব্যয়ী",
+                        "অলস",
+                        "পরিশ্রমী"
+                    ],
+                    "answer": 0,
+                    "why": "'উড়নচণ্ডী' বাগধারার অর্থ অমিতব্যয়ী।"
+                },
+                {
+                    "q": "'অল্প বিদ্যা ভয়ংকরী' — এটি কী?",
+                    "options": [
+                        "বাগধারা",
+                        "প্রবাদ",
+                        "উপমা",
+                        "রূপক"
+                    ],
+                    "answer": 1,
+                    "why": "'অল্প বিদ্যা ভয়ংকরী' একটি প্রবাদ।"
+                },
+                {
+                    "q": "'যেমন কর্ম তেমন ফল' — এটি কী?",
+                    "options": [
+                        "বাগধারা",
+                        "প্রবাদ",
+                        "উপমা",
+                        "রূপক"
+                    ],
+                    "answer": 1,
+                    "why": "'যেমন কর্ম তেমন ফল' একটি প্রবাদ।"
+                },
+                {
+                    "q": "'একতাই বল' — এটি কী?",
+                    "options": [
+                        "বাগধারা",
+                        "প্রবাদ",
+                        "উপমা",
+                        "রূপক"
+                    ],
+                    "answer": 1,
+                    "why": "'একতাই বল' একটি প্রবাদ।"
+                },
+                {
+                    "q": "'যে নিজে উপার্জন করে' — এক কথায় কী?",
+                    "options": [
+                        "স্বোপার্জিত",
+                        "স্বাবলম্বী",
+                        "আত্মনির্ভরশীল",
+                        "স্বনির্ভর"
+                    ],
+                    "answer": 0,
+                    "why": "'যে নিজে উপার্জন করে' — এক কথায় স্বোপার্জিত।"
+                },
+                {
+                    "q": "'আলো'-এর বিপরীত শব্দ কোনটি?",
+                    "options": [
+                        "অন্ধকার",
+                        "অন্ধ",
+                        "কালো",
+                        "ছায়া"
+                    ],
+                    "answer": 0,
+                    "why": "'আলো'-এর বিপরীত শব্দ অন্ধকার।"
                 }
             ]
         },
@@ -30695,6 +31135,512 @@
                     ],
                     "answer": 0,
                     "why": "The correct phrase is 'rely on' someone."
+                },
+                {
+                    "q": "Fill in the blank: They ___ football yesterday.",
+                    "options": [
+                        "play",
+                        "plays",
+                        "played",
+                        "playing"
+                    ],
+                    "answer": 2,
+                    "why": "Past tense is needed: They played football yesterday."
+                },
+                {
+                    "q": "Fill in the blank: I ___ go to Dhaka tomorrow.",
+                    "options": [
+                        "will",
+                        "would",
+                        "was",
+                        "were"
+                    ],
+                    "answer": 0,
+                    "why": "Future tense: I will go to Dhaka tomorrow."
+                },
+                {
+                    "q": "Choose the correct passive voice: \"They have done the work.\"",
+                    "options": [
+                        "The work has done by them.",
+                        "The work has been done by them.",
+                        "The work is done by them.",
+                        "The work was done by them."
+                    ],
+                    "answer": 1,
+                    "why": "Present perfect passive: The work has been done by them."
+                },
+                {
+                    "q": "Fill in the blank: It depends ___ you.",
+                    "options": [
+                        "in",
+                        "on",
+                        "at",
+                        "of"
+                    ],
+                    "answer": 1,
+                    "why": "The correct phrase is 'depend on'."
+                },
+                {
+                    "q": "Choose the correct sentence: If it rains, I ___ at home.",
+                    "options": [
+                        "stay",
+                        "will stay",
+                        "stayed",
+                        "would stay"
+                    ],
+                    "answer": 1,
+                    "why": "First conditional: If it rains, I will stay at home."
+                },
+                {
+                    "q": "Choose the correct sentence: If you had studied hard, you ___ passed.",
+                    "options": [
+                        "will have",
+                        "would have",
+                        "will",
+                        "would"
+                    ],
+                    "answer": 1,
+                    "why": "Third conditional: If you had studied hard, you would have passed."
+                },
+                {
+                    "q": "Fill in the blank: Bread and butter ___ my favourite food.",
+                    "options": [
+                        "are",
+                        "is",
+                        "were",
+                        "have"
+                    ],
+                    "answer": 1,
+                    "why": "\"Bread and butter\" is treated as one thing, so the verb is singular: is."
+                },
+                {
+                    "q": "Fill in the blank: ___ is good for health.",
+                    "options": [
+                        "Swim",
+                        "Swimming",
+                        "Swam",
+                        "Swims"
+                    ],
+                    "answer": 1,
+                    "why": "A gerund works as the subject: Swimming is good for health."
+                },
+                {
+                    "q": "Choose the correct tag question: She likes tea, ___?",
+                    "options": [
+                        "doesn't she",
+                        "doesn't he",
+                        "isn't she",
+                        "don't she"
+                    ],
+                    "answer": 0,
+                    "why": "The tag for 'She likes tea' is 'doesn't she'."
+                },
+                {
+                    "q": "Choose the correct verb form: The train ___ (leave) Dhaka at 9 o'clock every morning.",
+                    "options": [
+                        "leave",
+                        "leaves",
+                        "leaving",
+                        "left"
+                    ],
+                    "answer": 1,
+                    "why": "Habitual action in the present simple takes 'leaves' with a singular subject."
+                },
+                {
+                    "q": "Fill in the blank with the right form: It ___ (rain) heavily since morning.",
+                    "options": [
+                        "rains",
+                        "is raining",
+                        "has been raining",
+                        "rained"
+                    ],
+                    "answer": 2,
+                    "why": "Since morning + duration needs the present perfect continuous: has been raining."
+                },
+                {
+                    "q": "Choose the correct sentence: By the time you arrive, I ___ my homework.",
+                    "options": [
+                        "will finish",
+                        "will have finished",
+                        "finish",
+                        "am finishing"
+                    ],
+                    "answer": 1,
+                    "why": "Future perfect: the homework will be complete before the arrival."
+                },
+                {
+                    "q": "Fill in the blank: She ___ (read) a novel when the lights went out.",
+                    "options": [
+                        "reads",
+                        "is reading",
+                        "was reading",
+                        "read"
+                    ],
+                    "answer": 2,
+                    "why": "Past continuous for an action in progress when another past action interrupted it."
+                },
+                {
+                    "q": "Choose the correct form: He ___ (live) in Chittagong for ten years.",
+                    "options": [
+                        "lives",
+                        "has lived",
+                        "is living",
+                        "lived"
+                    ],
+                    "answer": 1,
+                    "why": "For + a duration up to now takes the present perfect: has lived."
+                },
+                {
+                    "q": "Fill in the blank: We ___ (watch) the match tomorrow evening.",
+                    "options": [
+                        "watch",
+                        "watched",
+                        "will be watching",
+                        "are watched"
+                    ],
+                    "answer": 2,
+                    "why": "Future continuous for an action in progress at a future time."
+                },
+                {
+                    "q": "Choose the correct verb: The committee ___ (decide) the matter yesterday.",
+                    "options": [
+                        "decides",
+                        "decided",
+                        "deciding",
+                        "decide"
+                    ],
+                    "answer": 1,
+                    "why": "Yesterday takes the past simple: decided."
+                },
+                {
+                    "q": "Fill in the blank: I ___ (never/see) such a beautiful sunset before.",
+                    "options": [
+                        "never see",
+                        "never saw",
+                        "have never seen",
+                        "am never seeing"
+                    ],
+                    "answer": 2,
+                    "why": "Before + experience up to now takes the present perfect: have never seen."
+                },
+                {
+                    "q": "Choose the correct active form: \"The letter was written by Kamal.\"",
+                    "options": [
+                        "Kamal wrote the letter.",
+                        "Kamal writes the letter.",
+                        "Kamal has written the letter.",
+                        "Kamal is writing the letter."
+                    ],
+                    "answer": 0,
+                    "why": "Past simple active: Kamal wrote the letter."
+                },
+                {
+                    "q": "Choose the correct passive form: \"The teacher praised the students.\"",
+                    "options": [
+                        "The students were praised by the teacher.",
+                        "The students are praised by the teacher.",
+                        "The students have praised by the teacher.",
+                        "The students praised by the teacher."
+                    ],
+                    "answer": 0,
+                    "why": "Past simple passive: The students were praised by the teacher."
+                },
+                {
+                    "q": "Choose the correct narration: Rina said, \"I am reading a book.\"",
+                    "options": [
+                        "Rina said that she was reading a book.",
+                        "Rina said that she is reading a book.",
+                        "Rina said that she reads a book.",
+                        "Rina said that she will read a book."
+                    ],
+                    "answer": 0,
+                    "why": "In indirect speech the present continuous becomes past continuous."
+                },
+                {
+                    "q": "Choose the correct narration: He said to me, \"Please help me.\"",
+                    "options": [
+                        "He requested me to help him.",
+                        "He said me to help him.",
+                        "He requested me help him.",
+                        "He asked me that help him."
+                    ],
+                    "answer": 0,
+                    "why": "An imperative request becomes 'requested + object + to + verb'."
+                },
+                {
+                    "q": "Choose the correct narration: She asked, \"Where do you live?\"",
+                    "options": [
+                        "She asked where I lived.",
+                        "She asked where do I live.",
+                        "She asked where I live.",
+                        "She asked where did I live."
+                    ],
+                    "answer": 0,
+                    "why": "A wh-question in indirect speech uses statement word order with a past verb."
+                },
+                {
+                    "q": "Choose the correct narration: The boy said, \"I have finished my work.\"",
+                    "options": [
+                        "The boy said that he had finished his work.",
+                        "The boy said that he has finished his work.",
+                        "The boy said that he finished his work.",
+                        "The boy said that he finishes his work."
+                    ],
+                    "answer": 0,
+                    "why": "Present perfect becomes past perfect in indirect speech."
+                },
+                {
+                    "q": "Choose the correct narration: Mother said, \"Do not run in the sun.\"",
+                    "options": [
+                        "Mother forbade me to run in the sun.",
+                        "Mother said to me run in the sun.",
+                        "Mother forbade me run in the sun.",
+                        "Mother said me to not run in the sun."
+                    ],
+                    "answer": 0,
+                    "why": "A negative imperative becomes 'forbade + object + to + verb'."
+                },
+                {
+                    "q": "Choose the correct narration: He said, \"I went to Dhaka yesterday.\"",
+                    "options": [
+                        "He said that he had gone to Dhaka the previous day.",
+                        "He said that he went to Dhaka yesterday.",
+                        "He said that he goes to Dhaka yesterday.",
+                        "He said that he had gone to Dhaka yesterday."
+                    ],
+                    "answer": 0,
+                    "why": "Past simple becomes past perfect, and 'yesterday' becomes 'the previous day'."
+                },
+                {
+                    "q": "Fill in the blank: ___ moon shines at night.",
+                    "options": [
+                        "A",
+                        "An",
+                        "The",
+                        "No article"
+                    ],
+                    "answer": 2,
+                    "why": "There is only one moon, so 'the' is used."
+                },
+                {
+                    "q": "Fill in the blank: She plays ___ piano very well.",
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                    ],
+                    "answer": 2,
+                    "why": "Musical instruments take 'the'."
+                },
+                {
+                    "q": "Fill in the blank: ___ Himalayas are in Asia.",
+                    "options": [
+                        "A",
+                        "An",
+                        "The",
+                        "No article"
+                    ],
+                    "answer": 2,
+                    "why": "Mountain ranges take 'the'."
+                },
+                {
+                    "q": "Fill in the blank: I have been waiting for you ___ 9 o'clock.",
+                    "options": [
+                        "for",
+                        "since",
+                        "from",
+                        "at"
+                    ],
+                    "answer": 1,
+                    "why": "'Since' is used with a point of time."
+                },
+                {
+                    "q": "Fill in the blank: The child is fond ___ sweets.",
+                    "options": [
+                        "in",
+                        "of",
+                        "at",
+                        "with"
+                    ],
+                    "answer": 1,
+                    "why": "The correct phrase is 'fond of'."
+                },
+                {
+                    "q": "Fill in the blank: He deals ___ rice.",
+                    "options": [
+                        "in",
+                        "with",
+                        "on",
+                        "at"
+                    ],
+                    "answer": 0,
+                    "why": "'Deal in' means to trade in goods."
+                },
+                {
+                    "q": "Choose the correct sentence: Had I known the answer, I ___ told you.",
+                    "options": [
+                        "will have",
+                        "would have",
+                        "will",
+                        "would"
+                    ],
+                    "answer": 1,
+                    "why": "Third conditional with inversion: Had I known, I would have told you."
+                },
+                {
+                    "q": "Choose the correct sentence: Unless you hurry, you ___ miss the train.",
+                    "options": [
+                        "would",
+                        "will",
+                        "can",
+                        "could"
+                    ],
+                    "answer": 1,
+                    "why": "'Unless' means 'if not'; first conditional takes 'will'."
+                },
+                {
+                    "q": "Fill in the blank: The number of students ___ increasing.",
+                    "options": [
+                        "are",
+                        "is",
+                        "were",
+                        "have"
+                    ],
+                    "answer": 1,
+                    "why": "'The number of' takes a singular verb."
+                },
+                {
+                    "q": "Fill in the blank: A number of boys ___ playing.",
+                    "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "has"
+                    ],
+                    "answer": 1,
+                    "why": "'A number of' takes a plural verb."
+                },
+                {
+                    "q": "Fill in the blank: Slow and steady ___ the race.",
+                    "options": [
+                        "win",
+                        "wins",
+                        "winning",
+                        "won"
+                    ],
+                    "answer": 1,
+                    "why": "'Slow and steady' is one idea, so the verb is singular: wins."
+                },
+                {
+                    "q": "Choose the antonym of \"Kind\":",
+                    "options": [
+                        "Gentle",
+                        "Cruel",
+                        "Soft",
+                        "Polite"
+                    ],
+                    "answer": 1,
+                    "why": "The antonym of \"Kind\" is Cruel."
+                },
+                {
+                    "q": "A large cage where birds are kept is called —",
+                    "options": [
+                        "Apiary",
+                        "Aviary",
+                        "Stable",
+                        "Aquarium"
+                    ],
+                    "answer": 1,
+                    "why": "An aviary is a place where birds are kept."
+                },
+                {
+                    "q": "Which spelling is correct for the word meaning 'a happening'?",
+                    "options": [
+                        "Occurence",
+                        "Occurrence",
+                        "Occurrance",
+                        "Ocurrence"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is Occurrence."
+                },
+                {
+                    "q": "Which spelling is correct for the word meaning 'a group that makes decisions'?",
+                    "options": [
+                        "Comitee",
+                        "Committee",
+                        "Comittee",
+                        "Commitee"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is Committee."
+                },
+                {
+                    "q": "Which spelling is correct for the word meaning 'needed'?",
+                    "options": [
+                        "Necessary",
+                        "Neccessary",
+                        "Necesary",
+                        "Nessesary"
+                    ],
+                    "answer": 0,
+                    "why": "The correct spelling is Necessary."
+                },
+                {
+                    "q": "Which spelling is correct for the word meaning 'to receive'?",
+                    "options": [
+                        "Recieve",
+                        "Receive",
+                        "Receeve",
+                        "Reseive"
+                    ],
+                    "answer": 1,
+                    "why": "The correct spelling is Receive."
+                },
+                {
+                    "q": "Choose the correct tag question: He is a doctor, ___?",
+                    "options": [
+                        "isn't he",
+                        "is he",
+                        "aren't he",
+                        "doesn't he"
+                    ],
+                    "answer": 0,
+                    "why": "The tag for 'He is a doctor' is 'isn't he'."
+                },
+                {
+                    "q": "Choose the correct tag question: They have finished, ___?",
+                    "options": [
+                        "haven't they",
+                        "have they",
+                        "didn't they",
+                        "don't they"
+                    ],
+                    "answer": 0,
+                    "why": "The tag for 'They have finished' is 'haven't they'."
+                },
+                {
+                    "q": "Choose the correct tag question: It is raining, ___?",
+                    "options": [
+                        "isn't it",
+                        "is it",
+                        "doesn't it",
+                        "won't it"
+                    ],
+                    "answer": 0,
+                    "why": "The tag for 'It is raining' is 'isn't it'."
+                },
+                {
+                    "q": "Choose the correct sentence: She is ___ than her sister.",
+                    "options": [
+                        "tall",
+                        "taller",
+                        "tallest",
+                        "more tall"
+                    ],
+                    "answer": 1,
+                    "why": "Comparative degree: taller."
                 }
             ]
         },
@@ -43307,6 +44253,380 @@
                     ],
                     "answer": 0,
                     "why": "বড় সংখ্যা = ১২ × ৪/৩ = ১৬।"
+                },
+                {
+                    "q": "৪০০-এর ১৫% কত?",
+                    "options": [
+                        "৫০",
+                        "৬০",
+                        "৭০",
+                        "৪০"
+                    ],
+                    "answer": 1,
+                    "why": "৪০০ × ১৫/১০০ = ৬০।"
+                },
+                {
+                    "q": "ক্রয়মূল্য ৫০০ টাকা, বিক্রয়মূল্য ৪৫০ টাকা হলে ক্ষতি কত শতাংশ?",
+                    "options": [
+                        "৫%",
+                        "১০%",
+                        "১৫%",
+                        "২০%"
+                    ],
+                    "answer": 1,
+                    "why": "ক্ষতি ৫০ টাকা; ক্ষতির হার = ৫০/৫০০ × ১০০ = ১০%।"
+                },
+                {
+                    "q": "ক্রয়মূল্য ২০০ টাকা, ১০% লাভে বিক্রয়মূল্য কত?",
+                    "options": [
+                        "২১০ টাকা",
+                        "২২০ টাকা",
+                        "২৩০ টাকা",
+                        "২৪০ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "বিক্রয়মূল্য = ২০০ + ২০০ × ১০/১০০ = ২২০ টাকা।"
+                },
+                {
+                    "q": "ক্রয়মূল্য ৮০০ টাকা, ২৫% ক্ষতিতে বিক্রয়মূল্য কত?",
+                    "options": [
+                        "৫০০ টাকা",
+                        "৫৫০ টাকা",
+                        "৬০০ টাকা",
+                        "৬৫০ টাকা"
+                    ],
+                    "answer": 2,
+                    "why": "বিক্রয়মূল্য = ৮০০ − ৮০০ × ২৫/১০০ = ৬০০ টাকা।"
+                },
+                {
+                    "q": "৩ : ৪ অনুপাতে ৭০ ভাগ করলে প্রথম অংশ কত?",
+                    "options": [
+                        "২০",
+                        "২৫",
+                        "৩০",
+                        "৩৫"
+                    ],
+                    "answer": 2,
+                    "why": "মোট ভাগ ৭; প্রথম অংশ = ৭০ × ৩/৭ = ৩০।"
+                },
+                {
+                    "q": "৩৬০ টাকা ২ : ৩ : ৪ অনুপাতে ভাগ করলে মাঝের অংশ কত?",
+                    "options": [
+                        "৮০ টাকা",
+                        "১২০ টাকা",
+                        "১৬০ টাকা",
+                        "৪০ টাকা"
+                    ],
+                    "answer": 1,
+                    "why": "মোট ভাগ ৯; মাঝের অংশ = ৩৬০ × ৩/৯ = ১২০ টাকা।"
+                },
+                {
+                    "q": "পিতার বয়স ৩৬ বছর, পুত্রের বয়স ৬ বছর। কত বছর পর পিতার বয়স পুত্রের ৪ গুণ হবে?",
+                    "options": [
+                        "২ বছর",
+                        "৩ বছর",
+                        "৪ বছর",
+                        "৫ বছর"
+                    ],
+                    "answer": 2,
+                    "why": "৪ বছর পর পিতা ৪০ ও পুত্র ১০ বছর — ৪০ = ৪ × ১০।"
+                },
+                {
+                    "q": "A ও B একসঙ্গে একটি কাজ ৮ দিনে করে, A একা ১২ দিনে করে। B একা কত দিনে করবে?",
+                    "options": [
+                        "১৬ দিন",
+                        "২০ দিন",
+                        "২৪ দিন",
+                        "৩০ দিন"
+                    ],
+                    "answer": 2,
+                    "why": "B-র হার = ১/৮ − ১/১২ = ১/২৪; B একা করবে ২৪ দিনে।"
+                },
+                {
+                    "q": "৩০০ কিমি দূরত্ব ৫০ কিমি/ঘণ্টা বেগে যেতে কত সময় লাগবে?",
+                    "options": [
+                        "৫ ঘণ্টা",
+                        "৬ ঘণ্টা",
+                        "৭ ঘণ্টা",
+                        "৮ ঘণ্টা"
+                    ],
+                    "answer": 1,
+                    "why": "সময় = ৩০০ ÷ ৫০ = ৬ ঘণ্টা।"
+                },
+                {
+                    "q": "২, ৪, ৬, ৮, ? — পরের সংখ্যাটি কত?",
+                    "options": [
+                        "৯",
+                        "১০",
+                        "১১",
+                        "১২"
+                    ],
+                    "answer": 1,
+                    "why": "সংখ্যাগুলো ২ করে বাড়ছে; পরের সংখ্যা ১০।"
+                },
+                {
+                    "q": "১, ১, ২, ৩, ৫, ৮, ? — পরের সংখ্যাটি কত?",
+                    "options": [
+                        "১১",
+                        "১২",
+                        "১৩",
+                        "১৫"
+                    ],
+                    "answer": 2,
+                    "why": "প্রতিটি সংখ্যা আগের দুটির যোগফল; পরের সংখ্যা ৫ + ৮ = ১৩।"
+                },
+                {
+                    "q": "∛১২৫ = কত?",
+                    "options": [
+                        "৩",
+                        "৪",
+                        "৫",
+                        "৬"
+                    ],
+                    "answer": 2,
+                    "why": "∛১২৫ = ৫।"
+                },
+                {
+                    "q": "x + ৫ = ১২ হলে x = কত?",
+                    "options": [
+                        "৫",
+                        "৬",
+                        "৭",
+                        "৮"
+                    ],
+                    "answer": 2,
+                    "why": "x = ১২ − ৫ = ৭।"
+                },
+                {
+                    "q": "বাহু ৫ সেমি বর্গক্ষেত্রের ক্ষেত্রফল কত?",
+                    "options": [
+                        "২০ বর্গসেমি",
+                        "২৫ বর্গসেমি",
+                        "৩০ বর্গসেমি",
+                        "৩৫ বর্গসেমি"
+                    ],
+                    "answer": 1,
+                    "why": "বর্গক্ষেত্রের ক্ষেত্রফল = ৫ × ৫ = ২৫ বর্গসেমি।"
+                },
+                {
+                    "q": "৭২০-এর ৩০% কত?",
+                    "options": [
+                        "২০০",
+                        "২১০",
+                        "২১৬",
+                        "২৪০"
+                    ],
+                    "answer": 2,
+                    "why": "৭২০ × ৩০/১০০ = ২১৬।"
+                },
+                {
+                    "q": "৪৫০-এর ৪০% কত?",
+                    "options": [
+                        "১৬০",
+                        "১৭০",
+                        "১৮০",
+                        "২০০"
+                    ],
+                    "answer": 2,
+                    "why": "৪৫০ × ৪০/১০০ = ১৮০।"
+                },
+                {
+                    "q": "কোনো সংখ্যার ২০% = ৬০ হলে সংখ্যাটি কত?",
+                    "options": [
+                        "২০০",
+                        "২৫০",
+                        "৩০০",
+                        "৩৫০"
+                    ],
+                    "answer": 2,
+                    "why": "সংখ্যাটি = ৬০ × ১০০/২০ = ৩০০।"
+                },
+                {
+                    "q": "৫০০ টাকার ১৫% ছাড়ে দাম কত?",
+                    "options": [
+                        "৪০০",
+                        "৪২৫",
+                        "৪৫০",
+                        "৪৭৫"
+                    ],
+                    "answer": 1,
+                    "why": "ছাড় ৭৫ টাকা; দাম = ৫০০ − ৭৫ = ৪২৫ টাকা।"
+                },
+                {
+                    "q": "ক্রয়মূল্য ৬০০ টাকা, বিক্রয়মূল্য ৭৫০ টাকা হলে লাভ কত শতাংশ?",
+                    "options": [
+                        "২০%",
+                        "২৫%",
+                        "৩০%",
+                        "৩৫%"
+                    ],
+                    "answer": 1,
+                    "why": "লাভ ১৫০ টাকা; লাভের হার = ১৫০/৬০০ × ১০০ = ২৫%।"
+                },
+                {
+                    "q": "৩০০ টাকায় কিনে ৩৬০ টাকায় বিক্রি করলে লাভের হার কত?",
+                    "options": [
+                        "১৫%",
+                        "২০%",
+                        "২৫%",
+                        "৩০%"
+                    ],
+                    "answer": 1,
+                    "why": "লাভ ৬০ টাকা; লাভের হার = ৬০/৩০০ × ১০০ = ২০%।"
+                },
+                {
+                    "q": "৩০০০ টাকার ৫% হারে ৪ বছরের সরল সুদ কত?",
+                    "options": [
+                        "৫০০",
+                        "৫৫০",
+                        "৬০০",
+                        "৬৫০"
+                    ],
+                    "answer": 2,
+                    "why": "সরল সুদ = ৩০০০ × ৫/১০০ × ৪ = ৬০০ টাকা।"
+                },
+                {
+                    "q": "আসল ৪০০০ টাকা, সুদ ৮০০ টাকা, হার ৫% হলে সময় কত?",
+                    "options": [
+                        "২ বছর",
+                        "৩ বছর",
+                        "৪ বছর",
+                        "৫ বছর"
+                    ],
+                    "answer": 2,
+                    "why": "সময় = ৮০০ × ১০০/(৪০০০ × ৫) = ৪ বছর।"
+                },
+                {
+                    "q": "৫০০০ টাকা ১০% চক্রবৃদ্ধি হারে ১ বছর পর কত হবে?",
+                    "options": [
+                        "৫২০০",
+                        "৫৪০০",
+                        "৫৫০০",
+                        "৫৬০০"
+                    ],
+                    "answer": 2,
+                    "why": "সুদ-আসল = ৫০০০ × ১.১ = ৫৫০০ টাকা।"
+                },
+                {
+                    "q": "৪ : ৫ অনুপাতে ১৮০ ভাগ করলে বড় অংশ কত?",
+                    "options": [
+                        "৮০",
+                        "৯০",
+                        "১০০",
+                        "১২০"
+                    ],
+                    "answer": 2,
+                    "why": "মোট ভাগ ৯; বড় অংশ = ১৮০ × ৫/৯ = ১০০।"
+                },
+                {
+                    "q": "২ : ৩ : ৫ অনুপাতে ২০০ ভাগ করলে মাঝের অংশ কত?",
+                    "options": [
+                        "৪০",
+                        "৫০",
+                        "৬০",
+                        "৮০"
+                    ],
+                    "answer": 2,
+                    "why": "মোট ভাগ ১০; মাঝের অংশ = ২০০ × ৩/১০ = ৬০।"
+                },
+                {
+                    "q": "৫ : ৭ অনুপাতে ২৪০ ভাগ করলে ছোট অংশ কত?",
+                    "options": [
+                        "৮০",
+                        "৯০",
+                        "১০০",
+                        "১১০"
+                    ],
+                    "answer": 2,
+                    "why": "মোট ভাগ ১২; ছোট অংশ = ২৪০ × ৫/১২ = ১০০।"
+                },
+                {
+                    "q": "A ও B একসঙ্গে একটি কাজ ৬ দিনে করে, A একা ১০ দিনে করে। B একা কত দিনে করবে?",
+                    "options": [
+                        "১২ দিন",
+                        "১৫ দিন",
+                        "১৮ দিন",
+                        "২০ দিন"
+                    ],
+                    "answer": 1,
+                    "why": "B-র হার = ১/৬ − ১/১০ = ১/১৫; B একা করবে ১৫ দিনে।"
+                },
+                {
+                    "q": "৪৫০ কিমি দূরত্ব ৭৫ কিমি/ঘণ্টা বেগে যেতে কত সময় লাগবে?",
+                    "options": [
+                        "৫ ঘণ্টা",
+                        "৬ ঘণ্টা",
+                        "৭ ঘণ্টা",
+                        "৮ ঘণ্টা"
+                    ],
+                    "answer": 1,
+                    "why": "সময় = ৪৫০ ÷ ৭৫ = ৬ ঘণ্টা।"
+                },
+                {
+                    "q": "দুটি ট্রেন একই দিকে ৪০ ও ৬০ কিমি/ঘণ্টা বেগে চলছে। তাদের আপেক্ষিক বেগ কত?",
+                    "options": [
+                        "১০ কিমি/ঘণ্টা",
+                        "২০ কিমি/ঘণ্টা",
+                        "৫০ কিমি/ঘণ্টা",
+                        "১০০ কিমি/ঘণ্টা"
+                    ],
+                    "answer": 1,
+                    "why": "একই দিকে আপেক্ষিক বেগ = ৬০ − ৪০ = ২০ কিমি/ঘণ্টা।"
+                },
+                {
+                    "q": "১, ৮, ২৭, ৬৪, … ধারার পরের সংখ্যাটি কত?",
+                    "options": [
+                        "৮১",
+                        "১০০",
+                        "১২৫",
+                        "১৪৪"
+                    ],
+                    "answer": 2,
+                    "why": "ঘন সংখ্যা: ১³, ২³, ৩³, ৪³; পরেরটি ৫³ = ১২৫।"
+                },
+                {
+                    "q": "২/৩-এর ৩/৪ অংশ কত?",
+                    "options": [
+                        "১/২",
+                        "১/৩",
+                        "২/৩",
+                        "৩/৪"
+                    ],
+                    "answer": 0,
+                    "why": "২/৩ × ৩/৪ = ৬/১২ = ১/২।"
+                },
+                {
+                    "q": "২x + ৩ = ১৩ হলে x = কত?",
+                    "options": [
+                        "৪",
+                        "৫",
+                        "৬",
+                        "৭"
+                    ],
+                    "answer": 1,
+                    "why": "২x = ১০; x = ৫।"
+                },
+                {
+                    "q": "৩x − ৫ = ১৬ হলে x = কত?",
+                    "options": [
+                        "৫",
+                        "৬",
+                        "৭",
+                        "৮"
+                    ],
+                    "answer": 2,
+                    "why": "৩x = ২১; x = ৭।"
+                },
+                {
+                    "q": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১২ সেমি ও প্রস্থ ৫ সেমি হলে ক্ষেত্রফল কত?",
+                    "options": [
+                        "৫০ বর্গসেমি",
+                        "৫৫ বর্গসেমি",
+                        "৬০ বর্গসেমি",
+                        "৬৫ বর্গসেমি"
+                    ],
+                    "answer": 2,
+                    "why": "আয়তক্ষেত্রের ক্ষেত্রফল = ১২ × ৫ = ৬০ বর্গসেমি।"
                 }
             ]
         },
@@ -56842,6 +58162,248 @@
                     ],
                     "answer": 0,
                     "why": "আন্তর্জাতিক পারমাণবিক শক্তি সংস্থা IAEA-এর সদর দপ্তর ভিয়েনায়।"
+                },
+                {
+                    "q": "কর্ণফুলী নদী কোন জেলায় অবস্থিত?",
+                    "options": [
+                        "কক্সবাজার",
+                        "চট্টগ্রাম",
+                        "খাগড়াছড়ি",
+                        "রাঙামাটি"
+                    ],
+                    "answer": 1,
+                    "why": "কর্ণফুলী নদী চট্টগ্রাম জেলায় অবস্থিত।"
+                },
+                {
+                    "q": "তিস্তা নদীর উৎপত্তি কোথা থেকে?",
+                    "options": [
+                        "হিমালয়",
+                        "সিকিম",
+                        "নেপাল",
+                        "ভুটান"
+                    ],
+                    "answer": 1,
+                    "why": "তিস্তা নদীর উৎপত্তি সিকিম থেকে।"
+                },
+                {
+                    "q": "মুসলিম লীগ প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯০৫ সালে",
+                        "১৯০৬ সালে",
+                        "১৯১১ সালে",
+                        "১৯৪৭ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "মুসলিম লীগ প্রতিষ্ঠিত হয় ১৯০৬ সালে, ঢাকায়।"
+                },
+                {
+                    "q": "ছয় দফা দাবি উত্থাপিত হয় কবে?",
+                    "options": [
+                        "১৯৫৪ সালে",
+                        "১৯৬৬ সালে",
+                        "১৯৬৯ সালে",
+                        "১৯৭০ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "ছয় দফা দাবি উত্থাপিত হয় ১৯৬৬ সালে।"
+                },
+                {
+                    "q": "মুজিবনগর সরকারের শপথ গ্রহণ হয় কবে?",
+                    "options": [
+                        "১০ এপ্রিল ১৯৭১",
+                        "১৭ এপ্রিল ১৯৭১",
+                        "২৬ মার্চ ১৯৭১",
+                        "১৬ ডিসেম্বর ১৯৭১"
+                    ],
+                    "answer": 1,
+                    "why": "মুজিবনগর সরকারের শপথ গ্রহণ হয় ১৭ এপ্রিল ১৯৭১ সালে।"
+                },
+                {
+                    "q": "বীরশ্রেষ্ঠ হামিদুর রহমান কী ছিলেন?",
+                    "options": [
+                        "ক্যাপ্টেন",
+                        "সিপাহী",
+                        "ফ্লাইট লেফটেন্যান্ট",
+                        "ল্যান্স নায়েক"
+                    ],
+                    "answer": 1,
+                    "why": "বীরশ্রেষ্ঠ হামিদুর রহমান ছিলেন সিপাহী — সর্বকনিষ্ঠ বীরশ্রেষ্ঠ।"
+                },
+                {
+                    "q": "বীরশ্রেষ্ঠ নূর মোহাম্মদ শেখ কী ছিলেন?",
+                    "options": [
+                        "সিপাহী",
+                        "ল্যান্স নায়েক",
+                        "ক্যাপ্টেন",
+                        "ফ্লাইট লেফটেন্যান্ট"
+                    ],
+                    "answer": 1,
+                    "why": "বীরশ্রেষ্ঠ নূর মোহাম্মদ শেখ ছিলেন ল্যান্স নায়েক।"
+                },
+                {
+                    "q": "বাংলাদেশ প্রথম অলিম্পিকে অংশ নেয় কবে?",
+                    "options": [
+                        "১৯৭২ সালে",
+                        "১৯৮০ সালে",
+                        "১৯৮৪ সালে",
+                        "১৯৯২ সালে"
+                    ],
+                    "answer": 2,
+                    "why": "বাংলাদেশ প্রথম অলিম্পিকে অংশ নেয় ১৯৮৪ সালে।"
+                },
+                {
+                    "q": "মানব হৃৎপিণ্ডে কয়টি প্রকোষ্ঠ থাকে?",
+                    "options": [
+                        "২টি",
+                        "৩টি",
+                        "৪টি",
+                        "৫টি"
+                    ],
+                    "answer": 2,
+                    "why": "মানব হৃৎপিণ্ডে ৪টি প্রকোষ্ঠ থাকে।"
+                },
+                {
+                    "q": "ডেঙ্গু রোগ ছড়ায় কোন মশা?",
+                    "options": [
+                        "কিউলেক্স",
+                        "অ্যানোফিলিস",
+                        "এডিস",
+                        "স্যান্ডফ্লাই"
+                    ],
+                    "answer": 2,
+                    "why": "ডেঙ্গু রোগ ছড়ায় এডিস মশা।"
+                },
+                {
+                    "q": "পায়রা সমুদ্রবন্দর কোন জেলায় অবস্থিত?",
+                    "options": [
+                        "বরগুনা",
+                        "পটুয়াখালী",
+                        "ভোলা",
+                        "বরিশাল"
+                    ],
+                    "answer": 1,
+                    "why": "পায়রা সমুদ্রবন্দর পটুয়াখালী জেলায় অবস্থিত।"
+                },
+                {
+                    "q": "কর্ণফুলী টানেল উদ্বোধন করা হয় কবে?",
+                    "options": [
+                        "২৮ অক্টোবর ২০২৩",
+                        "২৮ অক্টোবর ২০২২",
+                        "২৮ নভেম্বর ২০২৩",
+                        "২৮ সেপ্টেম্বর ২০২৩"
+                    ],
+                    "answer": 0,
+                    "why": "কর্ণফুলী টানেল উদ্বোধন করা হয় ২৮ অক্টোবর ২০২৩ সালে।"
+                },
+                {
+                    "q": "যমুনা সেতু (বঙ্গবন্ধু সেতু) চালু হয় কবে?",
+                    "options": [
+                        "১৯৯৬ সালে",
+                        "১৯৯৮ সালে",
+                        "২০০০ সালে",
+                        "২০০২ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "যমুনা সেতু (বঙ্গবন্ধু সেতু) চালু হয় ১৯৯৮ সালে।"
+                },
+                {
+                    "q": "কেওক্রাডং পাহাড়ের উচ্চতা কত?",
+                    "options": [
+                        "৮৮৬ মিটার",
+                        "৯৮৬ মিটার",
+                        "১০৮৬ মিটার",
+                        "১২৮০ মিটার"
+                    ],
+                    "answer": 1,
+                    "why": "কেওক্রাডং পাহাড়ের উচ্চতা ৯৮৬ মিটার।"
+                },
+                {
+                    "q": "সুন্দরবন বিশ্বের কেমন বন?",
+                    "options": [
+                        "বিশ্বের বৃহত্তম ম্যানগ্রোভ বন",
+                        "বিশ্বের বৃহত্তম চিরহরিৎ বন",
+                        "বিশ্বের বৃহত্তম পাইন বন",
+                        "বিশ্বের বৃহত্তম পর্ণমোচী বন"
+                    ],
+                    "answer": 0,
+                    "why": "সুন্দরবন বিশ্বের বৃহত্তম ম্যানগ্রোভ বন।"
+                },
+                {
+                    "q": "মুক্তিযুদ্ধের ৫ নম্বর সেক্টরের সেক্টর কমান্ডার কে ছিলেন?",
+                    "options": [
+                        "মীর শওকত আলী",
+                        "সি আর দত্ত",
+                        "এম এ জলিল",
+                        "আবু তাহের"
+                    ],
+                    "answer": 0,
+                    "why": "৫ নম্বর সেক্টরের সেক্টর কমান্ডার ছিলেন মেজর মীর শওকত আলী।"
+                },
+                {
+                    "q": "বীরশ্রেষ্ঠ মহিউদ্দীন জাহাঙ্গীর কোন পদে ছিলেন?",
+                    "options": [
+                        "সিপাহী",
+                        "ল্যান্স নায়েক",
+                        "ক্যাপ্টেন",
+                        "মেজর"
+                    ],
+                    "answer": 2,
+                    "why": "বীরশ্রেষ্ঠ মহিউদ্দীন জাহাঙ্গীর ছিলেন ক্যাপ্টেন।"
+                },
+                {
+                    "q": "বীরশ্রেষ্ঠ মুন্সি আব্দুর রউফ কোন পদে ছিলেন?",
+                    "options": [
+                        "সিপাহী",
+                        "ল্যান্স নায়েক",
+                        "ক্যাপ্টেন",
+                        "ফ্লাইট লেফটেন্যান্ট"
+                    ],
+                    "answer": 1,
+                    "why": "বীরশ্রেষ্ঠ মুন্সি আব্দুর রউফ ছিলেন ল্যান্স নায়েক।"
+                },
+                {
+                    "q": "রাজশাহী বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯২১ সালে",
+                        "১৯৫৩ সালে",
+                        "১৯৬৬ সালে",
+                        "১৯৭০ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "রাজশাহী বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় ১৯৫৩ সালে।"
+                },
+                {
+                    "q": "চট্টগ্রাম বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৫৩ সালে",
+                        "১৯৬৬ সালে",
+                        "১৯৭০ সালে",
+                        "১৯৭২ সালে"
+                    ],
+                    "answer": 1,
+                    "why": "চট্টগ্রাম বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় ১৯৬৬ সালে।"
+                },
+                {
+                    "q": "আন্তর্জাতিক মুদ্রা তহবিল (IMF)-এর সদর দপ্তর কোথায়?",
+                    "options": [
+                        "নিউইয়র্ক",
+                        "জেনেভা",
+                        "ওয়াশিংটন ডিসি",
+                        "লন্ডন"
+                    ],
+                    "answer": 2,
+                    "why": "IMF-এর সদর দপ্তর ওয়াশিংটন ডিসিতে; প্রতিষ্ঠিত হয় ১৯৪৪ সালে।"
+                },
+                {
+                    "q": "এশীয় উন্নয়ন ব্যাংক (ADB)-এর সদর দপ্তর কোথায়?",
+                    "options": [
+                        "ব্যাংকক",
+                        "জাকার্তা",
+                        "ম্যানিলা",
+                        "ঢাকা"
+                    ],
+                    "answer": 2,
+                    "why": "ADB-এর সদর দপ্তর ম্যানিলায়; প্রতিষ্ঠিত হয় ১৯৬৬ সালে।"
                 }
             ]
         },
@@ -80187,6 +81749,622 @@
                     ],
                     "answer": 0,
                     "why": "Machine Learning হলো ডেটা থেকে শিখে সিদ্ধান্ত নেওয়ার কম্পিউটার পদ্ধতি।"
+                },
+                {
+                    "q": "RAM কী ধরনের মেমরি?",
+                    "options": [
+                        "স্থায়ী",
+                        "অস্থায়ী",
+                        "শুধু পড়ার",
+                        "বাহ্যিক"
+                    ],
+                    "answer": 1,
+                    "why": "RAM অস্থায়ী মেমরি — বিদ্যুৎ গেলে এর তথ্য মুছে যায়।"
+                },
+                {
+                    "q": "ROM কী ধরনের মেমরি?",
+                    "options": [
+                        "অস্থায়ী",
+                        "স্থায়ী",
+                        "মুছে ফেলা যায়",
+                        "বাহ্যিক"
+                    ],
+                    "answer": 1,
+                    "why": "ROM স্থায়ী মেমরি — বিদ্যুৎ গেলেও এর তথ্য থাকে।"
+                },
+                {
+                    "q": "প্রাইমারি মেমরির উদাহরণ কোনটি?",
+                    "options": [
+                        "হার্ড ডিস্ক",
+                        "RAM",
+                        "পেনড্রাইভ",
+                        "সিডি"
+                    ],
+                    "answer": 1,
+                    "why": "RAM প্রাইমারি মেমরির উদাহরণ।"
+                },
+                {
+                    "q": "সেকেন্ডারি স্টোরেজের উদাহরণ কোনটি?",
+                    "options": [
+                        "RAM",
+                        "ROM",
+                        "হার্ড ডিস্ক",
+                        "ক্যাশ মেমরি"
+                    ],
+                    "answer": 2,
+                    "why": "হার্ড ডিস্ক সেকেন্ডারি স্টোরেজের উদাহরণ।"
+                },
+                {
+                    "q": "দশমিক ১৩-কে বাইনারিতে লিখলে কত হয়?",
+                    "options": [
+                        "১০১১",
+                        "১১০০",
+                        "১১০১",
+                        "১১১০"
+                    ],
+                    "answer": 2,
+                    "why": "দশমিক ১৩ = বাইনারি ১১০১।"
+                },
+                {
+                    "q": "'.gov' ডোমেইন কোন ধরনের প্রতিষ্ঠানের জন্য?",
+                    "options": [
+                        "শিক্ষা প্রতিষ্ঠান",
+                        "সরকারি প্রতিষ্ঠান",
+                        "বাণিজ্যিক প্রতিষ্ঠান",
+                        "সামরিক প্রতিষ্ঠান"
+                    ],
+                    "answer": 1,
+                    "why": "'.gov' ডোমেইন সরকারি প্রতিষ্ঠানের জন্য ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "IP ঠিকানার Class A-এর রেঞ্জ কোনটি?",
+                    "options": [
+                        "১–১২৬",
+                        "১২৮–১৯১",
+                        "১৯২–২২৩",
+                        "২২৪–২৩৯"
+                    ],
+                    "answer": 0,
+                    "why": "IP ঠিকানার Class A-এর রেঞ্জ ১–১২৬।"
+                },
+                {
+                    "q": "ফ্লোচার্টে আয়তক্ষেত্র চিহ্ন কী বোঝায়?",
+                    "options": [
+                        "শুরু বা শেষ",
+                        "প্রক্রিয়া",
+                        "সিদ্ধান্ত",
+                        "ইনপুট বা আউটপুট"
+                    ],
+                    "answer": 1,
+                    "why": "ফ্লোচার্টে আয়তক্ষেত্র চিহ্ন প্রক্রিয়া বোঝায়।"
+                },
+                {
+                    "q": "ফ্লোচার্টে ডিম্বাকৃতি চিহ্ন কী বোঝায়?",
+                    "options": [
+                        "শুরু বা শেষ",
+                        "প্রক্রিয়া",
+                        "সিদ্ধান্ত",
+                        "ইনপুট বা আউটপুট"
+                    ],
+                    "answer": 0,
+                    "why": "ফ্লোচার্টে ডিম্বাকৃতি চিহ্ন শুরু বা শেষ বোঝায়।"
+                },
+                {
+                    "q": "প্রাইমারি কি (Primary Key)-এর কাজ কী?",
+                    "options": [
+                        "তথ্য মুছে ফেলা",
+                        "প্রতিটি রেকর্ডকে অনন্যভাবে চিহ্নিত করা",
+                        "তথ্য ছাপানো",
+                        "তথ্য গোপন করা"
+                    ],
+                    "answer": 1,
+                    "why": "প্রাইমারি কি প্রতিটি রেকর্ডকে অনন্যভাবে চিহ্নিত করে।"
+                },
+                {
+                    "q": "ডেটাবেজের সারিকে কী বলা হয়?",
+                    "options": [
+                        "ফিল্ড",
+                        "টেবিল",
+                        "রেকর্ড",
+                        "কুয়েরি"
+                    ],
+                    "answer": 2,
+                    "why": "ডেটাবেজের সারিকে রেকর্ড বলা হয়।"
+                },
+                {
+                    "q": "ডেটাবেজের কলামকে কী বলা হয়?",
+                    "options": [
+                        "রেকর্ড",
+                        "টেবিল",
+                        "ফিল্ড",
+                        "কুয়েরি"
+                    ],
+                    "answer": 2,
+                    "why": "ডেটাবেজের কলামকে ফিল্ড বলা হয়।"
+                },
+                {
+                    "q": "HTML-এ <h1> ট্যাগ কী বোঝায়?",
+                    "options": [
+                        "অনুচ্ছেদ",
+                        "সবচেয়ে বড় শিরোনাম",
+                        "লিংক",
+                        "ছবি"
+                    ],
+                    "answer": 1,
+                    "why": "HTML-এ <h1> ট্যাগ সবচেয়ে বড় শিরোনাম বোঝায়।"
+                },
+                {
+                    "q": "HTML-এ <p> ট্যাগ কী বোঝায়?",
+                    "options": [
+                        "শিরোনাম",
+                        "অনুচ্ছেদ",
+                        "লিংক",
+                        "টেবিল"
+                    ],
+                    "answer": 1,
+                    "why": "HTML-এ <p> ট্যাগ অনুচ্ছেদ বোঝায়।"
+                },
+                {
+                    "q": "HTML-এ <a> ট্যাগ কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "ছবি দেখাতে",
+                        "লিংক তৈরি করতে",
+                        "টেবিল তৈরি করতে",
+                        "শিরোনাম দিতে"
+                    ],
+                    "answer": 1,
+                    "why": "HTML-এ <a> ট্যাগ লিংক তৈরি করতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "'.html' এক্সটেনশনের ফাইল কী?",
+                    "options": [
+                        "ছবির ফাইল",
+                        "ওয়েব পেজের ফাইল",
+                        "অডিও ফাইল",
+                        "ভিডিও ফাইল"
+                    ],
+                    "answer": 1,
+                    "why": "'.html' এক্সটেনশনের ফাইল ওয়েব পেজের ফাইল।"
+                },
+                {
+                    "q": "SQL-এ SELECT কমান্ড কী করে?",
+                    "options": [
+                        "তথ্য মুছে ফেলে",
+                        "তথ্য খুঁজে বের করে",
+                        "তথ্য যোগ করে",
+                        "তথ্য বদলায়"
+                    ],
+                    "answer": 1,
+                    "why": "SQL-এ SELECT কমান্ড তথ্য খুঁজে বের করে।"
+                },
+                {
+                    "q": "SQL-এ INSERT কমান্ড কী করে?",
+                    "options": [
+                        "তথ্য মুছে ফেলে",
+                        "তথ্য খুঁজে বের করে",
+                        "নতুন তথ্য যোগ করে",
+                        "তথ্য বদলায়"
+                    ],
+                    "answer": 2,
+                    "why": "SQL-এ INSERT কমান্ড নতুন তথ্য যোগ করে।"
+                },
+                {
+                    "q": "SQL-এ UPDATE কমান্ড কী করে?",
+                    "options": [
+                        "তথ্য মুছে ফেলে",
+                        "তথ্য খুঁজে বের করে",
+                        "নতুন তথ্য যোগ করে",
+                        "তথ্য হালনাগাদ করে"
+                    ],
+                    "answer": 3,
+                    "why": "SQL-এ UPDATE কমান্ড তথ্য হালনাগাদ করে।"
+                },
+                {
+                    "q": "SQL-এ DELETE কমান্ড কী করে?",
+                    "options": [
+                        "তথ্য মুছে ফেলে",
+                        "তথ্য খুঁজে বের করে",
+                        "নতুন তথ্য যোগ করে",
+                        "তথ্য হালনাগাদ করে"
+                    ],
+                    "answer": 0,
+                    "why": "SQL-এ DELETE কমান্ড তথ্য মুছে ফেলে।"
+                },
+                {
+                    "q": "SQL-এ WHERE ক্লজ কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "তথ্য যোগ করতে",
+                        "শর্ত দিয়ে তথ্য ছাঁকতে",
+                        "তথ্য মুছতে",
+                        "টেবিল তৈরি করতে"
+                    ],
+                    "answer": 1,
+                    "why": "SQL-এ WHERE ক্লজ শর্ত দিয়ে তথ্য ছাঁকতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "DVD-এর পূর্ণরূপ কোনটি?",
+                    "options": [
+                        "Digital Video Disc",
+                        "Digital Versatile Disc",
+                        "Direct Video Disc",
+                        "Digital Value Disc"
+                    ],
+                    "answer": 1,
+                    "why": "DVD = Digital Versatile Disc।"
+                },
+                {
+                    "q": "একটি সাধারণ DVD-র ধারণক্ষমতা কত?",
+                    "options": [
+                        "৭০০ MB",
+                        "১.৪ GB",
+                        "৪.৭ GB",
+                        "২৫ GB"
+                    ],
+                    "answer": 2,
+                    "why": "একটি সাধারণ DVD-র ধারণক্ষমতা ৪.৭ GB।"
+                },
+                {
+                    "q": "ব্লগ কী?",
+                    "options": [
+                        "এক ধরনের ভাইরাস",
+                        "অনলাইনে নিয়মিত লেখা প্রকাশের ওয়েবসাইট",
+                        "একটি ব্রাউজার",
+                        "একটি গেম"
+                    ],
+                    "answer": 1,
+                    "why": "ব্লগ হলো অনলাইনে নিয়মিত লেখা প্রকাশের ওয়েবসাইট।"
+                },
+                {
+                    "q": "যিনি ব্লগ লেখেন তাঁকে কী বলা হয়?",
+                    "options": [
+                        "ব্লগার",
+                        "হ্যাকার",
+                        "প্রোগ্রামার",
+                        "ডিজাইনার"
+                    ],
+                    "answer": 0,
+                    "why": "যিনি ব্লগ লেখেন তাঁকে ব্লগার বলা হয়।"
+                },
+                {
+                    "q": "Ctrl + O কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "নতুন ফাইল খুলতে",
+                        "ফাইল খুলতে",
+                        "ফাইল সংরক্ষণ করতে",
+                        "ফাইল ছাপাতে"
+                    ],
+                    "answer": 1,
+                    "why": "Ctrl + O ফাইল খুলতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "Ctrl + N কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "ফাইল খুলতে",
+                        "নতুন ফাইল তৈরি করতে",
+                        "ফাইল সংরক্ষণ করতে",
+                        "ফাইল মুছতে"
+                    ],
+                    "answer": 1,
+                    "why": "Ctrl + N নতুন ফাইল তৈরি করতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "Ctrl + F কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "ফাইল খুলতে",
+                        "কিছু খুঁজতে",
+                        "ফাইল ছাপাতে",
+                        "ফাইল মুছতে"
+                    ],
+                    "answer": 1,
+                    "why": "Ctrl + F কিছু খুঁজতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "Ctrl + H কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "কিছু খুঁজতে",
+                        "খুঁজে প্রতিস্থাপন করতে",
+                        "ফাইল ছাপাতে",
+                        "ফাইল মুছতে"
+                    ],
+                    "answer": 1,
+                    "why": "Ctrl + H খুঁজে প্রতিস্থাপন করতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "Windows + D কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "ডেস্কটপ দেখাতে",
+                        "টাস্ক ম্যানেজার খুলতে",
+                        "ফাইল খুলতে",
+                        "কম্পিউটার বন্ধ করতে"
+                    ],
+                    "answer": 0,
+                    "why": "Windows + D ডেস্কটপ দেখাতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "Ctrl + Alt + Delete একসঙ্গে চাপলে কী খোলে?",
+                    "options": [
+                        "ফাইল এক্সপ্লোরার",
+                        "টাস্ক ম্যানেজার",
+                        "কন্ট্রোল প্যানেল",
+                        "সেটিংস"
+                    ],
+                    "answer": 1,
+                    "why": "Ctrl + Alt + Delete একসঙ্গে চাপলে টাস্ক ম্যানেজার খোলে।"
+                },
+                {
+                    "q": "Recycle Bin-এ কী থাকে?",
+                    "options": [
+                        "নতুন ফাইল",
+                        "মুছে ফেলা ফাইল",
+                        "গুরুত্বপূর্ণ ফাইল",
+                        "সিস্টেম ফাইল"
+                    ],
+                    "answer": 1,
+                    "why": "Recycle Bin-এ মুছে ফেলা ফাইল থাকে, যা ফিরিয়ে আনা যায়।"
+                },
+                {
+                    "q": "টাস্কবার কোথায় থাকে?",
+                    "options": [
+                        "স্ক্রিনের উপরে",
+                        "স্ক্রিনের নিচে",
+                        "স্ক্রিনের বামে",
+                        "স্ক্রিনের ডানে"
+                    ],
+                    "answer": 1,
+                    "why": "টাস্কবার স্ক্রিনের নিচে থাকে।"
+                },
+                {
+                    "q": "ডেস্কটপ কী?",
+                    "options": [
+                        "এক ধরনের সফটওয়্যার",
+                        "কম্পিউটার চালুর পর মূল স্ক্রিন",
+                        "একটি ফোল্ডার",
+                        "একটি ব্রাউজার"
+                    ],
+                    "answer": 1,
+                    "why": "ডেস্কটপ হলো কম্পিউটার চালুর পর মূল স্ক্রিন।"
+                },
+                {
+                    "q": "ফোল্ডার কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "ফাইল ছাপাতে",
+                        "ফাইল গুছিয়ে রাখতে",
+                        "ইন্টারনেট চালাতে",
+                        "ভাইরাস ধরতে"
+                    ],
+                    "answer": 1,
+                    "why": "ফোল্ডার ফাইল গুছিয়ে রাখতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "স্ক্রিনশট কী?",
+                    "options": [
+                        "স্ক্রিনের ছবি তোলা",
+                        "স্ক্রিন পরিষ্কার করা",
+                        "স্ক্রিন বন্ধ করা",
+                        "স্ক্রিন বড় করা"
+                    ],
+                    "answer": 0,
+                    "why": "স্ক্রিনশট হলো স্ক্রিনের ছবি তোলা।"
+                },
+                {
+                    "q": "ক্লিপবোর্ড কী?",
+                    "options": [
+                        "একটি ফোল্ডার",
+                        "কপি করা তথ্য সাময়িকভাবে থাকার জায়গা",
+                        "একটি ব্রাউজার",
+                        "একটি হার্ডওয়্যার"
+                    ],
+                    "answer": 1,
+                    "why": "ক্লিপবোর্ডে কপি করা তথ্য সাময়িকভাবে থাকে।"
+                },
+                {
+                    "q": "হোমপেজ কী?",
+                    "options": [
+                        "ওয়েবসাইটের শেষ পাতা",
+                        "ওয়েবসাইটের প্রথম পাতা",
+                        "একটি ব্রাউজার",
+                        "একটি সার্চ ইঞ্জিন"
+                    ],
+                    "answer": 1,
+                    "why": "হোমপেজ হলো ওয়েবসাইটের প্রথম পাতা।"
+                },
+                {
+                    "q": "হাইপারলিংকে ক্লিক করলে কী হয়?",
+                    "options": [
+                        "ফাইল মুছে যায়",
+                        "অন্য পাতায় যাওয়া যায়",
+                        "কম্পিউটার বন্ধ হয়",
+                        "ভাইরাস আসে"
+                    ],
+                    "answer": 1,
+                    "why": "হাইপারলিংকে ক্লিক করলে অন্য পাতায় যাওয়া যায়।"
+                },
+                {
+                    "q": "বুকমার্ক কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "ফাইল মুছতে",
+                        "পছন্দের ওয়েব পাতা সংরক্ষণ করতে",
+                        "ভাইরাস ধরতে",
+                        "ফাইল ছাপাতে"
+                    ],
+                    "answer": 1,
+                    "why": "বুকমার্ক পছন্দের ওয়েব পাতা সংরক্ষণ করতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "শক্তিশালী পাসওয়ার্ডে কী থাকে?",
+                    "options": [
+                        "শুধু সংখ্যা",
+                        "শুধু ছোট হাতের অক্ষর",
+                        "বড় হাতের ও ছোট হাতের অক্ষর, সংখ্যা ও চিহ্নের মিশ্রণ",
+                        "শুধু নাম"
+                    ],
+                    "answer": 2,
+                    "why": "শক্তিশালী পাসওয়ার্ডে বড় হাতের ও ছোট হাতের অক্ষর, সংখ্যা ও চিহ্নের মিশ্রণ থাকে।"
+                },
+                {
+                    "q": "ব্রডব্যান্ড কী?",
+                    "options": [
+                        "ধীরগতির ইন্টারনেট",
+                        "উচ্চগতির ইন্টারনেট সংযোগ",
+                        "এক ধরনের কেবল",
+                        "একটি ব্রাউজার"
+                    ],
+                    "answer": 1,
+                    "why": "ব্রডব্যান্ড হলো উচ্চগতির ইন্টারনেট সংযোগ।"
+                },
+                {
+                    "q": "NFC-এর পূর্ণরূপ কোনটি?",
+                    "options": [
+                        "Near Field Communication",
+                        "Network Field Communication",
+                        "Near Fast Communication",
+                        "National Field Communication"
+                    ],
+                    "answer": 0,
+                    "why": "NFC = Near Field Communication।"
+                },
+                {
+                    "q": "SIM-এর পূর্ণরূপ কোনটি?",
+                    "options": [
+                        "Subscriber Identity Module",
+                        "System Identity Module",
+                        "Subscriber Information Module",
+                        "Service Identity Module"
+                    ],
+                    "answer": 0,
+                    "why": "SIM = Subscriber Identity Module।"
+                },
+                {
+                    "q": "উইন্ডোজ কী?",
+                    "options": [
+                        "একটি ব্রাউজার",
+                        "মাইক্রোসফটের অপারেটিং সিস্টেম",
+                        "একটি গেম",
+                        "একটি ভাইরাস"
+                    ],
+                    "answer": 1,
+                    "why": "উইন্ডোজ মাইক্রোসফটের অপারেটিং সিস্টেম।"
+                },
+                {
+                    "q": "লিনাক্স কী?",
+                    "options": [
+                        "একটি ব্রাউজার",
+                        "একটি ওপেন সোর্স অপারেটিং সিস্টেম",
+                        "একটি গেম",
+                        "একটি ভাইরাস"
+                    ],
+                    "answer": 1,
+                    "why": "লিনাক্স একটি ওপেন সোর্স অপারেটিং সিস্টেম।"
+                },
+                {
+                    "q": "ইউটিউব কী?",
+                    "options": [
+                        "একটি সার্চ ইঞ্জিন",
+                        "একটি ভিডিও শেয়ারিং ওয়েবসাইট",
+                        "একটি ইমেইল সেবা",
+                        "একটি গেম"
+                    ],
+                    "answer": 1,
+                    "why": "ইউটিউব একটি ভিডিও শেয়ারিং ওয়েবসাইট।"
+                },
+                {
+                    "q": "ইমেইল ঠিকানায় '@' চিহ্ন কী আলাদা করে?",
+                    "options": [
+                        "নাম ও পাসওয়ার্ড",
+                        "ব্যবহারকারীর নাম ও ডোমেইন",
+                        "বিষয় ও বার্তা",
+                        "প্রেরক ও প্রাপক"
+                    ],
+                    "answer": 1,
+                    "why": "ইমেইল ঠিকানায় '@' চিহ্ন ব্যবহারকারীর নাম ও ডোমেইন আলাদা করে।"
+                },
+                {
+                    "q": "ইনবক্সে কী থাকে?",
+                    "options": [
+                        "পাঠানো ইমেইল",
+                        "আগত ইমেইল",
+                        "মুছে ফেলা ইমেইল",
+                        "খসড়া ইমেইল"
+                    ],
+                    "answer": 1,
+                    "why": "ইনবক্সে আগত ইমেইল থাকে।"
+                },
+                {
+                    "q": "অ্যাটাচমেন্ট কী?",
+                    "options": [
+                        "ইমেইলের বিষয়",
+                        "ইমেইলের সঙ্গে পাঠানো ফাইল",
+                        "ইমেইলের ঠিকানা",
+                        "ইমেইলের পাসওয়ার্ড"
+                    ],
+                    "answer": 1,
+                    "why": "অ্যাটাচমেন্ট হলো ইমেইলের সঙ্গে পাঠানো ফাইল।"
+                },
+                {
+                    "q": "ল্যাপটপ কী?",
+                    "options": [
+                        "ডেস্কটপ কম্পিউটার",
+                        "বহনযোগ্য কম্পিউটার",
+                        "এক ধরনের ফোন",
+                        "একটি সার্ভার"
+                    ],
+                    "answer": 1,
+                    "why": "ল্যাপটপ একটি বহনযোগ্য কম্পিউটার।"
+                },
+                {
+                    "q": "ইথারনেট কী?",
+                    "options": [
+                        "বেতার নেটওয়ার্ক",
+                        "তারযুক্ত নেটওয়ার্ক প্রযুক্তি",
+                        "একটি ব্রাউজার",
+                        "একটি ভাইরাস"
+                    ],
+                    "answer": 1,
+                    "why": "ইথারনেট একটি তারযুক্ত নেটওয়ার্ক প্রযুক্তি।"
+                },
+                {
+                    "q": "ইন্ট্রানেট কী?",
+                    "options": [
+                        "সারা বিশ্বের নেটওয়ার্ক",
+                        "প্রতিষ্ঠানের ভেতরের নিজস্ব নেটওয়ার্ক",
+                        "একটি ব্রাউজার",
+                        "একটি ওয়েবসাইট"
+                    ],
+                    "answer": 1,
+                    "why": "ইন্ট্রানেট হলো প্রতিষ্ঠানের ভেতরের নিজস্ব নেটওয়ার্ক।"
+                },
+                {
+                    "q": "ওয়েবক্যাম কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "ছবি ছাপাতে",
+                        "ভিডিও ধারণ ও ভিডিও কলে",
+                        "গান শুনতে",
+                        "ফাইল সংরক্ষণে"
+                    ],
+                    "answer": 1,
+                    "why": "ওয়েবক্যাম ভিডিও ধারণ ও ভিডিও কলে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "প্রজেক্টর কী কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "ছবি আঁকতে",
+                        "ছবি বড় করে পর্দায় দেখাতে",
+                        "গান শুনতে",
+                        "ফাইল ছাপাতে"
+                    ],
+                    "answer": 1,
+                    "why": "প্রজেক্টর ছবি বড় করে পর্দায় দেখাতে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "স্ট্রিমিং কী?",
+                    "options": [
+                        "ফাইল ডাউনলোড করা",
+                        "ইন্টারনেটে সরাসরি ভিডিও বা অডিও দেখা-শোনা",
+                        "ফাইল আপলোড করা",
+                        "ফাইল মুছে ফেলা"
+                    ],
+                    "answer": 1,
+                    "why": "স্ট্রিমিং হলো ইন্টারনেটে সরাসরি ভিডিও বা অডিও দেখা-শোনা।"
                 }
             ]
         }
