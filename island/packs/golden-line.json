@@ -1,0 +1,22 @@
+{
+  "name": "Golden Line",
+  "glyphs": {
+    "update": "\uf0e7",
+    "guide": "\uf249",
+    "perms": "\uf084",
+    "about": "\uf577",
+    "look": "\uf043",
+    "settings": "\uf555",
+    "home": "\uf015",
+    "music": "\uf001",
+    "prev": "\uf048",
+    "play": "\uf04b",
+    "pause": "\uf04c",
+    "next": "\uf051",
+    "clock": "\uf2f2",
+    "phone": "\uf095",
+    "bell": "\uf0f3",
+    "bolt": "\uf0e7",
+    "timer": "\uf017"
+  }
+}
