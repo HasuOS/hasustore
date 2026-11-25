@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 69,
-   "versionName": "5.41",
+   "code": 70,
+   "versionName": "5.42",
    "size": 68946697,
-   "changes": "CLIPBOARD FIXED: copied text is saved to the clipboard history again — and if clipboard encryption ever fails on your phone, your clips are kept safely (still behind the fingerprint lock) and the panel tells you honestly instead of silently losing them. The clipboard panel also captures the current copy no matter how you open it, and an empty panel now explains why (Incognito pause, encryption problem, or nothing copied yet).",
+   "changes": "CLIPBOARD NOW SAVES EVERY COPY: while HasuBoard is your selected keyboard, copied text is saved to the clipboard history — like Samsung Keyboard. Before, a privacy flag meant for single text fields was silently blocking the whole history, so copies vanished. Your own Incognito switch in HasuBoard settings still pauses saving whenever you turn it on.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795572758,
-   "etag": "0x8DF4A998763005B"
+   "ts": 1795573756,
+   "etag": "0x8DF4A9BAFC6DF15"
   },
   {
    "pkg": "hasu.os.browser",
@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 244,
-   "versionName": "2.51",
+   "code": 245,
+   "versionName": "2.52",
    "size": 115295486,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "THE STORE'S OWN ICONS JOIN THE SYSTEM. Every Store tool, button and chrome icon is now changeable from one picker — Settings, Icons — with six built-in sets (Classic, Font Awesome, Neon, Bold, Slim, Emoji Pop) shown as rendered previews; tap a set and it applies everywhere at once. New icon packs now arrive by themselves from the feed and merge into the same picker, and a notification tells you what was added (its own switch in Settings). Two starter packs are already in the feed: FA Sharp and Golden Line. Other apps' icons in the grid stay their real icons. Everything from 2.50 stays: the honest Permissions aggregate, the never-blank app icons, category search and the settle-checked self-update.",
-   "ts": 1795570660,
-   "etag": "0x8DF4A949AF968CE"
+   "changes": "THE UPDATE ARROW POINTS THE RIGHT WAY. Everywhere the store shows an update waiting — the home circle, the badge on an app, the version line, Update all, the notification and the Recent page — the arrow is now a download arrow, because an update is something you download. In every built-in icon set too, the update icon is a down arrow now.",
+   "ts": 1795573756,
+   "etag": "0x8DF4A9BBDB05222"
   },
   {
    "pkg": "hasu.os.tasbih",
