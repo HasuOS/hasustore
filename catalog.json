@@ -97,13 +97,13 @@
    "name": "HasuClean",
    "tag": "Storage cleaner",
    "desc": "Storage cleaner — find the largest files, duplicate photos and junk folders, and free space safely.",
-   "code": 10,
-   "versionName": "1.08",
-   "size": 90990,
+   "code": 11,
+   "versionName": "1.09",
+   "size": 62318,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clean.apk",
-   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
-   "etag": "0x8DF4AFC2107F5E6",
-   "ts": 1795615087
+   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
+   "etag": "0x8DF4AFF1E73EDF1",
+   "ts": 1795616374
   },
   {
    "pkg": "hasu.os.clock",
