@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 245,
-   "versionName": "2.52",
-   "size": 115295486,
+   "code": 246,
+   "versionName": "2.53",
+   "size": 117077313,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "THE UPDATE ARROW POINTS THE RIGHT WAY. Everywhere the store shows an update waiting — the home circle, the badge on an app, the version line, Update all, the notification and the Recent page — the arrow is now a download arrow, because an update is something you download. In every built-in icon set too, the update icon is a down arrow now.",
-   "ts": 1795573756,
-   "etag": "0x8DF4A9BBDB05222"
+   "changes": "Auto-download, perfected: every update now downloads by itself, one by one, and waits as “Downloaded — tap to install” — you only tap Install. The store shows the very icon you picked inside each app, everywhere. The owner's email sits in Settings → App info (tap it to write a mail), the new HasuOS brand logo is on the Brand row, and a quiet-hours switch can hold the downloaded cards for the morning while downloads still finish silently.",
+   "ts": 1795583891,
+   "etag": "0x8DF4AB372D75BF3"
   },
   {
    "pkg": "hasu.os.tasbih",
