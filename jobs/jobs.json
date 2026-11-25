@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795609294,
+  "generatedAt": 1795633245,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -582,6 +582,50 @@
       "track": "diploma",
       "location": "চট্টগ্রাম",
       "pdfUrl": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpc/2026/10/5b5a6993-504c-4795-8bd8-977e91378e58.pdf"
+    },
+    {
+      "id": "duet-computer-posts-2026",
+      "title": "ঢাকা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (ডুয়েট) নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Dhaka University of Engineering & Technology (DUET) (ঢাকা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়)",
+      "posts": "সিনিয়র অফিস অ্যাসিস্ট্যান্ট কাম কম্পিউটার অপারেটর (Senior Office Assistant cum Computer Operator) — ১টি • ডাটা এন্ট্রি অপারেটর (Data Entry Operator) — ১টি • অফিস অ্যাসিস্ট্যান্ট কাম কম্পিউটার টাইপিস্ট (Office Assistant cum Computer Typist) — ১টি",
+      "vacancy": 3,
+      "qualification": "Senior Office Assistant cum Computer Operator: bachelor's degree or HSC pass with computer and typing skills. Data Entry Operator: HSC or bachelor's pass with data entry and typing skills. Office Assistant cum Computer Typist: HSC or equivalent pass with computer typing skills. Age 18–32.",
+      "salary": "Senior Office Assistant cum Computer Operator: Grade-13 ৳24,000–58,000 • Data Entry Operator: Grade-13 ৳24,000–58,000 • Office Assistant cum Computer Typist: Grade-16 ৳21,900–52,900 (National Pay Scale 2026)",
+      "startDate": "2026-11-12",
+      "deadline": "2026-12-02",
+      "deadlineTime": "23:59",
+      "fee": "৳100 (mobile banking)",
+      "applyUrl": "https://career.duetbd.org",
+      "sourceUrl": "https://www.prothomalo.com/amp/story/chakri%2Femployment%2F95a49xv1gd",
+      "published": "2026-11-11",
+      "note": "DUET (Gazipur) circular advertises 37 posts in 18 categories — of them, these three computer posts (3 posts) are open to Diploma in Computer holders: the Senior Office Assistant cum Computer Operator and Data Entry Operator accept HSC (or a bachelor's degree) with computer/typing skills, and the Office Assistant cum Computer Typist needs HSC with typing — all under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). The Technician/Lab posts in the same circular need relevant lab training/experience in EEE/MME/Fab Lab and are not listed. Apply online at career.duetbd.org; fee ৳100 by mobile banking. Official circular PDF verified from the DUET career portal.",
+      "grade": "Grade-13 / Grade-16",
+      "category": "ICT",
+      "track": "diploma",
+      "location": "গাজীপুর",
+      "pdfUrl": "https://career.duetbd.org/public/files/circulars/1794194319.pdf"
+    },
+    {
+      "id": "duet-computer-posts-graduate-2026",
+      "title": "ঢাকা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (ডুয়েট) নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Dhaka University of Engineering & Technology (DUET) (ঢাকা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়)",
+      "posts": "সিনিয়র অফিস অ্যাসিস্ট্যান্ট কাম কম্পিউটার অপারেটর (Senior Office Assistant cum Computer Operator) — ১টি • ডাটা এন্ট্রি অপারেটর (Data Entry Operator) — ১টি",
+      "vacancy": 2,
+      "qualification": "Senior Office Assistant cum Computer Operator: bachelor's degree or HSC pass with computer and typing skills. Data Entry Operator: HSC or bachelor's pass with data entry and typing skills. Age 18–32.",
+      "salary": "Senior Office Assistant cum Computer Operator: Grade-13 ৳24,000–58,000 • Data Entry Operator: Grade-13 ৳24,000–58,000 (National Pay Scale 2026)",
+      "startDate": "2026-11-12",
+      "deadline": "2026-12-02",
+      "deadlineTime": "23:59",
+      "fee": "৳100 (mobile banking)",
+      "applyUrl": "https://career.duetbd.org",
+      "sourceUrl": "https://www.prothomalo.com/amp/story/chakri%2Femployment%2F95a49xv1gd",
+      "published": "2026-11-11",
+      "note": "DUET (Gazipur) circular — of its 37 posts, these two computer posts accept a bachelor's degree with computer/typing skills and are open to Honours/Master's graduates. The same two posts are also listed in the diploma entry (they accept HSC too). Apply online at career.duetbd.org; fee ৳100 by mobile banking. Official circular PDF verified from the DUET career portal.",
+      "grade": "Grade-13",
+      "category": "ICT",
+      "track": "graduate",
+      "location": "গাজীপুর",
+      "pdfUrl": "https://career.duetbd.org/public/files/circulars/1794194319.pdf"
     }
-]
+  ]
 }
