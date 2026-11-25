@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "covers": [
+    {"id": "aurora-waves", "name": "Aurora Waves", "file": "aurora-waves.jpg"},
+    {"id": "midnight-gold", "name": "Midnight Gold", "file": "midnight-gold.jpg"},
+    {"id": "ocean-glass", "name": "Ocean Glass", "file": "ocean-glass.jpg"}
+  ]
+}
