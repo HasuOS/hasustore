@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795604135,
+  "generatedAt": 1795604232,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -516,6 +516,72 @@
       "track": "diploma",
       "location": "ঢাকা",
       "pdfUrl": ""
+    },
+    {
+      "id": "ccb-office-assistant-computer-typist-2026",
+      "title": "বাংলাদেশ প্রতিযোগিতা কমিশন নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Bangladesh Competition Commission (CCB)",
+      "posts": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক (Office Assistant cum Computer Typist) — ৪টি",
+      "vacancy": 4,
+      "qualification": "HSC or equivalent with at least second division or equivalent GPA from a recognised board; computer typing speed at least Bengali 20 wpm and English 20 wpm; proficiency in computer use, word processing, email and fax operation. Age 18–32 (as of 21 Dec 2026).",
+      "salary": "Grade-16 — ৳21,900–52,900 (National Pay Scale 2026)",
+      "startDate": "2026-11-22",
+      "deadline": "2026-12-21",
+      "deadlineTime": "17:00",
+      "fee": "৳112 (Teletalk) — ৳56 for ethnic minority, disabled and third-gender applicants",
+      "applyUrl": "https://ccb.teletalk.com.bd",
+      "sourceUrl": "https://bdgovtjob.net/ccb-job-circular/",
+      "published": "2026-11-17",
+      "note": "Circular (memo 26.12.0000.104.018.002.23(2nd)-460, 16 Nov 2026) advertises 10 posts in 2 categories at the Bangladesh Competition Commission, Eskaton Garden, Ramna, Dhaka — of them, this Office Assistant cum Computer Typist post (4 posts) is open to Diploma in Computer holders under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). The Personal Assistant post (6 posts) in the same circular needs a bachelor's degree, so it is not included. Apply online at ccb.teletalk.com.bd and pay ৳112 by Teletalk SMS within 72 hours.",
+      "grade": "Grade-16",
+      "category": "ICT",
+      "track": "diploma",
+      "location": "ঢাকা",
+      "pdfUrl": "https://ccb.teletalk.com.bd/docs/CCB20261116.pdf"
+    },
+    {
+      "id": "ais-office-assistant-computer-typist-2026",
+      "title": "কৃষি তথ্য সার্ভিস নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Agriculture Information Service (AIS)",
+      "posts": "অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক (Office Assistant cum Computer Typist) — ৪টি",
+      "vacancy": 4,
+      "qualification": "HSC pass with computer typing speed 30 wpm. Experienced candidates get preference; experience is not required. Age 18–32 (as of 1 Nov 2026).",
+      "salary": "Grade-16 — ৳21,900–52,900 (National Pay Scale 2026)",
+      "startDate": "2026-11-10",
+      "deadline": "2026-12-03",
+      "deadlineTime": "17:00",
+      "fee": "৳112 (Teletalk)",
+      "applyUrl": "https://ais.teletalk.com.bd",
+      "sourceUrl": "https://bdgovtjob.net/ais-job-circular/",
+      "published": "2026-10-29",
+      "note": "Circular (memo 12.05.0000.012.14.0003.26-596, 29 Oct 2026) advertises 15 posts in 6 categories at the Agriculture Information Service, Khamarbari, Farmgate, Dhaka — of them, this Office Assistant cum Computer Typist post (4 posts, HSC + typing) is open to Diploma in Computer holders under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). The remaining posts need SSC with fine/commercial arts, projection or offset-printing skills and experience, or class 8 (Office Support Staff), so they are not included. Apply online at ais.teletalk.com.bd and pay ৳112 by Teletalk SMS within 72 hours.",
+      "grade": "Grade-16",
+      "category": "ICT",
+      "track": "diploma",
+      "location": "ঢাকা",
+      "pdfUrl": "https://ais.teletalk.com.bd/docs/20261029.pdf"
+    },
+    {
+      "id": "bpc-office-assistant-computer-typist-2026",
+      "title": "বাংলাদেশ পেট্রোলিয়াম কর্পোরেশন নিয়োগ বিজ্ঞপ্তি ২০২৬ — অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক",
+      "org": "Bangladesh Petroleum Corporation (BPC)",
+      "posts": "অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক (Office Assistant cum Computer Typist) — ৬টি",
+      "vacancy": 6,
+      "qualification": "HSC pass; Bengali typing speed 20 wpm and English typing speed 30 wpm. Age up to 32 (as of 19 Nov 2026). One candidate may apply for only ONE post in this circular.",
+      "salary": "Grade-16 — ৳21,900–52,900 (National Pay Scale 2026)",
+      "startDate": "2026-11-19",
+      "deadline": "2026-12-19",
+      "deadlineTime": "17:00",
+      "fee": "৳112 (Teletalk)",
+      "applyUrl": "https://bpc.teletalk.com.bd",
+      "sourceUrl": "https://govtjobcircular.com/bpc-job-circular/",
+      "published": "2026-11-19",
+      "note": "Same BPC circular as the Sub-Assistant Engineer entry (memo 28.03.0000.000.010.04.0001.17.52, 19 Nov 2026; 19 posts in 14 categories) — this Office Assistant cum Computer Typist post (6 posts, HSC + typing) is a separate application with its own fee, open to Diploma in Computer holders under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). Note: the circular allows a candidate to apply for only ONE post, and he has already applied and paid ৳223 for the Sub-Assistant Engineer post in this same circular. Apply online at bpc.teletalk.com.bd and pay ৳112 by Teletalk SMS within 72 hours.",
+      "grade": "Grade-16",
+      "category": "ICT",
+      "track": "diploma",
+      "location": "চট্টগ্রাম",
+      "pdfUrl": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpc/2026/10/5b5a6993-504c-4795-8bd8-977e91378e58.pdf"
     }
-  ]
+]
 }
