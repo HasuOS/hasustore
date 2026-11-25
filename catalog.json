@@ -110,13 +110,13 @@
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 24,
-   "versionName": "1.18",
-   "size": 5028840,
+   "code": 25,
+   "versionName": "1.19",
+   "size": 5069800,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
-   "changes": "The About page now has a Developer card with the new HasuOS brand logo and Hasu's contact email — tap the email to write to him directly. Nothing else changes.",
-   "ts": 1795583774,
-   "etag": "0x8DF4AB317E980A9"
+   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
+   "ts": 1795615143,
+   "etag": "0x8DF4AFC4141C263"
   },
   {
    "pkg": "hasu.os.dice",
