@@ -1,0 +1,33 @@
+{
+ "id": "fa-sharp",
+ "name": "FA Sharp",
+ "kind": "glyphs",
+ "glyphs": {
+  "update": "fa:f2f1",
+  "guide": "fa:f02d",
+  "perms": "fa:f023",
+  "about": "fa:f05a",
+  "look": "fa:f06e",
+  "settings": "fa:f013",
+  "back": "fa:f060",
+  "check": "fa:f00c",
+  "close": "fa:f00d",
+  "photo": "fa:f302",
+  "video": "fa:f008",
+  "filter": "fa:f0b0",
+  "adjust": "fa:f042",
+  "rotate": "fa:f01e",
+  "flip": "fa:f337",
+  "crop": "fa:f125",
+  "text": "fa:f1dc",
+  "overlay": "fa:f247",
+  "draw": "fa:f1fc",
+  "save": "fa:f0c7",
+  "merge": "fa:f387",
+  "trim": "fa:f0c4",
+  "add": "fa:f067",
+  "trash": "fa:f1f8",
+  "undo": "fa:f3e5",
+  "play": "fa:f04b"
+ }
+}
