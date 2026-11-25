@@ -5,6 +5,12 @@
    "name": "Aurora",
    "zip": "packs/aurora.zip",
    "size": 4246875
+  },
+  {
+   "id": "hasu-style",
+   "name": "Hasu Style",
+   "zip": "packs/hasu-style.zip",
+   "size": 1185899
   }
  ]
 }
