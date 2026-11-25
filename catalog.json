@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 248,
-   "versionName": "2.55",
-   "size": 117081409,
+   "code": 249,
+   "versionName": "2.56",
+   "size": 117085505,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "One store, everywhere: HasuStore now shares its download state with the family — in HasuOS, in Hasu and on HasuOS Home, an app whose update is downloading wears the same filling border around its icon, and once its download is ready, tapping its icon there installs it right away, with the store's own verified file. And the catalog link is now locked: it stays visible in Online updates, but changing it demands the store's master password — the same Admin password as the login; a wrong password changes nothing.",
-   "ts": 1795587238,
-   "etag": "0x8DF4ABB1CB16661"
+   "changes": "Now the download shows itself on the app page, unmissably. Tap ⬇ Update and the button itself fills with the download as it runs and reads Downloading… NN%; a slim line under the app's header shows the MB landing (30 MB of 67 MB), and the ring still fills around the app's icon. Open an app's page while the store is downloading it by itself and the page is already showing all of that — and when the download lands, the page turns into Install by itself. If that app is already downloading, tapping Update now says so, instead of seeming to do nothing.",
+   "ts": 1795588348,
+   "etag": "0x8DF4ABDCD63A532"
   },
   {
    "pkg": "hasu.os.tasbih",
