@@ -32,13 +32,13 @@
    "name": "HasuBoard",
    "tag": "The HasuOS keyboard",
    "desc": "The HasuOS keyboard — liquid glass, skins & fonts, GIFs, clipboard, a private vault and Bangla phonetic typing.",
-   "code": 80,
-   "versionName": "5.52",
-   "size": 70531998,
-   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
+   "code": 81,
+   "versionName": "5.53",
+   "size": 70556574,
+   "changes": "আইকন এখন সব জায়গায় পরিষ্কার দেখা যাবে — ব্যাকগ্রাউন্ড পুরোপুরি transparent, glyph-এর গায়ে teal glow ধার, কোনো tile নেই",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/keyboard.apk",
-   "ts": 1795615600,
-   "etag": "0x8DF4AFD4FAE7159"
+   "ts": 1795617206,
+   "etag": "0x8DF4B00FB089508"
   },
   {
    "pkg": "hasu.os.browser",
