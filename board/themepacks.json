@@ -1,0 +1,31 @@
+{
+ "themes": [
+  {
+   "id": "lagoon",
+   "name": "Lagoon",
+   "bg": "#0E5E6F",
+   "bg2": "#14A3A8",
+   "key": "#FFFFFF",
+   "text": "#062A33",
+   "dark": false
+  },
+  {
+   "id": "plum-night",
+   "name": "Plum Night",
+   "bg": "#2A0E44",
+   "bg2": "#4A1578",
+   "key": "#4A3572",
+   "text": "#F3E9FF",
+   "dark": true
+  },
+  {
+   "id": "sand",
+   "name": "Warm Sand",
+   "bg": "#E8D3AC",
+   "bg2": "#D9B77C",
+   "key": "#FFF9EC",
+   "text": "#3D2A0D",
+   "dark": false
+  }
+ ]
+}

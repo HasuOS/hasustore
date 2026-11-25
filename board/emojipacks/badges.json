@@ -1,0 +1,30 @@
+{
+ "id": "badges",
+ "name": "Word Badges",
+ "stickers": [
+  {
+   "name": "hi",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/emojipacks/badges/hi.png"
+  },
+  {
+   "name": "ok",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/emojipacks/badges/ok.png"
+  },
+  {
+   "name": "yes",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/emojipacks/badges/yes.png"
+  },
+  {
+   "name": "no",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/emojipacks/badges/no.png"
+  },
+  {
+   "name": "wow",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/emojipacks/badges/wow.png"
+  },
+  {
+   "name": "go",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/emojipacks/badges/go.png"
+  }
+ ]
+}

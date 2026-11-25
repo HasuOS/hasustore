@@ -1,0 +1,24 @@
+{
+ "packs": [
+  {
+   "id": "glide",
+   "name": "Bubble Glide",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/sounds/glide.wav"
+  },
+  {
+   "id": "marimba",
+   "name": "Marimba Tap",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/sounds/marimba.wav"
+  },
+  {
+   "id": "chime",
+   "name": "Crystal Chime",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/sounds/chime.wav"
+  },
+  {
+   "id": "blip",
+   "name": "Retro Blip Mini",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/sounds/blip.wav"
+  }
+ ]
+}

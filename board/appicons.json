@@ -1,0 +1,24 @@
+{
+ "designs": [
+  {
+   "slot": 1,
+   "name": "Dark Glass",
+   "blurb": "Feed-named design for the built-in Dark Glass icon slot"
+  },
+  {
+   "slot": 2,
+   "name": "Midnight",
+   "blurb": "Feed-named design for the built-in Midnight icon slot"
+  },
+  {
+   "slot": 3,
+   "name": "Gold Ring",
+   "blurb": "Feed-named design for the built-in Gold Ring icon slot"
+  },
+  {
+   "slot": 4,
+   "name": "Sky",
+   "blurb": "Feed-named design for the built-in Sky icon slot"
+  }
+ ]
+}

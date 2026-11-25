@@ -1,0 +1,30 @@
+{
+ "fonts": [
+  {
+   "id": "liberation-mono",
+   "name": "Liberation Mono Bold",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/fonts/liberation-mono.ttf"
+  },
+  {
+   "id": "dejavu-serif",
+   "name": "DejaVu Serif Bold",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/fonts/dejavu-serif.ttf"
+  }
+ ],
+ "styles": [
+  {
+   "id": "negative-circled",
+   "name": "Negative Circled",
+   "upper": "🅐🅑🅒🅓🅔🅕🅖🅗🅘🅙🅚🅛🅜🅝🅞🅟🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩",
+   "lower": "🅐🅑🅒🅓🅔🅕🅖🅗🅘🅙🅚🅛🅜🅝🅞🅟🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩",
+   "digits": "⓿❶❷❸❹❺❻❼❽❾"
+  },
+  {
+   "id": "black-squared",
+   "name": "Black Squared",
+   "upper": "🅰🅱🅲🅳🅴🅵🅶🅷🅸🅹🅺🅻🅼🅽🅾🅿🆀🆁🆂🆃🆄🆅🆆🆇🆈🆉",
+   "lower": "🅰🅱🅲🅳🅴🅵🅶🅷🅸🅹🅺🅻🅼🅽🅾🅿🆀🆁🆂🆃🆄🆅🆆🆇🆈🆉",
+   "digits": "０１２３４５６７８９"
+  }
+ ]
+}

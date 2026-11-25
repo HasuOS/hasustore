@@ -1,0 +1,24 @@
+{
+ "lists": [
+  {
+   "lang": "en",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/dicts/words_en.txt"
+  },
+  {
+   "lang": "bn",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/dicts/words_bn.txt"
+  },
+  {
+   "lang": "hi",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/dicts/words_hi.txt"
+  },
+  {
+   "lang": "ar",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/dicts/words_ar.txt"
+  },
+  {
+   "lang": "ur",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/dicts/words_ur.txt"
+  }
+ ]
+}

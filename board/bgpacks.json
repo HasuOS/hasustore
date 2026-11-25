@@ -1,0 +1,19 @@
+{
+ "backgrounds": [
+  {
+   "id": "aurora",
+   "name": "Aurora Mist",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/backgrounds/aurora.png"
+  },
+  {
+   "id": "ocean",
+   "name": "Deep Ocean",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/backgrounds/ocean.png"
+  },
+  {
+   "id": "sunset",
+   "name": "Sunset Glow",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/backgrounds/sunset.png"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "packs": [
+  {
+   "id": "badges",
+   "name": "Word Badges",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/emojipacks/badges.json"
+  }
+ ],
+ "sets": [
+  {
+   "id": "party-plus",
+   "name": "Party Plus",
+   "emojis": "🪩 🪅 🫧 🥂 🍾 🪄 🫠 🫡 🥹 🫶"
+  }
+ ]
+}

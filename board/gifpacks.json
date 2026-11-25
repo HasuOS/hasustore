@@ -1,0 +1,14 @@
+{
+ "packs": [
+  {
+   "id": "star",
+   "name": "Bouncing Star",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/gifs/star.gif"
+  },
+  {
+   "id": "heart",
+   "name": "Pulsing Heart",
+   "url": "https://raw.githubusercontent.com/HasuOS/hasustore/main/board/gifs/heart.gif"
+  }
+ ]
+}
