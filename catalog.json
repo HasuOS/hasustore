@@ -6,13 +6,13 @@
    "name": "HasuBackup",
    "tag": "APK backup",
    "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-   "code": 22,
-   "versionName": "1.19",
-   "size": 2087332,
+   "code": 23,
+   "versionName": "1.20",
+   "size": 2231697,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
-   "changes": "আইকন এখন সব জায়গায় পরিষ্কার দেখা যাবে — ব্যাকগ্রাউন্ড পুরোপুরি transparent, glyph-এর গায়ে teal glow ধার, কোনো tile নেই",
-   "etag": "0x8DF4B004474F8B1",
-   "ts": 1795616868
+   "changes": "আইকন এখন adaptive — নিজের premium glass background সহ, Samsung-সহ সব জায়গায় পরিষ্কার দেখা যাবে",
+   "etag": "0x8DF4B044D5B83EE",
+   "ts": 1795618613
   },
   {
    "pkg": "hasu.os.battery",
@@ -71,13 +71,13 @@
    "name": "HasuCalendar",
    "tag": "Calendar",
    "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
-   "code": 15,
-   "versionName": "1.12",
-   "size": 1840049,
+   "code": 16,
+   "versionName": "1.13",
+   "size": 2013086,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
-   "etag": "0x8DF4B01B92A8DBA",
-   "ts": 1795616143
+   "changes": "আইকন এখন adaptive — নিজের premium glass background সহ, Samsung-সহ সব জায়গায় পরিষ্কার দেখা যাবে",
+   "etag": "0x8DF4B035D4F91F8",
+   "ts": 1795618251
   },
   {
    "pkg": "com.hasucam.camera",
