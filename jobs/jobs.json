@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "generatedAt": 1795592612,
+    "generatedAt": 1795592932,
     "jobs": [
         {
             "id": "bpsc-non-cadre-2026",
@@ -452,28 +452,6 @@
             "pdfUrl": ""
         },
         {
-            "id": "itc-netrokona-data-entry-operator-2026",
-            "title": "ইন-সার্ভিস ট্রেনিং সেন্টার (আইটিসি), নেত্রকোণা নিয়োগ বিজ্ঞপ্তি ২০২৬",
-            "org": "Office of the Superintendent of Police, In-Service Training Center (ITC), Netrokona",
-            "posts": "ডাটা এন্ট্রি অপারেটর (Data Entry Operator) — ১টি",
-            "vacancy": 1,
-            "qualification": "HSC or equivalent with at least 2nd division / equivalent GPA from a recognised board; must pass the computer personnel recruitment examination under Schedule-3 of the Government Computer Personnel Recruitment Rules, 2019; proficiency in word processing, spreadsheet, presentation and basic computer troubleshooting; computer typing speed at least 20 wpm in English and 20 wpm in Bengali. Age 18–32 (as of 30 Nov 2026).",
-            "salary": "Grade-16 — ৳21,900–52,900 (National Pay Scale 2026)",
-            "startDate": "2026-11-25",
-            "deadline": "2026-12-10",
-            "deadlineTime": "17:00",
-            "fee": "৳112 (Teletalk)",
-            "applyUrl": "https://itcnetrokona.teletalk.com.bd",
-            "sourceUrl": "https://ezjobsbangla.com/job-circular/itc-netrokona-job-circular",
-            "published": "2026-11-23",
-            "note": "Circular (memo 1166/(ITC), 22 Nov 2026) for the In-Service Training Center, Netrokona, under the police administration — this Data Entry Operator post (1 post) is open to Diploma in Computer holders under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). IMPORTANT: only permanent residents of Netrokona district may apply for this post. Apply online at itcnetrokona.teletalk.com.bd and pay ৳112 by Teletalk SMS within 72 hours.",
-            "grade": "Grade-16",
-            "category": "ICT",
-            "track": "diploma",
-            "location": "নেত্রকোণা",
-            "pdfUrl": ""
-        },
-        {
             "id": "kuet-office-assistant-data-processor-2026",
             "title": "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়ে নিয়োগ বিজ্ঞপ্তি ২০২৬",
             "org": "Khulna University of Engineering & Technology (KUET)",
@@ -494,6 +472,50 @@
             "track": "graduate",
             "location": "খুলনা",
             "pdfUrl": "https://careers.kuet.ac.bd/api/v1/circulars/cmvnl0t0q00341dqqxo56andw/files/official-circular"
+        },
+        {
+            "id": "tcb-steno-typist-computer-operator-2026",
+            "title": "ট্রেডিং কর্পোরেশন অব বাংলাদেশ (টিসিবি) নিয়োগ বিজ্ঞপ্তি ২০২৬",
+            "org": "Trading Corporation of Bangladesh (TCB)",
+            "posts": "সাঁটমুদ্রাক্ষরিক-কাম কম্পিউটার অপারেটর (Steno-Typist-cum-Computer Operator) — ৩টি",
+            "vacancy": 3,
+            "qualification": "HSC pass; shorthand speed Bengali 45 / English 70 wpm and computer typing speed Bengali 25 / English 30 wpm. Two years' experience in a government industrial or commercial organisation is preferred, not required. Age 18–32 (as of 1 Nov 2026).",
+            "salary": "Grade-14 — ৳23,500–56,800 (National Pay Scale 2026)",
+            "startDate": "2026-11-17",
+            "deadline": "2026-12-08",
+            "deadlineTime": "16:00",
+            "fee": "৳112 (Teletalk)",
+            "applyUrl": "https://tcb.teletalk.com.bd",
+            "sourceUrl": "https://jobpostbd.com/tcb-job-circular/",
+            "published": "2026-11-16",
+            "note": "Circular (memo 26.05.0000.005.011.90.26-440, 16 Nov 2026) advertises 10 permanent posts in 5 categories at the Trading Corporation of Bangladesh — of them, this Steno-Typist-cum-Computer Operator post (3 posts) is open to Diploma in Computer holders under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). The Sub-Assistant Engineer post needs a Civil diploma, so it is not included. One candidate may apply for only ONE post in this circular. Apply online at tcb.teletalk.com.bd and pay ৳112 by Teletalk SMS within 72 hours.",
+            "grade": "Grade-14",
+            "category": "ICT",
+            "track": "diploma",
+            "location": "ঢাকা",
+            "pdfUrl": ""
+        },
+        {
+            "id": "divcom-barishal-office-assistant-computer-typist-2026",
+            "title": "বিভাগীয় কমিশনারের কার্যালয়, বরিশাল নিয়োগ বিজ্ঞপ্তি ২০২৬",
+            "org": "Office of the Divisional Commissioner, Barishal (বিভাগীয় কমিশনারের কার্যালয়, বরিশাল)",
+            "posts": "অফিস সহকারী-কাম-কম্পিউটার মুদ্রাক্ষরিক (Office Assistant-cum-Computer Typist) — ৫টি",
+            "vacancy": 5,
+            "qualification": "HSC or equivalent pass from a recognised board; proficiency in word processing, spreadsheet, presentation and basic computer troubleshooting. Age 18–32 (as of 25 Nov 2026).",
+            "salary": "Grade-16 — ৳21,900–52,900 (National Pay Scale 2026)",
+            "startDate": "2026-11-25",
+            "deadline": "2026-12-24",
+            "deadlineTime": "17:00",
+            "fee": "৳112 (Teletalk)",
+            "applyUrl": "https://divcombsl.teletalk.com.bd",
+            "sourceUrl": "https://bdgovtjob.net/barishal-division-job-circular/",
+            "published": "2026-11-24",
+            "note": "Circular (memo 05.10.0000.000.002.03.0003.26.172, 22 Nov 2026) advertises 11 posts in 4 categories at the Office of the Divisional Commissioner, Barishal — of them, this Office Assistant-cum-Computer Typist post (5 posts) is open to Diploma in Computer holders under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). Only permanent residents of the six Barishal-division districts (Barishal, Patuakhali, Bhola, Pirojpur, Barguna, Jhalokati) may apply — Patuakhali is included. Apply online at divcombsl.teletalk.com.bd and pay ৳112 by Teletalk SMS within 72 hours.",
+            "grade": "Grade-16",
+            "category": "ICT",
+            "track": "diploma",
+            "location": "বরিশাল",
+            "pdfUrl": ""
         }
     ]
 }
