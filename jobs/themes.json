@@ -1,0 +1,25 @@
+{
+ "themes": [
+  {
+   "id": "monsoon",
+   "name": "Monsoon",
+   "accent": "#2EC4B6",
+   "bgTop": "#07332F",
+   "bgBottom": "#040C0B"
+  },
+  {
+   "id": "sandstone",
+   "name": "Sandstone",
+   "accent": "#E0A458",
+   "bgTop": "#332A10",
+   "bgBottom": "#0C0A04"
+  },
+  {
+   "id": "crimson",
+   "name": "Crimson",
+   "accent": "#FF5252",
+   "bgTop": "#3D0A0A",
+   "bgBottom": "#0D0404"
+  }
+ ]
+}
