@@ -84,13 +84,13 @@
    "name": "HasuCam",
    "tag": "Capture Beyond Limits",
    "desc": "Capture Beyond Limits — pro camera with LMC XML configs, Lib Patcher, AI scene, HDR & Night merge, 20 modes.",
-   "code": 152,
-   "versionName": "20.86",
-   "size": 26568375,
+   "code": 153,
+   "versionName": "20.87",
+   "size": 26535607,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/cam.apk",
-   "changes": "লঞ্চার আইকন এখন লিকুইড ট্রান্সপারেন্ট গ্লাস টাইলের উপর — Samsung-এর ড্রয়ারসহ সব জায়গায় পরিষ্কার দেখা যাবে।",
-   "ts": 1795615001,
-   "etag": "0x8DF4AFBE78D90D8"
+   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
+   "ts": 1795616242,
+   "etag": "0x8DF4AFECCA41CFE"
   },
   {
    "pkg": "hasu.os.clean",
