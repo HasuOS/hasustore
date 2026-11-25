@@ -1,0 +1,26 @@
+{
+ "id": "fa-sharp",
+ "name": "FA Sharp",
+ "kind": "glyphs",
+ "glyphs": {
+  "info": "fa:f05a",
+  "all": "fa:f574",
+  "saved": "fa:f07b",
+  "save": "fa:f574",
+  "share": "fa:f14d",
+  "appinfo": "fa:f05a",
+  "install": "fa:f381",
+  "del": "fa:f2ed",
+  "lock": "fa:f023",
+  "gear": "fa:f013",
+  "guide": "fa:f518",
+  "web": "fa:f57d",
+  "back": "fa:f053",
+  "check": "fa:f00c",
+  "sort": "fa:f0dc",
+  "clear": "fa:f00d",
+  "bell": "fa:f0f3",
+  "update": "fa:f0aa",
+  "box": "fa:f49e"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "golden-line",
+ "name": "Golden Line",
+ "kind": "glyphs",
+ "glyphs": {
+  "info": "\u2139",
+  "all": "\u25a9",
+  "saved": "\u274f",
+  "save": "\u25a3",
+  "share": "\u2197",
+  "appinfo": "\u2139",
+  "install": "\u21e9",
+  "del": "\u2716",
+  "lock": "\ud83d\udd10",
+  "gear": "\u2699",
+  "guide": "\u2630",
+  "web": "\u272a",
+  "back": "\u00ab",
+  "check": "\u2714",
+  "sort": "\u21c5",
+  "clear": "\u2715",
+  "bell": "\u266b",
+  "update": "\u21e7",
+  "box": "\u274f"
+ }
+}
