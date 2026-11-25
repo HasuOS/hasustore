@@ -1,6 +1,6 @@
 {
-  "version": 76,
-  "generatedAt": 1795627101,
+  "version": 77,
+  "generatedAt": 1795628818,
   "subjects": [
     {
       "id": "bangla",
@@ -27366,6 +27366,545 @@
           ],
           "answer": 0,
           "why": "'আদায় কাঁচকলায়' বাগধারার অর্থ শত্রুতা।"
+        },
+        {
+          "q": "ফররুখ আহমদ কোন কাব্যের জন্য বেশি পরিচিত?",
+          "options": [
+            "সাত সাগরের মাঝি",
+            "বলাকা",
+            "সোনালি কাবিন",
+            "অগ্নিবীণা"
+          ],
+          "answer": 0,
+          "why": "ফররুখ আহমদ 'সাত সাগরের মাঝি' কাব্যের জন্য বেশি পরিচিত।"
+        },
+        {
+          "q": "ফররুখ আহমদকে কী উপাধি দেওয়া হয়?",
+          "options": [
+            "মুসলিম রেনেসাঁর কবি",
+            "পল্লীকবি",
+            "কিশোর কবি",
+            "দুখু মিয়া"
+          ],
+          "answer": 0,
+          "why": "ফররুখ আহমদকে মুসলিম রেনেসাঁর কবি বলা হয়।"
+        },
+        {
+          "q": "ফররুখ আহমদ জন্মগ্রহণ করেন কত সালে?",
+          "options": [
+            "১৯১৮ সালে",
+            "১৯১১ সালে",
+            "১৯২১ সালে",
+            "১৯০৮ সালে"
+          ],
+          "answer": 0,
+          "why": "ফররুখ আহমদ ১৯১৮ সালে জন্মগ্রহণ করেন।"
+        },
+        {
+          "q": "'নৌফেল ও হাতেম' কাব্যের রচয়িতা কে?",
+          "options": [
+            "ফররুখ আহমদ",
+            "আল মাহমুদ",
+            "জসীমউদ্দীন",
+            "শামসুর রাহমান"
+          ],
+          "answer": 0,
+          "why": "'নৌফেল ও হাতেম' ফররুখ আহমদের কাব্য।"
+        },
+        {
+          "q": "'আরোগ্য নিকেতন' উপন্যাসের রচয়িতা কে?",
+          "options": [
+            "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+            "শরৎচন্দ্র চট্টোপাধ্যায়",
+            "মানিক বন্দ্যোপাধ্যায়",
+            "বিভূতিভূষণ বন্দ্যোপাধ্যায়"
+          ],
+          "answer": 0,
+          "why": "'আরোগ্য নিকেতন' তারাশঙ্কর বন্দ্যোপাধ্যায়ের উপন্যাস।"
+        },
+        {
+          "q": "তারাশঙ্কর বন্দ্যোপাধ্যায় জন্মগ্রহণ করেন কত সালে?",
+          "options": [
+            "১৮৯৮ সালে",
+            "১৮৯৪ সালে",
+            "১৯০৮ সালে",
+            "১৮৮৫ সালে"
+          ],
+          "answer": 0,
+          "why": "তারাশঙ্কর বন্দ্যোপাধ্যায় ১৮৯৮ সালে জন্মগ্রহণ করেন।"
+        },
+        {
+          "q": "'হাঁসুলী বাঁকের উপকথা' উপন্যাসের রচয়িতা কে?",
+          "options": [
+            "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+            "মানিক বন্দ্যোপাধ্যায়",
+            "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+            "শরৎচন্দ্র চট্টোপাধ্যায়"
+          ],
+          "answer": 0,
+          "why": "'হাঁসুলী বাঁকের উপকথা' তারাশঙ্কর বন্দ্যোপাধ্যায়ের উপন্যাস।"
+        },
+        {
+          "q": "'নীলদর্পণ' নাটকের মূল বিষয় কী?",
+          "options": [
+            "নীলকরদের অত্যাচার",
+            "জমিদারদের অত্যাচার",
+            "বিধবা বিবাহ",
+            "সতীদাহ"
+          ],
+          "answer": 0,
+          "why": "'নীলদর্পণ' নাটকের মূল বিষয় নীলকরদের অত্যাচার।"
+        },
+        {
+          "q": "'সধবার একাদশী' প্রহসনের রচয়িতা কে?",
+          "options": [
+            "দীনবন্ধু মিত্র",
+            "মাইকেল মধুসূদন দত্ত",
+            "গিরিশচন্দ্র ঘোষ",
+            "দ্বিজেন্দ্রলাল রায়"
+          ],
+          "answer": 0,
+          "why": "'সধবার একাদশী' দীনবন্ধু মিত্রের প্রহসন।"
+        },
+        {
+          "q": "'প্রফুল্ল' নাটকের রচয়িতা কে?",
+          "options": [
+            "গিরিশচন্দ্র ঘোষ",
+            "দীনবন্ধু মিত্র",
+            "মাইকেল মধুসূদন দত্ত",
+            "রবীন্দ্রনাথ ঠাকুর"
+          ],
+          "answer": 0,
+          "why": "'প্রফুল্ল' গিরিশচন্দ্র ঘোষের নাটক।"
+        },
+        {
+          "q": "গিরিশচন্দ্র ঘোষকে কী বলা হয়?",
+          "options": [
+            "বাংলা নাটকের জনক",
+            "পল্লীকবি",
+            "কিশোর কবি",
+            "বিদ্রোহী কবি"
+          ],
+          "answer": 0,
+          "why": "গিরিশচন্দ্র ঘোষকে বাংলা নাটকের জনক বলা হয়।"
+        },
+        {
+          "q": "'বিল্বমঙ্গল' নাটকের রচয়িতা কে?",
+          "options": [
+            "গিরিশচন্দ্র ঘোষ",
+            "দীনবন্ধু মিত্র",
+            "মাইকেল মধুসূদন দত্ত",
+            "গিরিশচন্দ্র ঘোষের সমসাময়িক কবি"
+          ],
+          "answer": 0,
+          "why": "'বিল্বমঙ্গল' গিরিশচন্দ্র ঘোষের নাটক।"
+        },
+        {
+          "q": "'দিবারাত্রির কাব্য' উপন্যাসের রচয়িতা কে?",
+          "options": [
+            "মানিক বন্দ্যোপাধ্যায়",
+            "শরৎচন্দ্র চট্টোপাধ্যায়",
+            "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+            "তারাশঙ্কর বন্দ্যোপাধ্যায়"
+          ],
+          "answer": 0,
+          "why": "'দিবারাত্রির কাব্য' মানিক বন্দ্যোপাধ্যায়ের উপন্যাস।"
+        },
+        {
+          "q": "মানিক বন্দ্যোপাধ্যায় জন্মগ্রহণ করেন কত সালে?",
+          "options": [
+            "১৯০৮ সালে",
+            "১৮৯৮ সালে",
+            "১৯১১ সালে",
+            "১৮৯৪ সালে"
+          ],
+          "answer": 0,
+          "why": "মানিক বন্দ্যোপাধ্যায় ১৯০৮ সালে জন্মগ্রহণ করেন।"
+        },
+        {
+          "q": "'ইছামতী' উপন্যাসের রচয়িতা কে?",
+          "options": [
+            "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+            "মানিক বন্দ্যোপাধ্যায়",
+            "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+            "শরৎচন্দ্র চট্টোপাধ্যায়"
+          ],
+          "answer": 0,
+          "why": "'ইছামতী' বিভূতিভূষণ বন্দ্যোপাধ্যায়ের উপন্যাস।"
+        },
+        {
+          "q": "'পথের পাঁচালী' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯২৯ সালে",
+            "১৯২৫ সালে",
+            "১৯৩২ সালে",
+            "১৯১৯ সালে"
+          ],
+          "answer": 0,
+          "why": "'পথের পাঁচালী' প্রকাশিত হয় ১৯২৯ সালে।"
+        },
+        {
+          "q": "সুফিয়া কামাল জন্মগ্রহণ করেন কত সালে?",
+          "options": [
+            "১৯১১ সালে",
+            "১৯১৮ সালে",
+            "১৯০৫ সালে",
+            "১৯২১ সালে"
+          ],
+          "answer": 0,
+          "why": "সুফিয়া কামাল ১৯১১ সালে জন্মগ্রহণ করেন।"
+        },
+        {
+          "q": "বাউল গানের প্রধান সাধক কে?",
+          "options": [
+            "লালন শাহ",
+            "হাসন রাজা",
+            "শাহ আবদুল করিম",
+            "দুদ্দু শাহ"
+          ],
+          "answer": 0,
+          "why": "বাউল গানের প্রধান সাধক লালন শাহ।"
+        },
+        {
+          "q": "লালন শাহের জন্মস্থান কোথায়?",
+          "options": [
+            "কুষ্টিয়া",
+            "ঢাকা",
+            "চট্টগ্রাম",
+            "সিলেট"
+          ],
+          "answer": 0,
+          "why": "লালন শাহ কুষ্টিয়া জেলার ছেঁউড়িয়ায় বসবাস করতেন।"
+        },
+        {
+          "q": "ভাটিয়ালি গান কোন অঞ্চলের লোকগান?",
+          "options": [
+            "নদী-হাওরের ভাটি অঞ্চলের",
+            "পাহাড়ি অঞ্চলের",
+            "মরু অঞ্চলের",
+            "শহরাঞ্চলের"
+          ],
+          "answer": 0,
+          "why": "ভাটিয়ালি গান নদী-হাওরের ভাটি অঞ্চলের লোকগান।"
+        },
+        {
+          "q": "জারি গান কোন উৎসবের সঙ্গে যুক্ত?",
+          "options": [
+            "মহররম",
+            "পহেলা বৈশাখ",
+            "ঈদ",
+            "দুর্গাপূজা"
+          ],
+          "answer": 0,
+          "why": "জারি গান মহররম উপলক্ষে গাওয়া হয়।"
+        },
+        {
+          "q": "গম্ভীরা গান কোন অঞ্চলের লোকগান?",
+          "options": [
+            "রাজশাহী অঞ্চলের",
+            "সিলেট অঞ্চলের",
+            "চট্টগ্রাম অঞ্চলের",
+            "খুলনা অঞ্চলের"
+          ],
+          "answer": 0,
+          "why": "গম্ভীরা গান রাজশাহী অঞ্চলের লোকগান।"
+        },
+        {
+          "q": "'ময়মনসিংহ গীতিকা' সম্পাদনা করেন কে?",
+          "options": [
+            "দীনেশচন্দ্র সেন",
+            "চন্দ্রকুমার দে",
+            "মুহম্মদ শহীদুল্লাহ",
+            "সুনীতিকুমার চট্টোপাধ্যায়"
+          ],
+          "answer": 0,
+          "why": "'ময়মনসিংহ গীতিকা' সম্পাদনা করেন দীনেশচন্দ্র সেন।"
+        },
+        {
+          "q": "মুকুন্দরাম চক্রবর্তীকে কী উপাধি দেওয়া হয়?",
+          "options": [
+            "কবিকঙ্কণ",
+            "কবিকণ্ঠহার",
+            "রায়গুণাকর",
+            "কবিরত্ন"
+          ],
+          "answer": 0,
+          "why": "মুকুন্দরাম চক্রবর্তীকে কবিকঙ্কণ উপাধি দেওয়া হয়।"
+        },
+        {
+          "q": "ভারতচন্দ্রের উপাধি কী?",
+          "options": [
+            "রায়গুণাকর",
+            "কবিকঙ্কণ",
+            "কবিরত্ন",
+            "কবিকণ্ঠহার"
+          ],
+          "answer": 0,
+          "why": "ভারতচন্দ্রের উপাধি রায়গুণাকর।"
+        },
+        {
+          "q": "'বিদ্বান' শব্দের স্ত্রীলিঙ্গ কোনটি?",
+          "options": [
+            "বিদুষী",
+            "বিদ্বানী",
+            "বিদ্যা",
+            "বিদুষা"
+          ],
+          "answer": 0,
+          "why": "'বিদ্বান' শব্দের স্ত্রীলিঙ্গ বিদুষী।"
+        },
+        {
+          "q": "'সুন্দর' শব্দের স্ত্রীলিঙ্গ কোনটি?",
+          "options": [
+            "সুন্দরী",
+            "সুন্দরা",
+            "সুন্দরিনী",
+            "সুনারী"
+          ],
+          "answer": 0,
+          "why": "'সুন্দর' শব্দের স্ত্রীলিঙ্গ সুন্দরী।"
+        },
+        {
+          "q": "'পিতা' শব্দের স্ত্রীলিঙ্গ কোনটি?",
+          "options": [
+            "মাতা",
+            "পিতৃ",
+            "মা",
+            "জননী"
+          ],
+          "answer": 0,
+          "why": "'পিতা' শব্দের স্ত্রীলিঙ্গ মাতা।"
+        },
+        {
+          "q": "'ভাই' শব্দের স্ত্রীলিঙ্গ কোনটি?",
+          "options": [
+            "বোন",
+            "ভাইঝি",
+            "ভাবি",
+            "ভগিনী"
+          ],
+          "answer": 0,
+          "why": "'ভাই' শব্দের স্ত্রীলিঙ্গ বোন।"
+        },
+        {
+          "q": "'গুরু' শব্দের স্ত্রীলিঙ্গ কোনটি?",
+          "options": [
+            "গুরুমা",
+            "গুরুণী",
+            "গুরুবউ",
+            "গুরুপত্নী"
+          ],
+          "answer": 0,
+          "why": "'গুরু' শব্দের স্ত্রীলিঙ্গ গুরুমা।"
+        },
+        {
+          "q": "'মানুষ' শব্দের বহুবচন কোনটি?",
+          "options": [
+            "মানুষগুলো",
+            "মানুষটি",
+            "মানুষখানা",
+            "মানুষসমূহ"
+          ],
+          "answer": 0,
+          "why": "'মানুষ' শব্দের বহুবচন মানুষগুলো।"
+        },
+        {
+          "q": "'আমি, তুমি, সে' — এগুলো কোন পদ?",
+          "options": [
+            "সর্বনাম",
+            "বিশেষ্য",
+            "বিশেষণ",
+            "ক্রিয়া"
+          ],
+          "answer": 0,
+          "why": "'আমি, তুমি, সে' — এগুলো সর্বনাম।"
+        },
+        {
+          "q": "'সে পড়ছে' — এখানে ক্রিয়া কোনটি?",
+          "options": [
+            "পড়ছে",
+            "সে",
+            "পড়া",
+            "পড়বে"
+          ],
+          "answer": 0,
+          "why": "'সে পড়ছে'-তে ক্রিয়া 'পড়ছে'।"
+        },
+        {
+          "q": "নিচের কোনটি অসমাপিকা ক্রিয়া?",
+          "options": [
+            "খেয়ে",
+            "খায়",
+            "খেল",
+            "খাবে"
+          ],
+          "answer": 0,
+          "why": "'খেয়ে' অসমাপিকা ক্রিয়া — এটি দিয়ে বাক্য শেষ হয় না।"
+        },
+        {
+          "q": "'তিনি ঢাকা যাবেন' — 'যাবেন' কোন কালের ক্রিয়া?",
+          "options": [
+            "ভবিষ্যৎ কাল",
+            "বর্তমান কাল",
+            "অতীত কাল",
+            "নিত্যবৃত্ত কাল"
+          ],
+          "answer": 0,
+          "why": "'তিনি ঢাকা যাবেন'-এ 'যাবেন' ভবিষ্যৎ কালের ক্রিয়া।"
+        },
+        {
+          "q": "'সে গতকাল এসেছিল' — কোন কাল?",
+          "options": [
+            "অতীত কাল",
+            "বর্তমান কাল",
+            "ভবিষ্যৎ কাল",
+            "নিত্যবৃত্ত কাল"
+          ],
+          "answer": 0,
+          "why": "'সে গতকাল এসেছিল' অতীত কালের বাক্য।"
+        },
+        {
+          "q": "'আমার সোনার বাংলা' গানটির রচয়িতা কে?",
+          "options": [
+            "রবীন্দ্রনাথ ঠাকুর",
+            "কাজী নজরুল ইসলাম",
+            "দ্বিজেন্দ্রলাল রায়",
+            "জসীমউদ্দীন"
+          ],
+          "answer": 0,
+          "why": "'আমার সোনার বাংলা' গানটির রচয়িতা রবীন্দ্রনাথ ঠাকুর।"
+        },
+        {
+          "q": "'ধনধান্য পুষ্প ভরা' গানটির রচয়িতা কে?",
+          "options": [
+            "দ্বিজেন্দ্রলাল রায়",
+            "রবীন্দ্রনাথ ঠাকুর",
+            "কাজী নজরুল ইসলাম",
+            "জসীমউদ্দীন"
+          ],
+          "answer": 0,
+          "why": "'ধনধান্য পুষ্প ভরা' গানটির রচয়িতা দ্বিজেন্দ্রলাল রায়।"
+        },
+        {
+          "q": "'মোরা একটি ফুলকে বাঁচাবো বলে যুদ্ধ করি' গানটির রচয়িতা কে?",
+          "options": [
+            "গোবিন্দ হালদার",
+            "গাজী মাজহারুল আনোয়ার",
+            "নজরুল ইসলাম বাবু",
+            "প্রতুল মুখোপাধ্যায়"
+          ],
+          "answer": 0,
+          "why": "'মোরা একটি ফুলকে বাঁচাবো বলে যুদ্ধ করি' গানটির রচয়িতা গোবিন্দ হালদার।"
+        },
+        {
+          "q": "'পূর্ব দিগন্তে সূর্য উঠেছে' গানটির রচয়িতা কে?",
+          "options": [
+            "গোবিন্দ হালদার",
+            "গাজী মাজহারুল আনোয়ার",
+            "নজরুল ইসলাম বাবু",
+            "প্রতুল মুখোপাধ্যায়"
+          ],
+          "answer": 0,
+          "why": "'পূর্ব দিগন্তে সূর্য উঠেছে' গানটির রচয়িতা গোবিন্দ হালদার।"
+        },
+        {
+          "q": "'এক সাগর রক্তের বিনিময়ে' গানটির রচয়িতা কে?",
+          "options": [
+            "গোবিন্দ হালদার",
+            "গাজী মাজহারুল আনোয়ার",
+            "নজরুল ইসলাম বাবু",
+            "প্রতুল মুখোপাধ্যায়"
+          ],
+          "answer": 0,
+          "why": "'এক সাগর রক্তের বিনিময়ে' গানটির রচয়িতা গোবিন্দ হালদার।"
+        },
+        {
+          "q": "'সব কটা জানালা খুলে দাও না' গানটির রচয়িতা কে?",
+          "options": [
+            "নজরুল ইসলাম বাবু",
+            "গোবিন্দ হালদার",
+            "গাজী মাজহারুল আনোয়ার",
+            "প্রতুল মুখোপাধ্যায়"
+          ],
+          "answer": 0,
+          "why": "'সব কটা জানালা খুলে দাও না' গানটির রচয়িতা নজরুল ইসলাম বাবু।"
+        },
+        {
+          "q": "'জয় বাংলা বাংলার জয়' গানটির রচয়িতা কে?",
+          "options": [
+            "গাজী মাজহারুল আনোয়ার",
+            "গোবিন্দ হালদার",
+            "নজরুল ইসলাম বাবু",
+            "প্রতুল মুখোপাধ্যায়"
+          ],
+          "answer": 0,
+          "why": "'জয় বাংলা বাংলার জয়' গানটির রচয়িতা গাজী মাজহারুল আনোয়ার।"
+        },
+        {
+          "q": "'আমি বাংলায় গান গাই' গানটির রচয়িতা কে?",
+          "options": [
+            "প্রতুল মুখোপাধ্যায়",
+            "গোবিন্দ হালদার",
+            "গাজী মাজহারুল আনোয়ার",
+            "নজরুল ইসলাম বাবু"
+          ],
+          "answer": 0,
+          "why": "'আমি বাংলায় গান গাই' গানটির রচয়িতা প্রতুল মুখোপাধ্যায়।"
+        },
+        {
+          "q": "'প্র' উপসর্গ যোগে গঠিত শব্দ কোনটি?",
+          "options": [
+            "প্রভাত",
+            "প্রতিদিন",
+            "প্রভু",
+            "প্রার্থনা"
+          ],
+          "answer": 0,
+          "why": "'প্র' উপসর্গ যোগে গঠিত শব্দ প্রভাত (প্র + ভাত)।"
+        },
+        {
+          "q": "'অতি' উপসর্গ যোগে গঠিত শব্দ কোনটি?",
+          "options": [
+            "অতিক্রম",
+            "অতিথি",
+            "অতীত",
+            "অতুল"
+          ],
+          "answer": 0,
+          "why": "'অতি' উপসর্গ যোগে গঠিত শব্দ অতিক্রম (অতি + ক্রম)।"
+        },
+        {
+          "q": "'কু' উপসর্গ যোগে গঠিত শব্দ কোনটি?",
+          "options": [
+            "কুকর্ম",
+            "কুমার",
+            "কুল",
+            "কুটির"
+          ],
+          "answer": 0,
+          "why": "'কু' উপসর্গ যোগে গঠিত শব্দ কুকর্ম (কু + কর্ম)।"
+        },
+        {
+          "q": "'নি' উপসর্গ যোগে গঠিত শব্দ কোনটি?",
+          "options": [
+            "নিবাস",
+            "নিদ্রা",
+            "নিশা",
+            "নিরব"
+          ],
+          "answer": 0,
+          "why": "'নি' উপসর্গ যোগে গঠিত শব্দ নিবাস (নি + বাস)।"
+        },
+        {
+          "q": "'সু' উপসর্গ যোগে গঠিত শব্দ কোনটি?",
+          "options": [
+            "সুকর্ম",
+            "সুন্দর",
+            "সুমন",
+            "সুর"
+          ],
+          "answer": 0,
+          "why": "'সু' উপসর্গ যোগে গঠিত শব্দ সুকর্ম (সু + কর্ম)।"
         }
       ]
     },
@@ -53729,6 +54268,457 @@
           ],
           "answer": 0,
           "why": "A fish lives in water; a bird lives in the air."
+        },
+        {
+          "q": "Change into interrogative: 'He is a good student.'",
+          "options": [
+            "Is he a good student?",
+            "Is he a bad student?",
+            "He is a good student?",
+            "Does he is a good student?"
+          ],
+          "answer": 0,
+          "why": "Assertive 'He is a good student.' becomes interrogative 'Is he a good student?'"
+        },
+        {
+          "q": "Change into negative: 'He is a good boy.'",
+          "options": [
+            "He is not a bad boy.",
+            "He is not a good boy.",
+            "He is a bad boy.",
+            "He is no good boy."
+          ],
+          "answer": 0,
+          "why": "The negative of 'He is a good boy.' is 'He is not a bad boy.'"
+        },
+        {
+          "q": "Change into exclamatory: 'The scenery is very beautiful.'",
+          "options": [
+            "How beautiful the scenery is!",
+            "The scenery is beautiful!",
+            "What a scenery!",
+            "How the scenery is beautiful!"
+          ],
+          "answer": 0,
+          "why": "'The scenery is very beautiful.' becomes 'How beautiful the scenery is!'"
+        },
+        {
+          "q": "Change into assertive: 'Who does not know it?'",
+          "options": [
+            "Everybody knows it.",
+            "Nobody knows it.",
+            "Who knows it?",
+            "Everybody does not know it."
+          ],
+          "answer": 0,
+          "why": "'Who does not know it?' becomes assertive 'Everybody knows it.'"
+        },
+        {
+          "q": "Change into imperative: 'You should obey your parents.'",
+          "options": [
+            "Obey your parents.",
+            "You obey your parents.",
+            "Obeying your parents.",
+            "You should not obey your parents."
+          ],
+          "answer": 0,
+          "why": "'You should obey your parents.' becomes imperative 'Obey your parents.'"
+        },
+        {
+          "q": "Change into comparative: 'Dhaka is the biggest city in Bangladesh.'",
+          "options": [
+            "Dhaka is bigger than any other city in Bangladesh.",
+            "Dhaka is bigger than all cities in Bangladesh.",
+            "Dhaka is the bigger city in Bangladesh.",
+            "No city is bigger than Dhaka in Bangladesh."
+          ],
+          "answer": 0,
+          "why": "'Dhaka is the biggest city in Bangladesh.' becomes 'Dhaka is bigger than any other city in Bangladesh.'"
+        },
+        {
+          "q": "Change into superlative: 'No other boy in the class is as tall as Rahim.'",
+          "options": [
+            "Rahim is the tallest boy in the class.",
+            "Rahim is taller than any boy in the class.",
+            "Rahim is the taller boy in the class.",
+            "Rahim is tallest than all boys."
+          ],
+          "answer": 0,
+          "why": "'No other boy in the class is as tall as Rahim.' becomes 'Rahim is the tallest boy in the class.'"
+        },
+        {
+          "q": "Change into positive: 'Karim is better than Rahim.'",
+          "options": [
+            "Rahim is not as good as Karim.",
+            "Rahim is as good as Karim.",
+            "Karim is not as good as Rahim.",
+            "Rahim is better than Karim."
+          ],
+          "answer": 0,
+          "why": "'Karim is better than Rahim.' becomes positive 'Rahim is not as good as Karim.'"
+        },
+        {
+          "q": "Change into affirmative: 'He is not a fool.'",
+          "options": [
+            "He is a wise man.",
+            "He is not a wise man.",
+            "He is a fool.",
+            "He is no fool."
+          ],
+          "answer": 0,
+          "why": "'He is not a fool.' becomes affirmative 'He is a wise man.'"
+        },
+        {
+          "q": "Change into negative: 'He is honest.'",
+          "options": [
+            "He is not dishonest.",
+            "He is not honest.",
+            "He is dishonest.",
+            "He is no honest."
+          ],
+          "answer": 0,
+          "why": "'He is honest.' becomes negative 'He is not dishonest.'"
+        },
+        {
+          "q": "'I like to read books.' — 'to read' is an —",
+          "options": [
+            "infinitive",
+            "gerund",
+            "participle",
+            "adjective"
+          ],
+          "answer": 0,
+          "why": "'to read' is an infinitive."
+        },
+        {
+          "q": "'Walking in the park, I saw a bird.' — 'Walking' is a —",
+          "options": [
+            "present participle",
+            "gerund",
+            "infinitive",
+            "past participle"
+          ],
+          "answer": 0,
+          "why": "'Walking' here is a present participle."
+        },
+        {
+          "q": "'He is fond of reading.' — 'reading' is a —",
+          "options": [
+            "gerund",
+            "infinitive",
+            "participle",
+            "noun"
+          ],
+          "answer": 0,
+          "why": "'reading' after 'fond of' is a gerund."
+        },
+        {
+          "q": "'The boy came running.' — 'running' is a —",
+          "options": [
+            "participle",
+            "gerund",
+            "infinitive",
+            "adjective"
+          ],
+          "answer": 0,
+          "why": "'running' here is a participle."
+        },
+        {
+          "q": "'I saw him going.' — 'going' is a —",
+          "options": [
+            "present participle",
+            "gerund",
+            "infinitive",
+            "past participle"
+          ],
+          "answer": 0,
+          "why": "'going' here is a present participle."
+        },
+        {
+          "q": "'A burnt child dreads the fire.' — 'burnt' is a —",
+          "options": [
+            "past participle",
+            "gerund",
+            "infinitive",
+            "present participle"
+          ],
+          "answer": 0,
+          "why": "'burnt' here is a past participle used as an adjective."
+        },
+        {
+          "q": "'When he came, I was reading.' — 'When he came' is an —",
+          "options": [
+            "adverb clause",
+            "noun clause",
+            "adjective clause",
+            "principal clause"
+          ],
+          "answer": 0,
+          "why": "'When he came' tells the time, so it is an adverb clause."
+        },
+        {
+          "q": "'This is the place where I was born.' — 'where I was born' is an —",
+          "options": [
+            "adjective clause",
+            "noun clause",
+            "adverb clause",
+            "principal clause"
+          ],
+          "answer": 0,
+          "why": "'where I was born' qualifies 'the place', so it is an adjective clause."
+        },
+        {
+          "q": "Fill in the blank: 'If you study hard, you ___ pass.'",
+          "options": [
+            "will",
+            "would",
+            "can",
+            "may"
+          ],
+          "answer": 0,
+          "why": "First conditional: 'If you study hard, you will pass.'"
+        },
+        {
+          "q": "Fill in the blank: 'If I were rich, I ___ help the poor.'",
+          "options": [
+            "would",
+            "will",
+            "can",
+            "shall"
+          ],
+          "answer": 0,
+          "why": "Second conditional: 'If I were rich, I would help the poor.'"
+        },
+        {
+          "q": "Fill in the blank: 'He ___ swim well when he was young.'",
+          "options": [
+            "could",
+            "can",
+            "may",
+            "will"
+          ],
+          "answer": 0,
+          "why": "'He could swim well when he was young.'"
+        },
+        {
+          "q": "Fill in the blank: '___ you help me?'",
+          "options": [
+            "Will",
+            "Shall",
+            "Would",
+            "May"
+          ],
+          "answer": 0,
+          "why": "'Will you help me?' is the natural polite request."
+        },
+        {
+          "q": "Fill in the blank: 'You ___ not tell a lie.'",
+          "options": [
+            "must",
+            "can",
+            "may",
+            "might"
+          ],
+          "answer": 0,
+          "why": "'You must not tell a lie.'"
+        },
+        {
+          "q": "Fill in the blank: 'She has ___ her work.'",
+          "options": [
+            "finished",
+            "finish",
+            "finishing",
+            "finishes"
+          ],
+          "answer": 0,
+          "why": "'She has finished her work.'"
+        },
+        {
+          "q": "Fill in the blank: 'By this time tomorrow, I ___ reached Dhaka.'",
+          "options": [
+            "shall have",
+            "shall",
+            "will",
+            "have"
+          ],
+          "answer": 0,
+          "why": "'By this time tomorrow, I shall have reached Dhaka.'"
+        },
+        {
+          "q": "Fill in the blank: 'He had ___ before I came.'",
+          "options": [
+            "left",
+            "leave",
+            "leaves",
+            "leaving"
+          ],
+          "answer": 0,
+          "why": "'He had left before I came.'"
+        },
+        {
+          "q": "Fill in the blank: 'Water ___ at 100°C.'",
+          "options": [
+            "boils",
+            "boil",
+            "boiling",
+            "boiled"
+          ],
+          "answer": 0,
+          "why": "'Water boils at 100°C.'"
+        },
+        {
+          "q": "Fill in the blank: 'Rahim is ___ than Karim.' (tall)",
+          "options": [
+            "taller",
+            "tallest",
+            "more tall",
+            "most tall"
+          ],
+          "answer": 0,
+          "why": "'Rahim is taller than Karim.'"
+        },
+        {
+          "q": "Fill in the blank: 'This pen is ___ than that one.' (cheap)",
+          "options": [
+            "cheaper",
+            "cheapest",
+            "more cheap",
+            "most cheap"
+          ],
+          "answer": 0,
+          "why": "'This pen is cheaper than that one.'"
+        },
+        {
+          "q": "Fill in the blank: 'Iron is the ___ of all metals.' (useful)",
+          "options": [
+            "most useful",
+            "more useful",
+            "usefulest",
+            "usefullest"
+          ],
+          "answer": 0,
+          "why": "'Iron is the most useful of all metals.'"
+        },
+        {
+          "q": "Fire : Heat :: Sun : ?",
+          "options": [
+            "Light",
+            "Day",
+            "Moon",
+            "Warm"
+          ],
+          "answer": 0,
+          "why": "Fire gives heat; the sun gives light."
+        },
+        {
+          "q": "Tailor : Cloth :: Carpenter : ?",
+          "options": [
+            "Wood",
+            "Iron",
+            "Brick",
+            "Clay"
+          ],
+          "answer": 0,
+          "why": "A tailor works with cloth; a carpenter works with wood."
+        },
+        {
+          "q": "The suffix '-ful' in 'beautiful' means —",
+          "options": [
+            "full of",
+            "without",
+            "like",
+            "against"
+          ],
+          "answer": 0,
+          "why": "The suffix '-ful' means 'full of' — beautiful means full of beauty."
+        },
+        {
+          "q": "The word 'dislike' is formed by adding —",
+          "options": [
+            "prefix 'dis-'",
+            "suffix '-like'",
+            "prefix 'un-'",
+            "suffix '-ness'"
+          ],
+          "answer": 0,
+          "why": "'dislike' is formed by adding the prefix 'dis-' to 'like'."
+        },
+        {
+          "q": "The opposite of 'legal' with a prefix is —",
+          "options": [
+            "illegal",
+            "unlegal",
+            "dislegal",
+            "nonlegal"
+          ],
+          "answer": 0,
+          "why": "The opposite of 'legal' is 'illegal'."
+        },
+        {
+          "q": "Choose the synonym of 'clever'.",
+          "options": [
+            "intelligent",
+            "foolish",
+            "dull",
+            "lazy"
+          ],
+          "answer": 0,
+          "why": "The synonym of 'clever' is 'intelligent'."
+        },
+        {
+          "q": "Choose the antonym of 'true'.",
+          "options": [
+            "false",
+            "correct",
+            "real",
+            "right"
+          ],
+          "answer": 0,
+          "why": "The antonym of 'true' is 'false'."
+        },
+        {
+          "q": "What does the idiom 'to look down upon' mean?",
+          "options": [
+            "To despise",
+            "To admire",
+            "To look carefully",
+            "To search for"
+          ],
+          "answer": 0,
+          "why": "'To look down upon' means to despise."
+        },
+        {
+          "q": "What does the idiom 'to take to one's heels' mean?",
+          "options": [
+            "To run away",
+            "To walk slowly",
+            "To stand still",
+            "To dance"
+          ],
+          "answer": 0,
+          "why": "'To take to one's heels' means to run away."
+        },
+        {
+          "q": "What does the idiom 'to put an end to' mean?",
+          "options": [
+            "To stop",
+            "To begin",
+            "To continue",
+            "To delay"
+          ],
+          "answer": 0,
+          "why": "'To put an end to' means to stop."
+        },
+        {
+          "q": "What does the idiom 'to call a spade a spade' mean?",
+          "options": [
+            "To speak plainly",
+            "To play cards",
+            "To dig a hole",
+            "To tell a lie"
+          ],
+          "answer": 0,
+          "why": "'To call a spade a spade' means to speak plainly."
         }
       ]
     },
@@ -74954,6 +75944,677 @@
           ],
           "answer": 0,
           "why": "প্রতিকূলে গতিবেগ = ১৫ − ৫ = ১০ কিমি/ঘণ্টা।"
+        },
+        {
+          "q": "১ জানুয়ারি ২০২৬ কোন বার ছিল?",
+          "options": [
+            "বৃহস্পতিবার",
+            "বুধবার",
+            "শুক্রবার",
+            "শনিবার"
+          ],
+          "answer": 0,
+          "why": "২০২৫ সাল ৩৬৫ দিনের হওয়ায় ২০২৬ সালের ১ জানুয়ারি ছিল বৃহস্পতিবার।"
+        },
+        {
+          "q": "২০২৬ সালের ২১ ফেব্রুয়ারি কোন বার?",
+          "options": [
+            "শনিবার",
+            "শুক্রবার",
+            "রবিবার",
+            "সোমবার"
+          ],
+          "answer": 0,
+          "why": "২০২৬ সালের ১ জানুয়ারি বৃহস্পতিবার; ৫১ দিন পর ২১ ফেব্রুয়ারি হয় শনিবার।"
+        },
+        {
+          "q": "২০২৫ সালের ১৬ ডিসেম্বর কোন বার ছিল?",
+          "options": [
+            "মঙ্গলবার",
+            "সোমবার",
+            "বুধবার",
+            "বৃহস্পতিবার"
+          ],
+          "answer": 0,
+          "why": "২০২৫ সালের ১ জানুয়ারি বুধবার; ৩৪৯ দিন পর ১৬ ডিসেম্বর হয় মঙ্গলবার।"
+        },
+        {
+          "q": "২০২৬ সালের ফেব্রুয়ারি মাসে কত দিন আছে?",
+          "options": [
+            "২৮ দিন",
+            "২৯ দিন",
+            "৩০ দিন",
+            "৩১ দিন"
+          ],
+          "answer": 0,
+          "why": "২০২৬ সাল অধিবর্ষ নয়, তাই ফেব্রুয়ারি মাসে ২৮ দিন আছে।"
+        },
+        {
+          "q": "২০২৪ সাল কি অধিবর্ষ ছিল?",
+          "options": [
+            "হ্যাঁ",
+            "না",
+            "আংশিক",
+            "জানা যায় না"
+          ],
+          "answer": 0,
+          "why": "২০২৪ সাল ৪ দ্বারা বিভাজ্য, তাই এটি অধিবর্ষ ছিল।"
+        },
+        {
+          "q": "২১০০ সাল কি অধিবর্ষ হবে?",
+          "options": [
+            "না",
+            "হ্যাঁ",
+            "আংশিক",
+            "জানা যায় না"
+          ],
+          "answer": 0,
+          "why": "২১০০ সাল ১০০ দ্বারা বিভাজ্য কিন্তু ৪০০ দ্বারা নয়, তাই অধিবর্ষ হবে না।"
+        },
+        {
+          "q": "ঘড়িতে ৩টার সময় ঘণ্টা ও মিনিটের কাঁটার মধ্যে কত ডিগ্রি কোণ হয়?",
+          "options": [
+            "৯০°",
+            "৬০°",
+            "১২০°",
+            "১৮০°"
+          ],
+          "answer": 0,
+          "why": "৩টার সময় ঘণ্টা ও মিনিটের কাঁটার মধ্যে ৯০° কোণ হয়।"
+        },
+        {
+          "q": "ঘড়িতে ৬টার সময় কাঁটাদ্বয়ের মধ্যে কত ডিগ্রি কোণ হয়?",
+          "options": [
+            "১৮০°",
+            "৯০°",
+            "১২০°",
+            "৬০°"
+          ],
+          "answer": 0,
+          "why": "৬টার সময় ঘণ্টা ও মিনিটের কাঁটা বিপরীত দিকে থাকে — ১৮০° কোণ হয়।"
+        },
+        {
+          "q": "ঘড়ির কাঁটা দিনে কতবার একে অপরের ওপর পড়ে?",
+          "options": [
+            "২২ বার",
+            "১২ বার",
+            "২৪ বার",
+            "৪৪ বার"
+          ],
+          "answer": 0,
+          "why": "ঘড়ির কাঁটা দিনে ২২ বার একে অপরের ওপর পড়ে।"
+        },
+        {
+          "q": "ঘড়ির কাঁটা দিনে কতবার সমকোণ তৈরি করে?",
+          "options": [
+            "৪৪ বার",
+            "২২ বার",
+            "২৪ বার",
+            "৪৮ বার"
+          ],
+          "answer": 0,
+          "why": "ঘড়ির কাঁটা দিনে ৪৪ বার সমকোণ (৯০°) তৈরি করে।"
+        },
+        {
+          "q": "মিনিটের কাঁটা একবার ঘুরতে কত সময় নেয়?",
+          "options": [
+            "১ ঘণ্টা",
+            "১২ ঘণ্টা",
+            "১ মিনিট",
+            "৩০ মিনিট"
+          ],
+          "answer": 0,
+          "why": "মিনিটের কাঁটা একবার ঘুরতে ১ ঘণ্টা সময় নেয়।"
+        },
+        {
+          "q": "5² + 5³ = ?",
+          "options": [
+            "১৫০",
+            "১২৫",
+            "১৭৫",
+            "১০০"
+          ],
+          "answer": 0,
+          "why": "5² + 5³ = ২৫ + ১২৫ = ১৫০।"
+        },
+        {
+          "q": "10⁰-এর মান কত?",
+          "options": [
+            "১",
+            "০",
+            "১০",
+            "অসংজ্ঞায়িত"
+          ],
+          "answer": 0,
+          "why": "যেকোনো অশূন্য সংখ্যার ০ ঘাতের মান ১।"
+        },
+        {
+          "q": "√২৫ × √১৬ = ?",
+          "options": [
+            "২০",
+            "৪০",
+            "৯",
+            "৮০"
+          ],
+          "answer": 0,
+          "why": "√২৫ × √১৬ = ৫ × ৪ = ২০।"
+        },
+        {
+          "q": "2⁵ ÷ 2² = ?",
+          "options": [
+            "৮",
+            "৪",
+            "৩২",
+            "১৬"
+          ],
+          "answer": 0,
+          "why": "2⁵ ÷ 2² = 2³ = ৮।"
+        },
+        {
+          "q": "log₁₀ 100-এর মান কত?",
+          "options": [
+            "২",
+            "১",
+            "৩",
+            "১০"
+          ],
+          "answer": 0,
+          "why": "10² = ১০০, তাই log₁₀ 100 = ২।"
+        },
+        {
+          "q": "log₁₀ 1000-এর মান কত?",
+          "options": [
+            "৩",
+            "২",
+            "৪",
+            "১০"
+          ],
+          "answer": 0,
+          "why": "10³ = ১০০০, তাই log₁₀ 1000 = ৩।"
+        },
+        {
+          "q": "log 1-এর মান কত?",
+          "options": [
+            "০",
+            "১",
+            "১০",
+            "অসংজ্ঞায়িত"
+          ],
+          "answer": 0,
+          "why": "যেকোনো ভিত্তিতে log 1 = ০।"
+        },
+        {
+          "q": "√৪৯-এর মান কত?",
+          "options": [
+            "৭",
+            "৯",
+            "৮",
+            "৬"
+          ],
+          "answer": 0,
+          "why": "√৪৯ = ৭।"
+        },
+        {
+          "q": "√৮১-এর মান কত?",
+          "options": [
+            "৯",
+            "৮",
+            "৭",
+            "৬"
+          ],
+          "answer": 0,
+          "why": "√৮১ = ৯।"
+        },
+        {
+          "q": "∛৬৪-এর মান কত?",
+          "options": [
+            "৪",
+            "৮",
+            "৬",
+            "১৬"
+          ],
+          "answer": 0,
+          "why": "∛৬৪ = ৪।"
+        },
+        {
+          "q": "√১০০০০-এর মান কত?",
+          "options": [
+            "১০০",
+            "১০",
+            "১০০০",
+            "৫০"
+          ],
+          "answer": 0,
+          "why": "√১০০০০ = ১০০।"
+        },
+        {
+          "q": "A ও B যথাক্রমে ৩০০০ ও ৫০০০ টাকা বিনিয়োগ করে; ৮০০ টাকা লাভে A-এর ভাগ কত?",
+          "options": [
+            "৩০০ টাকা",
+            "৪০০ টাকা",
+            "৫০০ টাকা",
+            "২০০ টাকা"
+          ],
+          "answer": 0,
+          "why": "অনুপাত ৩:৫; মোট ৮ ভাগে A পায় ৮০০×৩/৮ = ৩০০ টাকা।"
+        },
+        {
+          "q": "A ও B ২:৩ অনুপাতে বিনিয়োগ করে; ১০০০ টাকা লাভে B-এর ভাগ কত?",
+          "options": [
+            "৬০০ টাকা",
+            "৪০০ টাকা",
+            "৫০০ টাকা",
+            "৩০০ টাকা"
+          ],
+          "answer": 0,
+          "why": "অনুপাত ২:৩; B পায় ১০০০×৩/৫ = ৬০০ টাকা।"
+        },
+        {
+          "q": "2x − ৩ = ৯ হলে x = ?",
+          "options": [
+            "৬",
+            "৩",
+            "৪",
+            "৫"
+          ],
+          "answer": 0,
+          "why": "2x = ১২, তাই x = ৬।"
+        },
+        {
+          "q": "3x + ৪ = ১৯ হলে x = ?",
+          "options": [
+            "৫",
+            "৬",
+            "৪",
+            "৭"
+          ],
+          "answer": 0,
+          "why": "3x = ১৫, তাই x = ৫।"
+        },
+        {
+          "q": "(a + b)² = ?",
+          "options": [
+            "a² + 2ab + b²",
+            "a² + b²",
+            "a² − 2ab + b²",
+            "a² + ab + b²"
+          ],
+          "answer": 0,
+          "why": "(a + b)² = a² + 2ab + b²।"
+        },
+        {
+          "q": "১২-এর মৌলিক উৎপাদকগুলো কী?",
+          "options": [
+            "২ × ২ × ৩",
+            "২ × ৩ × ৩",
+            "৩ × ৪",
+            "২ × ৬"
+          ],
+          "answer": 0,
+          "why": "১২ = ২ × ২ × ৩।"
+        },
+        {
+          "q": "৩৬-এর মৌলিক উৎপাদকগুলো কী?",
+          "options": [
+            "২ × ২ × ৩ × ৩",
+            "২ × ২ × ২ × ৩",
+            "৩ × ৩ × ৪",
+            "২ × ৩ × ৬"
+          ],
+          "answer": 0,
+          "why": "৩৬ = ২ × ২ × ৩ × ৩।"
+        },
+        {
+          "q": "সামান্তরিকের ক্ষেত্রফল = ?",
+          "options": [
+            "ভূমি × উচ্চতা",
+            "দৈর্ঘ্য × প্রস্থ",
+            "½ × ভূমি × উচ্চতা",
+            "বাহু²"
+          ],
+          "answer": 0,
+          "why": "সামান্তরিকের ক্ষেত্রফল = ভূমি × উচ্চতা।"
+        },
+        {
+          "q": "সামান্তরিকের ভূমি ১০ সেমি, উচ্চতা ৬ সেমি হলে ক্ষেত্রফল কত?",
+          "options": [
+            "৬০ বর্গ সেমি",
+            "৩০ বর্গ সেমি",
+            "১৬ বর্গ সেমি",
+            "৫০ বর্গ সেমি"
+          ],
+          "answer": 0,
+          "why": "ক্ষেত্রফল = ১০ × ৬ = ৬০ বর্গ সেমি।"
+        },
+        {
+          "q": "ট্রাপিজিয়ামের ক্ষেত্রফল = ?",
+          "options": [
+            "½ × (সমান্তরাল বাহুদ্বয়ের যোগফল) × উচ্চতা",
+            "ভূমি × উচ্চতা",
+            "দৈর্ঘ্য × প্রস্থ",
+            "বাহু²"
+          ],
+          "answer": 0,
+          "why": "ট্রাপিজিয়ামের ক্ষেত্রফল = ½ × (সমান্তরাল বাহুদ্বয়ের যোগফল) × উচ্চতা।"
+        },
+        {
+          "q": "ট্রাপিজিয়ামের সমান্তরাল বাহু ৮ ও ১২ সেমি, উচ্চতা ৫ সেমি হলে ক্ষেত্রফল কত?",
+          "options": [
+            "৫০ বর্গ সেমি",
+            "৪০ বর্গ সেমি",
+            "৬০ বর্গ সেমি",
+            "১০০ বর্গ সেমি"
+          ],
+          "answer": 0,
+          "why": "ক্ষেত্রফল = ½ × (৮ + ১২) × ৫ = ৫০ বর্গ সেমি।"
+        },
+        {
+          "q": "চতুর্ভুজের কর্ণ কয়টি?",
+          "options": [
+            "২টি",
+            "১টি",
+            "৩টি",
+            "৪টি"
+          ],
+          "answer": 0,
+          "why": "চতুর্ভুজের কর্ণ ২টি।"
+        },
+        {
+          "q": "বর্গক্ষেত্রের কর্ণ ১০ সেমি হলে ক্ষেত্রফল কত?",
+          "options": [
+            "৫০ বর্গ সেমি",
+            "১০০ বর্গ সেমি",
+            "২৫ বর্গ সেমি",
+            "২০ বর্গ সেমি"
+          ],
+          "answer": 0,
+          "why": "বর্গক্ষেত্রের ক্ষেত্রফল = ½ × কর্ণ² = ½ × ১০০ = ৫০ বর্গ সেমি।"
+        },
+        {
+          "q": "সমবাহু ত্রিভুজের বাহু ৬ সেমি হলে পরিসীমা কত?",
+          "options": [
+            "১৮ সেমি",
+            "১২ সেমি",
+            "২৪ সেমি",
+            "৩৬ সেমি"
+          ],
+          "answer": 0,
+          "why": "পরিসীমা = ৩ × ৬ = ১৮ সেমি।"
+        },
+        {
+          "q": "সমদ্বিবাহু ত্রিভুজের ভূমি কোণদ্বয় কেমন?",
+          "options": [
+            "সমান",
+            "অসমান",
+            "সমকোণ",
+            "স্থূলকোণ"
+          ],
+          "answer": 0,
+          "why": "সমদ্বিবাহু ত্রিভুজের ভূমি কোণদ্বয় সমান হয়।"
+        },
+        {
+          "q": "ত্রিভুজের মধ্যমা কয়টি?",
+          "options": [
+            "৩টি",
+            "২টি",
+            "১টি",
+            "৪টি"
+          ],
+          "answer": 0,
+          "why": "ত্রিভুজের মধ্যমা ৩টি।"
+        },
+        {
+          "q": "অর্ধবৃত্তের ক্ষেত্রফল = ?",
+          "options": [
+            "½πr²",
+            "πr²",
+            "2πr",
+            "πr"
+          ],
+          "answer": 0,
+          "why": "অর্ধবৃত্তের ক্ষেত্রফল = ½πr²।"
+        },
+        {
+          "q": "গোলকের আয়তন = ?",
+          "options": [
+            "(4/3)πr³",
+            "4πr²",
+            "(1/3)πr²h",
+            "πr²h"
+          ],
+          "answer": 0,
+          "why": "গোলকের আয়তন = (4/3)πr³।"
+        },
+        {
+          "q": "গোলকের ব্যাসার্ধ ৩ সেমি হলে আয়তন কত?",
+          "options": [
+            "36π ঘন সেমি",
+            "27π ঘন সেমি",
+            "12π ঘন সেমি",
+            "9π ঘন সেমি"
+          ],
+          "answer": 0,
+          "why": "আয়তন = (4/3)π × ৩³ = (4/3)π × ২৭ = 36π ঘন সেমি।"
+        },
+        {
+          "q": "ঘনকের আয়তন = ?",
+          "options": [
+            "বাহু³",
+            "6 × বাহু²",
+            "বাহু²",
+            "4 × বাহু"
+          ],
+          "answer": 0,
+          "why": "ঘনকের আয়তন = বাহু³।"
+        },
+        {
+          "q": "ঘনকের সমগ্রতলের ক্ষেত্রফল = ?",
+          "options": [
+            "6a²",
+            "a³",
+            "4a²",
+            "a²"
+          ],
+          "answer": 0,
+          "why": "ঘনকের সমগ্রতলের ক্ষেত্রফল = 6a²।"
+        },
+        {
+          "q": "ঘনকের বাহু ৪ সেমি হলে সমগ্রতলের ক্ষেত্রফল কত?",
+          "options": [
+            "৯৬ বর্গ সেমি",
+            "৬৪ বর্গ সেমি",
+            "৪৮ বর্গ সেমি",
+            "১২৮ বর্গ সেমি"
+          ],
+          "answer": 0,
+          "why": "ক্ষেত্রফল = ৬ × ৪² = ৬ × ১৬ = ৯৬ বর্গ সেমি।"
+        },
+        {
+          "q": "আয়তঘনের আয়তন = ?",
+          "options": [
+            "দৈর্ঘ্য × প্রস্থ × উচ্চতা",
+            "দৈর্ঘ্য × প্রস্থ",
+            "2(দৈর্ঘ্য + প্রস্থ)",
+            "দৈর্ঘ্য + প্রস্থ + উচ্চতা"
+          ],
+          "answer": 0,
+          "why": "আয়তঘনের আয়তন = দৈর্ঘ্য × প্রস্থ × উচ্চতা।"
+        },
+        {
+          "q": "একটি পাইপ ৩০ মিনিটে চৌবাচ্চা ভরে; ১ মিনিটে কত অংশ ভরে?",
+          "options": [
+            "১/৩০ অংশ",
+            "১/১৫ অংশ",
+            "১/৬০ অংশ",
+            "১/১০ অংশ"
+          ],
+          "answer": 0,
+          "why": "১ মিনিটে ভরে ১/৩০ অংশ।"
+        },
+        {
+          "q": "একটি নল ৬ ঘণ্টায় ও অপর নল ৩ ঘণ্টায় চৌবাচ্চা ভরে; একসঙ্গে কত ঘণ্টায় ভরবে?",
+          "options": [
+            "২ ঘণ্টা",
+            "৩ ঘণ্টা",
+            "৪ ঘণ্টা",
+            "৯ ঘণ্টা"
+          ],
+          "answer": 0,
+          "why": "একসঙ্গে ১ ঘণ্টায় ভরে ১/৬ + ১/৩ = ১/২ অংশ; তাই সময় লাগবে ২ ঘণ্টা।"
+        },
+        {
+          "q": "১৫% লাভে ২০০ টাকার জিনিস কত টাকায় বিক্রি করতে হবে?",
+          "options": [
+            "২৩০ টাকা",
+            "২১৫ টাকা",
+            "২২০ টাকা",
+            "২৫০ টাকা"
+          ],
+          "answer": 0,
+          "why": "বিক্রয়মূল্য = ২০০ + ২০০×১৫% = ২৩০ টাকা।"
+        },
+        {
+          "q": "১০% ক্ষতিতে ৫০০ টাকার জিনিস কত টাকায় বিক্রি করতে হবে?",
+          "options": [
+            "৪৫০ টাকা",
+            "৪০০ টাকা",
+            "৪৮০ টাকা",
+            "৪৪০ টাকা"
+          ],
+          "answer": 0,
+          "why": "বিক্রয়মূল্য = ৫০০ − ৫০০×১০% = ৪৫০ টাকা।"
+        },
+        {
+          "q": "ক্রয়মূল্য ৪০০ টাকা, বিক্রয়মূল্য ৪৫০ টাকা হলে লাভ কত?",
+          "options": [
+            "৫০ টাকা",
+            "৪০ টাকা",
+            "৪৫ টাকা",
+            "৬০ টাকা"
+          ],
+          "answer": 0,
+          "why": "লাভ = ৪৫০ − ৪০০ = ৫০ টাকা।"
+        },
+        {
+          "q": "২০০০ টাকার ১০% হারে ৩ বছরের চক্রবৃদ্ধি মুনাফা কত?",
+          "options": [
+            "৬৬২ টাকা",
+            "৬০০ টাকা",
+            "৬৬০ টাকা",
+            "৬৮০ টাকা"
+          ],
+          "answer": 0,
+          "why": "সুদ-আসল = ২০০০×(১.১)³ = ২৬৬২; মুনাফা = ২৬৬২ − ২০০০ = ৬৬২ টাকা।"
+        },
+        {
+          "q": "দুটি সংখ্যার অনুপাত ৫:৭, ছোট সংখ্যা ৩৫ হলে বড় সংখ্যাটি কত?",
+          "options": [
+            "৪৯",
+            "৪৫",
+            "৫৫",
+            "৪২"
+          ],
+          "answer": 0,
+          "why": "৫ ভাগ = ৩৫ হলে ১ ভাগ = ৭; বড় সংখ্যা = ৭ × ৭ = ৪৯।"
+        },
+        {
+          "q": "৬০-এর ২৫% কত?",
+          "options": [
+            "১৫",
+            "১২",
+            "২০",
+            "২৫"
+          ],
+          "answer": 0,
+          "why": "৬০×২৫% = ১৫।"
+        },
+        {
+          "q": "১২, ১৮, ২৪-এর গসাগু কত?",
+          "options": [
+            "৬",
+            "৩",
+            "১২",
+            "২"
+          ],
+          "answer": 0,
+          "why": "১২, ১৮ ও ২৪-এর গসাগু ৬।"
+        },
+        {
+          "q": "৬, ৮, ১২-এর লসাগু কত?",
+          "options": [
+            "২৪",
+            "৪৮",
+            "১২",
+            "৭২"
+          ],
+          "answer": 0,
+          "why": "৬, ৮ ও ১২-এর লসাগু ২৪।"
+        },
+        {
+          "q": "১ থেকে ১০০ পর্যন্ত কতটি মৌলিক সংখ্যা আছে?",
+          "options": [
+            "২৫টি",
+            "২০টি",
+            "৩০টি",
+            "২৬টি"
+          ],
+          "answer": 0,
+          "why": "১ থেকে ১০০ পর্যন্ত মৌলিক সংখ্যা ২৫টি।"
+        },
+        {
+          "q": "১ কী ধরনের সংখ্যা?",
+          "options": [
+            "মৌলিকও নয়, যৌগিকও নয়",
+            "মৌলিক",
+            "যৌগিক",
+            "জোড়"
+          ],
+          "answer": 0,
+          "why": "১ মৌলিকও নয়, যৌগিকও নয়।"
+        },
+        {
+          "q": "২, ৩, ৫, ৭, ১১, ১৩ — ধারার পরের সংখ্যা কত?",
+          "options": [
+            "১৭",
+            "১৫",
+            "১৯",
+            "১৬"
+          ],
+          "answer": 0,
+          "why": "এটি মৌলিক সংখ্যার ধারা; পরের সংখ্যা ১৭।"
+        },
+        {
+          "q": "একটি শ্রেণিতে ৪০ জন শিক্ষার্থীর গড় বয়স ১৪ বছর; মোট বয়স কত?",
+          "options": [
+            "৫৬০ বছর",
+            "৪৮০ বছর",
+            "৬০০ বছর",
+            "৫২০ বছর"
+          ],
+          "answer": 0,
+          "why": "মোট বয়স = ৪০ × ১৪ = ৫৬০ বছর।"
+        },
+        {
+          "q": "একটি বাস ৬০ কিমি/ঘণ্টা বেগে ৩ ঘণ্টায় কত কিমি যায়?",
+          "options": [
+            "১৮০ কিমি",
+            "১২০ কিমি",
+            "১৫০ কিমি",
+            "২৪০ কিমি"
+          ],
+          "answer": 0,
+          "why": "দূরত্ব = ৬০ × ৩ = ১৮০ কিমি।"
+        },
+        {
+          "q": "১৫০ কিমি পথ ২.৫ ঘণ্টায় গেলে গতিবেগ কত?",
+          "options": [
+            "৬০ কিমি/ঘণ্টা",
+            "৫০ কিমি/ঘণ্টা",
+            "৭৫ কিমি/ঘণ্টা",
+            "৪৫ কিমি/ঘণ্টা"
+          ],
+          "answer": 0,
+          "why": "গতিবেগ = ১৫০ ÷ ২.৫ = ৬০ কিমি/ঘণ্টা।"
         }
       ]
     },
@@ -96739,6 +98400,413 @@
           ],
           "answer": 0,
           "why": "পদার্থের পরিমাণের SI একক মোল।"
+        },
+        {
+          "q": "বাংলাদেশে বছরে কয়টি মৌসুমে ধান চাষ হয়?",
+          "options": [
+            "৩টি",
+            "২টি",
+            "৪টি",
+            "১টি"
+          ],
+          "answer": 0,
+          "why": "বাংলাদেশে আউশ, আমন ও বোরো — ৩টি মৌসুমে ধান চাষ হয়।"
+        },
+        {
+          "q": "বোরো ধান কোন মৌসুমে চাষ হয়?",
+          "options": [
+            "রবি মৌসুমে (শীতকালে)",
+            "খরিফ মৌসুমে",
+            "বর্ষাকালে",
+            "গ্রীষ্মকালে"
+          ],
+          "answer": 0,
+          "why": "বোরো ধান রবি মৌসুমে (শীতকালে) চাষ হয়।"
+        },
+        {
+          "q": "আমন ধান কখন রোপণ করা হয়?",
+          "options": [
+            "বর্ষাকালে",
+            "শীতকালে",
+            "গ্রীষ্মকালে",
+            "বসন্তকালে"
+          ],
+          "answer": 0,
+          "why": "আমন ধান বর্ষাকালে রোপণ করা হয়।"
+        },
+        {
+          "q": "পাটের বৈজ্ঞানিক নাম কী?",
+          "options": [
+            "Corchorus capsularis",
+            "Oryza sativa",
+            "Triticum aestivum",
+            "Saccharum officinarum"
+          ],
+          "answer": 0,
+          "why": "পাটের বৈজ্ঞানিক নাম Corchorus capsularis।"
+        },
+        {
+          "q": "চা গবেষণা ইনস্টিটিউট কোথায়?",
+          "options": [
+            "শ্রীমঙ্গল",
+            "সিলেট",
+            "ঢাকা",
+            "চট্টগ্রাম"
+          ],
+          "answer": 0,
+          "why": "চা গবেষণা ইনস্টিটিউট মৌলভীবাজারের শ্রীমঙ্গলে অবস্থিত।"
+        },
+        {
+          "q": "বাংলাদেশ ধান গবেষণা ইনস্টিটিউট (BRRI) কোথায়?",
+          "options": [
+            "গাজীপুর",
+            "ঢাকা",
+            "ময়মনসিংহ",
+            "রাজশাহী"
+          ],
+          "answer": 0,
+          "why": "বাংলাদেশ ধান গবেষণা ইনস্টিটিউট গাজীপুরে অবস্থিত।"
+        },
+        {
+          "q": "বাংলাদেশ কৃষি গবেষণা ইনস্টিটিউট (BARI) কোথায়?",
+          "options": [
+            "গাজীপুর",
+            "ঢাকা",
+            "ময়মনসিংহ",
+            "দিনাজপুর"
+          ],
+          "answer": 0,
+          "why": "বাংলাদেশ কৃষি গবেষণা ইনস্টিটিউট গাজীপুরে অবস্থিত।"
+        },
+        {
+          "q": "শাহজালাল আন্তর্জাতিক বিমানবন্দর কোথায়?",
+          "options": [
+            "ঢাকায়",
+            "চট্টগ্রামে",
+            "সিলেটে",
+            "খুলনায়"
+          ],
+          "answer": 0,
+          "why": "শাহজালাল আন্তর্জাতিক বিমানবন্দর ঢাকায় অবস্থিত।"
+        },
+        {
+          "q": "বাংলাদেশের বৃহত্তম বিমানবন্দর কোনটি?",
+          "options": [
+            "শাহজালাল আন্তর্জাতিক বিমানবন্দর",
+            "শাহ আমানত আন্তর্জাতিক বিমানবন্দর",
+            "ওসমানী আন্তর্জাতিক বিমানবন্দর",
+            "কক্সবাজার বিমানবন্দর"
+          ],
+          "answer": 0,
+          "why": "বাংলাদেশের বৃহত্তম বিমানবন্দর শাহজালাল আন্তর্জাতিক বিমানবন্দর।"
+        },
+        {
+          "q": "জাতীয় বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় কত সালে?",
+          "options": [
+            "১৯৯২ সালে",
+            "১৯৭২ সালে",
+            "১৯৮২ সালে",
+            "২০০২ সালে"
+          ],
+          "answer": 0,
+          "why": "জাতীয় বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় ১৯৯২ সালে।"
+        },
+        {
+          "q": "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় কত সালে?",
+          "options": [
+            "১৯৯২ সালে",
+            "১৯৭২ সালে",
+            "১৯৮২ সালে",
+            "২০০২ সালে"
+          ],
+          "answer": 0,
+          "why": "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় ১৯৯২ সালে।"
+        },
+        {
+          "q": "বাংলাদেশে প্রথম টিকা কর্মসূচি (EPI) শুরু হয় কত সালে?",
+          "options": [
+            "১৯৭৯ সালে",
+            "১৯৭২ সালে",
+            "১৯৮৫ সালে",
+            "১৯৯০ সালে"
+          ],
+          "answer": 0,
+          "why": "বাংলাদেশে সম্প্রসারিত টিকাদান কর্মসূচি (EPI) শুরু হয় ১৯৭৯ সালে।"
+        },
+        {
+          "q": "বাংলাদেশে যক্ষ্মা (TB) নিয়ন্ত্রণে DOTS কর্মসূচি শুরু হয় কত সালে?",
+          "options": [
+            "১৯৯৩ সালে",
+            "১৯৭৯ সালে",
+            "১৯৮৫ সালে",
+            "২০০০ সালে"
+          ],
+          "answer": 0,
+          "why": "বাংলাদেশে যক্ষ্মা নিয়ন্ত্রণে DOTS কর্মসূচি শুরু হয় ১৯৯৩ সালে।"
+        },
+        {
+          "q": "১৯৭০ সালের সাধারণ নির্বাচন অনুষ্ঠিত হয় কত তারিখে?",
+          "options": [
+            "৭ ডিসেম্বর ১৯৭০",
+            "১ ডিসেম্বর ১৯৭০",
+            "১৭ ডিসেম্বর ১৯৭০",
+            "২৫ ডিসেম্বর ১৯৭০"
+          ],
+          "answer": 0,
+          "why": "১৯৭০ সালের সাধারণ নির্বাচন অনুষ্ঠিত হয় ৭ ডিসেম্বর ১৯৭০।"
+        },
+        {
+          "q": "ছয় দফার প্রথম দফা কী?",
+          "options": [
+            "লাহোর প্রস্তাবের ভিত্তিতে ফেডারেশন",
+            "স্বতন্ত্র মুদ্রা",
+            "স্বতন্ত্র সেনাবাহিনী",
+            "কর আদায়ের ক্ষমতা"
+          ],
+          "answer": 0,
+          "why": "ছয় দফার প্রথম দফা লাহোর প্রস্তাবের ভিত্তিতে ফেডারেশন গঠন।"
+        },
+        {
+          "q": "আগরতলা মামলা প্রত্যাহার করা হয় কত তারিখে?",
+          "options": [
+            "২২ ফেব্রুয়ারি ১৯৬৯",
+            "২৩ ফেব্রুয়ারি ১৯৬৯",
+            "২২ জানুয়ারি ১৯৬৯",
+            "১৫ ফেব্রুয়ারি ১৯৬৯"
+          ],
+          "answer": 0,
+          "why": "আগরতলা মামলা প্রত্যাহার করা হয় ২২ ফেব্রুয়ারি ১৯৬৯।"
+        },
+        {
+          "q": "১৯৬৯ সালে বঙ্গবন্ধু উপাধি দেওয়া হয় কত তারিখে?",
+          "options": [
+            "২৩ ফেব্রুয়ারি ১৯৬৯",
+            "২২ ফেব্রুয়ারি ১৯৬৯",
+            "২৪ মার্চ ১৯৬৯",
+            "১০ মার্চ ১৯৬৯"
+          ],
+          "answer": 0,
+          "why": "১৯৬৯ সালের ২৩ ফেব্রুয়ারি শেখ মুজিবুর রহমানকে বঙ্গবন্ধু উপাধি দেওয়া হয়।"
+        },
+        {
+          "q": "বাংলাদেশ ওআইসির সদস্য হয় কত সালে?",
+          "options": [
+            "১৯৭৪ সালে",
+            "১৯৭২ সালে",
+            "১৯৭৬ সালে",
+            "১৯৬৯ সালে"
+          ],
+          "answer": 0,
+          "why": "বাংলাদেশ ওআইসির সদস্য হয় ১৯৭৪ সালে।"
+        },
+        {
+          "q": "আসিয়ানের প্রতিষ্ঠাতা সদস্য দেশ কয়টি?",
+          "options": [
+            "৫টি",
+            "১০টি",
+            "৮টি",
+            "৬টি"
+          ],
+          "answer": 0,
+          "why": "আসিয়ানের প্রতিষ্ঠাতা সদস্য দেশ ৫টি — ইন্দোনেশিয়া, মালয়েশিয়া, ফিলিপাইন, সিঙ্গাপুর ও থাইল্যান্ড।"
+        },
+        {
+          "q": "আসিয়ানভুক্ত দেশ নয় কোনটি?",
+          "options": [
+            "ভারত",
+            "থাইল্যান্ড",
+            "ভিয়েতনাম",
+            "মালয়েশিয়া"
+          ],
+          "answer": 0,
+          "why": "ভারত আসিয়ানের সদস্য নয়।"
+        },
+        {
+          "q": "ব্রিকসের সদস্য দেশ নয় কোনটি?",
+          "options": [
+            "বাংলাদেশ",
+            "চীন",
+            "ভারত",
+            "রাশিয়া"
+          ],
+          "answer": 0,
+          "why": "বাংলাদেশ ব্রিকসের সদস্য নয়।"
+        },
+        {
+          "q": "কমনওয়েলথের প্রধান কে?",
+          "options": [
+            "রাজা তৃতীয় চার্লস",
+            "রানি দ্বিতীয় এলিজাবেথ",
+            "ঋষি সুনাক",
+            "অ্যান্টনিও গুতেরেস"
+          ],
+          "answer": 0,
+          "why": "কমনওয়েলথের প্রধান রাজা তৃতীয় চার্লস।"
+        },
+        {
+          "q": "নিরাপত্তা পরিষদের স্থায়ী সদস্য নয় কোনটি?",
+          "options": [
+            "জার্মানি",
+            "যুক্তরাষ্ট্র",
+            "চীন",
+            "রাশিয়া"
+          ],
+          "answer": 0,
+          "why": "জার্মানি নিরাপত্তা পরিষদের স্থায়ী সদস্য নয়।"
+        },
+        {
+          "q": "আইএমএফের বর্তমান ব্যবস্থাপনা পরিচালক কে?",
+          "options": [
+            "ক্রিস্টালিনা জর্জিয়েভা",
+            "অজয় বাঙ্গা",
+            "ক্রিস্টিন লাগার্দ",
+            "ডমিনিক স্ট্রস-কান"
+          ],
+          "answer": 0,
+          "why": "আইএমএফের বর্তমান ব্যবস্থাপনা পরিচালক ক্রিস্টালিনা জর্জিয়েভা।"
+        },
+        {
+          "q": "নীল নদ কোন মহাদেশে?",
+          "options": [
+            "আফ্রিকা",
+            "এশিয়া",
+            "ইউরোপ",
+            "দক্ষিণ আমেরিকা"
+          ],
+          "answer": 0,
+          "why": "নীল নদ আফ্রিকা মহাদেশে।"
+        },
+        {
+          "q": "গোবি মরুভূমি কোন দেশে?",
+          "options": [
+            "মঙ্গোলিয়া",
+            "ভারত",
+            "মিসর",
+            "অস্ট্রেলিয়া"
+          ],
+          "answer": 0,
+          "why": "গোবি মরুভূমি মঙ্গোলিয়া ও চীনে অবস্থিত।"
+        },
+        {
+          "q": "সালোকসংশ্লেষণে কোন গ্যাস শোষিত হয়?",
+          "options": [
+            "কার্বন ডাইঅক্সাইড",
+            "অক্সিজেন",
+            "নাইট্রোজেন",
+            "হাইড্রোজেন"
+          ],
+          "answer": 0,
+          "why": "সালোকসংশ্লেষণে কার্বন ডাইঅক্সাইড শোষিত হয়।"
+        },
+        {
+          "q": "সালোকসংশ্লেষণে কোন গ্যাস নির্গত হয়?",
+          "options": [
+            "অক্সিজেন",
+            "কার্বন ডাইঅক্সাইড",
+            "নাইট্রোজেন",
+            "হাইড্রোজেন"
+          ],
+          "answer": 0,
+          "why": "সালোকসংশ্লেষণে অক্সিজেন নির্গত হয়।"
+        },
+        {
+          "q": "উদ্ভিদের খাদ্য তৈরির অঙ্গ কোনটি?",
+          "options": [
+            "পাতা",
+            "মূল",
+            "কাণ্ড",
+            "ফুল"
+          ],
+          "answer": 0,
+          "why": "উদ্ভিদের খাদ্য তৈরির অঙ্গ পাতা।"
+        },
+        {
+          "q": "ফুটবলে বিশ্বকাপ কত বছর পর পর হয়?",
+          "options": [
+            "৪ বছর",
+            "২ বছর",
+            "৩ বছর",
+            "৫ বছর"
+          ],
+          "answer": 0,
+          "why": "ফুটবল বিশ্বকাপ ৪ বছর পর পর অনুষ্ঠিত হয়।"
+        },
+        {
+          "q": "ক্রিকেট ব্যাটের দৈর্ঘ্য সর্বোচ্চ কত?",
+          "options": [
+            "৩৮ ইঞ্চি",
+            "৩৬ ইঞ্চি",
+            "৪০ ইঞ্চি",
+            "৩৪ ইঞ্চি"
+          ],
+          "answer": 0,
+          "why": "ক্রিকেট ব্যাটের দৈর্ঘ্য সর্বোচ্চ ৩৮ ইঞ্চি।"
+        },
+        {
+          "q": "অলিম্পিকের পতাকায় কয়টি বৃত্ত থাকে?",
+          "options": [
+            "৫টি",
+            "৪টি",
+            "৬টি",
+            "৭টি"
+          ],
+          "answer": 0,
+          "why": "অলিম্পিকের পতাকায় ৫টি বৃত্ত থাকে।"
+        },
+        {
+          "q": "অলিম্পিকের মূলমন্ত্র কী?",
+          "options": [
+            "দ্রুততর, উচ্চতর, শক্তিশালী",
+            "শান্তি, ঐক্য, অগ্রগতি",
+            "জয়, পরাজয়, খেলা",
+            "শক্তি, সাহস, জয়"
+          ],
+          "answer": 0,
+          "why": "অলিম্পিকের মূলমন্ত্র: দ্রুততর, উচ্চতর, শক্তিশালী (Citius, Altius, Fortius)।"
+        },
+        {
+          "q": "মেঘনা নদীর উৎপত্তি কোথায়?",
+          "options": [
+            "আসামের লুসাই পাহাড়",
+            "তিব্বতের মানস সরোবর",
+            "মিজোরামের লুসাই পাহাড়",
+            "হিমালয়ের গঙ্গোত্রী"
+          ],
+          "answer": 0,
+          "why": "মেঘনা নদীর উৎপত্তি আসামের লুসাই পাহাড়ে (বরাক নদী হিসেবে)।"
+        },
+        {
+          "q": "সুন্দরবন কোন কোন জেলায় বিস্তৃত?",
+          "options": [
+            "খুলনা, সাতক্ষীরা ও বাগেরহাট",
+            "বরিশাল ও পটুয়াখালী",
+            "চট্টগ্রাম ও কক্সবাজার",
+            "ঢাকা ও নারায়ণগঞ্জ"
+          ],
+          "answer": 0,
+          "why": "সুন্দরবন খুলনা, সাতক্ষীরা ও বাগেরহাট জেলায় বিস্তৃত।"
+        },
+        {
+          "q": "সুন্দরবনকে বিশ্ব ঐতিহ্য ঘোষণা করা হয় কত সালে?",
+          "options": [
+            "১৯৯৭ সালে",
+            "১৯৯২ সালে",
+            "২০০০ সালে",
+            "১৯৮৭ সালে"
+          ],
+          "answer": 0,
+          "why": "সুন্দরবনকে ১৯৯৭ সালে বিশ্ব ঐতিহ্য ঘোষণা করা হয়।"
+        },
+        {
+          "q": "সেন্টমার্টিন দ্বীপের অপর নাম কী?",
+          "options": [
+            "নারিকেল জিঞ্জিরা",
+            "সোনাদিয়া",
+            "সন্দ্বীপ",
+            "মনপুরা"
+          ],
+          "answer": 0,
+          "why": "সেন্টমার্টিন দ্বীপের অপর নাম নারিকেল জিঞ্জিরা।"
         }
       ]
     },
@@ -130534,6 +132602,314 @@
           ],
           "answer": 0,
           "why": "বঙ্গবন্ধু-১ স্যাটেলাইটের আয়ুষ্কাল ১৫ বছর।"
+        },
+        {
+          "q": "IoT বলতে কী বোঝায়?",
+          "options": [
+            "ইন্টারনেটের সঙ্গে যুক্ত ডিভাইসের নেটওয়ার্ক",
+            "শুধু মোবাইল ফোনের নেটওয়ার্ক",
+            "কম্পিউটারের ভেতরের যন্ত্রাংশ",
+            "এক ধরনের সফটওয়্যার"
+          ],
+          "answer": 0,
+          "why": "IoT হলো ইন্টারনেটের সঙ্গে যুক্ত ডিভাইসের নেটওয়ার্ক, যেখানে ডিভাইসগুলো তথ্য আদান-প্রদান করে।"
+        },
+        {
+          "q": "স্মার্ট হোমে IoT ডিভাইসের উদাহরণ কোনটি?",
+          "options": [
+            "স্মার্ট থার্মোস্ট্যাট",
+            "প্রিন্টার",
+            "স্পিকার",
+            "কীবোর্ড"
+          ],
+          "answer": 0,
+          "why": "স্মার্ট থার্মোস্ট্যাট IoT ডিভাইস — ইন্টারনেটে যুক্ত হয়ে তাপমাত্রা নিয়ন্ত্রণ করে।"
+        },
+        {
+          "q": "ই-নথি (e-Nothi) কী?",
+          "options": [
+            "সরকারি দপ্তরে কাগজবিহীন নথি ব্যবস্থাপনা",
+            "এক ধরনের ইমেইল সেবা",
+            "অনলাইন ব্যাংকিং",
+            "ডিজিটাল স্বাক্ষর"
+          ],
+          "answer": 0,
+          "why": "ই-নথি সরকারি দপ্তরে কাগজবিহীন নথি ব্যবস্থাপনা পদ্ধতি।"
+        },
+        {
+          "q": "myGov কী?",
+          "options": [
+            "সরকারি সেবার একক প্ল্যাটফর্ম",
+            "একটি মোবাইল ব্যাংক",
+            "একটি সামাজিক মাধ্যম",
+            "একটি ভিডিও সেবা"
+          ],
+          "answer": 0,
+          "why": "myGov সরকারি সেবার একক প্ল্যাটফর্ম — এক জায়গা থেকে নানা সেবা পাওয়া যায়।"
+        },
+        {
+          "q": "এটুআই (a2i) কর্মসূচি কোন সংস্থার অধীনে পরিচালিত হয়?",
+          "options": [
+            "তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ",
+            "শিক্ষা মন্ত্রণালয়",
+            "অর্থ মন্ত্রণালয়",
+            "পররাষ্ট্র মন্ত্রণালয়"
+          ],
+          "answer": 0,
+          "why": "এটুআই (a2i) কর্মসূচি তথ্য ও যোগাযোগ প্রযুক্তি বিভাগের অধীনে পরিচালিত হয়।"
+        },
+        {
+          "q": "জাতীয় তথ্য বাতায়ন চালু হয় কত সালে?",
+          "options": [
+            "২০১৪ সালে",
+            "২০০৮ সালে",
+            "২০১০ সালে",
+            "২০১৮ সালে"
+          ],
+          "answer": 0,
+          "why": "জাতীয় তথ্য বাতায়ন (জাতীয় ওয়েব পোর্টাল) চালু হয় ২০১৪ সালে।"
+        },
+        {
+          "q": "ডোমেইন নেম সিস্টেম (DNS)-এর কাজ কী?",
+          "options": [
+            "ডোমেইন নামকে IP ঠিকানায় রূপান্তর করা",
+            "ওয়েবসাইট তৈরি করা",
+            "ইমেইল পাঠানো",
+            "ফাইল সংরক্ষণ করা"
+          ],
+          "answer": 0,
+          "why": "DNS ডোমেইন নামকে IP ঠিকানায় রূপান্তর করে।"
+        },
+        {
+          "q": ".gov.bd ডোমেইন কাদের জন্য?",
+          "options": [
+            "বাংলাদেশ সরকারের দপ্তরের জন্য",
+            "বেসরকারি কোম্পানির জন্য",
+            "শিক্ষাপ্রতিষ্ঠানের জন্য",
+            "বিদেশি সংস্থার জন্য"
+          ],
+          "answer": 0,
+          "why": ".gov.bd ডোমেইন বাংলাদেশ সরকারের দপ্তরগুলোর জন্য বরাদ্দ।"
+        },
+        {
+          "q": "ই-কমার্স বলতে কী বোঝায়?",
+          "options": [
+            "ইন্টারনেটে পণ্য কেনাবেচা",
+            "ইমেইলে চিঠি লেখা",
+            "অনলাইনে পড়াশোনা",
+            "মোবাইলে গেম খেলা"
+          ],
+          "answer": 0,
+          "why": "ই-কমার্স হলো ইন্টারনেটের মাধ্যমে পণ্য বা সেবা কেনাবেচা।"
+        },
+        {
+          "q": "অপারেটিং সিস্টেমে শিডিউলিংয়ের উদ্দেশ্য কী?",
+          "options": [
+            "CPU-এর সর্বোত্তম ব্যবহার নিশ্চিত করা",
+            "ফাইল মুছে ফেলা",
+            "মেমোরি বাড়ানো",
+            "ভাইরাস দূর করা"
+          ],
+          "answer": 0,
+          "why": "শিডিউলিংয়ের উদ্দেশ্য CPU-এর সর্বোত্তম ব্যবহার নিশ্চিত করা।"
+        },
+        {
+          "q": "রাউন্ড রবিন শিডিউলিংয়ে কী ব্যবহৃত হয়?",
+          "options": [
+            "সময়ের অংশ (টাইম কোয়ান্টাম)",
+            "অগ্রাধিকার নম্বর",
+            "মেমোরির আকার",
+            "ফাইলের নাম"
+          ],
+          "answer": 0,
+          "why": "রাউন্ড রবিন শিডিউলিংয়ে প্রতিটি প্রক্রিয়াকে সমান সময়ের অংশ (টাইম কোয়ান্টাম) দেওয়া হয়।"
+        },
+        {
+          "q": "কোন শিডিউলিংয়ে সবচেয়ে ছোট কাজ আগে চলে?",
+          "options": [
+            "SJF (Shortest Job First)",
+            "FCFS",
+            "রাউন্ড রবিন",
+            "প্রায়োরিটি"
+          ],
+          "answer": 0,
+          "why": "SJF শিডিউলিংয়ে সবচেয়ে ছোট কাজটি আগে চলে।"
+        },
+        {
+          "q": "গ্রাফে নোডগুলোর সংযোগকে কী বলে?",
+          "options": [
+            "এজ (Edge)",
+            "লিফ",
+            "রুট",
+            "নোড"
+          ],
+          "answer": 0,
+          "why": "গ্রাফে নোডগুলোর সংযোগকে এজ (Edge) বলে।"
+        },
+        {
+          "q": "অ্যারে কী?",
+          "options": [
+            "একই ধরনের ডেটার ধারাবাহিক সংগ্রহ",
+            "ভিন্ন ধরনের ডেটার সংগ্রহ",
+            "একটি ফাংশন",
+            "একটি লুপ"
+          ],
+          "answer": 0,
+          "why": "অ্যারে হলো একই ধরনের ডেটার ধারাবাহিক সংগ্রহ, যা সূচক দিয়ে পাওয়া যায়।"
+        },
+        {
+          "q": "প্রোগ্রামিংয়ে লুপ কী?",
+          "options": [
+            "নির্দেশের পুনরাবৃত্তি",
+            "একবার চলা নির্দেশ",
+            "ফাইল খোলা",
+            "ভেরিয়েবল ঘোষণা"
+          ],
+          "answer": 0,
+          "why": "লুপ হলো নির্দেশের পুনরাবৃত্তি — শর্ত পূরণ না হওয়া পর্যন্ত একই কাজ বারবার করা।"
+        },
+        {
+          "q": "অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিংয়ের মূল বৈশিষ্ট্য কোনটি?",
+          "options": [
+            "এনক্যাপসুলেশন",
+            "লুপ",
+            "অ্যারে",
+            "ফাংশন"
+          ],
+          "answer": 0,
+          "why": "এনক্যাপসুলেশন OOP-এর মূল বৈশিষ্ট্য — ডেটা ও পদ্ধতি একসঙ্গে আবদ্ধ থাকে।"
+        },
+        {
+          "q": "ডি মরগ্যানের সূত্র অনুযায়ী (A+B)' = ?",
+          "options": [
+            "A' · B'",
+            "A' + B'",
+            "A · B",
+            "A + B"
+          ],
+          "answer": 0,
+          "why": "ডি মরগ্যানের সূত্র অনুযায়ী (A+B)' = A' · B'।"
+        },
+        {
+          "q": "স্টার টপোলজির কেন্দ্রে কী থাকে?",
+          "options": [
+            "হাব বা সুইচ",
+            "রাউটার",
+            "প্রিন্টার",
+            "সার্ভার"
+          ],
+          "answer": 0,
+          "why": "স্টার টপোলজিতে সব ডিভাইস কেন্দ্রের হাব বা সুইচের সঙ্গে যুক্ত থাকে।"
+        },
+        {
+          "q": "বাস টপোলজিতে সব ডিভাইস যুক্ত থাকে কীসে?",
+          "options": [
+            "একক কেবলে",
+            "হাবের সঙ্গে",
+            "সুইচের সঙ্গে",
+            "রাউটারের সঙ্গে"
+          ],
+          "answer": 0,
+          "why": "বাস টপোলজিতে সব ডিভাইস একটি একক কেবলের সঙ্গে যুক্ত থাকে।"
+        },
+        {
+          "q": "IP ঠিকানার IPv4 কত বিটের?",
+          "options": [
+            "৩২ বিট",
+            "৬৪ বিট",
+            "১২৮ বিট",
+            "১৬ বিট"
+          ],
+          "answer": 0,
+          "why": "IPv4 ঠিকানা ৩২ বিটের হয়।"
+        },
+        {
+          "q": "সাবনেট মাস্কের কাজ কী?",
+          "options": [
+            "নেটওয়ার্ক ও হোস্ট অংশ আলাদা করা",
+            "IP ঠিকানা তৈরি করা",
+            "ভাইরাস দূর করা",
+            "ডেটা এনক্রিপ্ট করা"
+          ],
+          "answer": 0,
+          "why": "সাবনেট মাস্ক IP ঠিকানার নেটওয়ার্ক অংশ ও হোস্ট অংশ আলাদা করে।"
+        },
+        {
+          "q": "প্রটোকল কী?",
+          "options": [
+            "যোগাযোগের নিয়মাবলি",
+            "এক ধরনের কেবল",
+            "এক ধরনের সফটওয়্যার",
+            "এক ধরনের হার্ডওয়্যার"
+          ],
+          "answer": 0,
+          "why": "প্রটোকল হলো যোগাযোগের নিয়মাবলি, যা ডিভাইসগুলো মেনে চলে।"
+        },
+        {
+          "q": "ক্লাউড কম্পিউটিংয়ের উদাহরণ কোনটি?",
+          "options": [
+            "গুগল ড্রাইভ",
+            "মাইক্রোসফট ওয়ার্ড",
+            "নোটপ্যাড",
+            "পেইন্ট"
+          ],
+          "answer": 0,
+          "why": "গুগল ড্রাইভ ক্লাউড কম্পিউটিংয়ের উদাহরণ — ফাইল ইন্টারনেটে সংরক্ষিত হয়।"
+        },
+        {
+          "q": "ডেটাবেজে টেবিলের সারিকে কী বলে?",
+          "options": [
+            "রেকর্ড বা টাপল",
+            "ফিল্ড",
+            "কি",
+            "ইনডেক্স"
+          ],
+          "answer": 0,
+          "why": "ডেটাবেজে টেবিলের সারিকে রেকর্ড বা টাপল বলে।"
+        },
+        {
+          "q": "ডেটাবেজে টেবিলের কলামকে কী বলে?",
+          "options": [
+            "ফিল্ড বা অ্যাট্রিবিউট",
+            "রেকর্ড",
+            "টাপল",
+            "কি"
+          ],
+          "answer": 0,
+          "why": "ডেটাবেজে টেবিলের কলামকে ফিল্ড বা অ্যাট্রিবিউট বলে।"
+        },
+        {
+          "q": "ডেটা থেকে তথ্য পেতে SQL-এ কোন কমান্ড ব্যবহৃত হয়?",
+          "options": [
+            "SELECT",
+            "INSERT",
+            "DELETE",
+            "UPDATE"
+          ],
+          "answer": 0,
+          "why": "ডেটা থেকে তথ্য পেতে SQL-এ SELECT কমান্ড ব্যবহৃত হয়।"
+        },
+        {
+          "q": "প্রাইমারি কি-র বৈশিষ্ট্য কী?",
+          "options": [
+            "প্রতিটি রেকর্ডকে অনন্যভাবে শনাক্ত করে",
+            "সব রেকর্ড একই হয়",
+            "ডেটা মুছে ফেলে",
+            "টেবিলের নাম দেয়"
+          ],
+          "answer": 0,
+          "why": "প্রাইমারি কি প্রতিটি রেকর্ডকে অনন্যভাবে শনাক্ত করে।"
+        },
+        {
+          "q": "অ্যাপল প্রতিষ্ঠিত হয় কত সালে?",
+          "options": [
+            "১৯৭৬ সালে",
+            "১৯৭৫ সালে",
+            "১৯৮০ সালে",
+            "১৯৮৪ সালে"
+          ],
+          "answer": 0,
+          "why": "অ্যাপল প্রতিষ্ঠিত হয় ১৯৭৬ সালে।"
         }
       ]
     }
