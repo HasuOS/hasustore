@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 26,
-   "versionName": "1.24",
-   "size": 342740,
+   "code": 27,
+   "versionName": "1.25",
+   "size": 498604,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "THE FULL SYSTEM ARRIVES. HasuBattery now updates itself — its own check, notification, download and install, offered only after the new version has settled and verified. A new Appearance picker in the new Settings page: six themes, icon sets for every icon in the app (Font Awesome included), and four launcher icon designs — tap and it applies at once. New icon packs arrive by themselves from the feed, and a notification tells you what was added, with its own switch in Settings. The Permissions hub gains the Install updates row, and its toggle counts it too. The Website in About is a proper button now, and one stale line about the charging card was corrected. Nothing about the monitor, the charging time or the voice alerts has changed.",
-   "ts": 1795572758,
-   "etag": "0x8DF4A997DA31F1A"
+   "changes": "A full re-check release. The family's own HasuOS icon set now leads the picker, you can add your own icon set from a file, and every icon of the set in use is listed in Settings with its name and job. The three extra launcher designs were redrawn as real drawings — Bars, Orbit and Pulse — white glyphs on a fully transparent background, each genuinely different (the old three were copies of the Original). The About page now shows the launcher design you actually picked, with the HasuOS brand mark in its own small row. Updates and icon packs are also checked in the background while the app is closed, the update page no longer claims an update is \"settling\" when you are simply up to date, a failed check says so honestly, quiet hours and a Sound & vibration row join Settings, a Reset card arrives, and the app's own settings now ride with Android's app backup. The charging notification, its live countdown and the voice alerts are untouched.",
+   "ts": 1795578590,
+   "etag": "0x8DF4AA721D90635"
   },
   {
    "pkg": "hasu.os.keyboard",
