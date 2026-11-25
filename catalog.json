@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 34,
-   "versionName": "1.32",
-   "size": 2137004,
+   "code": 35,
+   "versionName": "1.33",
+   "size": 2157484,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
-   "ts": 1795615388,
-   "etag": "0x8DF4AFCD189F132"
+   "changes": "আইকন এখন সব জায়গায় পরিষ্কার দেখা যাবে — ব্যাকগ্রাউন্ড পুরোপুরি transparent, glyph-এর গায়ে teal glow ধার, কোনো tile নেই",
+   "ts": 1795616937,
+   "etag": "0x8DF4B006C1F486B"
   },
   {
    "pkg": "hasu.os.keyboard",
