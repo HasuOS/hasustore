@@ -578,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 13,
-   "versionName": "1.12",
-   "size": 517041,
+   "code": 14,
+   "versionName": "1.13",
+   "size": 582643,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "The realism update: rain now shines on wet roads, handbrake drift, camera shake on crashes and speed-sensitive camera view. Hunger and sleep needs with HUD bars, wired to eating and sleeping. Tea-stall adda with regulars who chat, a GPS route line on the ground and the map, photo mode with selfies saved to your gallery, and a stats page. Everything from 1.11 stays: the new 3D Hasu, Minu and their cat, modes, soundtrack and spoken dialogue.",
-   "ts": 1795694173,
-   "etag": "0x8DF4BB43C2218E5"
+   "changes": "The fix update, from your screenshots: the joystick is always on screen now, real recorded footsteps replace the thud, the characters and the cat are rebuilt whole (cat assembled, orange kameez, no bun), heads no longer poke through car roofs, the first-person cabin shows dash, wheel and mirror, headlights are soft light instead of yellow slabs, and character switching moves the camera, not the people. New: three pistols with scope zoom and return fire, a GTA-style phone (calls, food, taxi, gun shop, your 14-vehicle collection to spawn), car-theft chases, drivers and passengers in traffic, buses with passengers, far busier streets and shops everywhere, and races that start with a car ready.",
+   "ts": 1795698082,
+   "etag": "0x8DF4BBD588499E7"
   },
   {
    "pkg": "hasu.os.study",
