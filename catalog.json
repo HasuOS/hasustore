@@ -671,13 +671,13 @@
    "name": "HasuSMS",
    "tag": "Text messaging",
    "desc": "The phone's SMS in HasuOS glass — every conversation, chat bubbles, sending, and a path to becoming the default SMS app.",
-   "code": 6,
-   "versionName": "1.05",
-   "size": 1964749,
+   "code": 7,
+   "versionName": "1.06",
+   "size": 248525,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/sms.apk",
-   "changes": "সম্পূর্ণ ফ্যামিলি পোর্ট: সেটিংস পেজ (ভাষা English/বাংলা, নতুন বার্তার সতর্কতা, শব্দ ও কম্পন, ব্যাকআপ), লুক ও আইকন (থিম, আইকন সেট, পাঁচটি অ্যাপ-আইকন ডিজাইন, প্রতিটি পেজের নিজের থিম, পুরো-স্ক্রিন প্রিভিউ), অ্যাপ নিজে নিজে আপডেট হয়, নতুন আইকন সেট ও থিম নিজে নিজে আসে, অর্ধেক লেখা বার্তা খসড়া হিসেবে নিজে নিজে সেভ হয়, অনুমতির পেজে ডিফল্ট SMS অ্যাপ ও সীমাবদ্ধ সেটিংসের সৎ ধাপ, গাইড এখন বাংলায়ও।",
-   "ts": 1795620077,
-   "etag": "0x8DF4B07B342E066"
+   "changes": "HasuSMS 1.06 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795655283,
+   "etag": "0x8DF4B59B735B7B9"
   },
   {
    "pkg": "hasu.os.edit",
