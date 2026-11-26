@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795633245,
+  "generatedAt": 1795653575,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -626,6 +626,50 @@
       "track": "graduate",
       "location": "গাজীপুর",
       "pdfUrl": "https://career.duetbd.org/public/files/circulars/1794194319.pdf"
+    },
+    {
+      "id": "cpa-lower-assistant-computer-operator-2026",
+      "title": "চট্টগ্রাম বন্দর কর্তৃপক্ষ নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Chittagong Port Authority (CPA)",
+      "posts": "নিম্নমান সহকারী কাম কম্পিউটার অপারেটর (Lower Assistant cum Computer Operator) — ৮০টি • অফিস সহকারী কাম কম্পিউটার অপারেটর, চট্টগ্রাম বন্দর মহিলা কলেজ (Office Assistant cum Computer Operator) — ১টি",
+      "vacancy": 81,
+      "qualification": "Lower Assistant cum Computer Operator: HSC pass with at least 2nd division (any group) — the circular's exact requirement for this post; bachelor's degree holders get preference. A trade certificate in English and Bengali typing is required, with the government-prescribed minimum speeds for word processing, data entry and typing: Bengali 20 wpm and English 20 wpm. Office Assistant cum Computer Operator (Chittagong Port Women's College): HSC pass with 2nd class or equivalent GPA from a recognized board, with minimum data-entry and typing speeds of Bengali 20 wpm and English 20 wpm. Age up to 32 (as of 8 Dec 2026).",
+      "salary": "Grade-16 — ৳21,900–52,900 (National Pay Scale 2026)",
+      "startDate": "2026-11-08",
+      "deadline": "2026-12-08",
+      "deadlineTime": "23:59",
+      "fee": "৳100 (paid online on the CPA portal — there is no Teletalk SMS payment for this circular; the fee can be paid until 10 Dec 2026)",
+      "applyUrl": "https://cpadigital.gov.bd/jobs",
+      "sourceUrl": "https://bdgovt.info/cpa-job-circular/",
+      "published": "2026-10-25",
+      "note": "Circular no. 04/2026 (memo 18.13.0000.181.11.09-2025/334, 25 Oct 2026) advertises 393 permanent revenue-budget posts in 22 categories at the Chittagong Port Authority — of them, these two HSC posts are open to you under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). Apply online at cpadigital.gov.bd/jobs (fill the form in Unicode Bengali) and pay the ৳100 fee online through the portal's Pay Now option (bKash / Rocket / Nagad / card). Verified against the official circular's own post table — one job site's summary table swaps this post with the Junior Auditor row; the official table gives the Lower Assistant cum Computer Operator post 80 posts.",
+      "grade": "Grade-16",
+      "category": "ICT",
+      "track": "diploma",
+      "location": "চট্টগ্রাম",
+      "pdfUrl": ""
+    },
+    {
+      "id": "bfri-office-assistant-2026",
+      "title": "বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Bangladesh Fisheries Research Institute (BFRI)",
+      "posts": "অফিস সহায়ক (Office Assistant) — ১০টি",
+      "vacancy": 10,
+      "qualification": "SSC (Secondary School Certificate) or equivalent pass from a recognized board — the circular's exact requirement for this post (কোন স্বীকৃত বোর্ড হইতে মাধ্যমিক স্কুল সার্টিফিকেট (এসএসসি) বা সমমানের পরীক্ষায় উত্তীর্ণ). Age 18–32 (as of 1 Nov 2026, counted from the SSC certificate).",
+      "salary": "Grade-20 — ৳20,000–48,400 (National Pay Scale)",
+      "startDate": "2026-11-10",
+      "deadline": "2026-12-10",
+      "deadlineTime": "17:00",
+      "fee": "৳56 (Teletalk — ৳50 fee + ৳6 service charge)",
+      "applyUrl": "https://fri.teletalk.com.bd",
+      "sourceUrl": "https://www.jugantor.com/job-seek/1182495",
+      "published": "2026-11-05",
+      "note": "This circular (5 Nov 2026) advertises 81 posts in 11 categories at the Bangladesh Fisheries Research Institute, Mymensingh — of them, the Office Assistant post (10 posts, permanent) requires only an SSC pass, so it is open to you as a Diploma holder. Apply online at fri.teletalk.com.bd and pay the ৳56 fee by Teletalk SMS within 72 hours. Verified against the official circular PDF.",
+      "grade": "Grade-20",
+      "category": "General",
+      "track": "diploma",
+      "location": "ময়মনসিংহ",
+      "pdfUrl": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-fri/2026/10/56aa2428-0d8e-4748-ac81-3078a6987661.pdf"
     }
   ]
 }
