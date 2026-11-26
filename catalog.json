@@ -578,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 14,
-   "versionName": "1.13",
-   "size": 582643,
+   "code": 15,
+   "versionName": "1.14",
+   "size": 599027,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "The fix update, from your screenshots: the joystick is always on screen now, real recorded footsteps replace the thud, the characters and the cat are rebuilt whole (cat assembled, orange kameez, no bun), heads no longer poke through car roofs, the first-person cabin shows dash, wheel and mirror, headlights are soft light instead of yellow slabs, and character switching moves the camera, not the people. New: three pistols with scope zoom and return fire, a GTA-style phone (calls, food, taxi, gun shop, your 14-vehicle collection to spawn), car-theft chases, drivers and passengers in traffic, buses with passengers, far busier streets and shops everywhere, and races that start with a car ready.",
-   "ts": 1795698082,
-   "etag": "0x8DF4BBD588499E7"
+   "changes": "The everything update, built the way you ordered: the crash is fixed, the game now starts in your own room (you wake on your bed, Minu and Pushi the cat at home, everything doable in the room, then out the door into free roam with no mission forced), driving shows real steering and GAS/BRK pedals, any street car can be taken with the GET IN button, and your phone's vehicles spawn beside you (all 14 owned from the start). New base systems: XP and levels, story chapter 1, the Scorpions gang, a tea-stall business, ambulance calls, a university exam, the mosque, stadium games, zoo tickets, a bag and market groceries, and a completion % on the Stats page — 39 of the blueprint's 40 sections are now in the game; only multiplayer waits, because it needs servers.",
+   "ts": 1795701722,
+   "etag": "0x8DF4BC5D21DF36E"
   },
   {
    "pkg": "hasu.os.study",
