@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 249,
-   "versionName": "2.56",
-   "size": 117085505,
+   "code": 250,
+   "versionName": "2.57",
+   "size": 115365185,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "Now the download shows itself on the app page, unmissably. Tap ⬇ Update and the button itself fills with the download as it runs and reads Downloading… NN%; a slim line under the app's header shows the MB landing (30 MB of 67 MB), and the ring still fills around the app's icon. Open an app's page while the store is downloading it by itself and the page is already showing all of that — and when the download lands, the page turns into Install by itself. If that app is already downloading, tapping Update now says so, instead of seeming to do nothing.",
-   "ts": 1795588348,
-   "etag": "0x8DF4ABDCD63A532"
+   "changes": "HasuStore 2.57 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795659199,
+   "etag": "0x8DF4B62D143C558"
   },
   {
    "pkg": "hasu.os.tasbih",
