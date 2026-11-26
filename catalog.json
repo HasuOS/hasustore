@@ -630,13 +630,13 @@
    "name": "HasuDiary",
    "tag": "Private diary with PIN lock",
    "desc": "A private diary behind a 4-digit PIN — dated entries with a mood and a photo, search, and everything kept only on the phone.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 1915567,
+   "code": 4,
+   "versionName": "1.03",
+   "size": 199343,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/diary.apk",
-   "changes": "1.02: Bare-glyph UI (his standing rule): every button and icon now stands on its own \u2014 no border ring, no filled plate behind headers, rows, toolbars, dialogs or menus; a picked state shows in the glyph's own accent colour and glow (the mood picker included). Content cards and text fields keep their glass, exactly as the rule scopes it. On top of 1.01's full family port.",
-   "ts": 1795649617,
-   "etag": "0x8DF4B4C82ED584C"
+   "changes": "HasuDiary 1.03 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795654845,
+   "etag": "0x8DF4B58B1A2BB1F"
   },
   {
    "pkg": "hasu.os.book",
