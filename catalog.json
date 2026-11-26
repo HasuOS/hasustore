@@ -162,13 +162,13 @@
    "name": "HasuHabit",
    "tag": "Habit tracker",
    "desc": "Habit tracker — build good habits with streaks, week dots and monthly completion. Tap to mark each day done.",
-   "code": 12,
-   "versionName": "1.11",
-   "size": 1844359,
+   "code": 13,
+   "versionName": "1.12",
+   "size": 128135,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/habit.apk",
-   "changes": "The Permissions text strip is gone from the top — Permissions is now the lock icon in the header, beside its live toggle. The About page gains a Developer card with the new HasuOS brand logo and Hasu's contact email — tap the email to write to him directly.",
-   "ts": 1795583774,
-   "etag": "0x8DF4AB3202A90C2"
+   "changes": "HasuHabit 1.12 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795657983,
+   "etag": "0x8DF4B60007837AE"
   },
   {
    "pkg": "hasu.os.health",
