@@ -617,13 +617,13 @@
    "name": "HasuTyping",
    "tag": "Typing speed practice",
    "desc": "Typing speed practice in English and Bangla — timed tests with live WPM and accuracy, best speeds and a test history.",
-   "code": 2,
-   "versionName": "1.01",
-   "size": 1932016,
+   "code": 3,
+   "versionName": "1.02",
+   "size": 211696,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/typing.apk",
-   "changes": "1.01 — Full family update: Look themes + icon packs, Settings with backup/restore, EN/BN, bare-glyph icons. (Catalog entry corrected — it was still listing the old 1.00 build.)",
-   "ts": 1795651204,
-   "etag": "0x8DF4B4DFAEA8B2F"
+   "changes": "HasuTyping 1.02 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795654776,
+   "etag": "0x8DF4B588789F7D9"
   },
   {
    "pkg": "hasu.os.diary",
