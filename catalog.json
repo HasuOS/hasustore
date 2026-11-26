@@ -578,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 16,
-   "versionName": "1.15",
-   "size": 689139,
+   "code": 17,
+   "versionName": "1.16",
+   "size": 693235,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Fault fixes: phone and gun buttons respond, vehicles spawn, the room door shows the street outside, mode cars and bikes drive, free roam has no forced mission, and missions now place a car beside you. Pushi the cat is a third playable character. Real ULTRA graphics tier with shadows. Real baked 3D vehicle models. Story chapter 2, gang reputation, TV and cooking at home, a restaurant business and bank interest.",
-   "ts": 1795707814,
-   "etag": "0x8DF4BD3CE84D61F"
+   "changes": "Hotfix: 1.15 crashed when the new baked vehicle models loaded (a baker script dropped a comma where the model data was split, fusing two numbers). The model data is regenerated and the loader is hardened - a bad model row can never crash the game again; that car simply falls back to its classic body. Everything from 1.15 is included: button fixes, playable cat, ULTRA graphics, story chapter 2.",
+   "ts": 1795710572,
+   "etag": "0x8DF4BDA6DFB9077"
   },
   {
    "pkg": "hasu.os.study",
