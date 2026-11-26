@@ -469,19 +469,7 @@
    "ts": 1795329593,
    "etag": "0x8DF48635BD4E37D"
   },
-  {
-   "pkg": "hasu.os.wall",
-   "name": "HasuWall",
-   "tag": "Your gallery & wallpapers",
-   "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
-   "code": 58,
-   "versionName": "2.21",
-   "size": 4884694,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
-   "changes": "NEW: ✨ Picks — twelve wallpapers built into the app itself (Moraine Lake, Alpenglow Peaks, Aurora Night, Beach Parasols, Foggy Forest, Sunflower Sunset, Deep Nebula, Coral Reef, Cherry Blossom, Autumn Path, Tropical Shore, City Mono), all public-domain / CC0 photographs from Wikimedia Commons, cropped to a full phone screen. Tap ✨ Picks on the bottom bar, tap any one to preview, edit, favourite and set it — no download, no internet, no permission. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until every permission is really on, blue only then, repainted on every return (the drawable was always blue). The Guide and About pages list both.",
-   "ts": 1795429467,
-   "etag": "0x8DF494BD6AB649A"
-  },
+  {"pkg": "hasu.os.wall", "name": "HasuWall", "tag": "Your gallery & wallpapers", "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.", "code": 59, "versionName": "2.22", "size": 5021739, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk", "changes": "Full family pass: the new HasuOS brand logo inside; bare-glyph launcher designs (your photo mark redrawn flat, plus Image, Play, Star and Folder) — no border, no tile, no glow. NEW: Look & icons — dark and light themes, per-page themes and icon packs that arrive by themselves with a notification naming what came, per-icon custom glyphs, pack/theme file import, and a full-screen preview you apply from. The whole app now speaks English or বাংলা from one Settings switch. Settings rebuilt in the family shape with your gallery switches kept, an honest Permissions hub, self-updates that download on their own (you only tap Install), and a typed settings backup covering language, look, gallery choices, icon packs and the backup setup — the Telegram token and encryption key never leave the phone. The gallery header, tabs, selection bar and bottom bar are now bare glyphs: the active one is simply the accent colour. Everything else — Picks, editors, live wallpapers, bin, backup — works exactly as before.", "ts": 1795660616, "etag": "0x8DF4B66089F070D"},
   {
    "pkg": "hasu.os.weather",
    "name": "HasuWeather",
