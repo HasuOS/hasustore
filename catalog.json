@@ -292,13 +292,13 @@
    "name": "HasuQuick",
    "tag": "Floating assistive ball",
    "desc": "A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.",
-   "code": 50,
-   "versionName": "2.25",
-   "size": 857806,
+   "code": 51,
+   "versionName": "2.26",
+   "size": 256805,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk",
-   "changes": "HasuQuick 2.25 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
-   "ts": 1795658368,
-   "etag": "0x8DF4B60E4A146DE"
+   "changes": "HasuQuick 2.26 — the full family port: Liquid Glass kit and glass dialogs everywhere; the header is now the permissions switch plus bare-glyph Look / Settings / About pills (no text strip, no plates — selection is accent + glow). Whole app in English or Bengali from one switch, panel labels and notifications included. Look: themes, icon sets and your own glyphs per surface (control page / app pages), each with its own feed — new icon packs and themes arrive by themselves and the app says what arrived. Five new bare-glyph launcher designs (Classic — your shipped ring-and-dot — Target, Ghost, Print, Pointer; white glyph, transparent background); the app-icon picker lives on the Look page now. The ball and its panel are untouched: same sixteen faces (Ghost included), same actions, same position memory. Permissions hub rebuilt honest: draw-over (the system-proof path), accessibility self-checked every panel open with the panel working without it, plus DND access, modify-settings, install and battery rows. Settings backup now covers the ball itself — position, face, panel theme, every panel switch and your panel apps. Background update check twice a day; updates download in the app, then only Install.",
+   "ts": 1795672491,
+   "etag": "0x8DF4B81B637B7EE"
   },
   {
    "pkg": "hasu.os.radio",
