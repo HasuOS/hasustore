@@ -383,13 +383,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 250,
-   "versionName": "2.57",
-   "size": 115365185,
+   "code": 251,
+   "versionName": "2.58",
+   "size": 115440647,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "HasuStore 2.57 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
-   "ts": 1795659199,
-   "etag": "0x8DF4B62D143C558"
+   "changes": "HasuStore 2.58 — the whole store now speaks Bengali as well as English (one switch in Settings); themes and a light mode arrived, with per-surface choices and a full-screen Preview; five launcher-icon designs; every icon inside can be changed one slot at a time, and icon packs and themes import from a file; Settings backup & restore (the login is never backed up); downloadable themes now arrive from the feed by themselves, like icon packs.",
+   "ts": 1795667120,
+   "etag": "0x8DF4B751DE1945A"
   },
   {"pkg": "hasu.os.tasbih", "name": "HasuTasbih", "tag": "Digital tasbih", "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.", "code": 10, "versionName": "1.09", "size": 215747, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk", "changes": "HasuTasbih 1.09 — the full family pass: Settings page with backup & restore (every count, round, target and total included), a full Guide in English and Bengali, Look & icons with per-page themes and icon sets that arrive by themselves, a Permissions page that shows the real state of every switch, an English/Bengali switch for the whole app, dark and light modes, self-update checks twice a day, and a bare white-glyph app icon — your beads — with four more designs to pick from. Counting works exactly as before: the four dhikr, the targets, the buzz and the volume keys are untouched.", "ts": 1795665043, "etag": "0x8DF4B70676CA666"},
   {
