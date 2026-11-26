@@ -1,28 +1,28 @@
 {
- "packs": [
-  {
-   "id": "aurora",
-   "name": "Aurora",
-   "zip": "packs/aurora.zip",
-   "size": 4246875
-  },
-  {
-   "id": "hasu-style",
-   "name": "Hasu Style",
-   "zip": "packs/hasu-style.zip",
-   "size": 1185899
-  },
-  {
-   "id": "outline",
-   "name": "Outline",
-   "zip": "packs/outline.zip",
-   "size": 310004
-  },
-  {
-   "id": "halftone",
-   "name": "Halftone Dots",
-   "zip": "packs/halftone.zip",
-   "size": 344011
-  }
- ]
+    "packs": [
+        {
+            "id": "aurora",
+            "name": "Aurora",
+            "zip": "packs/aurora.zip",
+            "size": 4246875
+        },
+        {
+            "id": "hasu-style",
+            "name": "Hasu Style",
+            "zip": "packs/hasu-style.zip",
+            "size": 1187696
+        },
+        {
+            "id": "outline",
+            "name": "Outline",
+            "zip": "packs/outline.zip",
+            "size": 310004
+        },
+        {
+            "id": "halftone",
+            "name": "Halftone Dots",
+            "zip": "packs/halftone.zip",
+            "size": 344011
+        }
+    ]
 }
