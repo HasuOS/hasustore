@@ -1,0 +1,252 @@
+{
+ "icons": {
+  "com.hasucam.camera": {
+   "md5": "3b55bc271f719f3021814eb2bd2dc37c",
+   "size": 41326
+  },
+  "hasu.os.assist": {
+   "md5": "b6e1f048391ae48c9dc9d3dc21c73bb7",
+   "size": 7724
+  },
+  "hasu.os.backup": {
+   "md5": "fa88ac99f745e8820e49bee5f7d2eae8",
+   "size": 39093
+  },
+  "hasu.os.battery": {
+   "md5": "e8f964f7e41e1273bc5f2dedc8155f5a",
+   "size": 33404
+  },
+  "hasu.os.book": {
+   "md5": "9a247d4d22e3dfcf60aa47cd9927b585",
+   "size": 7306
+  },
+  "hasu.os.browser": {
+   "md5": "2be98e2417b7275eb59b6384739ed2d9",
+   "size": 84387
+  },
+  "hasu.os.calc": {
+   "md5": "212be7a14f8f4fe00f80a487c12ce2c7",
+   "size": 36444
+  },
+  "hasu.os.calendar": {
+   "md5": "c8881967be985d60d0611a59c749570b",
+   "size": 9525
+  },
+  "hasu.os.call": {
+   "md5": "7846b5e2b358c664653956df542e6fff",
+   "size": 9601
+  },
+  "hasu.os.cell": {
+   "md5": "88493ba489271bc8e89e779d705067d0",
+   "size": 8193
+  },
+  "hasu.os.city": {
+   "md5": "d471614590bc07502fafca3c3104d48c",
+   "size": 21815
+  },
+  "hasu.os.clean": {
+   "md5": "f41a999197912dad448a19cbdf2857e3",
+   "size": 48206
+  },
+  "hasu.os.clock": {
+   "md5": "1d592ddebdceb68c5596266ebc386bc7",
+   "size": 15974
+  },
+  "hasu.os.community": {
+   "md5": "6d3e97ad7572f6a44187a1b7004b249e",
+   "size": 21584
+  },
+  "hasu.os.diary": {
+   "md5": "eaf258f2824f23a20ff276aaac7661db",
+   "size": 5054
+  },
+  "hasu.os.dice": {
+   "md5": "4b40da730b23d2fc8164634cca8f3d99",
+   "size": 11840
+  },
+  "hasu.os.down": {
+   "md5": "9f7d1292d4573720abb99b25185a43b9",
+   "size": 21164
+  },
+  "hasu.os.edit": {
+   "md5": "a6c2c84a4d84761be3aeeb37bd5b0a77",
+   "size": 24252
+  },
+  "hasu.os.files": {
+   "md5": "c7dcafb79cfb00c97121611b72eb0b3d",
+   "size": 1690
+  },
+  "hasu.os.gamebox": {
+   "md5": "f0cf3ab4056320018c5f3f14d2de09ca",
+   "size": 10101
+  },
+  "hasu.os.habit": {
+   "md5": "cb20b441930e88a6d080f6b6ded2168a",
+   "size": 9399
+  },
+  "hasu.os.hasu": {
+   "md5": "859be97a7f46381507c826d02ae9a597",
+   "size": 16503
+  },
+  "hasu.os.hasuos": {
+   "md5": "859be97a7f46381507c826d02ae9a597",
+   "size": 16503
+  },
+  "hasu.os.health": {
+   "md5": "6d10adaaa68c5d45a166dee54bd4175c",
+   "size": 8951
+  },
+  "hasu.os.home": {
+   "md5": "a43ccc10d6f45df0fea5fb8f352a5179",
+   "size": 43618
+  },
+  "hasu.os.island": {
+   "md5": "8169be42a962dff15f32712162bcf05e",
+   "size": 15207
+  },
+  "hasu.os.jobs": {
+   "md5": "ddc2b22bc6b09a07ba9ce4aa3e5d6e3c",
+   "size": 59324
+  },
+  "hasu.os.keyboard": {
+   "md5": "5f11f79c79548af98e150fb8866da40b",
+   "size": 32031
+  },
+  "hasu.os.khata": {
+   "md5": "41ff3990a9102b74c5c20ef1b3b12ef0",
+   "size": 6795
+  },
+  "hasu.os.lock": {
+   "md5": "27435726d3df332163399de3b3b1b744",
+   "size": 6780
+  },
+  "hasu.os.maps": {
+   "md5": "3a7f88af293f477e4b7d5c7903bcbfd2",
+   "size": 9197
+  },
+  "hasu.os.music": {
+   "md5": "5ef7f34d3f5b5c5a7938326b716b1070",
+   "size": 6735
+  },
+  "hasu.os.namaz": {
+   "md5": "7a3ff2931940c5708b788221b6d80160",
+   "size": 11888
+  },
+  "hasu.os.news": {
+   "md5": "ccd9026a51d1521a72cac6e93d9d8b23",
+   "size": 3650
+  },
+  "hasu.os.notes": {
+   "md5": "ab73d5a78858f9b35d2109fac8c71ca2",
+   "size": 4551
+  },
+  "hasu.os.pack": {
+   "md5": "06a9364ba3649c49c9d58f2a876c258d",
+   "size": 14079
+  },
+  "hasu.os.pdf": {
+   "md5": "d1f174808d37b246618c93ceaf608484",
+   "size": 4378
+  },
+  "hasu.os.quick": {
+   "md5": "afd350f300f5e999f83089a8a8b5047c",
+   "size": 13259
+  },
+  "hasu.os.quran": {
+   "md5": "105432a225b8596223fe7779b63aecb1",
+   "size": 9380
+  },
+  "hasu.os.radio": {
+   "md5": "757c5f8071f3783f3e4956d177670ee5",
+   "size": 23970
+  },
+  "hasu.os.scan": {
+   "md5": "de8065c6c389d78decc1dfa969e50523",
+   "size": 6234
+  },
+  "hasu.os.share": {
+   "md5": "333175dc8c7bcd5029426da32ee24829",
+   "size": 10701
+  },
+  "hasu.os.shikha": {
+   "md5": "60c0feea6e164138ab9f296299a14e65",
+   "size": 14676
+  },
+  "hasu.os.shorts": {
+   "md5": "aa4d338ce875e4b0d9b4f56ee7ea1034",
+   "size": 15792
+  },
+  "hasu.os.shot": {
+   "md5": "37fbb79555adc242ce15e20b199230f9",
+   "size": 8891
+  },
+  "hasu.os.sms": {
+   "md5": "98f03c95ce94f75bd6874d286fbfa17e",
+   "size": 21075
+  },
+  "hasu.os.speed": {
+   "md5": "689dfa1c2df9e805f5dbf63338049b96",
+   "size": 11728
+  },
+  "hasu.os.store": {
+   "md5": "2fb3008764ee1526567d72d6d5920c32",
+   "size": 8195
+  },
+  "hasu.os.study": {
+   "md5": "a4e0c15611566bb1f9e21da130802c22",
+   "size": 7340
+  },
+  "hasu.os.tasbih": {
+   "md5": "566f21169dd33adc4067be12beca3c5f",
+   "size": 12528
+  },
+  "hasu.os.task": {
+   "md5": "e2ab8cf45e04adfd50f707baa22283db",
+   "size": 6120
+  },
+  "hasu.os.tools": {
+   "md5": "64a1bf8ed185ca4e82abc40594a478d3",
+   "size": 18662
+  },
+  "hasu.os.tube": {
+   "md5": "aecde3b1ef79988d2b22411ef62ada73",
+   "size": 7382
+  },
+  "hasu.os.typing": {
+   "md5": "08dffe785dcf673e3127cee93eb01aba",
+   "size": 8788
+  },
+  "hasu.os.usage": {
+   "md5": "d7e0af0b833a32494c89c873bacdd207",
+   "size": 2955
+  },
+  "hasu.os.vault": {
+   "md5": "cde7014668b4b4351792668722d4fe62",
+   "size": 13117
+  },
+  "hasu.os.voice": {
+   "md5": "ff336df729069f07644c9d0694db1659",
+   "size": 7506
+  },
+  "hasu.os.wall": {
+   "md5": "2df4539407e54abe58e572c5a334e5d6",
+   "size": 7177
+  },
+  "hasu.os.wallet": {
+   "md5": "fa94ee861781c2c15013ef777df245bd",
+   "size": 10436
+  },
+  "hasu.os.weather": {
+   "md5": "7a7e59e09d47ad5462161c964b41544a",
+   "size": 9742
+  },
+  "hasu.os.web": {
+   "md5": "d3b8fd4c8273ae7545ee126e5f95180d",
+   "size": 24980
+  },
+  "hasu.os.widget": {
+   "md5": "031007095cff1739b141cb34be69f807",
+   "size": 25807
+  }
+ }
+}

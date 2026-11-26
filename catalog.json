@@ -253,26 +253,26 @@
    "name": "HasuNotes",
    "tag": "Notes",
    "desc": "Notes — quick private notes with pinning, colours and search. Auto-saves, no account, everything stays on your phone.",
-   "code": 12,
-   "versionName": "1.09",
-   "size": 54126,
+   "code": 13,
+   "versionName": "1.10",
+   "size": 215752,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/notes.apk",
-   "changes": "NEW: ↙ Import — bring notes back from a text file you choose. A file HasuNotes exported splits back into its separate notes, with their titles, pins and checklist marks intact; any other text file becomes one note. NEW: 🎨 Colour filter — tap a colour dot beside Sort to show only notes of that colour; tap it again, or the empty circle, to show them all — the choice sticks. FIXED: the About page’s last highlights no longer run together on one line — the Export and search lines were joined by a broken line-break, so they showed as one long row. NEW: the editor header now says when the note was last edited. The Guide and About pages list all four.",
-   "ts": 1795239212,
-   "etag": "0x8DF4790F36B1EF9"
+   "changes": "Full audit-and-complete pass: family design, language, backup and update systems.",
+   "ts": 1795676353,
+   "etag": "0x8DF4B87F226D25B"
   },
   {
    "pkg": "hasu.os.home",
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 138,
-   "versionName": "10.68",
-   "size": 17424180,
-   "changes": "HasuOS Home 10.68 — full family pass: the whole app now speaks English or Bangla from one Language switch in the hub; new icon designs and packs arriving from the feed now post a \"what was added\" notification (DesignSync, with its own on/off switch in the hub); updates are now also checked in the background twice a day and the update-ready alert actually arrives (the notifications permission was missing — now declared and listed on the Permissions page); hub rows are bare drawn glyphs now, no tiles; the About page hero shows your CURRENT launcher icon design; a backup made in the hub now restores fully in Home settings and back (string sets were silently dropped between the two writers); a feed design that changes now re-downloads its art instead of showing the old picture. The launcher engine is untouched.",
+   "code": 139,
+   "versionName": "10.69",
+   "size": 17428276,
+   "changes": "HasuOS Home 10.69 - icon fidelity (his order): an app the applied icon pack does not draw now keeps its OWN icon - the generic design-tile reshape is removed, so every app shows its own current icon, or the pack's own drawing for it, and nothing else. NEW: the pack/design applied here is now shared with HasuStore through a family-only provider, so the store shows the same pack the same way.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795674261,
-   "etag": "0x8DF4B85D9736C4C"
+   "ts": 1795676271,
+   "etag": "0x8DF4B8A1F7209EC"
   },
   {
    "pkg": "hasu.os.pdf",
@@ -359,13 +359,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 251,
-   "versionName": "2.58",
-   "size": 115440647,
+   "code": 252,
+   "versionName": "2.59",
+   "size": 116164668,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "HasuStore 2.58 — the whole store now speaks Bengali as well as English (one switch in Settings); themes and a light mode arrived, with per-surface choices and a full-screen Preview; five launcher-icon designs; every icon inside can be changed one slot at a time, and icon packs and themes import from a file; Settings backup & restore (the login is never backed up); downloadable themes now arrive from the feed by themselves, like icon packs.",
-   "ts": 1795667120,
-   "etag": "0x8DF4B751DE1945A"
+   "changes": "HasuStore 2.59 - every app shows its OWN icon: (1) all 62 catalog apps now carry their own icon picture in the store - served from the feed (store/icons) and kept fresh by itself, with the full set bundled as well - so the generic letter tile is left only for an icon that genuinely cannot be loaded anywhere; (2) the store now mirrors the icon pack applied in HasuOS Home and your per-app picks in HasuPack, through the same family channels Home uses - a pack or design you apply shows here the same way, and an app the pack does not draw keeps its own icon.",
+   "ts": 1795676271,
+   "etag": "0x8DF4B8A6B106E0C"
   },
   {"pkg": "hasu.os.tasbih", "name": "HasuTasbih", "tag": "Digital tasbih", "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.", "code": 10, "versionName": "1.09", "size": 215747, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk", "changes": "HasuTasbih 1.09 — the full family pass: Settings page with backup & restore (every count, round, target and total included), a full Guide in English and Bengali, Look & icons with per-page themes and icon sets that arrive by themselves, a Permissions page that shows the real state of every switch, an English/Bengali switch for the whole app, dark and light modes, self-update checks twice a day, and a bare white-glyph app icon — your beads — with four more designs to pick from. Counting works exactly as before: the four dhikr, the targets, the buzz and the volume keys are untouched.", "ts": 1795665043, "etag": "0x8DF4B70676CA666"},
   {
