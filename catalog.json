@@ -661,13 +661,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 44,
-   "versionName": "1.43",
-   "size": 2064077,
+   "code": 45,
+   "versionName": "1.44",
+   "size": 347853,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "HasuPhone 1.43 — launcher icon only: the gear is gone — the default icon is now the clean phone handset alone, bare white glyph on full transparency. Nothing else changed.",
-   "ts": 1795650533,
-   "etag": "0x8DF4B4EA5CFCCDA"
+   "changes": "HasuPhone 1.44 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795659281,
+   "etag": "0x8DF4B5AAB99E30C"
   },
   {
    "pkg": "hasu.os.cell",
