@@ -627,7 +627,7 @@
    "ts": 1795654958,
    "etag": "0x8DF4B58F2C94A2C"
   },
-  {"pkg": "hasu.os.community", "name": "HasuCommunity", "tag": "Messaging", "desc": "Chats with your people in HasuOS glass — bubbles, photo messages, seen ticks and group chats, all on this phone.", "code": 2, "versionName": "1.01", "size": 1944259, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/community.apk", "changes": "সম্পূর্ণ ফ্যামিলি পোর্ট: সেটিংস পেজ (ভাষা English/বাংলা, আপডেট ও নতুন ডিজাইনের সতর্কতা, শব্দ ও কম্পন, ব্যাকআপ — সব চ্যাটসহ), লুক ও আইকন (থিম, আইকন সেট, পাঁচটি অ্যাপ-আইকন ডিজাইন, প্রতিটি পেজের নিজের থিম, পুরো-স্ক্রিন প্রিভিউ), অ্যাপ নিজে নিজে আপডেট হয়, নতুন আইকন সেট ও থিম নিজে নিজে আসে, সব আইকন এখন Font Awesome ছবিতে, অর্ধেক লেখা বার্তা খসড়া হিসেবে নিজে নিজে সেভ হয়, গাইড এখন বাংলায়ও।", "ts": 1795621750, "etag": "0x8DF4B0B8ABA6891"},
+  {"pkg": "hasu.os.community", "name": "HasuCommunity", "tag": "Messaging", "desc": "Chats with your people in HasuOS glass — bubbles, photo messages, seen ticks and group chats, all on this phone.", "code": 3, "versionName": "1.02", "size": 228035, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/community.apk", "changes": "HasuCommunity 1.02 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.", "ts": 1795656284, "etag": "0x8DF4B591AA855DF"},
   {
    "pkg": "hasu.os.shorts",
    "name": "HasuShorts",
@@ -740,13 +740,13 @@
    "name": "HasuIsland",
    "tag": "The Dynamic Island, as its own app",
    "desc": "The Dynamic Island in its own app, connected to HasuOS Home: time, your song with play/pause, charging, incoming calls, timer and stopwatch — floating over every app. Living in its own app, a launcher restart can never take it down.",
-   "code": 8,
-   "versionName": "1.07",
-   "size": 191156,
+   "code": 7,
+   "versionName": "1.06",
+   "size": 1907380,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/island.apk",
-   "changes": "HasuIsland 1.07 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
-   "ts": 1795656232,
-   "etag": "0x8DF4B5BEBAE774D",
+   "changes": "Fixes from your screenshots: every app-icon design now shows its picture in Look (tiles + full preview) · the Battery (unrestricted) row now really opens the switch · the main screen no longer hides under the status bar — and neither do Look, Settings, Permissions, About or Guide",
+   "ts": 1795593001,
+   "etag": "0x8DF4AC8AD617502",
    "cat": "HasuOS"
   },
   {
