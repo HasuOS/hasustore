@@ -71,13 +71,13 @@
   "name": "HasuCalendar",
   "tag": "Calendar",
   "desc": "Calendar \u2014 month view with events, times and reminder notifications. Private, no account needed.",
-  "code": 32,
-  "versionName": "1.29",
-  "size": 1840049,
+  "code": 33,
+  "versionName": "1.30",
+  "size": 123825,
   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-  "changes": "icon শুধু glyph — border/background বাদ, তাঁর নির্দেশ",
-  "etag": "0x8DF4B4BEEE318AC",
-  "ts": 1795649379
+  "changes": "HasuCalendar 1.30 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+  "etag": "0x8DF4B586B489E6D",
+  "ts": 1795654730
 },
   {
    "pkg": "com.hasucam.camera",
