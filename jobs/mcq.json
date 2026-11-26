@@ -1,6 +1,6 @@
 {
-  "version": 79,
-  "generatedAt": 1795656109,
+  "version": 80,
+  "generatedAt": 1795657763,
   "subjects": [
     {
       "id": "bangla",
@@ -28862,6 +28862,435 @@
           ],
           "answer": 0,
           "why": "শেষের কবিতা ১৯২৯ সালে প্রকাশিত হয়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "চলন্ত",
+            "চল্",
+            "চলা",
+            "চালানো"
+          ],
+          "q": "‘চলন্ত’ শব্দের মূল ধাতু কোনটি?",
+          "why": "‘চলন্ত’ শব্দটি ‘চল্’ ধাতুর সঙ্গে ‘অন্ত’ প্রত্যয় যোগে গঠিত।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "ক্ত",
+            "অন",
+            "তৃচ্",
+            "তব্য"
+          ],
+          "q": "‘কর্তব্য’ শব্দে কোন প্রত্যয় যুক্ত হয়েছে?",
+          "why": "‘কৃ’ ধাতুর সঙ্গে ‘তব্য’ প্রত্যয় যোগে ‘কর্তব্য’ শব্দটি গঠিত।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "ইন",
+            "অক",
+            "তব্য",
+            "তৃচ্"
+          ],
+          "q": "‘দাতা’ শব্দে কোন প্রত্যয় রয়েছে?",
+          "why": "‘দা’ ধাতুর সঙ্গে ‘তৃচ্’ প্রত্যয় যোগে ‘দাতা’ শব্দটি গঠিত।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "আধিক্য",
+            "নিকৃষ্ট",
+            "বিপরীত",
+            "উত্তম"
+          ],
+          "q": "‘অপমান’ শব্দে ‘অপ’ উপসর্গটি কী অর্থে ব্যবহৃত হয়েছে?",
+          "why": "‘অপ’ উপসর্গ এখানে নিকৃষ্ট বা খারাপ অর্থ প্রকাশ করেছে।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "অভাব",
+            "খারাপ",
+            "উত্তম বা ভালো",
+            "বিপরীত"
+          ],
+          "q": "‘সুন্দর’ শব্দে ‘সু’ উপসর্গের অর্থ কী?",
+          "why": "‘সু’ উপসর্গ উত্তম বা ভালো অর্থ প্রকাশ করে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "পুনরাবৃত্তি",
+            "ভাবের গভীরতা",
+            "ধ্বনি",
+            "আধিক্য"
+          ],
+          "q": "‘বড় বড় আম’ — এখানে দ্বিরুক্ত শব্দটি কী বোঝাচ্ছে?",
+          "why": "‘বড় বড়’ দ্বিরুক্তিটি আকারের আধিক্য বোঝাচ্ছে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "পুনরাবৃত্তিমূলক",
+            "ভাবাত্মক",
+            "অব্যয়াত্মক",
+            "ধ্বন্যাত্মক"
+          ],
+          "q": "‘ঝিরঝির বৃষ্টি পড়ছে’ — ‘ঝিরঝির’ কোন ধরনের দ্বিরুক্তি?",
+          "why": "‘ঝিরঝির’ শব্দটি বৃষ্টির ধ্বনির অনুকরণে গঠিত ধ্বন্যাত্মক দ্বিরুক্তি।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "পুনরাবৃত্তি",
+            "আধিক্য",
+            "বিশেষণ",
+            "ধ্বনি"
+          ],
+          "q": "‘বছর বছর বন্যা হয়’ — এখানে দ্বিরুক্তিটি কী বোঝাচ্ছে?",
+          "why": "‘বছর বছর’ দ্বিরুক্তিটি ঘটনার পুনরাবৃত্তি বোঝাচ্ছে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "উভয়বচন",
+            "বহুবচন",
+            "একবচন",
+            "দ্বিবচন"
+          ],
+          "q": "‘বৃক্ষগুলো’ কোন বচন?",
+          "why": "‘গুলো’ যোগে ‘বৃক্ষগুলো’ বহুবচন হয়েছে।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "স্ত্রীলিঙ্গ",
+            "ক্লীবলিঙ্গ",
+            "পুংলিঙ্গ",
+            "উভয়লিঙ্গ"
+          ],
+          "q": "‘বালিকা’ শব্দটি কোন লিঙ্গ?",
+          "why": "‘বালিকা’ শব্দটি স্ত্রীলিঙ্গ, এর পুংলিঙ্গ রূপ ‘বালক’।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "শিক্ষয়িত্রী",
+            "শিক্ষক",
+            "শিক্ষার্থী",
+            "শিক্ষাবিদ"
+          ],
+          "q": "‘শিক্ষিকা’ শব্দের পুংলিঙ্গ রূপ কোনটি?",
+          "why": "‘শিক্ষিকা’ শব্দের পুংলিঙ্গ রূপ ‘শিক্ষক’।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "অতীত কাল",
+            "ভবিষ্যৎ কাল",
+            "বর্তমান কাল",
+            "ঘটমান অতীত"
+          ],
+          "q": "‘আমি পড়ি’ — বাক্যটি কোন কালের?",
+          "why": "‘পড়ি’ ক্রিয়াটি বর্তমান কালের রূপ।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "ভবিষ্যৎ কাল",
+            "অতীত কাল",
+            "বর্তমান কাল",
+            "নিত্যবৃত্ত বর্তমান"
+          ],
+          "q": "‘সে গিয়েছিল’ — বাক্যটি কোন কালের?",
+          "why": "‘গিয়েছিল’ ক্রিয়াটি অতীত কালের রূপ।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "ভবিষ্যৎ কাল",
+            "পুরাঘটিত বর্তমান",
+            "অতীত কাল",
+            "বর্তমান কাল"
+          ],
+          "q": "‘সে আসবে’ — বাক্যটি কোন কালের?",
+          "why": "‘আসবে’ ক্রিয়াটি ভবিষ্যৎ কালের রূপ।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "যৌগিক বাক্য",
+            "মিশ্র বাক্য",
+            "সরল বাক্য",
+            "জটিল বাক্য"
+          ],
+          "q": "‘রহিম স্কুলে যায়’ — বাক্যটি কোন ধরনের?",
+          "why": "এই বাক্যে একটিমাত্র সমাপিকা ক্রিয়া থাকায় এটি সরল বাক্য।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "খণ্ড বাক্য",
+            "যৌগিক বাক্য",
+            "জটিল বাক্য",
+            "সরল বাক্য"
+          ],
+          "q": "‘যে পরিশ্রম করে সে সফল হয়’ — বাক্যটি কোন ধরনের?",
+          "why": "এই বাক্যে একটি প্রধান খণ্ডবাক্য ও একটি আশ্রিত খণ্ডবাক্য থাকায় এটি জটিল বাক্য।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "যৌগিক বাক্য",
+            "জটিল বাক্য",
+            "সরল বাক্য",
+            "আশ্রিত বাক্য"
+          ],
+          "q": "‘সে পড়ে এবং লেখে’ — বাক্যটি কোন ধরনের?",
+          "why": "দুটি স্বাধীন খণ্ডবাক্য ‘এবং’ দিয়ে যুক্ত হওয়ায় এটি যৌগিক বাক্য।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "অপ্রিয় কথা",
+            "পরনির্ভরশীল বোঝা",
+            "প্রিয়জন",
+            "গলার হার"
+          ],
+          "q": "‘গলগ্রহ’ বাগধারাটির অর্থ কী?",
+          "why": "‘গলগ্রহ’ বাগধারাটির অর্থ পরের ঘাড়ে চাপা বোঝা বা পরনির্ভরশীল ব্যক্তি।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "উভচর",
+            "জলচর",
+            "স্থলচর",
+            "খেচর"
+          ],
+          "q": "‘যে জলে বাস করে’ — এককথায় প্রকাশ কোনটি?",
+          "why": "‘যে জলে বাস করে’ তাকে এককথায় ‘জলচর’ বলে।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "অনভিপ্রেত",
+            "অপ্রত্যাশিত",
+            "অভূতপূর্ব",
+            "অকল্পনীয়"
+          ],
+          "q": "‘যা পূর্বে ছিল না’ — এককথায় প্রকাশ কোনটি?",
+          "why": "‘যা পূর্বে ছিল না’ তাকে এককথায় ‘অভূতপূর্ব’ বলে।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "বহুদর্শী",
+            "বহুজ্ঞ",
+            "বহুভাষী",
+            "বহুশ্রুত"
+          ],
+          "q": "‘যিনি বহু দেখেছেন’ — এককথায় প্রকাশ কোনটি?",
+          "why": "‘যিনি বহু দেখেছেন’ তাকে এককথায় ‘বহুদর্শী’ বলে।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "দৃশ্যমান",
+            "অদৃশ্য",
+            "পরোক্ষ",
+            "অগোচর"
+          ],
+          "q": "‘যা চোখে দেখা যায়’ — এককথায় প্রকাশ কোনটি?",
+          "why": "‘যা চোখে দেখা যায়’ তাকে এককথায় ‘দৃশ্যমান’ বলে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "উপকারী",
+            "কৃতার্থ",
+            "কৃতঘ্ন",
+            "কৃতজ্ঞ"
+          ],
+          "q": "‘যে উপকারীর উপকার স্বীকার করে’ — এককথায় প্রকাশ কোনটি?",
+          "why": "‘যে উপকারীর উপকার স্বীকার করে’ তাকে এককথায় ‘কৃতজ্ঞ’ বলে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "মূমূর্ষু",
+            "মুমুর্ষু",
+            "মুমূর্ষূ",
+            "মুমূর্ষু"
+          ],
+          "q": "মরণাপন্ন অর্থের শব্দটির শুদ্ধ বানান কোনটি?",
+          "why": "‘মুমূর্ষু’ বানানটি শুদ্ধ।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "পুর্বাহ্ণ",
+            "পূর্বাহ্ন্ন",
+            "পূর্বাহ্ন",
+            "পূর্বাহ্ণ"
+          ],
+          "q": "দিনের প্রথম ভাগ অর্থের শব্দটির শুদ্ধ বানান কোনটি?",
+          "why": "‘পূর্বাহ্ণ’ বানানটি শুদ্ধ।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "অধ্যাবসায়",
+            "অধ্ববসায়",
+            "অধ্যবসায়",
+            "অদ্যবসায়"
+          ],
+          "q": "নিরন্তর প্রচেষ্টা অর্থের শব্দটির শুদ্ধ বানান কোনটি?",
+          "why": "‘অধ্যবসায়’ বানানটি শুদ্ধ।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "দাঁড়ি",
+            "কমা",
+            "বিস্ময়সূচক চিহ্ন",
+            "প্রশ্নবোধক চিহ্ন"
+          ],
+          "q": "বিস্ময় বা আবেগ প্রকাশে কোন যতিচিহ্ন ব্যবহৃত হয়?",
+          "why": "বিস্ময় বা আবেগ প্রকাশে বিস্ময়সূচক চিহ্ন (!) ব্যবহৃত হয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "পাঁচ",
+            "দুই",
+            "তিন",
+            "চার"
+          ],
+          "q": "বাংলা ছন্দ প্রধানত কয় প্রকার?",
+          "why": "বাংলা ছন্দ প্রধানত তিন প্রকার — স্বরবৃত্ত, মাত্রাবৃত্ত ও অক্ষরবৃত্ত।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "অনুপ্রাস",
+            "শ্লেষ",
+            "যমক",
+            "উপমা"
+          ],
+          "q": "একই ধ্বনির বারবার ব্যবহারে কোন অলংকার সৃষ্টি হয়?",
+          "why": "একই ধ্বনির বারবার ব্যবহারে অনুপ্রাস অলংকার সৃষ্টি হয়।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "ণত্ব বিধান",
+            "ষত্ব বিধান",
+            "সন্ধির নিয়ম",
+            "সমাসের নিয়ম"
+          ],
+          "q": "‘ঋণ’ শব্দে ‘ণ’ হয়েছে কোন বিধান অনুসারে?",
+          "why": "‘ঋ’-এর পরে ‘ণ’ হওয়ায় এটি ণত্ব বিধানের উদাহরণ।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "উপসর্গের নিয়ম",
+            "ষত্ব বিধান",
+            "প্রত্যয়ের নিয়ম",
+            "ণত্ব বিধান"
+          ],
+          "q": "‘কৃষক’ শব্দে ‘ষ’ হয়েছে কোন বিধান অনুসারে?",
+          "why": "‘ঋ’-কারের পরে ‘ষ’ হওয়ায় এটি ষত্ব বিধানের উদাহরণ।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "ই",
+            "বইটি",
+            "টি",
+            "বই"
+          ],
+          "q": "‘বইটি’ শব্দে পদাশ্রিত নির্দেশক কোনটি?",
+          "why": "‘বইটি’ শব্দে ‘টি’ পদাশ্রিত নির্দেশক।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "অনুসর্গ",
+            "বিভক্তি",
+            "উপসর্গ",
+            "প্রত্যয়"
+          ],
+          "q": "‘কলম দিয়ে লিখি’ — এখানে ‘দিয়ে’ কী?",
+          "why": "‘দিয়ে’ শব্দটি এখানে অনুসর্গ হিসেবে ব্যবহৃত হয়েছে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "উপসর্গ",
+            "অনুসর্গ",
+            "অব্যয়",
+            "বিভক্তি"
+          ],
+          "q": "‘বিনা অনুমতিতে যাওয়া যাবে না’ — এখানে ‘বিনা’ কী?",
+          "why": "‘বিনা’ শব্দটি এখানে অনুসর্গ হিসেবে ব্যবহৃত হয়েছে।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "শামসুর রাহমান",
+            "আল মাহমুদ",
+            "নির্মলেন্দু গুণ",
+            "সিকান্দার আবু জাফর"
+          ],
+          "q": "‘প্রেমাংশুর রক্ত চাই’ কার কাব্যগ্রন্থ?",
+          "why": "‘প্রেমাংশুর রক্ত চাই’ নির্মলেন্দু গুণের কাব্যগ্রন্থ।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "প্রমথ চৌধুরী",
+            "সুধীন্দ্রনাথ দত্ত",
+            "কাজী নজরুল ইসলাম",
+            "বুদ্ধদেব বসু"
+          ],
+          "q": "‘প্রগতি’ পত্রিকার সম্পাদক কে ছিলেন?",
+          "why": "‘প্রগতি’ পত্রিকার সম্পাদক ছিলেন বুদ্ধদেব বসু।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "আল মাহমুদ",
+            "গোলাম মোস্তফা",
+            "সুফিয়া কামাল",
+            "ফররুখ আহমদ"
+          ],
+          "q": "‘বিশ্বনবী’ কাব্যের রচয়িতা কে?",
+          "why": "‘বিশ্বনবী’ গোলাম মোস্তফার কাব্যগ্রন্থ।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+            "প্রমথ চৌধুরী",
+            "বুদ্ধদেব বসু",
+            "অন্নদাশঙ্কর রায়"
+          ],
+          "q": "‘পথে প্রবাসে’ ভ্রমণকাহিনির রচয়িতা কে?",
+          "why": "‘পথে প্রবাসে’ অন্নদাশঙ্কর রায়ের ভ্রমণকাহিনি।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "বিদ্যাপতি",
+            "জ্ঞানদাস",
+            "চণ্ডীদাস",
+            "গোবিন্দদাস"
+          ],
+          "q": "বৈষ্ণব পদাবলীর মৈথিলি ভাষার কবি কে?",
+          "why": "বিদ্যাপতি মৈথিলি ভাষায় বৈষ্ণব পদ রচনা করেছেন।"
         }
       ]
     },
@@ -56468,6 +56897,644 @@
           ],
           "answer": 0,
           "why": "Future indefinite-এর passive: will be + past participle।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "Every month",
+            "Very rarely",
+            "At night",
+            "On a holiday"
+          ],
+          "q": "Choose the meaning of 'once in a blue moon'.",
+          "why": "The idiom means something happens very rarely."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "He hurt himself",
+            "He said exactly the right thing",
+            "He fixed the roof",
+            "He guessed wrongly"
+          ],
+          "q": "He hit the nail on the head when he said the delay was caused by poor planning. What does the idiom mean?",
+          "why": "To hit the nail on the head means to say exactly the right thing."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "It was about food",
+            "It was very hard",
+            "It was unfair",
+            "It was very easy"
+          ],
+          "q": "The maths test was a piece of cake. What does this mean?",
+          "why": "A piece of cake means something very easy to do."
+        },
+        {
+          "answer": 0,
+          "options": [
+            "She was slightly ill",
+            "She was caught in rain",
+            "She was very happy",
+            "She was angry"
+          ],
+          "q": "She stayed home because she was feeling under the weather. What does this mean?",
+          "why": "To feel under the weather means to feel slightly ill."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "It was damaged",
+            "It was very cheap",
+            "It was very expensive",
+            "It was stolen"
+          ],
+          "q": "The new laptop cost an arm and a leg. What does this mean?",
+          "why": "To cost an arm and a leg means to be very expensive."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "She bought a cat",
+            "She cancelled the party",
+            "She hid the gifts",
+            "She revealed the secret by mistake"
+          ],
+          "q": "Rina let the cat out of the bag about the surprise party. What did she do?",
+          "why": "To let the cat out of the bag means to reveal a secret by mistake."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "At 11 o'clock in the morning",
+            "At the last possible moment",
+            "A day late",
+            "Before the deadline by a week"
+          ],
+          "q": "The team submitted the report at the eleventh hour. What does this mean?",
+          "why": "At the eleventh hour means at the last possible moment."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "A gift from a friend",
+            "A lucky guess",
+            "Something good that first seemed bad",
+            "A hidden prize"
+          ],
+          "q": "Losing that job turned out to be a blessing in disguise. What does this mean?",
+          "why": "A blessing in disguise is something good that first seemed bad."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "He lit a lamp",
+            "He wasted fuel",
+            "He studied late into the night",
+            "He slept early"
+          ],
+          "q": "He burned the midnight oil before the final examination. What did he do?",
+          "why": "To burn the midnight oil means to work or study late into the night."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "They felt cold",
+            "They deliberately ignored her",
+            "They helped her warmly",
+            "They laughed at her"
+          ],
+          "q": "When she asked for help, her classmates gave her the cold shoulder. What does this mean?",
+          "why": "To give someone the cold shoulder means to deliberately ignore them."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "Do not drink spoiled milk",
+            "Do not cry in public",
+            "Do not break things",
+            "Do not waste time regretting a past mistake"
+          ],
+          "q": "There is no use crying over spilt milk. What does the proverb mean?",
+          "why": "The proverb means it is useless to regret a past mistake that cannot be changed."
+        },
+        {
+          "answer": 0,
+          "options": [
+            "To do work cheaply by skipping proper steps",
+            "To shape a corner",
+            "To save time honestly",
+            "To measure carefully"
+          ],
+          "q": "The builder cut corners and the wall cracked within a year. What does 'cut corners' mean?",
+          "why": "To cut corners means to do work cheaply by skipping proper steps."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "To throw books away",
+            "To buy new books",
+            "To start studying seriously",
+            "To close the books"
+          ],
+          "q": "The examination is next week, so it is time to hit the books. What does this mean?",
+          "why": "To hit the books means to start studying seriously."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "Taking a hot bath",
+            "In serious trouble",
+            "Feeling very warm",
+            "Drinking hot tea"
+          ],
+          "q": "After missing the deadline, he found himself in hot water with his manager. What does this mean?",
+          "why": "To be in hot water means to be in serious trouble."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "He missed a ferry",
+            "He arrived early",
+            "He missed an opportunity",
+            "He caught the bus"
+          ],
+          "q": "He missed the boat by applying after the closing date. What does this mean?",
+          "why": "To miss the boat means to miss an opportunity."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "Travelling by plane",
+            "Feeling sleepy",
+            "Extremely happy",
+            "Very confused"
+          ],
+          "q": "After receiving the appointment letter, she was on cloud nine. What does this mean?",
+          "why": "To be on cloud nine means to be extremely happy."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "I was hurting you",
+            "I was joking with you",
+            "I was helping you walk",
+            "I was calling you"
+          ],
+          "q": "Do not worry, I was only pulling your leg. What does this mean?",
+          "why": "To pull someone's leg means to joke with them or tease them."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "Animals are falling from the sky",
+            "It is a light drizzle",
+            "It will snow soon",
+            "It is raining very heavily"
+          ],
+          "q": "Take an umbrella; it is raining cats and dogs outside. What does this mean?",
+          "why": "To rain cats and dogs means to rain very heavily."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "Through thick forests",
+            "Through good times and bad times",
+            "In good health only",
+            "For a short time"
+          ],
+          "q": "True friends stay together through thick and thin. What does this mean?",
+          "why": "Through thick and thin means through good times and bad times."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "It will happen soon",
+            "It will never happen",
+            "It will happen by air",
+            "It is very likely"
+          ],
+          "q": "He will finish the project on time - when pigs fly! What does this mean?",
+          "why": "When pigs fly means something will never happen."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "in",
+            "with",
+            "on",
+            "at"
+          ],
+          "q": "The officer knows how to deal ___ difficult customers.",
+          "why": "The correct collocation is 'deal with' someone or something."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "in",
+            "to",
+            "on",
+            "for"
+          ],
+          "q": "Success depends ___ hard work and patience.",
+          "why": "The correct collocation is 'depend on' something."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "by",
+            "of",
+            "from",
+            "with"
+          ],
+          "q": "Many people in the village suffer ___ lack of clean water.",
+          "why": "The correct collocation is 'suffer from' something."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "in",
+            "to",
+            "with",
+            "by"
+          ],
+          "q": "Every citizen must abide ___ the law of the country.",
+          "why": "The correct collocation is 'abide by' a rule or law."
+        },
+        {
+          "answer": 0,
+          "options": [
+            "of",
+            "in",
+            "by",
+            "with"
+          ],
+          "q": "The committee consists ___ five members.",
+          "why": "The correct collocation is 'consist of' something."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "to",
+            "from",
+            "of",
+            "against"
+          ],
+          "q": "Regular exercise prevents us ___ falling ill.",
+          "why": "The correct collocation is 'prevent someone from' doing something."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "for",
+            "with",
+            "about",
+            "of"
+          ],
+          "q": "The police accused him ___ stealing the money.",
+          "why": "The correct collocation is 'accuse someone of' something."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "to",
+            "for",
+            "of",
+            "about"
+          ],
+          "q": "She apologised ___ arriving late to the meeting.",
+          "why": "The correct collocation is 'apologise for' something."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "on",
+            "to",
+            "at",
+            "in"
+          ],
+          "q": "I firmly believe ___ honesty and hard work.",
+          "why": "The correct collocation is 'believe in' something."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "for",
+            "on",
+            "at",
+            "about"
+          ],
+          "q": "We congratulated him ___ his success in the examination.",
+          "why": "The correct collocation is 'congratulate someone on' something."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "than",
+            "from",
+            "to",
+            "with"
+          ],
+          "q": "Her plan is quite different ___ mine.",
+          "why": "The correct collocation is 'different from' something."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "from",
+            "to",
+            "against",
+            "of"
+          ],
+          "q": "The vaccine guards us ___ the disease.",
+          "why": "The correct collocation is 'guard against' something."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "to",
+            "for",
+            "in",
+            "on"
+          ],
+          "q": "He insisted ___ paying the bill himself.",
+          "why": "The correct collocation is 'insist on' doing something."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "on",
+            "of",
+            "for",
+            "with"
+          ],
+          "q": "She is jealous ___ her friend's success.",
+          "why": "The correct collocation is 'jealous of' someone or something."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "Silent",
+            "Fluent",
+            "Rude",
+            "Slow"
+          ],
+          "q": "Choose the synonym of 'eloquent'.",
+          "why": "'Eloquent' means fluent and persuasive in speech."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "Real",
+            "True",
+            "Fake",
+            "Honest"
+          ],
+          "q": "Choose the antonym of 'genuine'.",
+          "why": "'Fake' is the opposite of 'genuine'."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "Uncertain",
+            "Unavoidable",
+            "Impossible",
+            "Rare"
+          ],
+          "q": "Choose the synonym of 'inevitable'.",
+          "why": "'Inevitable' means unavoidable."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "Foolish",
+            "Hasty",
+            "Wise",
+            "Cruel"
+          ],
+          "q": "Choose the synonym of 'judicious'.",
+          "why": "'Judicious' means showing wise judgement."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "accomodate",
+            "acommodate",
+            "accommodate",
+            "accommodatte"
+          ],
+          "q": "The new hall can ___ more than three hundred guests at a time.",
+          "why": "'Accommodate' is spelled with double c and double m."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "burocracy",
+            "bureaucasy",
+            "bureaucracy",
+            "beurocracy"
+          ],
+          "q": "Too much ___ often slows down public services.",
+          "why": "'Bureaucracy' is the correct spelling of the word."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "collegue",
+            "colleague",
+            "colleage",
+            "colege"
+          ],
+          "q": "My ___ at the office helped me prepare the report.",
+          "why": "'Colleague' is the correct spelling of the word."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "definately",
+            "definitly",
+            "defenitely",
+            "definitely"
+          ],
+          "q": "I will ___ attend the training session tomorrow.",
+          "why": "'Definitely' is spelled with 'finite' inside it."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "embarras",
+            "embarass",
+            "embbarrass",
+            "embarrass"
+          ],
+          "q": "His careless remark did not ___ anyone in the room.",
+          "why": "'Embarrass' is spelled with double r and double s."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "florescent",
+            "fluorescent",
+            "flourescent",
+            "fluroscent"
+          ],
+          "q": "The office uses ___ lights to save electricity.",
+          "why": "'Fluorescent' is the correct spelling of the word."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "garantee",
+            "guarentee",
+            "garanty",
+            "guarantee"
+          ],
+          "q": "The company offers a two-year ___ on this machine.",
+          "why": "'Guarantee' is the correct spelling of the word."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "harrasment",
+            "harasment",
+            "harassment",
+            "harassmant"
+          ],
+          "q": "The office has a strict policy against workplace ___.",
+          "why": "'Harassment' is spelled with one r and double s."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "independant",
+            "independent",
+            "independend",
+            "indepandent"
+          ],
+          "q": "Bangladesh became ___ in 1971.",
+          "why": "'Independent' ends in -ent, not -ant."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "Bibliophile",
+            "Misanthrope",
+            "Philanthropist",
+            "Kleptomaniac"
+          ],
+          "q": "One who has an irresistible urge to steal is called a -",
+          "why": "A kleptomaniac has an irresistible urge to steal."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "Misanthrope",
+            "Egoist",
+            "Philanthropist",
+            "Miser"
+          ],
+          "q": "One who loves mankind and works for its welfare is called a -",
+          "why": "A philanthropist loves mankind and works for its welfare."
+        },
+        {
+          "answer": 1,
+          "options": [
+            "The proposal is approved by the committee yesterday.",
+            "The proposal was approved by the committee yesterday.",
+            "The proposal has been approved by the committee yesterday.",
+            "The proposal had approved by the committee yesterday."
+          ],
+          "q": "Choose the correct passive form of 'The committee approved the proposal yesterday.'",
+          "why": "The past simple active 'approved' becomes 'was approved' in the passive voice."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "The clerk writes the letter.",
+            "The clerk has written the letter.",
+            "The clerk wrote the letter.",
+            "The clerk is writing the letter."
+          ],
+          "q": "Choose the correct active form of 'The letter was written by the clerk.'",
+          "why": "The past simple passive 'was written' becomes 'wrote' in the active voice."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "He said that he will finish the report tomorrow.",
+            "He said that he would finish the report tomorrow.",
+            "He said that he would finish the report the next day.",
+            "He said that I would finish the report the next day."
+          ],
+          "q": "Choose the correct indirect speech of: He said, 'I will finish the report tomorrow.'",
+          "why": "In indirect speech 'will' becomes 'would' and 'tomorrow' becomes 'the next day'."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "Rahim asked me did I submit the form.",
+            "Rahim asked me whether I have submitted the form.",
+            "Rahim asked me that I submitted the form.",
+            "Rahim asked me whether I had submitted the form."
+          ],
+          "q": "Choose the correct indirect speech of: Rahim said to me, 'Did you submit the form?'",
+          "why": "A yes-no question in indirect speech uses 'whether' and the past perfect 'had submitted'."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "has left",
+            "leaves",
+            "had left",
+            "will leave"
+          ],
+          "q": "When I reached the station, the bus ___ already.",
+          "why": "The past perfect 'had left' shows the bus left before I reached the station."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "begins",
+            "has begun",
+            "will begin",
+            "began"
+          ],
+          "q": "Hardly had we entered the hall when the programme ___.",
+          "why": "After 'hardly had' the following clause takes the past simple 'began'."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "more",
+            "much",
+            "most",
+            "many"
+          ],
+          "q": "Of the three candidates, Nusrat spoke ___ clearly of all.",
+          "why": "The superlative 'most' is used when comparing three or more people."
+        },
+        {
+          "answer": 2,
+          "options": [
+            "longest",
+            "long",
+            "longer",
+            "more long"
+          ],
+          "q": "This route is ___ than the old one, but it is much safer.",
+          "why": "The comparative 'longer' is used when comparing two things."
+        },
+        {
+          "answer": 3,
+          "options": [
+            "faster",
+            "fastest",
+            "more fast",
+            "fast"
+          ],
+          "q": "No other player in the team runs as ___ as Arif.",
+          "why": "After 'as' in a comparison of equality, the positive degree 'fast' is used."
         }
       ]
     },
@@ -79442,6 +80509,534 @@
           ],
           "answer": 1,
           "why": "৫ ও ৭-এর লসাগু ৩৫।"
+        },
+        {
+          "q": "ক্রয়মূল্য ৬০০ টাকা ও বিক্রয়মূল্য ৭২০ টাকা হলে লাভের হার কত?",
+          "options": [
+            "১৫%",
+            "২০%",
+            "২৫%",
+            "৩০%"
+          ],
+          "answer": 1,
+          "why": "লাভ = ৭২০ − ৬০০ = ১২০ টাকা; লাভের হার = ১২০ ÷ ৬০০ × ১০০ = ২০%।"
+        },
+        {
+          "q": "ক্রয়মূল্য ৮০০ টাকা ও বিক্রয়মূল্য ৬৮০ টাকা হলে ক্ষতির হার কত?",
+          "options": [
+            "১০%",
+            "১২%",
+            "১৫%",
+            "১৮%"
+          ],
+          "answer": 2,
+          "why": "ক্ষতি = ৮০০ − ৬৮০ = ১২০ টাকা; ক্ষতির হার = ১২০ ÷ ৮০০ × ১০০ = ১৫%।"
+        },
+        {
+          "q": "৫০০ টাকায় কিনে ২৫% লাভে বিক্রয়মূল্য কত হবে?",
+          "options": [
+            "৬০০ টাকা",
+            "৬২৫ টাকা",
+            "৬৫০ টাকা",
+            "৬৭৫ টাকা"
+          ],
+          "answer": 1,
+          "why": "লাভ = ৫০০ × ২৫ ÷ ১০০ = ১২৫ টাকা; বিক্রয়মূল্য = ৫০০ + ১২৫ = ৬২৫ টাকা।"
+        },
+        {
+          "q": "১০০০ টাকায় কিনে ১২% ক্ষতিতে বিক্রয়মূল্য কত হবে?",
+          "options": [
+            "৮৬০ টাকা",
+            "৮৮০ টাকা",
+            "৯০০ টাকা",
+            "৯২০ টাকা"
+          ],
+          "answer": 1,
+          "why": "ক্ষতি = ১০০০ × ১২ ÷ ১০০ = ১২০ টাকা; বিক্রয়মূল্য = ১০০০ − ১২০ = ৮৮০ টাকা।"
+        },
+        {
+          "q": "আসল ১২০০ টাকা, হার ৮%, সময় ৩ বছর হলে সরল মুনাফা কত?",
+          "options": [
+            "২৪৮ টাকা",
+            "২৬৮ টাকা",
+            "২৮৮ টাকা",
+            "৩০৮ টাকা"
+          ],
+          "answer": 2,
+          "why": "সরল মুনাফা = ১২০০ × ৮ × ৩ ÷ ১০০ = ২৮৮ টাকা।"
+        },
+        {
+          "q": "আসল ২০০০ টাকা, হার ৬%, সময় ৫ বছর হলে সরল মুনাফা কত?",
+          "options": [
+            "৫০০ টাকা",
+            "৫৫০ টাকা",
+            "৬০০ টাকা",
+            "৬৫০ টাকা"
+          ],
+          "answer": 2,
+          "why": "সরল মুনাফা = ২০০০ × ৬ × ৫ ÷ ১০০ = ৬০০ টাকা।"
+        },
+        {
+          "q": "আসল ১৫০০ টাকা, হার ৪%, সময় ৪ বছর হলে সরল মুনাফা কত?",
+          "options": [
+            "২০০ টাকা",
+            "২২০ টাকা",
+            "২৪০ টাকা",
+            "২৬০ টাকা"
+          ],
+          "answer": 2,
+          "why": "সরল মুনাফা = ১৫০০ × ৪ × ৪ ÷ ১০০ = ২৪০ টাকা।"
+        },
+        {
+          "q": "চক্রবৃদ্ধি মুনাফায় আসল ৪০০০ টাকা, হার ৫%, ২ বছর পর মুনাফা-আসল কত হবে?",
+          "options": [
+            "৪৩২০ টাকা",
+            "৪৪১০ টাকা",
+            "৪৪৫০ টাকা",
+            "৪৫০০ টাকা"
+          ],
+          "answer": 1,
+          "why": "মুনাফা-আসল = ৪০০০ × (১.০৫)² = ৪০০০ × ১.১০২৫ = ৪৪১০ টাকা।"
+        },
+        {
+          "q": "চক্রবৃদ্ধি মুনাফায় আসল ১০০০০ টাকা, হার ১০%, ২ বছর পর মুনাফা-আসল কত হবে?",
+          "options": [
+            "১১০০০ টাকা",
+            "১২০০০ টাকা",
+            "১২১০০ টাকা",
+            "১২৫০০ টাকা"
+          ],
+          "answer": 2,
+          "why": "মুনাফা-আসল = ১০০০০ × (১.১)² = ১০০০০ × ১.২১ = ১২১০০ টাকা।"
+        },
+        {
+          "q": "চক্রবৃদ্ধি মুনাফায় আসল ২০০০ টাকা, হার ১০%, ২ বছর পর চক্রবৃদ্ধি মুনাফা কত হবে?",
+          "options": [
+            "৪০০ টাকা",
+            "৪২০ টাকা",
+            "৪৪০ টাকা",
+            "৪৬০ টাকা"
+          ],
+          "answer": 1,
+          "why": "মুনাফা-আসল = ২০০০ × (১.১)² = ২৪২০ টাকা; মুনাফা = ২৪২০ − ২০০০ = ৪২০ টাকা।"
+        },
+        {
+          "q": "৭, ১৪, ২১, ২৮ ও ৩৫ এর গড় কত?",
+          "options": [
+            "১৮",
+            "১৯",
+            "২১",
+            "২৩"
+          ],
+          "answer": 2,
+          "why": "যোগফল = ৭ + ১৪ + ২১ + ২৮ + ৩৫ = ১০৫; গড় = ১০৫ ÷ ৫ = ২১।"
+        },
+        {
+          "q": "৫টি সংখ্যার গড় ২৪ হলে সংখ্যাগুলোর যোগফল কত?",
+          "options": [
+            "১০০",
+            "১১০",
+            "১২০",
+            "১৩০"
+          ],
+          "answer": 2,
+          "why": "যোগফল = গড় × সংখ্যা = ২৪ × ৫ = ১২০।"
+        },
+        {
+          "q": "৬ ও ১৫ এর ল.সা.গু কত?",
+          "options": [
+            "৩০",
+            "৪৫",
+            "৬০",
+            "৯০"
+          ],
+          "answer": 0,
+          "why": "৬ = ২ × ৩ এবং ১৫ = ৩ × ৫; ল.সা.গু = ২ × ৩ × ৫ = ৩০।"
+        },
+        {
+          "q": "৯, ১২ ও ১৮ এর ল.সা.গু কত?",
+          "options": [
+            "৩৬",
+            "৫৪",
+            "৭২",
+            "১০৮"
+          ],
+          "answer": 0,
+          "why": "৯ = ৩², ১২ = ২² × ৩, ১৮ = ২ × ৩²; ল.সা.গু = ২² × ৩² = ৩৬।"
+        },
+        {
+          "q": "৪৮, ৬০ ও ৭২ এর গ.সা.গু কত?",
+          "options": [
+            "৬",
+            "১২",
+            "১৮",
+            "২৪"
+          ],
+          "answer": 1,
+          "why": "তিনটি সংখ্যাকেই ভাগ করে এমন সবচেয়ে বড় সংখ্যা ১২।"
+        },
+        {
+          "q": "৩ : ৫ অনুপাতে ৩২০ টাকা ভাগ করলে ছোট অংশ কত হবে?",
+          "options": [
+            "১০০ টাকা",
+            "১১০ টাকা",
+            "১২০ টাকা",
+            "১৩০ টাকা"
+          ],
+          "answer": 2,
+          "why": "মোট অংশ = ৩ + ৫ = ৮; ছোট অংশ = ৩২০ × ৩ ÷ ৮ = ১২০ টাকা।"
+        },
+        {
+          "q": "ক : খ = ৪ : ৭ এবং খ = ৬৩ হলে ক এর মান কত?",
+          "options": [
+            "২৮",
+            "৩২",
+            "৩৬",
+            "৪০"
+          ],
+          "answer": 2,
+          "why": "খ এর ৭ অংশ = ৬৩, তাই ১ অংশ = ৯; ক = ৪ × ৯ = ৩৬।"
+        },
+        {
+          "q": "দুটি সংখ্যার অনুপাত ২ : ৩ এবং তাদের যোগফল ৭৫ হলে বড় সংখ্যাটি কত?",
+          "options": [
+            "৩০",
+            "৪০",
+            "৪৫",
+            "৫০"
+          ],
+          "answer": 2,
+          "why": "মোট অংশ = ২ + ৩ = ৫; বড় সংখ্যা = ৭৫ × ৩ ÷ ৫ = ৪৫।"
+        },
+        {
+          "q": "পিতার বয়স ৪৫ বছর ও পুত্রের বয়স ১৫ বছর; ৫ বছর পর তাদের বয়সের অনুপাত কত হবে?",
+          "options": [
+            "৫ : ২",
+            "৩ : ১",
+            "২ : ১",
+            "৪ : ১"
+          ],
+          "answer": 0,
+          "why": "৫ বছর পর পিতা ৫০ ও পুত্র ২০ বছর; অনুপাত ৫০ : ২০ = ৫ : ২।"
+        },
+        {
+          "q": "রহিমের বয়স করিমের ৩ গুণ; করিমের বয়স ১২ বছর হলে রহিমের বয়স কত?",
+          "options": [
+            "৩০ বছর",
+            "৩২ বছর",
+            "৩৬ বছর",
+            "৪০ বছর"
+          ],
+          "answer": 2,
+          "why": "রহিমের বয়স = ১২ × ৩ = ৩৬ বছর।"
+        },
+        {
+          "q": "মা ও মেয়ের বয়সের সমষ্টি ৬০ বছর; মায়ের বয়স মেয়ের ৩ গুণ হলে মেয়ের বয়স কত?",
+          "options": [
+            "১২ বছর",
+            "১৫ বছর",
+            "১৮ বছর",
+            "২০ বছর"
+          ],
+          "answer": 1,
+          "why": "মোট অংশ = ৩ + ১ = ৪; মেয়ের বয়স = ৬০ ÷ ৪ = ১৫ বছর।"
+        },
+        {
+          "q": "৬ জন শ্রমিক একটি কাজ ১২ দিনে করে; ৯ জন শ্রমিক একই কাজ কত দিনে করবে?",
+          "options": [
+            "৬ দিন",
+            "৭ দিন",
+            "৮ দিন",
+            "৯ দিন"
+          ],
+          "answer": 2,
+          "why": "মোট কাজ = ৬ × ১২ = ৭২ জন-দিন; ৯ জন করবে ৭২ ÷ ৯ = ৮ দিনে।"
+        },
+        {
+          "q": "A একটি কাজ একা ২০ দিনে ও B একা ৩০ দিনে করে; একত্রে কাজটি কত দিনে শেষ হবে?",
+          "options": [
+            "১০ দিন",
+            "১২ দিন",
+            "১৫ দিন",
+            "১৮ দিন"
+          ],
+          "answer": 1,
+          "why": "১ দিনে করে ১/২০ + ১/৩০ = ৫/৬০ = ১/১২ অংশ; তাই সময় লাগবে ১২ দিন।"
+        },
+        {
+          "q": "২৪০ কিমি দূরত্ব ৪ ঘণ্টায় গেলে গড় বেগ কত?",
+          "options": [
+            "৫০ কিমি/ঘণ্টা",
+            "৫৫ কিমি/ঘণ্টা",
+            "৬০ কিমি/ঘণ্টা",
+            "৬৫ কিমি/ঘণ্টা"
+          ],
+          "answer": 2,
+          "why": "গড় বেগ = দূরত্ব ÷ সময় = ২৪০ ÷ ৪ = ৬০ কিমি/ঘণ্টা।"
+        },
+        {
+          "q": "১৫০ কিমি দূরত্ব ৫০ কিমি/ঘণ্টা বেগে যেতে কত সময় লাগবে?",
+          "options": [
+            "২ ঘণ্টা",
+            "২.৫ ঘণ্টা",
+            "৩ ঘণ্টা",
+            "৩.৫ ঘণ্টা"
+          ],
+          "answer": 2,
+          "why": "সময় = দূরত্ব ÷ বেগ = ১৫০ ÷ ৫০ = ৩ ঘণ্টা।"
+        },
+        {
+          "q": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৪ মিটার ও প্রস্থ ৯ মিটার হলে ক্ষেত্রফল কত?",
+          "options": [
+            "১১৬ বর্গমিটার",
+            "১২৬ বর্গমিটার",
+            "১৩৬ বর্গমিটার",
+            "১৪৬ বর্গমিটার"
+          ],
+          "answer": 1,
+          "why": "ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = ১৪ × ৯ = ১২৬ বর্গমিটার।"
+        },
+        {
+          "q": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১২ মিটার ও প্রস্থ ৮ মিটার হলে পরিসীমা কত?",
+          "options": [
+            "৩৬ মিটার",
+            "৪০ মিটার",
+            "৪৪ মিটার",
+            "৪৮ মিটার"
+          ],
+          "answer": 1,
+          "why": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (১২ + ৮) = ৪০ মিটার।"
+        },
+        {
+          "q": "একটি বর্গক্ষেত্রের বাহু ১১ মিটার হলে ক্ষেত্রফল কত?",
+          "options": [
+            "১১১ বর্গমিটার",
+            "১২১ বর্গমিটার",
+            "১৩১ বর্গমিটার",
+            "১৪১ বর্গমিটার"
+          ],
+          "answer": 1,
+          "why": "ক্ষেত্রফল = বাহু² = ১১ × ১১ = ১২১ বর্গমিটার।"
+        },
+        {
+          "q": "ধারাটির পরের সংখ্যাটি কত? ৫, ১১, ১৭, ২৩, ?",
+          "options": [
+            "২৭",
+            "২৯",
+            "৩১",
+            "৩৩"
+          ],
+          "answer": 1,
+          "why": "পার্থক্য প্রতিবার ৬; ২৩ + ৬ = ২৯।"
+        },
+        {
+          "q": "ধারাটির পরের সংখ্যাটি কত? ২, ৪, ৮, ১৬, ৩২, ?",
+          "options": [
+            "৪৮",
+            "৫৬",
+            "৬৪",
+            "৭২"
+          ],
+          "answer": 2,
+          "why": "প্রতিটি সংখ্যা আগেরটির দ্বিগুণ; ৩২ × ২ = ৬৪।"
+        },
+        {
+          "q": "৬³ এর মান কত?",
+          "options": [
+            "১৯৬",
+            "২০৬",
+            "২১৬",
+            "২২৬"
+          ],
+          "answer": 2,
+          "why": "৬ × ৬ × ৬ = ২১৬।"
+        },
+        {
+          "q": "√৪৮৪ এর মান কত?",
+          "options": [
+            "২০",
+            "২১",
+            "২২",
+            "২৩"
+          ],
+          "answer": 2,
+          "why": "২২ × ২২ = ৪৮৪, তাই √৪৮৪ = ২২।"
+        },
+        {
+          "q": "১৫ + ২৫ × ২ এর মান কত?",
+          "options": [
+            "৫৫",
+            "৬০",
+            "৬৫",
+            "৭০"
+          ],
+          "answer": 2,
+          "why": "গুণ আগে করতে হয়: ২৫ × ২ = ৫০; তারপর ১৫ + ৫০ = ৬৫।"
+        },
+        {
+          "q": "(১৮ − ৬) ÷ ৩ + ৪ এর মান কত?",
+          "options": [
+            "৬",
+            "৭",
+            "৮",
+            "৯"
+          ],
+          "answer": 2,
+          "why": "বন্ধনী আগে: ১৮ − ৬ = ১২; ১২ ÷ ৩ = ৪; ৪ + ৪ = ৮।"
+        },
+        {
+          "q": "২৫ × ৪ − ৩০ এর মান কত?",
+          "options": [
+            "৬০",
+            "৬৫",
+            "৭০",
+            "৭৫"
+          ],
+          "answer": 2,
+          "why": "২৫ × ৪ = ১০০; ১০০ − ৩০ = ৭০।"
+        },
+        {
+          "q": "২০২৬ সালের ২৬ মার্চ কোন বার ছিল?",
+          "options": [
+            "শুক্রবার",
+            "বৃহস্পতিবার",
+            "শনিবার",
+            "রবিবার"
+          ],
+          "answer": 1,
+          "why": "২০২৬ সালের ২৬ মার্চ ছিল বৃহস্পতিবার।"
+        },
+        {
+          "q": "২০২৬ সালের ১৫ আগস্ট কোন বার?",
+          "options": [
+            "শুক্রবার",
+            "শনিবার",
+            "রবিবার",
+            "সোমবার"
+          ],
+          "answer": 1,
+          "why": "২০২৬ সালের ১৫ আগস্ট ছিল শনিবার।"
+        },
+        {
+          "q": "২০২৭ সালের ১ জানুয়ারি কোন বার হবে?",
+          "options": [
+            "বৃহস্পতিবার",
+            "শুক্রবার",
+            "শনিবার",
+            "রবিবার"
+          ],
+          "answer": 1,
+          "why": "২০২৭ সালের ১ জানুয়ারি হবে শুক্রবার।"
+        },
+        {
+          "q": "ঘড়িতে ৪টা বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?",
+          "options": [
+            "৯০°",
+            "১২০°",
+            "১৫০°",
+            "১৮০°"
+          ],
+          "answer": 1,
+          "why": "প্রতি ঘণ্টায় কোণ ৩০°; ৪ × ৩০° = ১২০°।"
+        },
+        {
+          "q": "ঘড়িতে ২টা ৩০ মিনিটে ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?",
+          "options": [
+            "৭৫°",
+            "৯০°",
+            "১০৫°",
+            "১২০°"
+          ],
+          "answer": 2,
+          "why": "ঘণ্টার কাঁটা ২.৫ × ৩০° = ৭৫°, মিনিটের কাঁটা ৩০ × ৬° = ১৮০°; পার্থক্য = ১৮০° − ৭৫° = ১০৫°।"
+        },
+        {
+          "q": "একটি ঝুড়িতে ৫টি লাল ও ৩টি নীল বল আছে; একটি বল তুললে লাল হওয়ার সম্ভাবনা কত?",
+          "options": [
+            "৩/৮",
+            "৫/৮",
+            "৫/৩",
+            "৩/৫"
+          ],
+          "answer": 1,
+          "why": "মোট বল = ৫ + ৩ = ৮টি; লাল বল ৫টি, তাই সম্ভাবনা = ৫/৮।"
+        },
+        {
+          "q": "৩x + ৯ = ২৪ হলে x এর মান কত?",
+          "options": [
+            "৪",
+            "৫",
+            "৬",
+            "৭"
+          ],
+          "answer": 1,
+          "why": "৩x = ২৪ − ৯ = ১৫; x = ১৫ ÷ ৩ = ৫।"
+        },
+        {
+          "q": "৭x − ১৪ = ৩৫ হলে x এর মান কত?",
+          "options": [
+            "৫",
+            "৬",
+            "৭",
+            "৮"
+          ],
+          "answer": 2,
+          "why": "৭x = ৩৫ + ১৪ = ৪৯; x = ৪৯ ÷ ৭ = ৭।"
+        },
+        {
+          "q": "একটি ত্রিভুজের দুটি কোণ ৭০° ও ৬০° হলে তৃতীয় কোণ কত?",
+          "options": [
+            "৪০°",
+            "৫০°",
+            "৬০°",
+            "৭০°"
+          ],
+          "answer": 1,
+          "why": "ত্রিভুজের তিন কোণের সমষ্টি ১৮০°; তৃতীয় কোণ = ১৮০° − (৭০° + ৬০°) = ৫০°।"
+        },
+        {
+          "q": "একটি সমকোণী ত্রিভুজের একটি সূক্ষ্মকোণ ৩৫° হলে অপর সূক্ষ্মকোণ কত?",
+          "options": [
+            "৪৫°",
+            "৫৫°",
+            "৬৫°",
+            "৭৫°"
+          ],
+          "answer": 1,
+          "why": "সমকোণী ত্রিভুজে অপর দুই কোণের সমষ্টি ৯০°; ৯০° − ৩৫° = ৫৫°।"
+        },
+        {
+          "q": "৪, ৮, ১৫, ১৬, ২৩, ৪২ সংখ্যাগুলোর গড় কত?",
+          "options": [
+            "১৫",
+            "১৬",
+            "১৭",
+            "১৮"
+          ],
+          "answer": 3,
+          "why": "যোগফল = ৪ + ৮ + ১৫ + ১৬ + ২৩ + ৪২ = ১০৮; গড় = ১০৮ ÷ ৬ = ১৮।"
+        },
+        {
+          "q": "২, ৩, ৩, ৫, ৭, ৩ সংখ্যাগুলোর প্রচুরক কত?",
+          "options": [
+            "২",
+            "৩",
+            "৫",
+            "৭"
+          ],
+          "answer": 1,
+          "why": "৩ সংখ্যাটি সবচেয়ে বেশি বার (৩ বার) এসেছে, তাই প্রচুরক ৩।"
+        },
+        {
+          "q": "নিচের কোনটি মৌলিক সংখ্যা?",
+          "options": [
+            "২১",
+            "২৫",
+            "২৭",
+            "২৯"
+          ],
+          "answer": 3,
+          "why": "২৯-এর উৎপাদক শুধু ১ ও ২৯; ২১ = ৩ × ৭, ২৫ = ৫ × ৫, ২৭ = ৩ × ৯।"
         }
       ]
     },
@@ -102272,6 +103867,380 @@
           ],
           "answer": 1,
           "why": "হীরা কার্বনের রূপভেদ।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "৬১টি",
+            "৬২টি",
+            "৬৪টি",
+            "৬৬টি"
+          ],
+          "q": "বাংলাদেশে মোট জেলার সংখ্যা কত?",
+          "why": "বাংলাদেশে মোট ৬৪টি জেলা রয়েছে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "৭টি",
+            "৮টি",
+            "৯টি",
+            "১০টি"
+          ],
+          "q": "বাংলাদেশে মোট বিভাগের সংখ্যা কত?",
+          "why": "বাংলাদেশে মোট ৮টি বিভাগ রয়েছে।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "পদ্মা",
+            "মেঘনা",
+            "যমুনা",
+            "কর্ণফুলী"
+          ],
+          "q": "ব্রহ্মপুত্র নদ বাংলাদেশে প্রবেশ করে কোন নামে পরিচিত হয়?",
+          "why": "ব্রহ্মপুত্র নদ বাংলাদেশে যমুনা নামে প্রবাহিত হয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "১৯৯৫ সালে",
+            "১৯৯৬ সালে",
+            "১৯৯৭ সালে",
+            "১৯৯৯ সালে"
+          ],
+          "q": "সুন্দরবন কত সালে ইউনেস্কোর বিশ্ব ঐতিহ্যের তালিকায় স্থান পায়?",
+          "why": "সুন্দরবন ১৯৯৭ সালে বিশ্ব ঐতিহ্যের তালিকায় স্থান পায়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "১০০ কিলোমিটার",
+            "১১০ কিলোমিটার",
+            "১২০ কিলোমিটার",
+            "১৫০ কিলোমিটার"
+          ],
+          "q": "কক্সবাজার সমুদ্রসৈকতের দৈর্ঘ্য প্রায় কত কিলোমিটার?",
+          "why": "কক্সবাজার সমুদ্রসৈকত প্রায় ১২০ কিলোমিটার দীর্ঘ।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "পল্টন ময়দান",
+            "সোহরাওয়ার্দী উদ্যান (রেসকোর্স ময়দান)",
+            "ঢাকা বিশ্ববিদ্যালয়",
+            "জাতীয় সংসদ ভবন"
+          ],
+          "q": "বঙ্গবন্ধু শেখ মুজিবুর রহমান ৭ মার্চের ভাষণ কোথায় দেন?",
+          "why": "৭ মার্চের ভাষণ ঢাকার রেসকোর্স ময়দানে (বর্তমান সোহরাওয়ার্দী উদ্যান) দেওয়া হয়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "চিন্তার স্বাধীনতা",
+            "মৌলিক প্রয়োজন",
+            "আইনের দৃষ্টিতে সমতা",
+            "ভোটাধিকার"
+          ],
+          "q": "সংবিধানের ১৫ অনুচ্ছেদের বিষয়বস্তু কী?",
+          "why": "সংবিধানের ১৫ অনুচ্ছেদে নাগরিকদের মৌলিক প্রয়োজন মেটানোর কথা বলা হয়েছে।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "শিক্ষা",
+            "স্বাস্থ্য",
+            "ভাষা",
+            "ধর্ম"
+          ],
+          "q": "সংবিধানের ১৭ অনুচ্ছেদে কোন বিষয়ে বলা হয়েছে?",
+          "why": "সংবিধানের ১৭ অনুচ্ছেদে অবৈতনিক ও বাধ্যতামূলক শিক্ষার কথা বলা হয়েছে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "মত প্রকাশের স্বাধীনতা",
+            "আইনের দৃষ্টিতে সমতা",
+            "চলাফেরার স্বাধীনতা",
+            "সম্পত্তির অধিকার"
+          ],
+          "q": "সংবিধানের ২৭ অনুচ্ছেদে কী নিশ্চিত করা হয়েছে?",
+          "why": "সংবিধানের ২৭ অনুচ্ছেদে আইনের দৃষ্টিতে সবার সমতার কথা বলা হয়েছে।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "চিন্তা ও বিবেকের স্বাধীনতা",
+            "ভোটের স্বাধীনতা",
+            "পেশার স্বাধীনতা",
+            "আন্দোলনের স্বাধীনতা"
+          ],
+          "q": "সংবিধানের ৩৯ অনুচ্ছেদে কোন স্বাধীনতার কথা বলা হয়েছে?",
+          "why": "সংবিধানের ৩৯ অনুচ্ছেদে চিন্তা, বিবেক ও বাকস্বাধীনতার কথা বলা হয়েছে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "রাষ্ট্রপতি নির্বাচন",
+            "দলত্যাগ (ফ্লোর ক্রসিং)",
+            "জরুরি অবস্থা",
+            "সংবিধান সংশোধন"
+          ],
+          "q": "সংবিধানের ৭০ অনুচ্ছেদের বিষয় কী?",
+          "why": "সংবিধানের ৭০ অনুচ্ছেদে সংসদ সদস্যের দলত্যাগ বা ফ্লোর ক্রসিং নিষিদ্ধ করা হয়েছে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "৩০টি",
+            "৪০টি",
+            "৪৫টি",
+            "৫০টি"
+          ],
+          "q": "জাতীয় সংসদে নারীদের জন্য সংরক্ষিত আসন কয়টি?",
+          "why": "জাতীয় সংসদে নারীদের জন্য ৫০টি আসন সংরক্ষিত।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "১টি",
+            "২টি",
+            "৩টি",
+            "৪টি"
+          ],
+          "q": "বাংলাদেশের সুপ্রিম কোর্টের বিভাগ কয়টি?",
+          "why": "সুপ্রিম কোর্টের দুটি বিভাগ — আপিল বিভাগ ও হাইকোর্ট বিভাগ।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "২৬ মার্চ",
+            "২১ নভেম্বর",
+            "১৬ ডিসেম্বর",
+            "২১ ফেব্রুয়ারি"
+          ],
+          "q": "বাংলাদেশের সশস্ত্র বাহিনী দিবস কবে পালিত হয়?",
+          "why": "প্রতিবছর ২১ নভেম্বর সশস্ত্র বাহিনী দিবস পালিত হয়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "৪টি",
+            "৫টি",
+            "৬টি",
+            "১০টি"
+          ],
+          "q": "আসিয়ান (ASEAN) প্রতিষ্ঠাকালীন সদস্য দেশ কয়টি ছিল?",
+          "why": "আসিয়ান ১৯৬৭ সালে ৫টি দেশ নিয়ে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "২০০৬ সালে",
+            "২০০৯ সালে",
+            "২০১১ সালে",
+            "২০১৫ সালে"
+          ],
+          "q": "ব্রিক (BRIC) কত সালে গঠিত হয়?",
+          "why": "ব্রিক ২০০৯ সালে গঠিত হয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "জেনেভা",
+            "প্যারিস",
+            "নিউইয়র্ক",
+            "লন্ডন"
+          ],
+          "q": "ইউনিসেফের সদর দপ্তর কোথায়?",
+          "why": "ইউনিসেফের সদর দপ্তর যুক্তরাষ্ট্রের নিউইয়র্কে অবস্থিত।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "জার্মানি",
+            "আর্জেন্টিনা",
+            "ইতালি",
+            "ব্রাজিল"
+          ],
+          "q": "ফিফা বিশ্বকাপে সবচেয়ে বেশি বার চ্যাম্পিয়ন হয়েছে কোন দেশ?",
+          "why": "ব্রাজিল ৫ বার বিশ্বকাপ জিতে সবচেয়ে সফল দল।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "১৯৩০ সালে উরুগুয়ে",
+            "১৯৩৪ সালে ইতালি",
+            "১৯৩৮ সালে ফ্রান্স",
+            "১৯৫০ সালে ব্রাজিল"
+          ],
+          "q": "প্রথম ফিফা বিশ্বকাপ কত সালে অনুষ্ঠিত হয় এবং চ্যাম্পিয়ন হয় কোন দেশ?",
+          "why": "প্রথম বিশ্বকাপ ১৯৩০ সালে উরুগুয়েতে হয় এবং স্বাগতিক উরুগুয়েই চ্যাম্পিয়ন হয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "আফ্রিকা",
+            "ইউরোপ",
+            "এশিয়া",
+            "উত্তর আমেরিকা"
+          ],
+          "q": "আয়তনে বিশ্বের বৃহত্তম মহাদেশ কোনটি?",
+          "why": "এশিয়া আয়তনে বিশ্বের বৃহত্তম মহাদেশ।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "ইউরোপ",
+            "অস্ট্রেলিয়া",
+            "আন্টার্কটিকা",
+            "দক্ষিণ আমেরিকা"
+          ],
+          "q": "আয়তনে বিশ্বের ক্ষুদ্রতম মহাদেশ কোনটি?",
+          "why": "অস্ট্রেলিয়া আয়তনে বিশ্বের ক্ষুদ্রতম মহাদেশ।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "A গ্রুপ",
+            "B গ্রুপ",
+            "AB গ্রুপ",
+            "O গ্রুপ"
+          ],
+          "q": "সার্বজনীন রক্তদাতা কোন গ্রুপের রক্ত?",
+          "why": "O গ্রুপের রক্ত সবাইকে দেওয়া যায়, তাই O গ্রুপ সার্বজনীন দাতা।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "O গ্রুপ",
+            "A গ্রুপ",
+            "B গ্রুপ",
+            "AB গ্রুপ"
+          ],
+          "q": "সার্বজনীন রক্তগ্রহীতা কোন গ্রুপের রক্ত?",
+          "why": "AB গ্রুপের রক্ত সব গ্রুপ থেকে নেওয়া যায়, তাই AB গ্রুপ সার্বজনীন গ্রহীতা।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "সিসা",
+            "লোহা",
+            "তামা",
+            "দস্তা"
+          ],
+          "q": "Fe কোন মৌলের প্রতীক?",
+          "why": "Fe লোহা (Iron) মৌলের প্রতীক।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "রুপা",
+            "পারদ",
+            "সোনা",
+            "প্লাটিনাম"
+          ],
+          "q": "Au কোন মৌলের প্রতীক?",
+          "why": "Au সোনা (Gold) মৌলের প্রতীক।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "অম্লীয়",
+            "ক্ষারীয়",
+            "নিরপেক্ষ",
+            "লবণাক্ত"
+          ],
+          "q": "কোনো দ্রবণের pH মান ৭ হলে দ্রবণটি কেমন?",
+          "why": "pH মান ৭ হলে দ্রবণটি নিরপেক্ষ হয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "ক্ষার ধাতু",
+            "হ্যালোজেন",
+            "নিষ্ক্রিয় গ্যাস",
+            "অপধাতু"
+          ],
+          "q": "পর্যায় সারণির ১৮ নম্বর শ্রেণির মৌলগুলো কী নামে পরিচিত?",
+          "why": "পর্যায় সারণির ১৮ নম্বর শ্রেণির মৌলগুলো নিষ্ক্রিয় গ্যাস নামে পরিচিত।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "লোহা",
+            "তামা",
+            "অ্যালুমিনিয়াম",
+            "দস্তা"
+          ],
+          "q": "পৃথিবীর ভূত্বকে সবচেয়ে বেশি পাওয়া যায় কোন ধাতু?",
+          "why": "ভূত্বকে সবচেয়ে বেশি পাওয়া যায় অ্যালুমিনিয়াম ধাতু।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "অক্সিজেন",
+            "নাইট্রোজেন",
+            "কার্বন ডাই-অক্সাইড",
+            "হাইড্রোজেন"
+          ],
+          "q": "প্রধান গ্রিনহাউস গ্যাস কোনটি?",
+          "why": "কার্বন ডাই-অক্সাইড প্রধান গ্রিনহাউস গ্যাস।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "অবলোহিত রশ্মি",
+            "অতিবেগুনি রশ্মি",
+            "এক্স-রে",
+            "গামা রশ্মি"
+          ],
+          "q": "ওজোন স্তর পৃথিবীকে কোন ক্ষতিকর রশ্মি থেকে রক্ষা করে?",
+          "why": "ওজোন স্তর সূর্যের ক্ষতিকর অতিবেগুনি রশ্মি থেকে পৃথিবীকে রক্ষা করে।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "শুক্র",
+            "পৃথিবী",
+            "মঙ্গল",
+            "বৃহস্পতি"
+          ],
+          "q": "সূর্য থেকে দূরত্বের দিক দিয়ে চতুর্থ গ্রহ কোনটি?",
+          "why": "সূর্য থেকে চতুর্থ গ্রহ মঙ্গল।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "চাঁদ সূর্য ও পৃথিবীর মাঝে এলে",
+            "পৃথিবী সূর্য ও চাঁদের মাঝে এলে",
+            "সূর্য চাঁদ ও পৃথিবীর মাঝে এলে",
+            "চাঁদ পৃথিবীর ছায়ায় ঢুকলে"
+          ],
+          "q": "সূর্যগ্রহণ কখন ঘটে?",
+          "why": "চাঁদ সূর্য ও পৃথিবীর মাঝে এলে সূর্যগ্রহণ ঘটে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "চাঁদ সূর্য ও পৃথিবীর মাঝে এলে",
+            "পৃথিবী সূর্য ও চাঁদের মাঝে এলে",
+            "সূর্য চাঁদ ও পৃথিবীর মাঝে এলে",
+            "চাঁদ সূর্যের পেছনে গেলে"
+          ],
+          "q": "চন্দ্রগ্রহণ কখন ঘটে?",
+          "why": "পৃথিবী সূর্য ও চাঁদের মাঝে এলে চন্দ্রগ্রহণ ঘটে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "ইউরি গ্যাগারিন",
+            "নিল আর্মস্ট্রং",
+            "বাজ অলড্রিন",
+            "মাইকেল কলিন্স"
+          ],
+          "q": "চাঁদে প্রথম পা রাখা মানুষ কে?",
+          "why": "নিল আর্মস্ট্রং ১৯৬৯ সালে চাঁদে প্রথম পা রাখেন।"
         }
       ]
     },
@@ -137222,6 +139191,688 @@
           ],
           "answer": 1,
           "why": "ক্লাউড কম্পিউটিংয়ে তথ্য ইন্টারনেটের মাধ্যমে দূরবর্তী সার্ভারে সংরক্ষিত হয়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "UPDATE",
+            "CREATE",
+            "DELETE",
+            "INSERT"
+          ],
+          "q": "নিচের কোনটি DDL কমান্ড?",
+          "why": "CREATE টেবিল বা ডেটাবেসের কাঠামো তৈরি করে, তাই এটি DDL কমান্ড।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "ALTER",
+            "CREATE",
+            "INSERT",
+            "DROP"
+          ],
+          "q": "নিচের কোনটি DML কমান্ড?",
+          "why": "INSERT টেবিলে নতুন তথ্য যোগ করে, তাই এটি DML কমান্ড।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "দুটি টেবিলে একই হতে হবে",
+            "শুধু সংখ্যা হতে হবে",
+            "মান বারবার থাকতে পারে",
+            "মান অনন্য হতে হবে এবং খালি থাকা যাবে না"
+          ],
+          "q": "Primary Key-এর প্রধান বৈশিষ্ট্য কোনটি?",
+          "why": "Primary Key প্রতিটি রেকর্ডকে অনন্যভাবে চেনে, তাই এর মান অনন্য ও NOT NULL হয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "টেবিলের নামকে",
+            "একই টেবিলের একটি কলামকে",
+            "অন্য টেবিলের Primary Key-কে",
+            "ডেটাবেসের পাসওয়ার্ডকে"
+          ],
+          "q": "Foreign Key কী নির্দেশ করে?",
+          "why": "Foreign Key অন্য টেবিলের Primary Key-কে নির্দেশ করে দুটি টেবিলের মধ্যে সম্পর্ক তৈরি করে।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "টেবিলে কোনো Primary Key থাকবে না",
+            "সব তথ্য একটিমাত্র টেবিলে থাকবে",
+            "প্রতিটি সেলে একটিমাত্র atomic মান থাকবে",
+            "সব কলামে একই মান থাকবে"
+          ],
+          "q": "First Normal Form (1NF)-এর শর্ত কোনটি?",
+          "why": "1NF-এ প্রতিটি সেলে একটিমাত্র অবিভাজ্য (atomic) মান থাকতে হয়।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "Atomicity",
+            "Association",
+            "Availability",
+            "Accuracy"
+          ],
+          "q": "ACID বৈশিষ্ট্যে 'A' অক্ষরটি কী বোঝায়?",
+          "why": "ACID-এ A মানে Atomicity, অর্থাৎ লেনদেন সম্পূর্ণ হবে অথবা একেবারেই হবে না।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "পাসওয়ার্ড দেওয়া",
+            "তথ্য মুছে ফেলা",
+            "তথ্য খোঁজা ও পাওয়া দ্রুত করা",
+            "টেবিলের নাম পরিবর্তন করা"
+          ],
+          "q": "ডেটাবেসে Indexing-এর প্রধান উদ্দেশ্য কী?",
+          "why": "Index তথ্যের অবস্থান দ্রুত খুঁজে পেতে সাহায্য করে, ফলে অনুসন্ধান দ্রুত হয়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "ইমেইল পাঠানো",
+            "অতীতের বিপুল তথ্য বিশ্লেষণ করে সিদ্ধান্ত নেওয়া",
+            "ছবি সম্পাদনা করা",
+            "দৈনন্দিন লেনদেন চালানো"
+          ],
+          "q": "Data Warehouse প্রধানত কোন কাজে ব্যবহৃত হয়?",
+          "why": "Data Warehouse-এ অতীতের তথ্য জমা রেখে বিশ্লেষণ ও সিদ্ধান্ত গ্রহণে ব্যবহার করা হয়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "Primary Key",
+            "Relationship",
+            "Entity",
+            "Attribute"
+          ],
+          "q": "ER Diagram-এ হীরক (diamond) চিহ্ন কী বোঝায়?",
+          "why": "ER Diagram-এ আয়তক্ষেত্র entity, ডিম্বাকৃতি attribute এবং হীরক চিহ্ন relationship বোঝায়।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "ফোল্ডার তৈরি করা",
+            "কম্পিউটার বন্ধ করা",
+            "ফাইল মুছে ফেলা",
+            "ফাইল ও ফোল্ডারের তালিকা দেখা"
+          ],
+          "q": "Linux-এ 'ls' কমান্ডের কাজ কী?",
+          "why": "ls কমান্ড বর্তমান ডিরেক্টরির ফাইল ও ফোল্ডারের তালিকা দেখায়।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "কম্পিউটারের পাসওয়ার্ড",
+            "ইন্টারনেটের গতি",
+            "চলমান প্রোগ্রামের তালিকা",
+            "বর্তমান ডিরেক্টরির পথ"
+          ],
+          "q": "Linux-এ 'pwd' কমান্ড কী দেখায়?",
+          "why": "pwd (print working directory) কমান্ড ব্যবহারকারী এখন কোন ডিরেক্টরিতে আছেন তা দেখায়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "rmdir",
+            "mkdir",
+            "rm",
+            "touch"
+          ],
+          "q": "Linux-এ নতুন ফোল্ডার তৈরি করতে কোন কমান্ড ব্যবহৃত হয়?",
+          "why": "mkdir (make directory) কমান্ড দিয়ে নতুন ফোল্ডার তৈরি করা হয়।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "ফাইল মুছে ফেলা",
+            "ফাইল সরানো",
+            "ফাইল কপি করা",
+            "ফাইল পড়া"
+          ],
+          "q": "Linux-এ 'rm' কমান্ডের কাজ কী?",
+          "why": "rm (remove) কমান্ড দিয়ে ফাইল মুছে ফেলা হয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "ফাইলের অবস্থান",
+            "ফাইলের নাম",
+            "ফাইলের অনুমতি (permission)",
+            "ফাইলের আকার"
+          ],
+          "q": "Linux-এ 'chmod' কমান্ড কী পরিবর্তন করে?",
+          "why": "chmod কমান্ড দিয়ে ফাইল বা ফোল্ডার পড়া, লেখা ও চালানোর অনুমতি নির্ধারণ করা হয়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "NTFS শুধু মোবাইলে চলে",
+            "NTFS-এ 4 GB-এর বড় ফাইল রাখা যায়",
+            "NTFS-এ ফোল্ডার তৈরি করা যায় না",
+            "NTFS সবসময় ধীরগতির হয়"
+          ],
+          "q": "FAT32 ফাইল সিস্টেমের তুলনায় NTFS-এর একটি সুবিধা কোনটি?",
+          "why": "FAT32-এ একটিমাত্র ফাইল সর্বোচ্চ 4 GB হতে পারে, কিন্তু NTFS-এ এর চেয়ে অনেক বড় ফাইল রাখা যায়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "Thread নিজের আলাদা মেমরি ব্যবহার করে",
+            "Process কখনো চলে না",
+            "একই Process-এর Thread-গুলো মেমরি ভাগ করে নেয়",
+            "Thread-এর কোনো কাজ থাকে না"
+          ],
+          "q": "Thread ও Process-এর মধ্যে পার্থক্য কোনটি?",
+          "why": "একই process-এর ভেতরের thread-গুলো সেই process-এর মেমরি ও সম্পদ ভাগ করে নেয়।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "দুটি process একে অপরের সম্পদের জন্য অনন্তকাল অপেক্ষা করা",
+            "কম্পিউটার বন্ধ হয়ে যাওয়া",
+            "ইন্টারনেট সংযোগ ছিন্ন হওয়া",
+            "ফাইল মুছে যাওয়া"
+          ],
+          "q": "Deadlock বলতে কী বোঝায়?",
+          "why": "Deadlock-এ দুটি বা ততোধিক process পরস্পরের ধরে রাখা সম্পদের জন্য অপেক্ষা করতে থাকে, ফলে কেউ এগোতে পারে না।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "মনিটরের আকার বাড়ায়",
+            "হার্ডডিস্কের একটি অংশকে RAM-এর মতো ব্যবহার করে",
+            "প্রসেসরের গতি কমায়",
+            "RAM-কে স্থায়ীভাবে বাড়িয়ে দেয়"
+          ],
+          "q": "Virtual Memory কীভাবে কাজ করে?",
+          "why": "RAM কম পড়লে অপারেটিং সিস্টেম হার্ডডিস্কের একটি অংশকে অস্থায়ী মেমরি হিসেবে ব্যবহার করে, একেই virtual memory বলে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "Antivirus",
+            "Bootloader",
+            "MS Word",
+            "Printer driver"
+          ],
+          "q": "বুটিং প্রক্রিয়ায় অপারেটিং সিস্টেমের kernel লোড করে কে?",
+          "why": "Bootloader কম্পিউটার চালুর সময় অপারেটিং সিস্টেমের kernel-কে মেমরিতে লোড করে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "যোগফল",
+            "গড় মান",
+            "সবচেয়ে ছোট মান",
+            "সেলের সংখ্যা"
+          ],
+          "q": "Excel-এ AVERAGE ফাংশন কী নির্ণয় করে?",
+          "why": "AVERAGE ফাংশন নির্বাচিত সংখ্যাগুলোর গড় মান নির্ণয় করে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "লেখাযুক্ত সেলের সংখ্যা",
+            "সংখ্যাযুক্ত সেলের সংখ্যা",
+            "সব সেলের রং",
+            "খালি সেলের সংখ্যা"
+          ],
+          "q": "Excel-এ COUNT ফাংশন কী গণনা করে?",
+          "why": "COUNT ফাংশন শুধু সংখ্যাযুক্ত সেলগুলোর সংখ্যা গণনা করে।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "লেখা Italic করা",
+            "লেখা Underline করা",
+            "লেখা Bold করা",
+            "লেখা কপি করা"
+          ],
+          "q": "MS Word-এ Ctrl+B শর্টকাটের কাজ কী?",
+          "why": "Ctrl+B চাপলে নির্বাচিত লেখা মোটা (Bold) হয়।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "ডেটাবেস ব্যবস্থাপনা সফটওয়্যার",
+            "ভিডিও প্লেয়ার",
+            "ওয়ার্ড প্রসেসর",
+            "ছবি সম্পাদনা সফটওয়্যার"
+          ],
+          "q": "MS Access প্রধানত কোন ধরনের সফটওয়্যার?",
+          "why": "MS Access দিয়ে টেবিল, কুয়েরি ও ফর্ম ব্যবহার করে ডেটাবেস তৈরি ও পরিচালনা করা যায়।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "একাধিক Worksheet-এর সংগ্রহযুক্ত একটি ফাইল",
+            "একটি চার্ট",
+            "একটি মাত্র সেল",
+            "একটি প্রিন্টার"
+          ],
+          "q": "Excel-এ Workbook বলতে কী বোঝায়?",
+          "why": "Excel ফাইলে একাধিক worksheet থাকতে পারে, আর পুরো ফাইলটিকেই workbook বলে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "11100",
+            "10101",
+            "10011",
+            "11001"
+          ],
+          "q": "দশমিক সংখ্যা 25-এর বাইনারি মান কোনটি?",
+          "why": "25 = 16+8+1, তাই এর বাইনারি রূপ 11001।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "ফাইল ছোট হয়",
+            "শুধু সংখ্যা লেখা যায়",
+            "শুধু ইংরেজি লেখা যায়",
+            "বিশ্বের প্রায় সব ভাষার অক্ষর একই পদ্ধতিতে লেখা যায়"
+          ],
+          "q": "Unicode ব্যবস্থার প্রধান সুবিধা কী?",
+          "why": "Unicode-এ বাংলা, ইংরেজিসহ বিশ্বের প্রায় সব ভাষার অক্ষরের জন্য আলাদা কোড রয়েছে।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "Worm ছড়াতে কোনো host ফাইলের প্রয়োজন হয় না",
+            "Worm শুধু মোবাইলে থাকে",
+            "Virus কখনো ক্ষতি করে না",
+            "Virus নিজে নিজে ছড়ায় না"
+          ],
+          "q": "Worm ও Virus-এর মধ্যে পার্থক্য কী?",
+          "why": "Worm নেটওয়ার্কের মাধ্যমে নিজে নিজে ছড়াতে পারে, আর virus ছড়াতে একটি host ফাইলের প্রয়োজন হয়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "শুধু হার্ডডিস্ক মুছে দেয়",
+            "উপকারী সফটওয়্যারের ছদ্মবেশে ক্ষতি করে",
+            "ইন্টারনেটের গতি বাড়ায়",
+            "নিজে নিজে ছড়িয়ে পড়ে"
+          ],
+          "q": "Trojan Horse কী ধরনের ক্ষতিকর প্রোগ্রাম?",
+          "why": "Trojan উপকারী প্রোগ্রামের ছদ্মবেশে কম্পিউটারে ঢুকে ক্ষতি করে বা তথ্য চুরি করে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "ভাইরাস মুছে ফেলা",
+            "নেটওয়ার্ক ট্রাফিক যাচাই করে ক্ষতিকর সংযোগ আটকানো",
+            "ফাইল ছাপানো",
+            "ব্যাটারি চার্জ করা"
+          ],
+          "q": "Firewall-এর প্রধান কাজ কী?",
+          "why": "Firewall নিয়ম অনুযায়ী নেটওয়ার্ক ট্রাফিক যাচাই করে অননুমোদিত বা ক্ষতিকর সংযোগ আটকে দেয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "কম্পিউটারের মডেল",
+            "শুধু ইমেইল ঠিকানা",
+            "পাসওয়ার্ডের সঙ্গে OTP বা অনুমোদিত ডিভাইস",
+            "শুধু ব্যবহারকারীর নাম"
+          ],
+          "q": "Two-Factor Authentication-এ দ্বিতীয় ধাপ হিসেবে কী ব্যবহৃত হয়?",
+          "why": "Two-factor পদ্ধতিতে পাসওয়ার্ডের পাশাপাশি OTP বা অনুমোদিত ডিভাইসের মতো দ্বিতীয় প্রমাণ লাগে।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "পাবলিক নেটওয়ার্কে এনক্রিপ্ট করা নিরাপদ সংযোগ তৈরি করা",
+            "ফাইল মুছে ফেলা",
+            "কম্পিউটার বন্ধ করা",
+            "ইন্টারনেটের গতি কমানো"
+          ],
+          "q": "VPN ব্যবহারের প্রধান উদ্দেশ্য কী?",
+          "why": "VPN পাবলিক নেটওয়ার্কের ওপর এনক্রিপ্ট করা ব্যক্তিগত সংযোগ তৈরি করে তথ্য সুরক্ষিত রাখে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "শুধু ডেভেলপার টুল",
+            "তৈরি সফটওয়্যার",
+            "মোবাইল অ্যাপ",
+            "ভাড়ায় সার্ভার, স্টোরেজ ও নেটওয়ার্ক অবকাঠামো"
+          ],
+          "q": "IaaS মডেলে ব্যবহারকারী মূলত কী পায়?",
+          "why": "IaaS-এ ক্লাউড থেকে সার্ভার, স্টোরেজ ও নেটওয়ার্কের মতো অবকাঠামো ভাড়ায় পাওয়া যায়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "শুধু গেমারদের জন্য",
+            "প্রিন্টার ব্যবহারকারীদের জন্য",
+            "ডেভেলপারদের অ্যাপ তৈরি ও চালানোর জন্য",
+            "সাধারণ ব্যবহারকারী"
+          ],
+          "q": "PaaS মডেল প্রধানত কাদের জন্য?",
+          "why": "PaaS ডেভেলপারদের অ্যাপ তৈরি, পরীক্ষা ও চালানোর জন্য প্রস্তুত প্ল্যাটফর্ম দেয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "শুধু ওয়েবসাইট তৈরি",
+            "ইমেইল পাঠানো",
+            "ইন্টারনেটযুক্ত যন্ত্রপাতি পরস্পরের সঙ্গে যুক্ত থাকা",
+            "শুধু কম্পিউটার নেটওয়ার্ক"
+          ],
+          "q": "Internet of Things (IoT) বলতে কী বোঝায়?",
+          "why": "IoT-তে ফ্রিজ, লাইট, ঘড়ির মতো যন্ত্র ইন্টারনেটে যুক্ত হয়ে তথ্য আদান-প্রদান করে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "ইন্টারনেটের তার",
+            "শুধু ক্যালকুলেটর",
+            "প্রিন্টারের কালি",
+            "মানুষের বুদ্ধিমত্তার মতো কাজ করতে পারে এমন যন্ত্র বা প্রোগ্রাম"
+          ],
+          "q": "Artificial Intelligence (AI) কী?",
+          "why": "AI এমন প্রযুক্তি যা যন্ত্রকে শেখা, চিন্তা করা ও সিদ্ধান্ত নেওয়ার মতো কাজ করতে সক্ষম করে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "প্রতিটি নিয়ম হাতে লিখে দিতে হয়",
+            "ইন্টারনেট বন্ধ করে দেয়",
+            "শুধু ছবি দেখায়",
+            "তথ্য থেকে শিখে নিজে সিদ্ধান্ত নেয়"
+          ],
+          "q": "Machine Learning কীভাবে কাজ করে?",
+          "why": "Machine Learning-এ প্রোগ্রাম বিপুল তথ্য থেকে ধরণ শিখে নতুন তথ্যের ক্ষেত্রে সিদ্ধান্ত নেয়।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "Volume, Velocity, Variety",
+            "Voice, Video, Value",
+            "Virtual, Visual, Voice",
+            "Virus, Version, View"
+          ],
+          "q": "Big Data-র 3V বলতে কী বোঝায়?",
+          "why": "Big Data-র তিনটি বৈশিষ্ট্য হলো বিপুল পরিমাণ (Volume), দ্রুত গতি (Velocity) ও বৈচিত্র্য (Variety)।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "MS Paint",
+            "Notepad",
+            "Google Drive",
+            "Calculator"
+          ],
+          "q": "নিচের কোনটি ক্লাউড স্টোরেজ সেবার উদাহরণ?",
+          "why": "Google Drive-এ ফাইল ইন্টারনেটে সংরক্ষণ করে যেকোনো জায়গা থেকে ব্যবহার করা যায়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "পিনের আঘাতে",
+            "টোনার পাউডার গলিয়ে",
+            "কালির ফোঁটা ছিটিয়ে",
+            "আলো দিয়ে"
+          ],
+          "q": "Inkjet Printer কীভাবে ছাপে?",
+          "why": "Inkjet প্রিন্টার কাগজে তরল কালির সূক্ষ্ম ফোঁটা ছিটিয়ে ছবি বা লেখা ছাপে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "টোনার গলিয়ে",
+            "আলো দিয়ে",
+            "কালি ছিটিয়ে",
+            "পিনের আঘাতে কালিযুক্ত ফিতা দিয়ে"
+          ],
+          "q": "Dot-Matrix Printer কীভাবে ছাপে?",
+          "why": "Dot-matrix প্রিন্টারে ছোট পিন কালিযুক্ত ফিতায় আঘাত করে বিন্দু দিয়ে অক্ষর তৈরি করে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "ইন্টারনেট চালানো",
+            "কাগজের ছবি বা লেখাকে ডিজিটাল ফাইলে রূপান্তর করা",
+            "কাগজ ছাপানো",
+            "ফাইল মুছে ফেলা"
+          ],
+          "q": "Scanner-এর কাজ কী?",
+          "why": "Scanner কাগজের ছবি বা লেখা স্ক্যান করে কম্পিউটারে ডিজিটাল ফাইল হিসেবে সংরক্ষণ করে।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "শুধু ইন্টারনেট দেয়",
+            "শুধু অডিও পাঠায়",
+            "শুধু বিদ্যুৎ দেয়",
+            "অডিও ও ভিডিও একসঙ্গে পাঠায়"
+          ],
+          "q": "HDMI পোর্টের সুবিধা কী?",
+          "why": "HDMI কেবল দিয়ে উচ্চমানের অডিও ও ভিডিও একসঙ্গে পাঠানো যায়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "HDD-তে কোনো ডিস্ক নেই",
+            "SSD-তে ঘূর্ণায়মান ডিস্ক নেই বলে এটি দ্রুততর",
+            "HDD-তে ফ্ল্যাশ মেমরি থাকে",
+            "SSD ধীরগতির হয়"
+          ],
+          "q": "SSD ও HDD-এর মধ্যে পার্থক্য কী?",
+          "why": "SSD ফ্ল্যাশ মেমরি ব্যবহার করে ও এতে ঘূর্ণায়মান অংশ নেই, তাই HDD-এর চেয়ে দ্রুত কাজ করে।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "ফাইল সংরক্ষণে",
+            "গ্রাফিক্স ও ছবি প্রক্রিয়াকরণে",
+            "বিদ্যুৎ সরবরাহে",
+            "ইন্টারনেট সংযোগে"
+          ],
+          "q": "GPU প্রধানত কোন কাজে ব্যবহৃত হয়?",
+          "why": "GPU গ্রাফিক্স, ছবি ও ভিডিওর জটিল গণনা দ্রুত করতে ব্যবহৃত হয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "DDR4",
+            "DDR2",
+            "DDR5",
+            "DDR3"
+          ],
+          "q": "DDR RAM-এর মধ্যে কোনটি নতুন ও দ্রুততর?",
+          "why": "DDR5, DDR4-এর পরের প্রজন্মের RAM এবং এটি দ্রুততর ও শক্তি-সাশ্রয়ী।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "2021",
+            "2015",
+            "2041",
+            "2030"
+          ],
+          "q": "Digital Bangladesh-এর লক্ষ্য অর্জনের নির্ধারিত বছর কোনটি ছিল?",
+          "why": "Digital Bangladesh রূপকল্পের লক্ষ্য ছিল 2021 সালের মধ্যে ডিজিটাল বাংলাদেশ গড়া।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "2041",
+            "2050",
+            "2025",
+            "2030"
+          ],
+          "q": "Smart Bangladesh-এর লক্ষ্য অর্জনের নির্ধারিত বছর কোনটি?",
+          "why": "Smart Bangladesh রূপকল্পের লক্ষ্য নির্ধারণ করা হয়েছে 2041 সাল।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "ই-গভর্নমেন্ট পাসপোর্ট",
+            "ইলেকট্রনিক গ্রাফিক প্রোগ্রাম",
+            "ইলেকট্রনিক গভর্নমেন্ট প্রকিউরমেন্ট",
+            "ইলেকট্রনিক গেম প্ল্যান"
+          ],
+          "q": "e-GP বলতে কী বোঝায়?",
+          "why": "e-GP হলো Electronic Government Procurement, অর্থাৎ অনলাইনে সরকারি ক্রয় প্রক্রিয়া।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "ইউনিয়ন পর্যায়ে",
+            "জেলা শহরে",
+            "শুধু বিদেশে",
+            "শুধু ঢাকায়"
+          ],
+          "q": "Union Digital Center (UDC) কোথায় সেবা দেয়?",
+          "why": "Union Digital Center ইউনিয়ন পর্যায়ে গ্রামের মানুষকে ডিজিটাল সেবা দেয়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "শুধু বিদ্যুৎ বিভাগের",
+            "শুধু অ্যাম্বুলেন্সের",
+            "সরকারি তথ্য ও সেবা পাওয়ার",
+            "শুধু পুলিশের"
+          ],
+          "q": "333 নম্বরটি কীসের হেল্পলাইন?",
+          "why": "333 নম্বরে কল করে সরকারি সেবা ও তথ্য সম্পর্কে জানা যায়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "বাংলাদেশ ব্যাংক",
+            "নির্বাচন কমিশন",
+            "পাসপোর্ট অফিস",
+            "সিটি করপোরেশন"
+          ],
+          "q": "জাতীয় পরিচয়পত্র (NID) কোন প্রতিষ্ঠান প্রদান করে?",
+          "why": "বাংলাদেশে জাতীয় পরিচয়পত্র প্রদান করে নির্বাচন কমিশন।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "char",
+            "double",
+            "float",
+            "int"
+          ],
+          "q": "C ভাষায় পূর্ণসংখ্যা (integer) ঘোষণা করতে কোন data type ব্যবহৃত হয়?",
+          "why": "C ভাষায় পূর্ণসংখ্যা সংরক্ষণে int data type ব্যবহৃত হয়।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "সিদ্ধান্ত গ্রহণ",
+            "প্রক্রিয়া বা কাজ",
+            "তথ্য ইনপুট",
+            "শুরু বা শেষ"
+          ],
+          "q": "Flowchart-এ হীরক (diamond) আকৃতি কী বোঝায়?",
+          "why": "Flowchart-এ হীরক আকৃতি সিদ্ধান্তের ধাপ বোঝায়, যেখানে শর্তের ভিত্তিতে পথ বদলায়।"
+        },
+        {
+          "answer": 3,
+          "options": [
+            "শুরু",
+            "সিদ্ধান্ত",
+            "শেষ",
+            "প্রক্রিয়া বা কাজের ধাপ"
+          ],
+          "q": "Flowchart-এ আয়তক্ষেত্র (rectangle) আকৃতি কী বোঝায়?",
+          "why": "Flowchart-এ আয়তক্ষেত্র দিয়ে কোনো প্রক্রিয়া বা কাজের ধাপ বোঝানো হয়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "Interpreter পুরো প্রোগ্রাম একবারে অনুবাদ করে",
+            "Compiler পুরো প্রোগ্রাম একবারে অনুবাদ করে, Interpreter লাইন ধরে অনুবাদ করে",
+            "Compiler শুধু ভুল দেখায়",
+            "দুটি একই কাজ করে"
+          ],
+          "q": "Compiler ও Interpreter-এর মধ্যে পার্থক্য কী?",
+          "why": "Compiler পুরো সোর্স কোড একবারে মেশিন কোডে রূপান্তর করে, আর interpreter এক লাইন করে অনুবাদ করে চালায়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "তথ্য এলোমেলো থাকতে হবে",
+            "তথ্য সাজানো (sorted) থাকতে হবে",
+            "তথ্য শুধু সংখ্যা হতে হবে",
+            "তথ্য একটিমাত্র হতে হবে"
+          ],
+          "q": "Binary Search পদ্ধতি প্রয়োগের পূর্বশর্ত কী?",
+          "why": "Binary search মাঝের মানের সঙ্গে তুলনা করে খোঁজে, তাই তথ্য সাজানো থাকা আবশ্যক।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "সমস্যা সমাধানের ধাপে ধাপে সুনির্দিষ্ট নির্দেশনা",
+            "একটি ফাইল",
+            "একটি প্রোগ্রামিং ভাষা",
+            "কম্পিউটারের যন্ত্রাংশ"
+          ],
+          "q": "Algorithm বলতে কী বোঝায়?",
+          "why": "Algorithm হলো কোনো সমস্যা সমাধানের জন্য ধাপে ধাপে সাজানো সুনির্দিষ্ট নির্দেশনার সমষ্টি।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "Cut করা",
+            "Copy করা",
+            "Paste করা",
+            "Undo করা"
+          ],
+          "q": "কীবোর্ডে Ctrl+V-এর কাজ কী?",
+          "why": "Ctrl+C দিয়ে কপি করা অংশ Ctrl+V চাপলে নির্ধারিত স্থানে বসে যায়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "Print করা",
+            "Undo করা",
+            "Save করা",
+            "Select All করা"
+          ],
+          "q": "কীবোর্ডে Ctrl+Z-এর কাজ কী?",
+          "why": "Ctrl+Z চাপলে সর্বশেষ করা কাজটি বাতিল (undo) হয়ে যায়।"
+        },
+        {
+          "answer": 1,
+          "options": [
+            "নতুন ফাইল তৈরি হয়",
+            "খোলা উইন্ডোগুলোর মধ্যে বদল হয়",
+            "কম্পিউটার বন্ধ হয়",
+            "ফাইল মুছে যায়"
+          ],
+          "q": "Alt+Tab চাপলে কী হয়?",
+          "why": "Alt+Tab চাপলে কম্পিউটারে খোলা বিভিন্ন উইন্ডোর মধ্যে দ্রুত বদল করা যায়।"
+        },
+        {
+          "answer": 2,
+          "options": [
+            "একটি গেম",
+            "একটি পেইড ইংরেজি টাইপিং সফটওয়্যার",
+            "বিনামূল্যের ফোনেটিক বাংলা টাইপিং সফটওয়্যার",
+            "একটি অ্যান্টিভাইরাস"
+          ],
+          "q": "Avro Keyboard কী?",
+          "why": "Avro Keyboard দিয়ে ইংরেজি অক্ষরে লিখে ফোনেটিক পদ্ধতিতে বাংলা লেখা যায় এবং এটি বিনামূল্যে ব্যবহার করা যায়।"
+        },
+        {
+          "answer": 0,
+          "options": [
+            "এটি CPU-এর কাছে থাকা ছোট ও খুব দ্রুত মেমরি",
+            "এটি শুধু ছবি রাখে",
+            "এটি স্থায়ীভাবে তথ্য রাখে",
+            "এটি সবচেয়ে বড় মেমরি"
+          ],
+          "q": "Cache Memory-এর বৈশিষ্ট্য কী?",
+          "why": "Cache memory CPU-এর কাছাকাছি থাকা ছোট কিন্তু খুব দ্রুত মেমরি, যা বারবার ব্যবহৃত তথ্য ধরে রাখে।"
         }
       ]
     }
