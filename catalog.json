@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 135,
-   "versionName": "10.65",
-   "size": 18991836,
-   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
+   "code": 136,
+   "versionName": "10.66",
+   "size": 19136308,
+   "changes": "Icon বসানো এবার সত্যিই বসে — Change icon, file pick আর HasuPack-এর per-app pick সঙ্গে সঙ্গে সব জায়গায় দেখা যায়; picker-এর icon এখন bare glyph, পিছনে কোনো plate বা ring নেই",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795615881,
-   "etag": "0x8DF4AFDF47FC0D3"
+   "ts": 1795651985,
+   "etag": "0x8DF4B51FAB1BF1F"
   },
   {
    "pkg": "hasu.os.pdf",
