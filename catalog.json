@@ -240,13 +240,13 @@
    "name": "HasuNews",
    "tag": "Bangla news",
    "desc": "Bangla news — Prothom Alo and BBC Bangla headlines, articles open inside the app, and last headlines stay saved for offline reading.",
-   "code": 7,
-   "versionName": "1.05",
-   "size": 50030,
+   "code": 8,
+   "versionName": "1.06",
+   "size": 215732,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/news.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: Atom feeds now work — the parser only understood RSS <item> entries with the link as text, so a custom Atom feed (articles in <entry>, links as <link href=\"…\"/> attributes, dates in <updated>) loaded zero articles and looked empty. All three are read now. FIXED: removing a custom feed while its headlines are still loading no longer crashes the app — the stale load is dropped instead of reaching for the feed that is gone. FIXED: rotation no longer rebuilds any screen — every screen now keeps its state across a turn. DESIGN: the About page icon now sits on a glass tile. The Guide and About pages list them all.",
-   "ts": 1795315228,
-   "etag": "0x8DF4841E92D402C"
+   "changes": "NEW: Look & icons page — themes, icon sets and five app-icon designs, with a full-screen preview; new themes and icon packs now arrive by themselves. NEW: Settings page with language (English/Bengali for the whole app), alerts, and a settings backup that carries your custom feeds, saved headlines and offline caches. The header is now drawn glyphs — Permissions switch, Refresh, Look, Settings, About — no emoji. Reader and lists follow the chosen theme in dark and light. The news engine itself is unchanged.",
+   "ts": 1795680052,
+   "etag": "0x8DF4B9327388028"
   },
   {
    "pkg": "hasu.os.notes",
@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 140,
-   "versionName": "10.70",
+   "code": 141,
+   "versionName": "10.71",
    "size": 17428276,
-   "changes": "Icon-display law: every app shows its own main icon exactly - the styled squircle/sheen conversion is off by default, and the styled icon disk cache can no longer serve one app another app's icon (SHA-256 cache names).",
+   "changes": "HasuOS Home 10.71 \u2014 the icon law, fixed together with HasuPack 1.11: an applied pack's category symbol or shared generic drawing never lands on an app \u2014 the app's own icon stands until a dedicated per-app design exists. Your own per-app picks in HasuPack still apply exactly as picked. The Change-icon picker's 'Active pack' section is now offered only when the pack holds a dedicated design for that app.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795678140,
-   "etag": "0x8DF4B8ED0F1189C"
+   "ts": 1795680822,
+   "etag": "0x8DF4B952AAD3B67"
   },
   {
    "pkg": "hasu.os.pdf",
@@ -618,13 +618,13 @@
    "name": "HasuPack",
    "tag": "Icon packs for HasuOS Home",
    "desc": "Six icon packs drawn for the HasuOS family — Glow, Neon Blue, Royal Gold, Sunset, Mono Tile and Pastel. Tap Set in HasuPack and HasuOS Home wears the pack at once.",
-   "code": 11,
-   "versionName": "1.10",
+   "code": 12,
+   "versionName": "1.11",
    "size": 78168442,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pack.apk",
-   "changes": "HasuPack 1.10 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
-   "ts": 1795659081,
-   "etag": "0x8DF4B628CD3EDFE",
+   "changes": "HasuPack 1.11 \u2014 the icon law, fixed together with HasuOS Home 10.71: every app is shown by its OWN main icon \u2014 on the All apps page, on each app's page and in pack previews. The Style set's category symbols are labelled as symbols and land on an app only where you pick one yourself. Pack previews now decode at full quality, so what you preview is what Home applies. On the feed, Hasu Style now carries a dedicated design for every family app (its own glyph in the family style), Aurora covers all 62 family apps, and Halftone's family glyphs were redrawn readable at real sizes.",
+   "ts": 1795680822,
+   "etag": "0x8DF4B9524C7FA43",
    "cat": "HasuOS"
   },
   {
