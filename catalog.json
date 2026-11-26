@@ -658,13 +658,13 @@
    "name": "HasuDown",
    "tag": "Download manager",
    "desc": "Every file, downloaded — paste any direct link, pause and resume from the exact byte, finished files in Downloads/HasuDown.",
-   "code": 2,
-   "versionName": "1.01",
-   "size": 1944264,
+   "code": 3,
+   "versionName": "1.02",
+   "size": 228040,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/down.apk",
-   "changes": "সম্পূর্ণ ফ্যামিলি পোর্ট: সেটিংস পেজ (ভাষা English/বাংলা, ডাউনলোড শেষ/ব্যর্থ হলে সতর্কতা, শব্দ ও কম্পন, ব্যাকআপ — ডাউনলোডের তালিকাসহ), লুক ও আইকন (থিম, আইকন সেট, পাঁচটি অ্যাপ-আইকন ডিজাইন, প্রতিটি পেজের নিজের থিম, পুরো-স্ক্রিন প্রিভিউ), অ্যাপ নিজে নিজে আপডেট হয়, নতুন আইকন সেট ও থিম নিজে নিজে আসে, ফাইলের ধরন অনুযায়ী Font Awesome ছবি, গাইড এখন বাংলায়ও।",
-   "ts": 1795620587,
-   "etag": "0x8DF4B08EA3ABBDE"
+   "changes": "HasuDown 1.02 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795655244,
+   "etag": "0x8DF4B599E9D3AE7"
   },
   {
    "pkg": "hasu.os.sms",
