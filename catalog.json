@@ -750,13 +750,13 @@
    "name": "HasuPack",
    "tag": "Icon packs for HasuOS Home",
    "desc": "Six icon packs drawn for the HasuOS family — Glow, Neon Blue, Royal Gold, Sunset, Mono Tile and Pastel. Tap Set in HasuPack and HasuOS Home wears the pack at once.",
-   "code": 9,
-   "versionName": "1.08",
+   "code": 10,
+   "versionName": "1.09",
    "size": 79884666,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pack.apk",
-   "changes": "1.08: HasuPack-এর বাছাই এখন সরাসরি HasuOS Home-এ পৌঁছায় — অ্যাপ ধরে আলাদা style বাছাই বা আসল আইকন রাখা, যেমন বেছেছেন Home-এ তেমনই দেখাবে · ফিড থেকে আসা প্যাকও এখন Home থেকে সেট করা যায়, অ্যাপ আপডেটের অপেক্ষা ছাড়াই · প্রতিটি প্যাকের নিজস্ব fallback style আছে — প্যাকে না থাকা অ্যাপও একই ডিজাইনের ভেতর বসে, পুরো গ্রিড এক ডিজাইনে মিলে যায়",
-   "ts": 1795611735,
-   "etag": "0x8DF4AF4396DBE43",
+   "changes": "Feed-এর pack এখন এখান থেকেই Set করা যায় — প্রতিটা feed pack-এর card-এ আর pack page-এ Set/Apply button আছে; আগের মতো শুধু browse না",
+   "ts": 1795652140,
+   "etag": "0x8DF4B524DEF2749",
    "cat": "HasuOS"
   },
   {
