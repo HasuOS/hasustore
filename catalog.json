@@ -391,19 +391,7 @@
    "ts": 1795659199,
    "etag": "0x8DF4B62D143C558"
   },
-  {
-   "pkg": "hasu.os.tasbih",
-   "name": "HasuTasbih",
-   "tag": "Digital tasbih",
-   "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.",
-   "code": 9,
-   "versionName": "1.08",
-   "size": 50030,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. NEW: 📅 Today's count — the stats line now shows how many dhikr you have done today, resetting by itself at midnight, while your lifetime total keeps growing. NEW: 🎯 Custom target — tap ＋ beside the targets to count to any number from 10 to 9999; your custom target is remembered as its own chip, and long-press it to clear it. FIXED: Reset and −1 now sit on their own row under the targets, so nothing is squeezed on a narrow phone. DESIGN: the About page icon now sits on a glass tile. The Guide and About pages list all five.",
-   "ts": 1795252168,
-   "etag": "0x8DF47AF194BDD4F"
-  },
+  {"pkg": "hasu.os.tasbih", "name": "HasuTasbih", "tag": "Digital tasbih", "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.", "code": 10, "versionName": "1.09", "size": 215747, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk", "changes": "HasuTasbih 1.09 — the full family pass: Settings page with backup & restore (every count, round, target and total included), a full Guide in English and Bengali, Look & icons with per-page themes and icon sets that arrive by themselves, a Permissions page that shows the real state of every switch, an English/Bengali switch for the whole app, dark and light modes, self-update checks twice a day, and a bare white-glyph app icon — your beads — with four more designs to pick from. Counting works exactly as before: the four dhikr, the targets, the buzz and the volume keys are untouched.", "ts": 1795665043, "etag": "0x8DF4B70676CA666"},
   {
    "pkg": "hasu.os.task",
    "name": "HasuTask",
