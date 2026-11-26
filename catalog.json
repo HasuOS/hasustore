@@ -744,13 +744,13 @@
  "name": "HasuJobs",
  "tag": "Govt circulars • Diploma in Computer",
  "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 78,
- "versionName": "1.77",
- "size": 2741738,
+ "code": 79,
+ "versionName": "1.78",
+ "size": 1025514,
  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "এখন প্রতিটা আবেদনের page-এ User ID আর Password এক জায়গায়: একটা card-এ দুটোই দেখা যায়, পাশের button-এ চাপলেই copy হয়ে যায়। Password-টা চোখের button-এ দেখা যায়, আর নিজে লিখে বসিয়েও দেওয়া যায় — একবার বসালে ওই আবেদনের সাথেই থেকে যায়, backup-এও থাকে। সাথে fee page-এর একটা বাঁধন ঠিক হয়েছে: যেসব আবেদনের record অন্য নামে জমা ছিল, সেগুলোর fee page-এও এখন Downloads খুঁজে User ID ঠিকমতো বসে।",
- "ts": 1795600609,
- "etag": "0x8DF4ADA641B6AA8",
+ "changes": "HasuJobs 1.78 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+ "ts": 1795658443,
+ "etag": "0x8DF4B611246CB49",
  "cat": "Tools"
 }
  ]
