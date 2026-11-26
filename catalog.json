@@ -643,13 +643,13 @@
    "name": "HasuBook",
    "tag": "Social feed",
    "desc": "Your own corner of the community — a feed with stories, photo posts, likes, comments, friends and alerts, all on this phone.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 1923769,
+   "code": 4,
+   "versionName": "1.03",
+   "size": 207545,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/book.apk",
-   "changes": "HasuBook 1.02 — launcher icons only: all five designs are now the bare white glyph on full transparency — no border, no background — the same family style everywhere (drawer, HasuOS Home, HasuStore). Nothing else changed.",
-   "ts": 1795649981,
-   "etag": "0x8DF4B4D5D799556"
+   "changes": "HasuBook 1.03 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795654958,
+   "etag": "0x8DF4B58F2C94A2C"
   },
   {"pkg": "hasu.os.community", "name": "HasuCommunity", "tag": "Messaging", "desc": "Chats with your people in HasuOS glass — bubbles, photo messages, seen ticks and group chats, all on this phone.", "code": 2, "versionName": "1.01", "size": 1944259, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/community.apk", "changes": "সম্পূর্ণ ফ্যামিলি পোর্ট: সেটিংস পেজ (ভাষা English/বাংলা, আপডেট ও নতুন ডিজাইনের সতর্কতা, শব্দ ও কম্পন, ব্যাকআপ — সব চ্যাটসহ), লুক ও আইকন (থিম, আইকন সেট, পাঁচটি অ্যাপ-আইকন ডিজাইন, প্রতিটি পেজের নিজের থিম, পুরো-স্ক্রিন প্রিভিউ), অ্যাপ নিজে নিজে আপডেট হয়, নতুন আইকন সেট ও থিম নিজে নিজে আসে, সব আইকন এখন Font Awesome ছবিতে, অর্ধেক লেখা বার্তা খসড়া হিসেবে নিজে নিজে সেভ হয়, গাইড এখন বাংলায়ও।", "ts": 1795621750, "etag": "0x8DF4B0B8ABA6891"},
   {
