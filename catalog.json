@@ -19,13 +19,13 @@
    "name": "HasuBattery",
    "tag": "Battery & charge alarm",
    "desc": "Battery level, live power details, charge history graph and a full-charge alarm.",
-   "code": 36,
-   "versionName": "1.34",
-   "size": 2301849,
+   "code": 37,
+   "versionName": "1.35",
+   "size": 454092,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/battery.apk",
-   "changes": "আইকন এখন adaptive — নিজের premium glass background সহ, Samsung-সহ সব জায়গায় পরিষ্কার দেখা যাবে",
-   "ts": 1795619127,
-   "etag": "0x8DF4B058465EDAE"
+   "changes": "HasuBattery 1.35 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795659268,
+   "etag": "0x8DF4B5E41E69FD9"
   },
   {
    "pkg": "hasu.os.keyboard",
