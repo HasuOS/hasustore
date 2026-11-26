@@ -565,13 +565,13 @@
    "name": "HasuAssist",
    "tag": "Your HasuOS chat assistant",
    "desc": "Your HasuOS chat assistant — a real AI chat in glass: questions, study and exam help, writing, translation, maths and ideas, in Bengali, English or any language. Voice typing, chats saved on your phone. Needs the internet; no account, no sign-up.",
-   "code": 3,
-   "versionName": "1.02",
-   "size": 58222,
+   "code": 4,
+   "versionName": "1.03",
+   "size": 211656,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/assist.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. NEW: ↗ Share chat — send the whole conversation as text to any app you choose. NEW: ⏹ Stop — cut a reply off while it is still generating. FIXED: after a failed answer, ↻ Try again asks the same question again — no more retyping it. FIXED: the 🔐 Permissions toggle is honest now — grey until the microphone is really on, blue only then. FIXED: pictures are drawn downsampled to the screen instead of decoding the full picture on every bubble, and pictures from old trimmed chats no longer linger on the phone. The Guide and About pages list all six.",
-   "ts": 1795248575,
-   "etag": "0x8DF47A6C0F9C130"
+   "changes": "NEW: the full family look — themes, icon sets and five app-icon designs (bare white glyphs, no background), with new designs arriving by themselves and a notification saying what arrived. NEW: a Settings page — language (English / বাংলা), alerts, app updates, and a backup of your settings, look and whole chat history, pictures included. NEW: Look & icons with a full-screen preview, and an honest Permissions hub. The chat itself is exactly as before — same free AI answers, voice typing, drawing and Listen.",
+   "ts": 1795654253,
+   "etag": "0x8DF4B5744321AE2"
   },
   {
    "pkg": "hasu.os.city",
