@@ -58,13 +58,13 @@
    "name": "HasuCalc",
    "tag": "Calculator",
    "desc": "Calculator — fast glass calculator with history plus a unit converter for length, weight, temperature, area, speed, data, volume and time.",
-   "code": 13,
-   "versionName": "1.10",
-   "size": 2066862,
+   "code": 14,
+   "versionName": "1.11",
+   "size": 396238,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calc.apk",
-   "changes": "আইকনের ব্যাকগ্রাউন্ড এখন পুরোপুরি transparent — শুধু সাদা glyph, কোনো tile নেই",
-   "etag": "0x8DF4AFE763DC5FE",
-   "ts": 1795616097
+   "changes": "HasuCalc 1.11 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "etag": "0x8DF4B5FD08FDE0B",
+   "ts": 1795657906
   },
   {
   "pkg": "hasu.os.calendar",
