@@ -279,13 +279,13 @@
    "name": "HasuPDF",
    "tag": "PDF tools",
    "desc": "PDF tools — photos to PDF, merge PDFs and split out pages, saved to Download/HasuPDF.",
-   "code": 7,
-   "versionName": "1.05",
-   "size": 54126,
+   "code": 8,
+   "versionName": "1.06",
+   "size": 219863,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pdf.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. NEW: open PDFs from other apps — tap a PDF in Files, a chat or an email and choose HasuPDF to read it right here, with no copy made. NEW: ↗ Share in the viewer — share the PDF you are reading from the top of the reader, and the viewer remembers the last page you read in each PDF. NEW: viewer zoom — the 🔍 button cycles 1×, 1.5×, 2×, re-rendering the page sharper at each step, and the page scrolls sideways when zoomed; the zoom level survives rotation along with the page. FIXED: rotation no longer rebuilds any screen. DESIGN: the About page icon now sits on a glass tile. The Guide and About pages list them all.",
-   "ts": 1795317051,
-   "etag": "0x8DF48462955E644"
+   "changes": "Full family update: whole-app English/Bengali switch; per-surface icon packs and themes that arrive by themselves (pdf feeds) with arrival notifications; five bare-glyph app-icon designs (your shipped PDF document is the default); real full-screen look preview with Apply; self-update that checks twice a day, auto-downloads and leaves only Install; typed settings backup covering your sort choice and the last page read in each PDF (your PDF files stay your documents in Download/HasuPDF); honest Permissions hub (the header switch is on only when notifications, install updates and the battery exemption are really on — the tools themselves need no permission on modern Android). The PDF engine is unchanged: photos to PDF, merge, split and the viewer work exactly as before.",
+   "ts": 1795673439,
+   "etag": "0x8DF4B83E3B492B9"
   },
   {
    "pkg": "hasu.os.quick",
