@@ -370,13 +370,13 @@
    "name": "HasuSpeed",
    "tag": "Live internet speed",
    "desc": "Live internet speed in your notification — download & upload now, today's totals and per-app usage.",
-   "code": 38,
-   "versionName": "02.13",
-   "size": 66485,
+   "code": 39,
+   "versionName": "02.14",
+   "size": 228106,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/speed.apk",
-   "changes": "Connected icons: the per-app data list now shows each app's current icon — change an app's icon inside that app and the new icon shows here too, exactly like on Home.",
-   "ts": 1795584432,
-   "etag": "0x8DF4AB498C4FE24"
+   "changes": "The family update: a Look page with themes, dark and light modes and five app-icon designs (your gauge stays the default), icon packs and themes that arrive by themselves with a notification naming what came, English and Bengali for the whole app from one switch, a Settings page with a typed backup of the meter's own store, and an honest Permissions hub. The meter itself is untouched.",
+   "ts": 1795668098,
+   "etag": "0x8DF4B777D82A068"
   },
   {
    "pkg": "hasu.os.store",
