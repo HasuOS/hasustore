@@ -4,13 +4,13 @@
    "id": "aurora",
    "name": "Aurora",
    "zip": "packs/aurora.zip",
-   "size": 4225964
+   "size": 4313664
   },
   {
    "id": "hasu-style",
    "name": "Hasu Style",
    "zip": "packs/hasu-style.zip",
-   "size": 1187696
+   "size": 2485994
   },
   {
    "id": "outline",
@@ -22,7 +22,7 @@
    "id": "halftone",
    "name": "Halftone Dots",
    "zip": "packs/halftone.zip",
-   "size": 344011
+   "size": 339715
   }
  ]
 }
