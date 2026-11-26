@@ -110,13 +110,13 @@
    "name": "HasuClock",
    "tag": "Clock & alarms",
    "desc": "Clock — alarms with repeat days and snooze, stopwatch with laps, a timer that rings from the background, and world clocks.",
-   "code": 26,
-   "versionName": "1.20",
-   "size": 5032936,
+   "code": 27,
+   "versionName": "1.21",
+   "size": 3312616,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/clock.apk",
-   "changes": "HasuClock 1.20 — launcher icon only: the blue tile is gone — now the bare white clock glyph on full transparency, the same family style everywhere (drawer, HasuOS Home, HasuStore). Nothing else changed.",
-   "ts": 1795650082,
-   "etag": "0x8DF4B4D9A12FB4B"
+   "changes": "HasuClock 1.21 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795654635,
+   "etag": "0x8DF4B5833DC98FF"
   },
   {
    "pkg": "hasu.os.dice",
