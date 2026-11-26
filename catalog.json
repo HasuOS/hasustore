@@ -591,13 +591,13 @@
    "name": "HasuStudy",
    "tag": "Exam practice",
    "desc": "Government-job exam practice — 80 BCS-style MCQs in বাংলা, English, গণিত and সাধারণ জ্ঞান, with Practice mode and timed mock tests.",
-   "code": 1,
-   "versionName": "1.00",
-   "size": 90990,
+   "code": 2,
+   "versionName": "1.01",
+   "size": 1936052,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/study.apk",
-   "changes": "NEW APP: 📚 Government-job exam practice — 80 BCS-style MCQs in বাংলা, English, গণিত and সাধারণ জ্ঞান. 📝 Practice mode shows the right answer and a one-line reason for every question. ⏱ Mock tests: 10 questions against a 5-minute clock, marked at the end with a full review. 📊 Per-subject accuracy and best mock scores are remembered on the phone.",
-   "ts": 1795309515,
-   "etag": "0x8DF48349BC48E19"
+   "changes": "1.01 — Full family update: premium Liquid Glass look, English/Bangla switch, icon sets and themes that arrive by themselves with a notification, five launcher designs, unfinished tests saved and resumed where you left them, study record and settings backed up and restored, built-in self-update, full Guide and honest Permissions.",
+   "ts": 1795652858,
+   "etag": "0x8DF4B540258D1E1"
   },
   {
    "pkg": "hasu.os.quran",
