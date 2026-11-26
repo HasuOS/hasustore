@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 137,
-   "versionName": "10.67",
-   "size": 17415988,
-   "changes": "HasuOS Home 10.67 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "code": 138,
+   "versionName": "10.68",
+   "size": 17424180,
+   "changes": "HasuOS Home 10.68 — full family pass: the whole app now speaks English or Bangla from one Language switch in the hub; new icon designs and packs arriving from the feed now post a \"what was added\" notification (DesignSync, with its own on/off switch in the hub); updates are now also checked in the background twice a day and the update-ready alert actually arrives (the notifications permission was missing — now declared and listed on the Permissions page); hub rows are bare drawn glyphs now, no tiles; the About page hero shows your CURRENT launcher icon design; a backup made in the hub now restores fully in Home settings and back (string sets were silently dropped between the two writers); a feed design that changes now re-downloads its art instead of showing the old picture. The launcher engine is untouched.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795658234,
-   "etag": "0x8DF4B6090DD3A00"
+   "ts": 1795674261,
+   "etag": "0x8DF4B85D9736C4C"
   },
   {
    "pkg": "hasu.os.pdf",
