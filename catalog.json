@@ -6,13 +6,13 @@
    "name": "HasuBackup",
    "tag": "APK backup",
    "desc": "Backup — save any installed app as an APK into Download/HasuBackup, back up everything at once, or share an APK.",
-   "code": 23,
-   "versionName": "1.20",
-   "size": 2231697,
+   "code": 24,
+   "versionName": "1.21",
+   "size": 383940,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/backup.apk",
-   "changes": "আইকন এখন adaptive — নিজের premium glass background সহ, Samsung-সহ সব জায়গায় পরিষ্কার দেখা যাবে",
-   "etag": "0x8DF4B044D5B83EE",
-   "ts": 1795618613
+   "changes": "HasuBackup 1.21 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "etag": "0x8DF4B5E23E79154",
+   "ts": 1795657185
   },
   {
    "pkg": "hasu.os.battery",
