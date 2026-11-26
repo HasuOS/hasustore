@@ -266,13 +266,13 @@
    "name": "HasuOS Home",
    "tag": "Your HasuOS home screen",
    "desc": "Your home screen, HasuOS style — a liquid-glass launcher with widgets, an App Library, lock screen and themes.",
-   "code": 139,
-   "versionName": "10.69",
+   "code": 140,
+   "versionName": "10.70",
    "size": 17428276,
-   "changes": "HasuOS Home 10.69 - icon fidelity (his order): an app the applied icon pack does not draw now keeps its OWN icon - the generic design-tile reshape is removed, so every app shows its own current icon, or the pack's own drawing for it, and nothing else. NEW: the pack/design applied here is now shared with HasuStore through a family-only provider, so the store shows the same pack the same way.",
+   "changes": "Icon-display law: every app shows its own main icon exactly - the styled squircle/sheen conversion is off by default, and the styled icon disk cache can no longer serve one app another app's icon (SHA-256 cache names).",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
-   "ts": 1795676271,
-   "etag": "0x8DF4B8A1F7209EC"
+   "ts": 1795678140,
+   "etag": "0x8DF4B8ED0F1189C"
   },
   {
    "pkg": "hasu.os.pdf",
@@ -359,13 +359,13 @@
    "name": "HasuStore",
    "tag": "The HasuOS app store",
    "desc": "Your HasuStore — every HasuOS app, in one place. Online updates included.",
-   "code": 252,
-   "versionName": "2.59",
+   "code": 253,
+   "versionName": "2.60",
    "size": 116164668,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/store.apk",
-   "changes": "HasuStore 2.59 - every app shows its OWN icon: (1) all 62 catalog apps now carry their own icon picture in the store - served from the feed (store/icons) and kept fresh by itself, with the full set bundled as well - so the generic letter tile is left only for an icon that genuinely cannot be loaded anywhere; (2) the store now mirrors the icon pack applied in HasuOS Home and your per-app picks in HasuPack, through the same family channels Home uses - a pack or design you apply shows here the same way, and an app the pack does not draw keeps its own icon.",
-   "ts": 1795676271,
-   "etag": "0x8DF4B8A6B106E0C"
+   "changes": "Icon-display law: app icons sit as themselves everywhere in the store - the glass tile and border under every icon (grid, app page, Recent, About) are removed. The download progress ring (fills 0-100% only while that app downloads) is unchanged.",
+   "ts": 1795678140,
+   "etag": "0x8DF4B8EDD80730A"
   },
   {"pkg": "hasu.os.tasbih", "name": "HasuTasbih", "tag": "Digital tasbih", "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.", "code": 10, "versionName": "1.09", "size": 215747, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk", "changes": "HasuTasbih 1.09 — the full family pass: Settings page with backup & restore (every count, round, target and total included), a full Guide in English and Bengali, Look & icons with per-page themes and icon sets that arrive by themselves, a Permissions page that shows the real state of every switch, an English/Bengali switch for the whole app, dark and light modes, self-update checks twice a day, and a bare white-glyph app icon — your beads — with four more designs to pick from. Counting works exactly as before: the four dhikr, the targets, the buzz and the volume keys are untouched.", "ts": 1795665043, "etag": "0x8DF4B70676CA666"},
   {
