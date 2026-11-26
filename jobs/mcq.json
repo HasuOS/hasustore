@@ -1,6 +1,6 @@
 {
-  "version": 80,
-  "generatedAt": 1795657763,
+  "version": 81,
+  "generatedAt": 1795660264,
   "subjects": [
     {
       "id": "bangla",
@@ -29291,6 +29291,765 @@
           ],
           "q": "বৈষ্ণব পদাবলীর মৈথিলি ভাষার কবি কে?",
           "why": "বিদ্যাপতি মৈথিলি ভাষায় বৈষ্ণব পদ রচনা করেছেন।"
+        },
+        {
+          "q": "সৈয়দ শামসুল হক কত সালে জন্মগ্রহণ করেন?",
+          "options": [
+            "১৯২৫",
+            "১৯৩৫",
+            "১৯৪৫",
+            "১৯৫৫"
+          ],
+          "answer": 1,
+          "why": "সৈয়দ শামসুল হক ১৯৩৫ সালে জন্মগ্রহণ করেন।"
+        },
+        {
+          "q": "'পায়ের আওয়াজ পাওয়া যায়' নাটকের রচয়িতা কে?",
+          "options": [
+            "সৈয়দ শামসুল হক",
+            "মুনীর চৌধুরী",
+            "সেলিম আল দীন",
+            "আবদুল্লাহ আল মামুন"
+          ],
+          "answer": 0,
+          "why": "পায়ের আওয়াজ পাওয়া যায় সৈয়দ শামসুল হকের নাটক।"
+        },
+        {
+          "q": "আবু ইসহাকের বিখ্যাত উপন্যাস কোনটি?",
+          "options": [
+            "জননী",
+            "সূর্য দীঘল বাড়ী",
+            "হাঙর নদী গ্রেনেড",
+            "নন্দিত নরকে"
+          ],
+          "answer": 1,
+          "why": "আবু ইসহাকের বিখ্যাত উপন্যাস সূর্য দীঘল বাড়ী।"
+        },
+        {
+          "q": "'সূর্য দীঘল বাড়ী' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯৪৫",
+            "১৯৫৫",
+            "১৯৬৫",
+            "১৯৭৫"
+          ],
+          "answer": 1,
+          "why": "সূর্য দীঘল বাড়ী ১৯৫৫ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "শওকত ওসমানের 'জননী' উপন্যাস প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯৪৮",
+            "১৯৫৮",
+            "১৯৬৮",
+            "১৯৭৮"
+          ],
+          "answer": 1,
+          "why": "শওকত ওসমানের জননী ১৯৫৮ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "সেলিনা হোসেনের 'হাঙর নদী গ্রেনেড' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯৬৬",
+            "১৯৭৬",
+            "১৯৮৬",
+            "১৯৯৬"
+          ],
+          "answer": 1,
+          "why": "হাঙর নদী গ্রেনেড ১৯৭৬ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "সুফিয়া কামাল কী নামে পরিচিত?",
+          "options": [
+            "বিদ্রোহী কবি",
+            "জননী সাহসিকা",
+            "পল্লীকবি",
+            "ছন্দের যাদুকর"
+          ],
+          "answer": 1,
+          "why": "সুফিয়া কামাল জননী সাহসিকা নামে পরিচিত।"
+        },
+        {
+          "q": "জাহানারা ইমামের 'একাত্তরের দিনগুলি' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯৭৬",
+            "১৯৮৬",
+            "১৯৯৬",
+            "১৯৭২"
+          ],
+          "answer": 1,
+          "why": "একাত্তরের দিনগুলি ১৯৮৬ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "জাহানারা ইমাম কী নামে পরিচিত?",
+          "options": [
+            "শহীদ জননী",
+            "বিদ্রোহী কবি",
+            "পল্লীকবি",
+            "জননী সাহসিকা"
+          ],
+          "answer": 0,
+          "why": "জাহানারা ইমাম শহীদ জননী নামে পরিচিত।"
+        },
+        {
+          "q": "আখতারুজ্জামান ইলিয়াসের 'চিলেকোঠার সেপাই' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯৭৭",
+            "১৯৮৭",
+            "১৯৯৭",
+            "১৯৬৭"
+          ],
+          "answer": 1,
+          "why": "চিলেকোঠার সেপাই ১৯৮৭ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "আল মাহমুদের 'সোনালী কাবিন' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯৬৩",
+            "১৯৭৩",
+            "১৯৮৩",
+            "১৯৯৩"
+          ],
+          "answer": 1,
+          "why": "সোনালী কাবিন ১৯৭৩ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "শামসুর রাহমানের 'বন্দী শিবির থেকে' কাব্যগ্রন্থ প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯৬২",
+            "১৯৭২",
+            "১৯৮২",
+            "১৯৯২"
+          ],
+          "answer": 1,
+          "why": "বন্দী শিবির থেকে ১৯৭২ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "বেগম রোকেয়ার 'সুলতানার স্বপ্ন' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯০৫",
+            "১৯১৫",
+            "১৯২৫",
+            "১৯৩৫"
+          ],
+          "answer": 0,
+          "why": "সুলতানার স্বপ্ন ১৯০৫ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "মীর মশাররফ হোসেনের 'বিষাদ-সিন্ধু' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৮৭৫",
+            "১৮৮৫",
+            "১৮৯৫",
+            "১৯০৫"
+          ],
+          "answer": 1,
+          "why": "বিষাদ-সিন্ধুর প্রথম খণ্ড ১৮৮৫ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "দীনবন্ধু মিত্রের 'নীলদর্পণ' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৮৫০",
+            "১৮৬০",
+            "১৮৭০",
+            "১৮৮০"
+          ],
+          "answer": 1,
+          "why": "নীলদর্পণ ১৮৬০ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "ঈশ্বরচন্দ্র বিদ্যাসাগরের 'বর্ণপরিচয়' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৮৪৫",
+            "১৮৫৫",
+            "১৮৬৫",
+            "১৮৭৫"
+          ],
+          "answer": 1,
+          "why": "বর্ণপরিচয় ১৮৫৫ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "'বেতাল পঞ্চবিংশতি' গ্রন্থের রচয়িতা কে?",
+          "options": [
+            "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+            "বঙ্কিমচন্দ্র",
+            "মাইকেল মধুসূদন",
+            "দীনবন্ধু মিত্র"
+          ],
+          "answer": 0,
+          "why": "বেতাল পঞ্চবিংশতি ঈশ্বরচন্দ্র বিদ্যাসাগরের গ্রন্থ।"
+        },
+        {
+          "q": "মাইকেল মধুসূদন দত্তের 'বীরাঙ্গনা' কোন ধরনের কাব্য?",
+          "options": [
+            "মহাকাব্য",
+            "পত্রকাব্য",
+            "গীতিকাব্য",
+            "খণ্ডকাব্য"
+          ],
+          "answer": 1,
+          "why": "বীরাঙ্গনা একটি পত্রকাব্য।"
+        },
+        {
+          "q": "রবীন্দ্রনাথের 'সোনার তরী' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৮৮৪",
+            "১৮৯৪",
+            "১৯০৪",
+            "১৯১৪"
+          ],
+          "answer": 1,
+          "why": "সোনার তরী ১৮৯৪ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "নজরুলের 'বিষের বাঁশী' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯১৪",
+            "১৯২৪",
+            "১৯৩৪",
+            "১৯৪৪"
+          ],
+          "answer": 1,
+          "why": "বিষের বাঁশী ১৯২৪ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "নজরুলের 'সাম্যবাদী' কবিতা কোন কাব্যগ্রন্থে আছে?",
+          "options": [
+            "অগ্নিবীণা",
+            "বিষের বাঁশী",
+            "সাম্যবাদী",
+            "দোলনচাঁপা"
+          ],
+          "answer": 2,
+          "why": "সাম্যবাদী কবিতা 'সাম্যবাদী' কাব্যগ্রন্থে আছে।"
+        },
+        {
+          "q": "জসীমউদ্দীনের 'নক্সী কাঁথার মাঠ' প্রকাশিত হয় কত সালে?",
+          "options": [
+            "১৯১৯",
+            "১৯২৯",
+            "১৯৩৯",
+            "১৯৪৯"
+          ],
+          "answer": 1,
+          "why": "নক্সী কাঁথার মাঠ ১৯২৯ সালে প্রকাশিত হয়।"
+        },
+        {
+          "q": "জসীমউদ্দীনের 'কবর' কবিতা কোন কাব্যগ্রন্থে আছে?",
+          "options": [
+            "নক্সী কাঁথার মাঠ",
+            "রাখালী",
+            "সোজন বাদিয়ার ঘাট",
+            "বালুচর"
+          ],
+          "answer": 1,
+          "why": "কবর কবিতা 'রাখালী' কাব্যগ্রন্থে আছে।"
+        },
+        {
+          "q": "লালন শাহের জন্ম কত সালে?",
+          "options": [
+            "১৭৭৪",
+            "১৮৭৪",
+            "১৬৭৪",
+            "১৯৭৪"
+          ],
+          "answer": 0,
+          "why": "লালন শাহের জন্ম ১৭৭৪ সালে (প্রায়)।"
+        },
+        {
+          "q": "হাসন রাজা কত সালে জন্মগ্রহণ করেন?",
+          "options": [
+            "১৮৫৪",
+            "১৯৫৪",
+            "১৭৫৪",
+            "১৯২৪"
+          ],
+          "answer": 0,
+          "why": "হাসন রাজা ১৮৫৪ সালে জন্মগ্রহণ করেন।"
+        },
+        {
+          "q": "শাহ আবদুল করিম কী নামে পরিচিত?",
+          "options": [
+            "বাউল সম্রাট",
+            "পল্লীকবি",
+            "বিদ্রোহী কবি",
+            "ছন্দের যাদুকর"
+          ],
+          "answer": 0,
+          "why": "শাহ আবদুল করিম বাউল সম্রাট নামে পরিচিত।"
+        },
+        {
+          "q": "বিদ্যাপতি কোন অঞ্চলের কবি?",
+          "options": [
+            "গৌড়",
+            "মিথিলা",
+            "কামরূপ",
+            "উৎকল"
+          ],
+          "answer": 1,
+          "why": "বিদ্যাপতি মিথিলার কবি।"
+        },
+        {
+          "q": "চণ্ডীদাস কোন ধারার পদকর্তা?",
+          "options": [
+            "মঙ্গলকাব্য",
+            "বৈষ্ণব পদাবলী",
+            "শাক্ত পদাবলী",
+            "বাউল"
+          ],
+          "answer": 1,
+          "why": "চণ্ডীদাস বৈষ্ণব পদাবলীর পদকর্তা।"
+        },
+        {
+          "q": "জ্ঞানদাস কোন ধারার কবি?",
+          "options": [
+            "মঙ্গলকাব্য",
+            "বৈষ্ণব পদাবলী",
+            "বাউল",
+            "শাক্ত পদাবলী"
+          ],
+          "answer": 1,
+          "why": "জ্ঞানদাস বৈষ্ণব পদাবলীর কবি।"
+        },
+        {
+          "q": "গোবিন্দদাস কোন ধারার কবি?",
+          "options": [
+            "মঙ্গলকাব্য",
+            "বৈষ্ণব পদাবলী",
+            "বাউল",
+            "শাক্ত পদাবলী"
+          ],
+          "answer": 1,
+          "why": "গোবিন্দদাস বৈষ্ণব পদাবলীর কবি।"
+        },
+        {
+          "q": "রণসংগীত 'চল চল চল' গৃহীত হয় কত সালে?",
+          "options": [
+            "১৯৬২",
+            "১৯৭২",
+            "১৯৮২",
+            "১৯৯২"
+          ],
+          "answer": 1,
+          "why": "রণসংগীত 'চল চল চল' ১৯৭২ সালে গৃহীত হয়।"
+        },
+        {
+          "q": "শাপলা বাংলাদেশের কী?",
+          "options": [
+            "জাতীয় পাখি",
+            "জাতীয় ফুল",
+            "জাতীয় মাছ",
+            "জাতীয় ফল"
+          ],
+          "answer": 1,
+          "why": "শাপলা বাংলাদেশের জাতীয় ফুল।"
+        },
+        {
+          "q": "দোয়েল বাংলাদেশের কী?",
+          "options": [
+            "জাতীয় ফুল",
+            "জাতীয় পাখি",
+            "জাতীয় মাছ",
+            "জাতীয় বৃক্ষ"
+          ],
+          "answer": 1,
+          "why": "দোয়েল বাংলাদেশের জাতীয় পাখি।"
+        },
+        {
+          "q": "ইলিশ বাংলাদেশের কী?",
+          "options": [
+            "জাতীয় ফুল",
+            "জাতীয় পাখি",
+            "জাতীয় মাছ",
+            "জাতীয় ফল"
+          ],
+          "answer": 2,
+          "why": "ইলিশ বাংলাদেশের জাতীয় মাছ।"
+        },
+        {
+          "q": "বাংলা একাডেমি প্রতিষ্ঠায় অগ্রণী ভূমিকা পালন করেন কে?",
+          "options": [
+            "ড. মুহম্মদ শহীদুল্লাহ",
+            "ড. সুনীতিকুমার চট্টোপাধ্যায়",
+            "কাজী নজরুল ইসলাম",
+            "ড. সুকুমার সেন"
+          ],
+          "answer": 0,
+          "why": "বাংলা একাডেমি প্রতিষ্ঠায় অগ্রণী ভূমিকা পালন করেন ড. মুহম্মদ শহীদুল্লাহ।"
+        },
+        {
+          "q": "বাংলা ভাষা কোন ভাষা পরিবারের অন্তর্গত?",
+          "options": [
+            "দ্রাবিড়",
+            "ইন্দো-ইউরোপীয়",
+            "সেমীয়",
+            "চীনা-তিব্বতি"
+          ],
+          "answer": 1,
+          "why": "বাংলা ভাষা ইন্দো-ইউরোপীয় ভাষা পরিবারের অন্তর্গত।"
+        },
+        {
+          "q": "বাংলা স্বরবর্ণ কয়টি?",
+          "options": [
+            "৭টি",
+            "৯টি",
+            "১১টি",
+            "১৩টি"
+          ],
+          "answer": 2,
+          "why": "বাংলা স্বরবর্ণ ১১টি।"
+        },
+        {
+          "q": "বাংলা ব্যঞ্জনবর্ণ কয়টি?",
+          "options": [
+            "২৯টি",
+            "৩৯টি",
+            "৪৯টি",
+            "৩৩টি"
+          ],
+          "answer": 1,
+          "why": "বাংলা ব্যঞ্জনবর্ণ ৩৯টি।"
+        },
+        {
+          "q": "রূপক অলংকারের উদাহরণ কোনটি?",
+          "options": [
+            "চাঁদের মতো মুখ",
+            "মুখচন্দ্র",
+            "মেঘের মতো কেশ",
+            "সোনার মতো মন"
+          ],
+          "answer": 1,
+          "why": "মুখচন্দ্র রূপক অলংকারের উদাহরণ।"
+        },
+        {
+          "q": "অনুপ্রাস অলংকার কী?",
+          "options": [
+            "একই শব্দের ভিন্ন অর্থ",
+            "একই ধ্বনির বারবার ব্যবহার",
+            "অতিরঞ্জিত বর্ণনা",
+            "বিরোধী ভাবের মিলন"
+          ],
+          "answer": 1,
+          "why": "অনুপ্রাস হলো একই ধ্বনির বারবার ব্যবহার।"
+        },
+        {
+          "q": "যমক অলংকার কী?",
+          "options": [
+            "একই ধ্বনির বারবার ব্যবহার",
+            "একই শব্দ ভিন্ন অর্থে পুনরাবৃত্তি",
+            "অতিরঞ্জিত বর্ণনা",
+            "বিরোধী ভাবের মিলন"
+          ],
+          "answer": 1,
+          "why": "যমক হলো একই শব্দ ভিন্ন অর্থে পুনরাবৃত্তি।"
+        },
+        {
+          "q": "শ্লেষ অলংকার কী?",
+          "options": [
+            "একই ধ্বনির বারবার ব্যবহার",
+            "এক শব্দে একাধিক অর্থ",
+            "অতিরঞ্জিত বর্ণনা",
+            "বিরোধী ভাবের মিলন"
+          ],
+          "answer": 1,
+          "why": "শ্লেষ হলো এক শব্দে একাধিক অর্থ প্রকাশ।"
+        },
+        {
+          "q": "বিরোধাভাস অলংকার কী?",
+          "options": [
+            "একই ধ্বনির বারবার ব্যবহার",
+            "এক শব্দে একাধিক অর্থ",
+            "অতিরঞ্জিত বর্ণনা",
+            "আপাত বিরোধী ভাবের মিলন"
+          ],
+          "answer": 3,
+          "why": "বিরোধাভাস হলো আপাত বিরোধী ভাবের মিলন।"
+        },
+        {
+          "q": "অতিশয়োক্তি অলংকার কী?",
+          "options": [
+            "একই ধ্বনির বারবার ব্যবহার",
+            "অতিরঞ্জিত বর্ণনা",
+            "এক শব্দে একাধিক অর্থ",
+            "বিরোধী ভাবের মিলন"
+          ],
+          "answer": 1,
+          "why": "অতিশয়োক্তি হলো অতিরঞ্জিত বর্ণনা।"
+        },
+        {
+          "q": "স্বরবৃত্ত ছন্দে প্রতি পর্বে কয় মাত্রা থাকে?",
+          "options": [
+            "২ মাত্রা",
+            "৩ মাত্রা",
+            "৪ মাত্রা",
+            "৫ মাত্রা"
+          ],
+          "answer": 2,
+          "why": "স্বরবৃত্ত ছন্দে প্রতি পর্বে ৪ মাত্রা থাকে।"
+        },
+        {
+          "q": "সমোচ্চারিত শব্দ কী?",
+          "options": [
+            "অর্থ এক, উচ্চারণ ভিন্ন এমন শব্দ",
+            "উচ্চারণ এক, অর্থ ভিন্ন এমন শব্দ",
+            "বানান এক, অর্থ ভিন্ন এমন শব্দ",
+            "অর্থ ও উচ্চারণ এক এমন শব্দ"
+          ],
+          "answer": 1,
+          "why": "সমোচ্চারিত শব্দ হলো উচ্চারণ এক, অর্থ ভিন্ন এমন শব্দ।"
+        },
+        {
+          "q": "'অন্ন' শব্দের অর্থ কী?",
+          "options": [
+            "অপর",
+            "ভাত",
+            "জল",
+            "আগুন"
+          ],
+          "answer": 1,
+          "why": "অন্ন শব্দের অর্থ ভাত।"
+        },
+        {
+          "q": "'অন্য' শব্দের অর্থ কী?",
+          "options": [
+            "ভাত",
+            "অপর",
+            "জল",
+            "আগুন"
+          ],
+          "answer": 1,
+          "why": "অন্য শব্দের অর্থ অপর।"
+        },
+        {
+          "q": "তদ্ভব শব্দের উদাহরণ কোনটি?",
+          "options": [
+            "চন্দ্র",
+            "হস্ত",
+            "চাঁদ",
+            "সূর্য"
+          ],
+          "answer": 2,
+          "why": "চাঁদ একটি তদ্ভব শব্দ (চন্দ্র থেকে এসেছে)।"
+        },
+        {
+          "q": "নিচের কোনটি আরবি শব্দ?",
+          "options": [
+            "বাগান",
+            "কলম",
+            "চেয়ার",
+            "স্কুল"
+          ],
+          "answer": 1,
+          "why": "কলম একটি আরবি শব্দ।"
+        },
+        {
+          "q": "নিচের কোনটি ফারসি শব্দ?",
+          "options": [
+            "কলম",
+            "বাগান",
+            "চেয়ার",
+            "স্কুল"
+          ],
+          "answer": 1,
+          "why": "বাগান একটি ফারসি শব্দ।"
+        },
+        {
+          "q": "পরিভাষা কী?",
+          "options": [
+            "বিদেশি শব্দ",
+            "বিশেষ বিষয়ের নির্দিষ্ট শব্দ",
+            "আঞ্চলিক শব্দ",
+            "পুরোনো শব্দ"
+          ],
+          "answer": 1,
+          "why": "পরিভাষা হলো বিশেষ বিষয়ের নির্দিষ্ট শব্দ।"
+        },
+        {
+          "q": "'কম্পিউটার' শব্দের বাংলা পরিভাষা কী?",
+          "options": [
+            "গণকযন্ত্র",
+            "দূরালাপনী",
+            "চলচ্চিত্র",
+            "দূরদর্শন"
+          ],
+          "answer": 0,
+          "why": "কম্পিউটার শব্দের বাংলা পরিভাষা গণকযন্ত্র।"
+        },
+        {
+          "q": "'টেলিফোন' শব্দের বাংলা পরিভাষা কী?",
+          "options": [
+            "গণকযন্ত্র",
+            "দূরালাপনী",
+            "চলচ্চিত্র",
+            "দূরদর্শন"
+          ],
+          "answer": 1,
+          "why": "টেলিফোন শব্দের বাংলা পরিভাষা দূরালাপনী।"
+        },
+        {
+          "q": "সংলাপ কী?",
+          "options": [
+            "একজনের বক্তব্য",
+            "দুই বা ততোধিক ব্যক্তির কথোপকথন",
+            "বর্ণনা",
+            "কবিতা"
+          ],
+          "answer": 1,
+          "why": "সংলাপ হলো দুই বা ততোধিক ব্যক্তির কথোপকথন।"
+        },
+        {
+          "q": "প্লট কী?",
+          "options": [
+            "রচনার মূল ভাব",
+            "কাহিনির ঘটনা-বিন্যাস",
+            "চরিত্রের নাম",
+            "রচনার শিরোনাম"
+          ],
+          "answer": 1,
+          "why": "প্লট হলো কাহিনির ঘটনা-বিন্যাস।"
+        },
+        {
+          "q": "থিম কী?",
+          "options": [
+            "কাহিনির ঘটনা-বিন্যাস",
+            "রচনার মূল ভাব বা বিষয়",
+            "চরিত্রের নাম",
+            "রচনার শিরোনাম"
+          ],
+          "answer": 1,
+          "why": "থিম হলো রচনার মূল ভাব বা বিষয়।"
+        },
+        {
+          "q": "গজল কী?",
+          "options": [
+            "বাংলা লোকগান",
+            "উর্দু-ফারসি ধারার প্রেমের কবিতা",
+            "সংস্কৃত নাটক",
+            "বাংলা মহাকাব্য"
+          ],
+          "answer": 1,
+          "why": "গজল হলো উর্দু-ফারসি ধারার প্রেমের কবিতা।"
+        },
+        {
+          "q": "সনেটে মোট কয়টি লাইন থাকে?",
+          "options": [
+            "১২টি",
+            "১৪টি",
+            "১৬টি",
+            "১৮টি"
+          ],
+          "answer": 1,
+          "why": "সনেটে মোট ১৪টি লাইন থাকে।"
+        },
+        {
+          "q": "মহাকাব্যের বৈশিষ্ট্য কী?",
+          "options": [
+            "ছোট আকারের প্রেমের কবিতা",
+            "বড় আকারের বীরত্বগাথা",
+            "হাস্যরসাত্মক নাটক",
+            "ছোটগল্প"
+          ],
+          "answer": 1,
+          "why": "মহাকাব্য হলো বড় আকারের বীরত্বগাথা।"
+        },
+        {
+          "q": "ট্র্যাজেডি কী?",
+          "options": [
+            "হাস্যরসাত্মক নাটক",
+            "দুঃখজনক পরিণতির নাটক",
+            "এক অঙ্কের নাটক",
+            "সঙ্গীতনাটক"
+          ],
+          "answer": 1,
+          "why": "ট্র্যাজেডি হলো দুঃখজনক পরিণতির নাটক।"
+        },
+        {
+          "q": "কমেডি কী?",
+          "options": [
+            "দুঃখজনক পরিণতির নাটক",
+            "হাস্যরসাত্মক নাটক",
+            "এক অঙ্কের নাটক",
+            "ঐতিহাসিক নাটক"
+          ],
+          "answer": 1,
+          "why": "কমেডি হলো হাস্যরসাত্মক নাটক।"
+        },
+        {
+          "q": "একাঙ্কিকা কী?",
+          "options": [
+            "তিন অঙ্কের নাটক",
+            "এক অঙ্কের নাটক",
+            "পাঁচ অঙ্কের নাটক",
+            "সঙ্গীতনাটক"
+          ],
+          "answer": 1,
+          "why": "একাঙ্কিকা হলো এক অঙ্কের নাটক।"
+        },
+        {
+          "q": "নভেলা কী?",
+          "options": [
+            "ছোট উপন্যাস বা বড় গল্প",
+            "মহাকাব্য",
+            "নাটক",
+            "প্রবন্ধ"
+          ],
+          "answer": 0,
+          "why": "নভেলা হলো ছোট উপন্যাস বা বড় গল্প।"
+        },
+        {
+          "q": "নিবন্ধ কী?",
+          "options": [
+            "গল্প",
+            "তথ্যনির্ভর প্রবন্ধ",
+            "নাটক",
+            "কবিতা"
+          ],
+          "answer": 1,
+          "why": "নিবন্ধ হলো তথ্যনির্ভর প্রবন্ধ।"
+        },
+        {
+          "q": "স্মৃতিকথা কী?",
+          "options": [
+            "কাল্পনিক গল্প",
+            "নিজের স্মৃতি নিয়ে লেখা",
+            "ঐতিহাসিক নাটক",
+            "বৈজ্ঞানিক প্রবন্ধ"
+          ],
+          "answer": 1,
+          "why": "স্মৃতিকথা হলো নিজের স্মৃতি নিয়ে লেখা।"
+        },
+        {
+          "q": "পত্রসাহিত্য কী?",
+          "options": [
+            "চিঠির আকারে লেখা সাহিত্য",
+            "সংবাদপত্রের খবর",
+            "পাঠ্যবই",
+            "ডায়েরি"
+          ],
+          "answer": 0,
+          "why": "পত্রসাহিত্য হলো চিঠির আকারে লেখা সাহিত্য।"
+        },
+        {
+          "q": "সমালোচনা কী?",
+          "options": [
+            "প্রশংসা করা",
+            "সাহিত্যের গুণ-দোষ বিচার",
+            "অনুবাদ করা",
+            "সম্পাদনা করা"
+          ],
+          "answer": 1,
+          "why": "সমালোচনা হলো সাহিত্যের গুণ-দোষ বিচার।"
+        },
+        {
+          "q": "সাময়িকী কী?",
+          "options": [
+            "দৈনিক পত্রিকা",
+            "নির্দিষ্ট সময় পর পর প্রকাশিত পত্রিকা",
+            "বার্ষিক প্রতিবেদন",
+            "মাসিক হিসাব"
+          ],
+          "answer": 1,
+          "why": "সাময়িকী হলো নির্দিষ্ট সময় পর পর প্রকাশিত পত্রিকা।"
         }
       ]
     },
@@ -57535,6 +58294,1029 @@
           ],
           "q": "No other player in the team runs as ___ as Arif.",
           "why": "After 'as' in a comparison of equality, the positive degree 'fast' is used."
+        },
+        {
+          "q": "That which cannot be read is -",
+          "options": [
+            "Legible",
+            "Illegible",
+            "Eligible",
+            "Invisible"
+          ],
+          "answer": 1,
+          "why": "That which cannot be read is illegible."
+        },
+        {
+          "q": "A large number of fish swimming together is called a -",
+          "options": [
+            "Flock",
+            "Herd",
+            "Shoal",
+            "Pack"
+          ],
+          "answer": 2,
+          "why": "A large number of fish swimming together is called a shoal."
+        },
+        {
+          "q": "A group of sheep is called a -",
+          "options": [
+            "Pack",
+            "Flock",
+            "Herd",
+            "Shoal"
+          ],
+          "answer": 1,
+          "why": "A group of sheep is called a flock."
+        },
+        {
+          "q": "That which cannot be seen is -",
+          "options": [
+            "Visible",
+            "Invisible",
+            "Incredible",
+            "Inaudible"
+          ],
+          "answer": 1,
+          "why": "That which cannot be seen is invisible."
+        },
+        {
+          "q": "That which cannot be believed is -",
+          "options": [
+            "Credible",
+            "Incredible",
+            "Legible",
+            "Visible"
+          ],
+          "answer": 1,
+          "why": "That which cannot be believed is incredible."
+        },
+        {
+          "q": "That which cannot be corrected is -",
+          "options": [
+            "Correctable",
+            "Incorrigible",
+            "Incredible",
+            "Inevitable"
+          ],
+          "answer": 1,
+          "why": "That which cannot be corrected is incorrigible."
+        },
+        {
+          "q": "That which cannot be avoided is -",
+          "options": [
+            "Avoidable",
+            "Inevitable",
+            "Incredible",
+            "Invisible"
+          ],
+          "answer": 1,
+          "why": "That which cannot be avoided is inevitable."
+        },
+        {
+          "q": "One who is always hopeful is called an -",
+          "options": [
+            "Pessimist",
+            "Optimist",
+            "Fatalist",
+            "Realist"
+          ],
+          "answer": 1,
+          "why": "One who is always hopeful is called an optimist."
+        },
+        {
+          "q": "One who believes in fate is called a -",
+          "options": [
+            "Optimist",
+            "Pessimist",
+            "Fatalist",
+            "Theist"
+          ],
+          "answer": 2,
+          "why": "One who believes in fate is called a fatalist."
+        },
+        {
+          "q": "She is averse ___ hard work.",
+          "options": [
+            "of",
+            "from",
+            "to",
+            "with"
+          ],
+          "answer": 2,
+          "why": "Averse takes 'to': averse to hard work."
+        },
+        {
+          "q": "She is aware ___ the fact.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "in"
+          ],
+          "answer": 2,
+          "why": "Aware takes 'of': aware of the fact."
+        },
+        {
+          "q": "Dhaka is famous ___ its mosques.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Famous takes 'for': famous for its mosques."
+        },
+        {
+          "q": "She believes ___ God.",
+          "options": [
+            "on",
+            "to",
+            "in",
+            "at"
+          ],
+          "answer": 2,
+          "why": "Believe takes 'in': believes in God."
+        },
+        {
+          "q": "Look ___ the word in the dictionary.",
+          "options": [
+            "after",
+            "up",
+            "for",
+            "into"
+          ],
+          "answer": 1,
+          "why": "Look up means to search for: look up the word."
+        },
+        {
+          "q": "Look ___ the baby while I am away.",
+          "options": [
+            "up",
+            "after",
+            "for",
+            "into"
+          ],
+          "answer": 1,
+          "why": "Look after means to take care of: look after the baby."
+        },
+        {
+          "q": "Give ___ smoking.",
+          "options": [
+            "in",
+            "up",
+            "off",
+            "away"
+          ],
+          "answer": 1,
+          "why": "Give up means to stop: give up smoking."
+        },
+        {
+          "q": "Put ___ the meeting.",
+          "options": [
+            "on",
+            "off",
+            "up",
+            "out"
+          ],
+          "answer": 1,
+          "why": "Put off means to postpone: put off the meeting."
+        },
+        {
+          "q": "Call ___ the strike.",
+          "options": [
+            "on",
+            "off",
+            "up",
+            "out"
+          ],
+          "answer": 1,
+          "why": "Call off means to cancel: call off the strike."
+        },
+        {
+          "q": "Carry ___ the order.",
+          "options": [
+            "on",
+            "out",
+            "up",
+            "off"
+          ],
+          "answer": 1,
+          "why": "Carry out means to execute: carry out the order."
+        },
+        {
+          "q": "He broke ___ in the middle of the work.",
+          "options": [
+            "up",
+            "down",
+            "out",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Break down means to stop working: broke down."
+        },
+        {
+          "q": "Set ___ a new school.",
+          "options": [
+            "in",
+            "up",
+            "off",
+            "out"
+          ],
+          "answer": 1,
+          "why": "Set up means to establish: set up a new school."
+        },
+        {
+          "q": "He will take ___ the business.",
+          "options": [
+            "over",
+            "up",
+            "on",
+            "in"
+          ],
+          "answer": 0,
+          "why": "Take over means to assume control: take over the business."
+        },
+        {
+          "q": "We ran ___ money.",
+          "options": [
+            "out",
+            "out of",
+            "over",
+            "up"
+          ],
+          "answer": 1,
+          "why": "Run out of means to exhaust: ran out of money."
+        },
+        {
+          "q": "Deal ___ the problem.",
+          "options": [
+            "to",
+            "with",
+            "in",
+            "on"
+          ],
+          "answer": 1,
+          "why": "Deal takes 'with': deal with the problem."
+        },
+        {
+          "q": "Cope ___ the situation.",
+          "options": [
+            "to",
+            "with",
+            "in",
+            "on"
+          ],
+          "answer": 1,
+          "why": "Cope takes 'with': cope with the situation."
+        },
+        {
+          "q": "I differ ___ you.",
+          "options": [
+            "with",
+            "from",
+            "to",
+            "on"
+          ],
+          "answer": 1,
+          "why": "Differ takes 'from': differ from you."
+        },
+        {
+          "q": "Protect him ___ cold.",
+          "options": [
+            "to",
+            "from",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Protect takes 'from': protect him from cold."
+        },
+        {
+          "q": "Abstain ___ smoking.",
+          "options": [
+            "to",
+            "from",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Abstain takes 'from': abstain from smoking."
+        },
+        {
+          "q": "Refrain ___ laughing.",
+          "options": [
+            "to",
+            "from",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Refrain takes 'from': refrain from laughing."
+        },
+        {
+          "q": "His failure resulted ___ his carelessness.",
+          "options": [
+            "in",
+            "from",
+            "to",
+            "on"
+          ],
+          "answer": 1,
+          "why": "Result from (cause): resulted from his carelessness."
+        },
+        {
+          "q": "He succeeded ___ life.",
+          "options": [
+            "to",
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": 1,
+          "why": "Succeed takes 'in': succeeded in life."
+        },
+        {
+          "q": "He specialises ___ physics.",
+          "options": [
+            "to",
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": 1,
+          "why": "Specialise takes 'in': specialises in physics."
+        },
+        {
+          "q": "He is engaged ___ work.",
+          "options": [
+            "to",
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": 1,
+          "why": "Engaged takes 'in': engaged in work."
+        },
+        {
+          "q": "He is similar ___ his father.",
+          "options": [
+            "with",
+            "to",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Similar takes 'to': similar to his father."
+        },
+        {
+          "q": "This is different ___ mine.",
+          "options": [
+            "with",
+            "to",
+            "from",
+            "than"
+          ],
+          "answer": 2,
+          "why": "Different takes 'from': different from mine."
+        },
+        {
+          "q": "Prior ___ this, he was a teacher.",
+          "options": [
+            "to",
+            "than",
+            "from",
+            "of"
+          ],
+          "answer": 0,
+          "why": "Prior takes 'to': prior to this."
+        },
+        {
+          "q": "He is accustomed ___ cold.",
+          "options": [
+            "with",
+            "to",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Accustomed takes 'to': accustomed to cold."
+        },
+        {
+          "q": "He was exposed ___ danger.",
+          "options": [
+            "with",
+            "to",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Exposed takes 'to': exposed to danger."
+        },
+        {
+          "q": "It is subject ___ change.",
+          "options": [
+            "with",
+            "to",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Subject takes 'to': subject to change."
+        },
+        {
+          "q": "I object ___ the proposal.",
+          "options": [
+            "with",
+            "to",
+            "of",
+            "on"
+          ],
+          "answer": 1,
+          "why": "Object takes 'to': object to the proposal."
+        },
+        {
+          "q": "Refer ___ the book.",
+          "options": [
+            "with",
+            "to",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Refer takes 'to': refer to the book."
+        },
+        {
+          "q": "This belongs ___ me.",
+          "options": [
+            "with",
+            "to",
+            "of",
+            "for"
+          ],
+          "answer": 1,
+          "why": "Belong takes 'to': belongs to me."
+        },
+        {
+          "q": "Contribute ___ the fund.",
+          "options": [
+            "with",
+            "to",
+            "of",
+            "for"
+          ],
+          "answer": 1,
+          "why": "Contribute takes 'to': contribute to the fund."
+        },
+        {
+          "q": "Apply ___ the post.",
+          "options": [
+            "to",
+            "for",
+            "in",
+            "on"
+          ],
+          "answer": 1,
+          "why": "Apply takes 'for': apply for the post."
+        },
+        {
+          "q": "He asked ___ help.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Ask takes 'for': asked for help."
+        },
+        {
+          "q": "He hopes ___ success.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Hope takes 'for': hopes for success."
+        },
+        {
+          "q": "Search ___ the key.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Search takes 'for': search for the key."
+        },
+        {
+          "q": "Wait ___ me.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "on"
+          ],
+          "answer": 1,
+          "why": "Wait takes 'for': wait for me."
+        },
+        {
+          "q": "Account ___ the money.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Account takes 'for': account for the money."
+        },
+        {
+          "q": "Thank you ___ your help.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Thank takes 'for': thank you for your help."
+        },
+        {
+          "q": "He apologised ___ the mistake.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Apologise takes 'for': apologised for the mistake."
+        },
+        {
+          "q": "He longs ___ home.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Long takes 'for': longs for home."
+        },
+        {
+          "q": "Choose the passive form: 'They have done the work.'",
+          "options": [
+            "The work is done by them.",
+            "The work was done by them.",
+            "The work has been done by them.",
+            "The work will be done by them."
+          ],
+          "answer": 2,
+          "why": "Present perfect passive: The work has been done by them."
+        },
+        {
+          "q": "Choose the passive form: 'He will finish it.'",
+          "options": [
+            "It is finished by him.",
+            "It was finished by him.",
+            "It has been finished by him.",
+            "It will be finished by him."
+          ],
+          "answer": 3,
+          "why": "Future simple passive: It will be finished by him."
+        },
+        {
+          "q": "Choose the correct narration: He said to me, 'Are you busy?'",
+          "options": [
+            "He asked me if I was busy.",
+            "He asked me that I was busy.",
+            "He said me if I was busy.",
+            "He asked me are you busy."
+          ],
+          "answer": 0,
+          "why": "Yes/no question becomes if-clause: He asked me if I was busy."
+        },
+        {
+          "q": "Choose the correct narration: The teacher said, 'Do it now.'",
+          "options": [
+            "The teacher said to do it now.",
+            "The teacher ordered us to do it then.",
+            "The teacher ordered to do it now.",
+            "The teacher said that do it then."
+          ],
+          "answer": 1,
+          "why": "Imperative becomes ordered + to-infinitive, now becomes then."
+        },
+        {
+          "q": "He is ___ intelligent as his brother.",
+          "options": [
+            "so",
+            "as",
+            "more",
+            "most"
+          ],
+          "answer": 1,
+          "why": "Positive degree: as intelligent as his brother."
+        },
+        {
+          "q": "If you work hard, you ___ succeed.",
+          "options": [
+            "would",
+            "will",
+            "would have",
+            "had"
+          ],
+          "answer": 1,
+          "why": "First conditional: If you work hard, you will succeed."
+        },
+        {
+          "q": "If I were rich, I ___ travel the world.",
+          "options": [
+            "will",
+            "would",
+            "would have",
+            "shall"
+          ],
+          "answer": 1,
+          "why": "Second conditional: If I were rich, I would travel the world."
+        },
+        {
+          "q": "If he had studied, he ___ have passed.",
+          "options": [
+            "will",
+            "would",
+            "shall",
+            "can"
+          ],
+          "answer": 1,
+          "why": "Third conditional: If he had studied, he would have passed."
+        },
+        {
+          "q": "Unless you hurry, you ___ miss the train.",
+          "options": [
+            "would",
+            "will",
+            "would have",
+            "had"
+          ],
+          "answer": 1,
+          "why": "Unless you hurry, you will miss the train."
+        },
+        {
+          "q": "Choose the correct spelling of 'receive':",
+          "options": [
+            "Recieve",
+            "Receive",
+            "Riceive",
+            "Receeve"
+          ],
+          "answer": 1,
+          "why": "The correct spelling is 'receive'."
+        },
+        {
+          "q": "Choose the correct spelling of 'separate':",
+          "options": [
+            "Seperate",
+            "Separate",
+            "Separete",
+            "Saparate"
+          ],
+          "answer": 1,
+          "why": "The correct spelling is 'separate'."
+        },
+        {
+          "q": "Choose the correct spelling of 'occurrence':",
+          "options": [
+            "Occurance",
+            "Ocurrence",
+            "Occurrence",
+            "Ocurence"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'occurrence'."
+        },
+        {
+          "q": "Choose the correct spelling of 'embarrass':",
+          "options": [
+            "Embarass",
+            "Embarras",
+            "Embarrass",
+            "Imbarrass"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'embarrass'."
+        },
+        {
+          "q": "Choose the correct spelling of 'committee':",
+          "options": [
+            "Commitee",
+            "Comittee",
+            "Committee",
+            "Comitee"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'committee'."
+        },
+        {
+          "q": "Choose the correct spelling of 'questionnaire':",
+          "options": [
+            "Questionaire",
+            "Questionnare",
+            "Questionnaire",
+            "Questionnair"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'questionnaire'."
+        },
+        {
+          "q": "Choose the correct spelling of 'liaison':",
+          "options": [
+            "Liason",
+            "Laison",
+            "Liaison",
+            "Liasion"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'liaison'."
+        },
+        {
+          "q": "Choose the correct spelling of 'entrepreneur':",
+          "options": [
+            "Entreprenur",
+            "Entrepreneur",
+            "Entrepreneaur",
+            "Enterpreneur"
+          ],
+          "answer": 1,
+          "why": "The correct spelling is 'entrepreneur'."
+        },
+        {
+          "q": "Choose the correct spelling of 'conscience':",
+          "options": [
+            "Concience",
+            "Consciense",
+            "Conscience",
+            "Consiense"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'conscience'."
+        },
+        {
+          "q": "Choose the correct spelling of 'guarantee':",
+          "options": [
+            "Guarentee",
+            "Garantee",
+            "Guarantee",
+            "Guarrantee"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'guarantee'."
+        },
+        {
+          "q": "Choose the correct spelling of 'harass':",
+          "options": [
+            "Harrass",
+            "Haras",
+            "Harass",
+            "Harasse"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'harass'."
+        },
+        {
+          "q": "Choose the correct spelling of 'parallel':",
+          "options": [
+            "Paralel",
+            "Parellel",
+            "Parallel",
+            "Parallal"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'parallel'."
+        },
+        {
+          "q": "Choose the correct spelling of 'definitely':",
+          "options": [
+            "Definately",
+            "Definetly",
+            "Definitely",
+            "Definaty"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'definitely'."
+        },
+        {
+          "q": "Choose the correct spelling of 'colleague':",
+          "options": [
+            "Collegue",
+            "Colleage",
+            "Colleague",
+            "Colegue"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'colleague'."
+        },
+        {
+          "q": "Choose the correct spelling of 'existence':",
+          "options": [
+            "Existance",
+            "Existense",
+            "Existence",
+            "Existnce"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'existence'."
+        },
+        {
+          "q": "Choose the correct spelling of 'independent':",
+          "options": [
+            "Independant",
+            "Independet",
+            "Independent",
+            "Independend"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'independent'."
+        },
+        {
+          "q": "Choose the correct spelling of 'recommend':",
+          "options": [
+            "Reccomend",
+            "Recomend",
+            "Recommend",
+            "Recommed"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'recommend'."
+        },
+        {
+          "q": "Choose the correct spelling of 'vacuum':",
+          "options": [
+            "Vaccum",
+            "Vacum",
+            "Vacuum",
+            "Vacume"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'vacuum'."
+        },
+        {
+          "q": "Choose the correct spelling of 'privilege':",
+          "options": [
+            "Previlege",
+            "Priviledge",
+            "Privilege",
+            "Privilage"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'privilege'."
+        },
+        {
+          "q": "Choose the correct spelling of 'successful':",
+          "options": [
+            "Succesful",
+            "Sucessful",
+            "Successful",
+            "Successfull"
+          ],
+          "answer": 2,
+          "why": "The correct spelling is 'successful'."
+        },
+        {
+          "q": "What does 'break a leg' mean?",
+          "options": [
+            "To get injured",
+            "Good luck",
+            "To fall down",
+            "To run fast"
+          ],
+          "answer": 1,
+          "why": "Break a leg means good luck (said to performers)."
+        },
+        {
+          "q": "What does 'cold feet' mean?",
+          "options": [
+            "Cold weather",
+            "Nervousness before an event",
+            "A disease",
+            "A bad habit"
+          ],
+          "answer": 1,
+          "why": "Cold feet means nervousness before an event."
+        },
+        {
+          "q": "What does 'to call it a day' mean?",
+          "options": [
+            "To start work",
+            "To stop working",
+            "To make a phone call",
+            "To celebrate"
+          ],
+          "answer": 1,
+          "why": "To call it a day means to stop working."
+        },
+        {
+          "q": "What does 'to pull someone's leg' mean?",
+          "options": [
+            "To hurt someone",
+            "To joke or tease someone",
+            "To help someone walk",
+            "To pull a rope"
+          ],
+          "answer": 1,
+          "why": "To pull someone's leg means to joke or tease someone."
+        },
+        {
+          "q": "What does 'to see eye to eye' mean?",
+          "options": [
+            "To look at each other",
+            "To agree",
+            "To have good eyesight",
+            "To stare angrily"
+          ],
+          "answer": 1,
+          "why": "To see eye to eye means to agree."
+        },
+        {
+          "q": "Choose the correct sentence (neither of the boys):",
+          "options": [
+            "Neither of the boys have come.",
+            "Neither of the boys has come.",
+            "Neither of the boys have came.",
+            "Neither of the boys is come."
+          ],
+          "answer": 1,
+          "why": "'Neither' is singular: Neither of the boys has come."
+        },
+        {
+          "q": "Choose the correct sentence (the news):",
+          "options": [
+            "The news are good.",
+            "The news is good.",
+            "The news were good.",
+            "The news have good."
+          ],
+          "answer": 1,
+          "why": "'News' is singular: The news is good."
+        },
+        {
+          "q": "Choose the correct sentence (junior):",
+          "options": [
+            "He is junior than me.",
+            "He is junior to me.",
+            "He is junior from me.",
+            "He is junior with me."
+          ],
+          "answer": 1,
+          "why": "'Junior' takes 'to': He is junior to me."
+        },
+        {
+          "q": "Choose the correct sentence (since five years):",
+          "options": [
+            "I have been living here since five years.",
+            "I have been living here for five years.",
+            "I have been living here from five years.",
+            "I have been living here by five years."
+          ],
+          "answer": 1,
+          "why": "'For' is used with a period of time: for five years."
+        },
+        {
+          "q": "Choose the correct sentence (did not went):",
+          "options": [
+            "She did not went to school.",
+            "She did not go to school.",
+            "She did not gone to school.",
+            "She did not goes to school."
+          ],
+          "answer": 1,
+          "why": "After 'did not', the base verb is used: did not go."
+        },
+        {
+          "q": "Choose the correct sentence (each of the students):",
+          "options": [
+            "Each of the students have a pen.",
+            "Each of the students has a pen.",
+            "Each of the students are having a pen.",
+            "Each of the students have pens."
+          ],
+          "answer": 1,
+          "why": "'Each' is singular: Each of the students has a pen."
+        },
+        {
+          "q": "Choose the correct sentence (the committee):",
+          "options": [
+            "The committee were divided.",
+            "The committee was divided.",
+            "The committee are divided.",
+            "The committee have divided."
+          ],
+          "answer": 1,
+          "why": "A collective noun acting as one unit takes a singular verb: The committee was divided."
         }
       ]
     },
@@ -81037,6 +82819,600 @@
           ],
           "answer": 3,
           "why": "২৯-এর উৎপাদক শুধু ১ ও ২৯; ২১ = ৩ × ৭, ২৫ = ৫ × ৫, ২৭ = ৩ × ৯।"
+        },
+        {
+          "q": "১৫ আগস্ট ২০২৬ কোন বার ছিল?",
+          "options": [
+            "শনিবার",
+            "রবিবার",
+            "সোমবার",
+            "বৃহস্পতিবার"
+          ],
+          "answer": 0,
+          "why": "১৫ আগস্ট ২০২৬ ছিল শনিবার।"
+        },
+        {
+          "q": "২১ ফেব্রুয়ারি ২০২৬ কোন বার ছিল?",
+          "options": [
+            "মঙ্গলবার",
+            "সোমবার",
+            "বৃহস্পতিবার",
+            "শনিবার"
+          ],
+          "answer": 3,
+          "why": "২১ ফেব্রুয়ারি ২০২৬ ছিল শনিবার।"
+        },
+        {
+          "q": "২৫ ডিসেম্বর ২০২৫ কোন বার ছিল?",
+          "options": [
+            "সোমবার",
+            "শনিবার",
+            "রবিবার",
+            "বৃহস্পতিবার"
+          ],
+          "answer": 3,
+          "why": "২৫ ডিসেম্বর ২০২৫ ছিল বৃহস্পতিবার।"
+        },
+        {
+          "q": "১ জুলাই ২০২৬ কোন বার ছিল?",
+          "options": [
+            "বুধবার",
+            "সোমবার",
+            "বৃহস্পতিবার",
+            "শনিবার"
+          ],
+          "answer": 0,
+          "why": "১ জুলাই ২০২৬ ছিল বুধবার।"
+        },
+        {
+          "q": "২০২৮ সাল কি অধিবর্ষ (leap year)?",
+          "options": [
+            "না",
+            "হ্যাঁ",
+            "জানা যায় না",
+            "অর্ধেক"
+          ],
+          "answer": 1,
+          "why": "২০২৮ সাল ৪ দিয়ে বিভাজ্য, তাই এটি অধিবর্ষ।"
+        },
+        {
+          "q": "২০২৮ সালের ফেব্রুয়ারি মাসে কয় দিন?",
+          "options": [
+            "২৮ দিন",
+            "২৯ দিন",
+            "৩০ দিন",
+            "৩১ দিন"
+          ],
+          "answer": 1,
+          "why": "২০২৮ অধিবর্ষ বলে ফেব্রুয়ারিতে ২৯ দিন।"
+        },
+        {
+          "q": "১০০ বছরে কয়টি odd day থাকে?",
+          "options": [
+            "৩টি",
+            "৪টি",
+            "৫টি",
+            "৬টি"
+          ],
+          "answer": 2,
+          "why": "১০০ বছরে ৫টি odd day থাকে।"
+        },
+        {
+          "q": "২০০ বছরে কয়টি odd day থাকে?",
+          "options": [
+            "১টি",
+            "২টি",
+            "৩টি",
+            "৪টি"
+          ],
+          "answer": 2,
+          "why": "২০০ বছরে ৩টি odd day থাকে।"
+        },
+        {
+          "q": "৪০০ বছরে কয়টি odd day থাকে?",
+          "options": [
+            "০টি",
+            "১টি",
+            "২টি",
+            "৩টি"
+          ],
+          "answer": 0,
+          "why": "৪০০ বছরে ০টি odd day থাকে।"
+        },
+        {
+          "q": "১ জানুয়ারি ২০২৬ বৃহস্পতিবার হলে ১ ফেব্রুয়ারি ২০২৬ কোন বার?",
+          "options": [
+            "বৃহস্পতিবার",
+            "শুক্রবার",
+            "শনিবার",
+            "রবিবার"
+          ],
+          "answer": 3,
+          "why": "জানুয়ারিতে ৩১ দিন; ৩১ mod ৭ = ৩, তাই বৃহস্পতিবার + ৩ দিন = রবিবার।"
+        },
+        {
+          "q": "নিচের কোন সংখ্যাটি 3 দিয়ে বিভাজ্য?",
+          "options": [
+            "12345",
+            "12346",
+            "12344",
+            "12347"
+          ],
+          "answer": 0,
+          "why": "12345 ÷ 3 = 4115, তাই 12345 সংখ্যাটি 3 দিয়ে বিভাজ্য।"
+        },
+        {
+          "q": "নিচের কোন সংখ্যাটি 4 দিয়ে বিভাজ্য?",
+          "options": [
+            "2023",
+            "2024",
+            "2025",
+            "2026"
+          ],
+          "answer": 1,
+          "why": "2024 ÷ 4 = 506, তাই 2024 সংখ্যাটি 4 দিয়ে বিভাজ্য।"
+        },
+        {
+          "q": "নিচের কোন সংখ্যাটি 9 দিয়ে বিভাজ্য?",
+          "options": [
+            "731",
+            "730",
+            "729",
+            "728"
+          ],
+          "answer": 2,
+          "why": "729 ÷ 9 = 81, তাই 729 সংখ্যাটি 9 দিয়ে বিভাজ্য।"
+        },
+        {
+          "q": "নিচের কোন সংখ্যাটি 11 দিয়ে বিভাজ্য?",
+          "options": [
+            "120",
+            "121",
+            "123",
+            "122"
+          ],
+          "answer": 1,
+          "why": "121 ÷ 11 = 11, তাই 121 সংখ্যাটি 11 দিয়ে বিভাজ্য।"
+        },
+        {
+          "q": "নিচের কোন সংখ্যাটি 5 দিয়ে বিভাজ্য?",
+          "options": [
+            "131",
+            "129",
+            "130",
+            "132"
+          ],
+          "answer": 2,
+          "why": "130 ÷ 5 = 26, তাই 130 সংখ্যাটি 5 দিয়ে বিভাজ্য।"
+        },
+        {
+          "q": "নিচের কোন সংখ্যাটি ২ ও ৫ উভয় দিয়ে বিভাজ্য?",
+          "options": [
+            "১২৫",
+            "১৩০",
+            "১৩৫",
+            "১৪৫"
+          ],
+          "answer": 1,
+          "why": "১৩০ সংখ্যাটি ২ ও ৫ উভয় দিয়ে বিভাজ্য।"
+        },
+        {
+          "q": "2^6 এর মান কত?",
+          "options": [
+            "63",
+            "64",
+            "74",
+            "65"
+          ],
+          "answer": 1,
+          "why": "2^6 = 64।"
+        },
+        {
+          "q": "3^5 এর মান কত?",
+          "options": [
+            "244",
+            "253",
+            "242",
+            "243"
+          ],
+          "answer": 3,
+          "why": "3^5 = 243।"
+        },
+        {
+          "q": "5^4 এর মান কত?",
+          "options": [
+            "626",
+            "625",
+            "624",
+            "635"
+          ],
+          "answer": 1,
+          "why": "5^4 = 625।"
+        },
+        {
+          "q": "10^4 এর মান কত?",
+          "options": [
+            "10000",
+            "9999",
+            "10001",
+            "10010"
+          ],
+          "answer": 0,
+          "why": "10^4 = 10000।"
+        },
+        {
+          "q": "2^10 এর মান কত?",
+          "options": [
+            "1023",
+            "1024",
+            "1025",
+            "1034"
+          ],
+          "answer": 1,
+          "why": "2^10 = 1024।"
+        },
+        {
+          "q": "∛২১৬ এর মান কত?",
+          "options": [
+            "৪",
+            "৫",
+            "৬",
+            "৭"
+          ],
+          "answer": 2,
+          "why": "৬ × ৬ × ৬ = ২১৬, তাই ∛২১৬ = ৬।"
+        },
+        {
+          "q": "(২³)² এর মান কত?",
+          "options": [
+            "৩২",
+            "৬৪",
+            "১২৮",
+            "১৬"
+          ],
+          "answer": 1,
+          "why": "(২³)² = ২⁶ = ৬৪।"
+        },
+        {
+          "q": "একটি বৃত্তের ব্যাসার্ধ ১০ সেমি হলে ক্ষেত্রফল কত? (π = ৩.১৪)",
+          "options": [
+            "৩১৪ বর্গ সেমি",
+            "৩১.৪ বর্গ সেমি",
+            "৬২.৮ বর্গ সেমি",
+            "১৫৭ বর্গ সেমি"
+          ],
+          "answer": 0,
+          "why": "ক্ষেত্রফল = πr² = ৩.১৪ × ১০০ = ৩১৪ বর্গ সেমি।"
+        },
+        {
+          "q": "একটি বৃত্তের ব্যাসার্ধ ৫ সেমি হলে পরিধি কত? (π = ৩.১৪)",
+          "options": [
+            "১৫.৭ সেমি",
+            "৩১.৪ সেমি",
+            "৭৮.৫ সেমি",
+            "২৫ সেমি"
+          ],
+          "answer": 1,
+          "why": "পরিধি = ২πr = ২ × ৩.১৪ × ৫ = ৩১.৪ সেমি।"
+        },
+        {
+          "q": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৫ সেমি ও প্রস্থ ৮ সেমি হলে ক্ষেত্রফল কত?",
+          "options": [
+            "৪৬ বর্গ সেমি",
+            "১২০ বর্গ সেমি",
+            "৯২ বর্গ সেমি",
+            "৬০ বর্গ সেমি"
+          ],
+          "answer": 1,
+          "why": "ক্ষেত্রফল = ১৫ × ৮ = ১২০ বর্গ সেমি।"
+        },
+        {
+          "q": "একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৫ সেমি ও প্রস্থ ৮ সেমি হলে পরিসীমা কত?",
+          "options": [
+            "২৩ সেমি",
+            "৪৬ সেমি",
+            "১২০ সেমি",
+            "৯২ সেমি"
+          ],
+          "answer": 1,
+          "why": "পরিসীমা = ২ × (১৫ + ৮) = ৪৬ সেমি।"
+        },
+        {
+          "q": "একটি বর্গের বাহু ৯ সেমি হলে পরিসীমা কত?",
+          "options": [
+            "১৮ সেমি",
+            "২৭ সেমি",
+            "৩৬ সেমি",
+            "৮১ সেমি"
+          ],
+          "answer": 2,
+          "why": "পরিসীমা = ৪ × ৯ = ৩৬ সেমি।"
+        },
+        {
+          "q": "একটি ঘনকের বাহু ৬ সেমি হলে আয়তন কত?",
+          "options": [
+            "৩৬ ঘন সেমি",
+            "১২৬ ঘন সেমি",
+            "২১৬ ঘন সেমি",
+            "৩১৬ ঘন সেমি"
+          ],
+          "answer": 2,
+          "why": "আয়তন = ৬³ = ২১৬ ঘন সেমি।"
+        },
+        {
+          "q": "একটি আয়তঘনের দৈর্ঘ্য ৮ সেমি, প্রস্থ ৫ সেমি ও উচ্চতা ৪ সেমি হলে আয়তন কত?",
+          "options": [
+            "১২০ ঘন সেমি",
+            "১৪০ ঘন সেমি",
+            "১৬০ ঘন সেমি",
+            "১৮০ ঘন সেমি"
+          ],
+          "answer": 2,
+          "why": "আয়তন = ৮ × ৫ × ৪ = ১৬০ ঘন সেমি।"
+        },
+        {
+          "q": "একটি শঙ্কুর ব্যাসার্ধ ৭ সেমি ও উচ্চতা ১২ সেমি হলে আয়তন কত? (π = ২২/৭)",
+          "options": [
+            "৫১৬ ঘন সেমি",
+            "৬১৬ ঘন সেমি",
+            "৭১৬ ঘন সেমি",
+            "৪১৬ ঘন সেমি"
+          ],
+          "answer": 1,
+          "why": "আয়তন = ⅓πr²h = ⅓ × ২২/৭ × ৪৯ × ১২ = ৬১৬ ঘন সেমি।"
+        },
+        {
+          "q": "একটি মুদ্রা দুইবার ছুঁড়লে দুইবারই হেড আসার সম্ভাবনা কত?",
+          "options": [
+            "১/২",
+            "১/৩",
+            "১/৪",
+            "৩/৪"
+          ],
+          "answer": 2,
+          "why": "মোট ফল ৪টি, অনুকূল ১টি — সম্ভাবনা ১/৪।"
+        },
+        {
+          "q": "একটি ছক্কা ছুঁড়লে ৪-এর বড় সংখ্যা আসার সম্ভাবনা কত?",
+          "options": [
+            "১/৬",
+            "১/৩",
+            "১/২",
+            "২/৩"
+          ],
+          "answer": 1,
+          "why": "৪-এর বড় সংখ্যা ২টি (৫, ৬); সম্ভাবনা ২/৬ = ১/৩।"
+        },
+        {
+          "q": "দুটি মুদ্রা ছুঁড়লে অন্তত একটি হেড আসার সম্ভাবনা কত?",
+          "options": [
+            "১/৪",
+            "১/২",
+            "৩/৪",
+            "১"
+          ],
+          "answer": 2,
+          "why": "মোট ফল ৪টি, অন্তত একটি হেড আছে ৩টিতে; সম্ভাবনা ৩/৪।"
+        },
+        {
+          "q": "A একটি কাজ ২০ দিনে ও B একই কাজ ৩০ দিনে করতে পারে। একসাথে কত দিনে শেষ হবে?",
+          "options": [
+            "১০ দিন",
+            "১২ দিন",
+            "১৫ দিন",
+            "২৫ দিন"
+          ],
+          "answer": 1,
+          "why": "একদিনে করে ১/২০ + ১/৩০ = ১/১২ অংশ; মোট সময় ১২ দিন।"
+        },
+        {
+          "q": "একটি নল ট্যাংক ৬ ঘণ্টায় পূর্ণ করে, অন্য নল ৮ ঘণ্টায় খালি করে। দুটি একসাথে খোলা থাকলে ট্যাংক পূর্ণ হতে কত সময় লাগবে?",
+          "options": [
+            "১৪ ঘণ্টা",
+            "২৪ ঘণ্টা",
+            "৪৮ ঘণ্টা",
+            "১২ ঘণ্টা"
+          ],
+          "answer": 1,
+          "why": "প্রতি ঘণ্টায় পূর্ণ হয় ১/৬ − ১/৮ = ১/২৪ অংশ; সময় ২৪ ঘণ্টা।"
+        },
+        {
+          "q": "একটি ট্রেন ৬০ কিমি/ঘণ্টা বেগে ২.৫ ঘণ্টায় কত দূরত্ব যাবে?",
+          "options": [
+            "১২০ কিমি",
+            "১৩০ কিমি",
+            "১৫০ কিমি",
+            "১৮০ কিমি"
+          ],
+          "answer": 2,
+          "why": "দূরত্ব = ৬০ × ২.৫ = ১৫০ কিমি।"
+        },
+        {
+          "q": "স্থির পানিতে নৌকার বেগ ১২ কিমি/ঘণ্টা ও স্রোতের বেগ ৪ কিমি/ঘণ্টা হলে স্রোতের অনুকূলে নৌকার বেগ কত?",
+          "options": [
+            "৮ কিমি/ঘণ্টা",
+            "১৬ কিমি/ঘণ্টা",
+            "১২ কিমি/ঘণ্টা",
+            "২০ কিমি/ঘণ্টা"
+          ],
+          "answer": 1,
+          "why": "অনুকূলে বেগ = ১২ + ৪ = ১৬ কিমি/ঘণ্টা।"
+        },
+        {
+          "q": "একটি নৌকা স্রোতের অনুকূলে ২৪ কিমি যায় ২ ঘণ্টায়। স্রোতের বেগ ৩ কিমি/ঘণ্টা হলে স্থির পানিতে নৌকার বেগ কত?",
+          "options": [
+            "৯ কিমি/ঘণ্টা",
+            "১২ কিমি/ঘণ্টা",
+            "১৫ কিমি/ঘণ্টা",
+            "৬ কিমি/ঘণ্টা"
+          ],
+          "answer": 0,
+          "why": "অনুকূলে বেগ ১২ কিমি/ঘণ্টা; নৌকার বেগ = ১২ − ৩ = ৯ কিমি/ঘণ্টা।"
+        },
+        {
+          "q": "A ও B ২:৩ অনুপাতে টাকা ভাগ করল। মোট ১০০ টাকা হলে A কত পাবে?",
+          "options": [
+            "৩০ টাকা",
+            "৪০ টাকা",
+            "৫০ টাকা",
+            "৬০ টাকা"
+          ],
+          "answer": 1,
+          "why": "A পাবে ১০০ × ২/৫ = ৪০ টাকা।"
+        },
+        {
+          "q": "পিতার বয়স পুত্রের বয়সের ৪ গুণ। ৪ বছর পর পিতার বয়স ৪০ বছর হলে পুত্রের বর্তমান বয়স কত?",
+          "options": [
+            "৮ বছর",
+            "৯ বছর",
+            "১০ বছর",
+            "১১ বছর"
+          ],
+          "answer": 1,
+          "why": "পিতার বর্তমান বয়স ৩৬ বছর; পুত্রের বয়স ৩৬/৪ = ৯ বছর।"
+        },
+        {
+          "q": "১০, ২০, ৩০, ৪০, ৫০ সংখ্যাগুলোর গড় কত?",
+          "options": [
+            "২৫",
+            "৩০",
+            "৩৫",
+            "৪০"
+          ],
+          "answer": 1,
+          "why": "যোগফল ১৫০; গড় = ১৫০/৫ = ৩০।"
+        },
+        {
+          "q": "একটি পণ্যের ধার্যমূল্য ১২০০ টাকা। ২৫% ছাড়ে বিক্রয়মূল্য কত?",
+          "options": [
+            "৮০০ টাকা",
+            "৯০০ টাকা",
+            "১০০০ টাকা",
+            "১১০০ টাকা"
+          ],
+          "answer": 1,
+          "why": "বিক্রয়মূল্য = ১২০০ × ৭৫/১০০ = ৯০০ টাকা।"
+        },
+        {
+          "q": "২০০০ টাকার ৫% হারে ৩ বছরের সরল মুনাফা কত?",
+          "options": [
+            "২০০ টাকা",
+            "২৫০ টাকা",
+            "৩০০ টাকা",
+            "৩৫০ টাকা"
+          ],
+          "answer": 2,
+          "why": "সরল মুনাফা = ২০০০ × ৫ × ৩/১০০ = ৩০০ টাকা।"
+        },
+        {
+          "q": "কোনো আসল সরল মুনাফায় ১০ বছরে দ্বিগুণ হলে মুনাফার হার কত?",
+          "options": [
+            "৫%",
+            "১০%",
+            "১২%",
+            "১৫%"
+          ],
+          "answer": 1,
+          "why": "মুনাফা = আসল; হার = ১০০/১০ = ১০%।"
+        },
+        {
+          "q": "A:B:C = ২:৩:৫ এবং মোট ১০০ হলে B কত?",
+          "options": [
+            "২০",
+            "৩০",
+            "৪০",
+            "৫০"
+          ],
+          "answer": 1,
+          "why": "B = ১০০ × ৩/১০ = ৩০।"
+        },
+        {
+          "q": "x:y = ৩:৫ এবং x + y = ৬৪ হলে x কত?",
+          "options": [
+            "২০",
+            "২৪",
+            "২৮",
+            "৩২"
+          ],
+          "answer": 1,
+          "why": "x = ৬৪ × ৩/৮ = ২৪।"
+        },
+        {
+          "q": "১২টি কলমের দাম ১৪৪ টাকা হলে ২০টি কলমের দাম কত?",
+          "options": [
+            "২০০ টাকা",
+            "২২০ টাকা",
+            "২৪০ টাকা",
+            "২৬০ টাকা"
+          ],
+          "answer": 2,
+          "why": "১টি কলম ১২ টাকা; ২০টি = ২৪০ টাকা।"
+        },
+        {
+          "q": "১৫ জন শ্রমিক একটি কাজ ৮ দিনে করে। ১০ জন শ্রমিক কত দিনে করবে?",
+          "options": [
+            "১০ দিন",
+            "১২ দিন",
+            "১৪ দিন",
+            "১৬ দিন"
+          ],
+          "answer": 1,
+          "why": "মোট শ্রমদিন ১২০; ১০ জনে লাগবে ১২০/১০ = ১২ দিন।"
+        },
+        {
+          "q": "ধারাটির পরের সংখ্যাটি কত? ১০০, ৯০, ৮০, ৭০, ?",
+          "options": [
+            "৫০",
+            "৬০",
+            "৬৫",
+            "৫৫"
+          ],
+          "answer": 1,
+          "why": "প্রতিবার ১০ কমছে: ৭০ − ১০ = ৬০।"
+        },
+        {
+          "q": "৮, ১২ ও ১৬ এর ল.সা.গু কত?",
+          "options": [
+            "২৪",
+            "৩২",
+            "৪৮",
+            "৯৬"
+          ],
+          "answer": 2,
+          "why": "৮, ১২ ও ১৬ এর ল.সা.গু ৪৮।"
+        },
+        {
+          "q": "৫৪ ও ৮১ এর গ.সা.গু কত?",
+          "options": [
+            "৯",
+            "১৮",
+            "২৭",
+            "৩"
+          ],
+          "answer": 2,
+          "why": "৫৪ ও ৮১ এর গ.সা.গু ২৭।"
+        },
+        {
+          "q": "ঘড়িতে ৫টা ৩০ মিনিট বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?",
+          "options": [
+            "0°",
+            "60°",
+            "30°",
+            "15°"
+          ],
+          "answer": 3,
+          "why": "৫টা ৩০ মিনিট বাজলে কাঁটাদ্বয়ের মধ্যবর্তী কোণ 15°।"
+        },
+        {
+          "q": "ঘড়িতে ১টা ৩০ মিনিট বাজলে ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?",
+          "options": [
+            "150°",
+            "135°",
+            "120°",
+            "180°"
+          ],
+          "answer": 1,
+          "why": "১টা ৩০ মিনিট বাজলে কাঁটাদ্বয়ের মধ্যবর্তী কোণ 135°।"
         }
       ]
     },
@@ -104241,6 +106617,325 @@
           ],
           "q": "চাঁদে প্রথম পা রাখা মানুষ কে?",
           "why": "নিল আর্মস্ট্রং ১৯৬৯ সালে চাঁদে প্রথম পা রাখেন।"
+        },
+        {
+          "q": "UNESCO কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৪৫",
+            "১৯৪৮",
+            "১৯৫১",
+            "১৯৫৫"
+          ],
+          "answer": 0,
+          "why": "UNESCO ১৯৪৫ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "ILO কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯১৯",
+            "১৯২৯",
+            "১৯৩৯",
+            "১৯৪৫"
+          ],
+          "answer": 0,
+          "why": "ILO ১৯১৯ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "FAO কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৪৫",
+            "১৯৪৮",
+            "১৯৫১",
+            "১৯৫৫"
+          ],
+          "answer": 0,
+          "why": "FAO ১৯৪৫ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "AIIB কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "২০০৬",
+            "২০১১",
+            "২০১৬",
+            "২০২১"
+          ],
+          "answer": 2,
+          "why": "AIIB ২০১৬ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "UNICEF কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৪৬",
+            "১৯৫৬",
+            "১৯৬৬",
+            "১৯৭৬"
+          ],
+          "answer": 0,
+          "why": "UNICEF ১৯৪৬ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "UNDP কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৫৫",
+            "১৯৬৫",
+            "১৯৭৫",
+            "১৯৮৫"
+          ],
+          "answer": 1,
+          "why": "UNDP ১৯৬৫ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "UNHCR কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৪০",
+            "১৯৫০",
+            "১৯৬০",
+            "১৯৭০"
+          ],
+          "answer": 1,
+          "why": "UNHCR ১৯৫০ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "OPEC কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৫০",
+            "১৯৬০",
+            "১৯৭০",
+            "১৯৮০"
+          ],
+          "answer": 1,
+          "why": "OPEC ১৯৬০ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "SAARC কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৭৫",
+            "১৯৮৫",
+            "১৯৯৫",
+            "২০০৫"
+          ],
+          "answer": 1,
+          "why": "SAARC ১৯৮৫ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "ASEAN কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৫৭",
+            "১৯৬৭",
+            "১৯৭৭",
+            "১৯৮৭"
+          ],
+          "answer": 1,
+          "why": "ASEAN ১৯৬৭ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "NATO কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৪৯",
+            "১৯৫৯",
+            "১৯৬৯",
+            "১৯৭৯"
+          ],
+          "answer": 0,
+          "why": "NATO ১৯৪৯ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "BRICS-এর প্রথম শীর্ষ সম্মেলন অনুষ্ঠিত হয় কত সালে?",
+          "options": [
+            "২০০৬",
+            "২০০৯",
+            "২০১২",
+            "২০১৫"
+          ],
+          "answer": 1,
+          "why": "BRICS-এর প্রথম শীর্ষ সম্মেলন ২০০৯ সালে অনুষ্ঠিত হয়।"
+        },
+        {
+          "q": "G20 কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৮৯",
+            "১৯৯৯",
+            "২০০৯",
+            "২০১৯"
+          ],
+          "answer": 1,
+          "why": "G20 ১৯৯৯ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "জোট নিরপেক্ষ আন্দোলনের (NAM) প্রথম শীর্ষ সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+          "options": [
+            "বেলগ্রেড",
+            "কায়রো",
+            "জাকার্তা",
+            "দিল্লি"
+          ],
+          "answer": 0,
+          "why": "NAM-এর প্রথম শীর্ষ সম্মেলন ১৯৬১ সালে বেলগ্রেডে অনুষ্ঠিত হয়।"
+        },
+        {
+          "q": "OIC কত সালে প্রতিষ্ঠিত হয়?",
+          "options": [
+            "১৯৫৯",
+            "১৯৬৯",
+            "১৯৭৯",
+            "১৯৮৯"
+          ],
+          "answer": 1,
+          "why": "OIC ১৯৬৯ সালে প্রতিষ্ঠিত হয়।"
+        },
+        {
+          "q": "সকাল ও সন্ধ্যার তারা কোনটি?",
+          "options": [
+            "বুধ",
+            "শুক্র",
+            "মঙ্গল",
+            "বৃহস্পতি"
+          ],
+          "answer": 1,
+          "why": "শুক্রকে সকাল ও সন্ধ্যার তারা বলা হয়।"
+        },
+        {
+          "q": "সূর্য থেকে সবচেয়ে দূরের গ্রহ কোনটি?",
+          "options": [
+            "ইউরেনাস",
+            "নেপচুন",
+            "শনি",
+            "বৃহস্পতি"
+          ],
+          "answer": 1,
+          "why": "সূর্য থেকে সবচেয়ে দূরের গ্রহ নেপচুন।"
+        },
+        {
+          "q": "মহাকাশে প্রথম মানুষ কে?",
+          "options": [
+            "নিল আর্মস্ট্রং",
+            "ইউরি গ্যাগারিন",
+            "ভ্যালেন্টিনা তেরেশকোভা",
+            "বাজ অলড্রিন"
+          ],
+          "answer": 1,
+          "why": "মহাকাশে প্রথম মানুষ ইউরি গ্যাগারিন (১৯৬১)।"
+        },
+        {
+          "q": "ভিটামিন কে-এর কাজ কী?",
+          "options": [
+            "দৃষ্টিশক্তি বাড়ানো",
+            "রক্ত জমাট বাঁধতে সাহায্য করা",
+            "হাড় শক্ত করা",
+            "ত্বক ভালো রাখা"
+          ],
+          "answer": 1,
+          "why": "ভিটামিন কে রক্ত জমাট বাঁধতে সাহায্য করে।"
+        },
+        {
+          "q": "প্রাপ্তবয়স্ক মানুষের দেহে মোট কয়টি হাড় থাকে?",
+          "options": [
+            "১০৬টি",
+            "২০৬টি",
+            "৩০৬টি",
+            "৪০৬টি"
+          ],
+          "answer": 1,
+          "why": "প্রাপ্তবয়স্ক মানুষের দেহে ২০৬টি হাড় থাকে।"
+        },
+        {
+          "q": "স্বাভাবিক রক্তচাপ কত?",
+          "options": [
+            "১২০/৮০",
+            "১৪০/৯০",
+            "১০০/৭০",
+            "১৬০/১০০"
+          ],
+          "answer": 0,
+          "why": "স্বাভাবিক রক্তচাপ ১২০/৮০ মিমি পারদ।"
+        },
+        {
+          "q": "মানবদেহের সবচেয়ে বড় অভ্যন্তরীণ অঙ্গ কোনটি?",
+          "options": [
+            "হৃৎপিণ্ড",
+            "যকৃৎ",
+            "ফুসফুস",
+            "বৃক্ক"
+          ],
+          "answer": 1,
+          "why": "মানবদেহের সবচেয়ে বড় অভ্যন্তরীণ অঙ্গ যকৃৎ।"
+        },
+        {
+          "q": "বৃক্কের (কিডনি) কাজ কী?",
+          "options": [
+            "রক্ত পাম্প করা",
+            "রক্ত ছাঁকা",
+            "অক্সিজেন নেওয়া",
+            "খাবার হজম করা"
+          ],
+          "answer": 1,
+          "why": "বৃক্ক রক্ত ছেঁকে বর্জ্য বের করে দেয়।"
+        },
+        {
+          "q": "ওজোন স্তর বায়ুমণ্ডলের কোন স্তরে অবস্থিত?",
+          "options": [
+            "ট্রপোস্ফিয়ার",
+            "স্ট্র্যাটোস্ফিয়ার",
+            "মেসোস্ফিয়ার",
+            "থার্মোস্ফিয়ার"
+          ],
+          "answer": 1,
+          "why": "ওজোন স্তর স্ট্র্যাটোস্ফিয়ারে অবস্থিত।"
+        },
+        {
+          "q": "কিয়োটো প্রটোকল গৃহীত হয় কত সালে?",
+          "options": [
+            "১৯৮৭",
+            "১৯৯৭",
+            "২০০৭",
+            "২০১৫"
+          ],
+          "answer": 1,
+          "why": "কিয়োটো প্রটোকল ১৯৯৭ সালে গৃহীত হয়।"
+        },
+        {
+          "q": "প্যারিস জলবায়ু চুক্তি গৃহীত হয় কত সালে?",
+          "options": [
+            "২০০৫",
+            "২০১০",
+            "২০১৫",
+            "২০২০"
+          ],
+          "answer": 2,
+          "why": "প্যারিস জলবায়ু চুক্তি ২০১৫ সালে গৃহীত হয়।"
+        },
+        {
+          "q": "ঢাকা মেট্রোরেল (MRT-6) উদ্বোধন হয় কত সালে?",
+          "options": [
+            "২০২০",
+            "২০২১",
+            "২০২২",
+            "২০২৩"
+          ],
+          "answer": 2,
+          "why": "ঢাকা মেট্রোরেল ২৯ ডিসেম্বর ২০২২ সালে উদ্বোধন হয়।"
+        },
+        {
+          "q": "কেনিয়ার রাজধানী কোনটি?",
+          "options": [
+            "মোম্বাসা",
+            "নাইরোবি",
+            "কিসুমু",
+            "নাকুরু"
+          ],
+          "answer": 1,
+          "why": "কেনিয়ার রাজধানী নাইরোবি।"
+        },
+        {
+          "q": "আর্জেন্টিনার রাজধানী কোনটি?",
+          "options": [
+            "সান্তিয়াগো",
+            "বুয়েনস আইরেস",
+            "লিমা",
+            "বোগোটা"
+          ],
+          "answer": 1,
+          "why": "আর্জেন্টিনার রাজধানী বুয়েনস আইরেস।"
         }
       ]
     },
@@ -139873,6 +142568,1568 @@
           ],
           "q": "Cache Memory-এর বৈশিষ্ট্য কী?",
           "why": "Cache memory CPU-এর কাছাকাছি থাকা ছোট কিন্তু খুব দ্রুত মেমরি, যা বারবার ব্যবহৃত তথ্য ধরে রাখে।"
+        },
+        {
+          "q": "Foreign key কী?",
+          "options": [
+            "টেবিলের প্রথম কলাম",
+            "অন্য টেবিলের primary key-কে নির্দেশকারী key",
+            "টেবিলের শেষ কলাম",
+            "ডুপ্লিকেট রেকর্ডের key"
+          ],
+          "answer": 1,
+          "why": "Foreign key অন্য টেবিলের primary key-কে নির্দেশ করে।"
+        },
+        {
+          "q": "SQL-এ রেকর্ড মুছতে কোন কমান্ড ব্যবহৃত হয়?",
+          "options": [
+            "REMOVE",
+            "DELETE",
+            "DROP",
+            "CLEAR"
+          ],
+          "answer": 1,
+          "why": "SQL-এ রেকর্ড মুছতে DELETE কমান্ড ব্যবহৃত হয়।"
+        },
+        {
+          "q": "SQL-এ টেবিল মুছতে কোন কমান্ড ব্যবহৃত হয়?",
+          "options": [
+            "DELETE TABLE",
+            "REMOVE TABLE",
+            "DROP TABLE",
+            "CLEAR TABLE"
+          ],
+          "answer": 2,
+          "why": "SQL-এ টেবিল মুছতে DROP TABLE কমান্ড ব্যবহৃত হয়।"
+        },
+        {
+          "q": "SQL-এ JOIN প্রধানত কয় ধরনের?",
+          "options": [
+            "২ ধরনের",
+            "৩ ধরনের",
+            "৪ ধরনের",
+            "৫ ধরনের"
+          ],
+          "answer": 2,
+          "why": "SQL-এ JOIN প্রধানত ৪ ধরনের: INNER, LEFT, RIGHT ও FULL OUTER।"
+        },
+        {
+          "q": "INNER JOIN কী করে?",
+          "options": [
+            "বাম টেবিলের সব রেকর্ড দেয়",
+            "দুই টেবিলের মিলে যাওয়া রেকর্ড দেয়",
+            "ডান টেবিলের সব রেকর্ড দেয়",
+            "সব রেকর্ড দেয়"
+          ],
+          "answer": 1,
+          "why": "INNER JOIN দুই টেবিলের মিলে যাওয়া রেকর্ড দেয়।"
+        },
+        {
+          "q": "LEFT JOIN কী করে?",
+          "options": [
+            "শুধু মিলে যাওয়া রেকর্ড দেয়",
+            "বাম টেবিলের সব রেকর্ড ও মিলে যাওয়া ডান রেকর্ড দেয়",
+            "শুধু ডান টেবিলের রেকর্ড দেয়",
+            "কোনো রেকর্ড দেয় না"
+          ],
+          "answer": 1,
+          "why": "LEFT JOIN বাম টেবিলের সব রেকর্ড ও মিলে যাওয়া ডান রেকর্ড দেয়।"
+        },
+        {
+          "q": "SELECT DISTINCT-এর কাজ কী?",
+          "options": [
+            "রেকর্ড সাজানো",
+            "ডুপ্লিকেট মান বাদ দেওয়া",
+            "রেকর্ড গণনা করা",
+            "টেবিল মুছে ফেলা"
+          ],
+          "answer": 1,
+          "why": "SELECT DISTINCT ডুপ্লিকেট মান বাদ দেয়।"
+        },
+        {
+          "q": "SQL-এ WHERE ক্লজের কাজ কী?",
+          "options": [
+            "ফলাফল সাজানো",
+            "শর্ত অনুযায়ী রেকর্ড ছাঁকা",
+            "রেকর্ড গণনা করা",
+            "টেবিল তৈরি করা"
+          ],
+          "answer": 1,
+          "why": "WHERE ক্লজ শর্ত অনুযায়ী রেকর্ড ছাঁকে।"
+        },
+        {
+          "q": "SQL-এ ORDER BY-এর কাজ কী?",
+          "options": [
+            "ফলাফল সাজানো",
+            "রেকর্ড মুছে ফেলা",
+            "টেবিল তৈরি করা",
+            "শর্ত দেওয়া"
+          ],
+          "answer": 0,
+          "why": "ORDER BY ফলাফল সাজায়।"
+        },
+        {
+          "q": "SQL-এ GROUP BY-এর কাজ কী?",
+          "options": [
+            "রেকর্ড সাজানো",
+            "একই মানের রেকর্ড একত্র করা",
+            "রেকর্ড মুছে ফেলা",
+            "টেবিল মুছে ফেলা"
+          ],
+          "answer": 1,
+          "why": "GROUP BY একই মানের রেকর্ড একত্র করে।"
+        },
+        {
+          "q": "SQL-এ COUNT ফাংশনের কাজ কী?",
+          "options": [
+            "গড় বের করা",
+            "সর্বোচ্চ মান বের করা",
+            "রেকর্ড সংখ্যা গণনা করা",
+            "যোগফল বের করা"
+          ],
+          "answer": 2,
+          "why": "COUNT ফাংশন রেকর্ড সংখ্যা গণনা করে।"
+        },
+        {
+          "q": "SQL-এ AVG ফাংশনের কাজ কী?",
+          "options": [
+            "যোগফল বের করা",
+            "গড় মান বের করা",
+            "সর্বনিম্ন মান বের করা",
+            "রেকর্ড গণনা করা"
+          ],
+          "answer": 1,
+          "why": "AVG ফাংশন গড় মান বের করে।"
+        },
+        {
+          "q": "2NF-এর শর্ত কী?",
+          "options": [
+            "1NF + আংশিক নির্ভরতা না থাকা",
+            "শুধু 1NF-এ থাকা",
+            "কোনো key না থাকা",
+            "সব কলামে একই মান থাকা"
+          ],
+          "answer": 0,
+          "why": "2NF-এর শর্ত: 1NF-এ থাকা + কোনো আংশিক নির্ভরতা না থাকা।"
+        },
+        {
+          "q": "ER ডায়াগ্রামে রম্বস (diamond) চিহ্ন কী নির্দেশ করে?",
+          "options": [
+            "Entity",
+            "Attribute",
+            "Relationship",
+            "Key"
+          ],
+          "answer": 2,
+          "why": "ER ডায়াগ্রামে রম্বস (diamond) Relationship নির্দেশ করে।"
+        },
+        {
+          "q": "ER ডায়াগ্রামে আয়তক্ষেত্র কী নির্দেশ করে?",
+          "options": [
+            "Relationship",
+            "Attribute",
+            "Entity",
+            "Key"
+          ],
+          "answer": 2,
+          "why": "ER ডায়াগ্রামে আয়তক্ষেত্র Entity নির্দেশ করে।"
+        },
+        {
+          "q": "ER ডায়াগ্রামে উপবৃত্ত কী নির্দেশ করে?",
+          "options": [
+            "Entity",
+            "Relationship",
+            "Key",
+            "Attribute"
+          ],
+          "answer": 3,
+          "why": "ER ডায়াগ্রামে উপবৃত্ত Attribute নির্দেশ করে।"
+        },
+        {
+          "q": "Composite key কী?",
+          "options": [
+            "একটি কলামের key",
+            "একাধিক কলাম মিলে তৈরি key",
+            "ডুপ্লিকেট key",
+            "NULL key"
+          ],
+          "answer": 1,
+          "why": "Composite key একাধিক কলাম মিলে তৈরি হয়।"
+        },
+        {
+          "q": "Process কী?",
+          "options": [
+            "একটি ফাইল",
+            "চলমান প্রোগ্রাম",
+            "একটি ফোল্ডার",
+            "একটি ডিভাইস"
+          ],
+          "answer": 1,
+          "why": "Process হলো চলমান প্রোগ্রাম।"
+        },
+        {
+          "q": "Thread কী?",
+          "options": [
+            "একটি প্রোগ্রাম",
+            "প্রসেসের ভেতরে ক্ষুদ্রতম কার্যকরী একক",
+            "একটি ফাইল",
+            "একটি ডিভাইস"
+          ],
+          "answer": 1,
+          "why": "Thread হলো প্রসেসের ভেতরে ক্ষুদ্রতম কার্যকরী একক।"
+        },
+        {
+          "q": "Deadlock-এর শর্ত কয়টি?",
+          "options": [
+            "২টি",
+            "৩টি",
+            "৪টি",
+            "৫টি"
+          ],
+          "answer": 2,
+          "why": "Deadlock-এর শর্ত ৪টি: Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait।"
+        },
+        {
+          "q": "Round Robin scheduling-এ প্রত্যেক প্রসেসকে কী দেওয়া হয়?",
+          "options": [
+            "অসীম সময়",
+            "নির্দিষ্ট সময় ভাগ (time quantum)",
+            "কোনো সময় দেওয়া হয় না",
+            "শুধু অগ্রাধিকার"
+          ],
+          "answer": 1,
+          "why": "Round Robin-এ প্রত্যেক প্রসেসকে নির্দিষ্ট সময় ভাগ (time quantum) দেওয়া হয়।"
+        },
+        {
+          "q": "Cache memory কোথায় থাকে?",
+          "options": [
+            "Hard disk-এ",
+            "CPU ও RAM-এর মাঝে",
+            "মনিটরে",
+            "পেনড্রাইভে"
+          ],
+          "answer": 1,
+          "why": "Cache memory CPU ও RAM-এর মাঝে থাকে।"
+        },
+        {
+          "q": "Virtual memory কী?",
+          "options": [
+            "আসল RAM",
+            "হার্ডডিস্কের অংশকে RAM হিসেবে ব্যবহার",
+            "ROM-এর অংশ",
+            "Cache-এর অংশ"
+          ],
+          "answer": 1,
+          "why": "Virtual memory হলো হার্ডডিস্কের অংশকে RAM হিসেবে ব্যবহার করা।"
+        },
+        {
+          "q": "Segmentation কী?",
+          "options": [
+            "মেমোরিকে যৌক্তিক অংশে ভাগ করা",
+            "ফাইল মুছে ফেলা",
+            "প্রোগ্রাম কম্পাইল করা",
+            "ডিস্ক ভাগ করা"
+          ],
+          "answer": 0,
+          "why": "Segmentation হলো মেমোরিকে যৌক্তিক অংশে ভাগ করা।"
+        },
+        {
+          "q": "Kernel কী?",
+          "options": [
+            "একটি অ্যাপ",
+            "OS-এর মূল অংশ যা হার্ডওয়্যারের সাথে যোগাযোগ করে",
+            "একটি ফাইল",
+            "একটি ব্রাউজার"
+          ],
+          "answer": 1,
+          "why": "Kernel হলো OS-এর মূল অংশ যা হার্ডওয়্যারের সাথে যোগাযোগ করে।"
+        },
+        {
+          "q": "Algorithm কী?",
+          "options": [
+            "একটি প্রোগ্রামিং ভাষা",
+            "সমস্যা সমাধানের ধাপে ধাপে নির্দেশনা",
+            "একটি কম্পিউটার",
+            "একটি ফাইল"
+          ],
+          "answer": 1,
+          "why": "Algorithm হলো সমস্যা সমাধানের ধাপে ধাপে নির্দেশনা।"
+        },
+        {
+          "q": "Flowchart-এ হীরক (diamond) চিহ্ন কী নির্দেশ করে?",
+          "options": [
+            "শুরু",
+            "সিদ্ধান্ত (decision)",
+            "ইনপুট",
+            "প্রসেস"
+          ],
+          "answer": 1,
+          "why": "Flowchart-এ হীরক চিহ্ন সিদ্ধান্ত (decision) নির্দেশ করে।"
+        },
+        {
+          "q": "Flowchart-এ ডিম্বাকার চিহ্ন কী নির্দেশ করে?",
+          "options": [
+            "প্রসেস",
+            "সিদ্ধান্ত",
+            "শুরু/শেষ",
+            "ইনপুট"
+          ],
+          "answer": 2,
+          "why": "Flowchart-এ ডিম্বাকার চিহ্ন শুরু/শেষ নির্দেশ করে।"
+        },
+        {
+          "q": "Flowchart-এ সমান্তরিক চিহ্ন কী নির্দেশ করে?",
+          "options": [
+            "প্রসেস",
+            "সিদ্ধান্ত",
+            "ইনপুট/আউটপুট",
+            "শুরু"
+          ],
+          "answer": 2,
+          "why": "Flowchart-এ সমান্তরিক চিহ্ন ইনপুট/আউটপুট নির্দেশ করে।"
+        },
+        {
+          "q": "Binary search-এর শর্ত কী?",
+          "options": [
+            "ডেটা সাজানো থাকতে হবে",
+            "ডেটা এলোমেলো হতে হবে",
+            "ডেটা সংখ্যায় কম হতে হবে",
+            "কোনো শর্ত নেই"
+          ],
+          "answer": 0,
+          "why": "Binary search-এর জন্য ডেটা সাজানো থাকতে হবে।"
+        },
+        {
+          "q": "Stack কোন নীতিতে কাজ করে?",
+          "options": [
+            "FIFO",
+            "LIFO",
+            "LILO",
+            "FILO"
+          ],
+          "answer": 1,
+          "why": "Stack LIFO (Last In First Out) নীতিতে কাজ করে।"
+        },
+        {
+          "q": "C ভাষায় Array-এর index কত থেকে শুরু হয়?",
+          "options": [
+            "১ থেকে",
+            "০ থেকে",
+            "-১ থেকে",
+            "২ থেকে"
+          ],
+          "answer": 1,
+          "why": "C ভাষায় Array-এর index ০ থেকে শুরু হয়।"
+        },
+        {
+          "q": "Variable কী?",
+          "options": [
+            "একটি ধ্রুবক মান",
+            "মান সংরক্ষণের নামযুক্ত স্থান",
+            "একটি ফাংশন",
+            "একটি লুপ"
+          ],
+          "answer": 1,
+          "why": "Variable হলো মান সংরক্ষণের নামযুক্ত স্থান।"
+        },
+        {
+          "q": "Function কী?",
+          "options": [
+            "একটি ভেরিয়েবল",
+            "নির্দিষ্ট কাজ করা কোডের ব্লক",
+            "একটি ফাইল",
+            "একটি লুপ"
+          ],
+          "answer": 1,
+          "why": "Function হলো নির্দিষ্ট কাজ করা কোডের ব্লক।"
+        },
+        {
+          "q": "Assembler-এর কাজ কী?",
+          "options": [
+            "C কোডকে machine code-এ রূপান্তর করা",
+            "Assembly ভাষাকে machine code-এ রূপান্তর করা",
+            "ফাইল কম্প্রেস করা",
+            "প্রোগ্রাম চালানো"
+          ],
+          "answer": 1,
+          "why": "Assembler Assembly ভাষাকে machine code-এ রূপান্তর করে।"
+        },
+        {
+          "q": "Linker-এর কাজ কী?",
+          "options": [
+            "প্রোগ্রাম লেখা",
+            "Object file গুলোকে একত্র করে executable তৈরি করা",
+            "ফাইল মুছে ফেলা",
+            "কোড ডিবাগ করা"
+          ],
+          "answer": 1,
+          "why": "Linker Object file গুলোকে একত্র করে executable তৈরি করে।"
+        },
+        {
+          "q": "Debugging কী?",
+          "options": [
+            "প্রোগ্রাম লেখা",
+            "প্রোগ্রামের ভুল খুঁজে ঠিক করা",
+            "প্রোগ্রাম চালানো",
+            "প্রোগ্রাম মুছে ফেলা"
+          ],
+          "answer": 1,
+          "why": "Debugging হলো প্রোগ্রামের ভুল খুঁজে ঠিক করা।"
+        },
+        {
+          "q": "Unit testing কী?",
+          "options": [
+            "পুরো সিস্টেম পরীক্ষা করা",
+            "প্রোগ্রামের ছোট অংশ আলাদাভাবে পরীক্ষা করা",
+            "হার্ডওয়্যার পরীক্ষা করা",
+            "নেটওয়ার্ক পরীক্ষা করা"
+          ],
+          "answer": 1,
+          "why": "Unit testing হলো প্রোগ্রামের ছোট অংশ আলাদাভাবে পরীক্ষা করা।"
+        },
+        {
+          "q": "Virus কী?",
+          "options": [
+            "নিজে ছড়াতে অন্য ফাইলের প্রয়োজন হয় এমন ম্যালওয়্যার",
+            "নিজে নিজে ছড়ানো ম্যালওয়্যার",
+            "একটি অ্যান্টিভাইরাস",
+            "একটি গেম"
+          ],
+          "answer": 0,
+          "why": "Virus ছড়াতে অন্য ফাইলের (হোস্ট) প্রয়োজন হয়।"
+        },
+        {
+          "q": "Worm কী?",
+          "options": [
+            "হোস্ট ফাইল ছাড়া নিজে নিজে ছড়াতে পারে এমন ম্যালওয়্যার",
+            "হোস্ট ফাইল লাগে এমন ম্যালওয়্যার",
+            "একটি হার্ডওয়্যার",
+            "একটি ব্রাউজার"
+          ],
+          "answer": 0,
+          "why": "Worm হোস্ট ফাইল ছাড়া নিজে নিজে ছড়াতে পারে।"
+        },
+        {
+          "q": "Trojan horse কী?",
+          "options": [
+            "একটি অ্যান্টিভাইরাস",
+            "ভালো সফটওয়্যারের ছদ্মবেশে থাকা ম্যালওয়্যার",
+            "একটি গেম",
+            "একটি ব্রাউজার"
+          ],
+          "answer": 1,
+          "why": "Trojan horse ভালো সফটওয়্যারের ছদ্মবেশে থাকা ম্যালওয়্যার।"
+        },
+        {
+          "q": "Encryption কী?",
+          "options": [
+            "তথ্য মুছে ফেলা",
+            "তথ্যকে গোপন কোডে রূপান্তর করা",
+            "তথ্য কপি করা",
+            "তথ্য ছাপানো"
+          ],
+          "answer": 1,
+          "why": "Encryption হলো তথ্যকে গোপন কোডে রূপান্তর করা।"
+        },
+        {
+          "q": "Decryption কী?",
+          "options": [
+            "তথ্য এনক্রিপ্ট করা",
+            "গোপন কোড থেকে আসল তথ্য ফেরত পাওয়া",
+            "তথ্য মুছে ফেলা",
+            "তথ্য কপি করা"
+          ],
+          "answer": 1,
+          "why": "Decryption হলো গোপন কোড থেকে আসল তথ্য ফেরত পাওয়া।"
+        },
+        {
+          "q": "Symmetric encryption-এ কয়টি key ব্যবহৃত হয়?",
+          "options": [
+            "২টি",
+            "৩টি",
+            "১টি (একই key)",
+            "৪টি"
+          ],
+          "answer": 2,
+          "why": "Symmetric encryption-এ ১টি key (একই key) ব্যবহৃত হয়।"
+        },
+        {
+          "q": "Asymmetric encryption-এ কয়টি key ব্যবহৃত হয়?",
+          "options": [
+            "১টি",
+            "২টি (public + private)",
+            "৩টি",
+            "৪টি"
+          ],
+          "answer": 1,
+          "why": "Asymmetric encryption-এ ২টি key (public + private) ব্যবহৃত হয়।"
+        },
+        {
+          "q": "RSA কোন ধরনের encryption?",
+          "options": [
+            "Symmetric",
+            "Asymmetric",
+            "Hashing",
+            "Steganography"
+          ],
+          "answer": 1,
+          "why": "RSA একটি Asymmetric encryption পদ্ধতি।"
+        },
+        {
+          "q": "AES কোন ধরনের encryption?",
+          "options": [
+            "Asymmetric",
+            "Symmetric",
+            "Hashing",
+            "Steganography"
+          ],
+          "answer": 1,
+          "why": "AES একটি Symmetric encryption পদ্ধতি।"
+        },
+        {
+          "q": "Proxy server-এর কাজ কী?",
+          "options": [
+            "ফাইল সংরক্ষণ করা",
+            "ব্যবহারকারী ও ইন্টারনেটের মাঝে মধ্যস্থতা করা",
+            "ভাইরাস ধরা",
+            "প্রিন্ট করা"
+          ],
+          "answer": 1,
+          "why": "Proxy server ব্যবহারকারী ও ইন্টারনেটের মাঝে মধ্যস্থতা করে।"
+        },
+        {
+          "q": "Digital certificate-এর কাজ কী?",
+          "options": [
+            "ফাইল কম্প্রেস করা",
+            "ওয়েবসাইট বা ব্যক্তির পরিচয় যাচাই করা",
+            "ইমেইল পাঠানো",
+            "পাসওয়ার্ড তৈরি করা"
+          ],
+          "answer": 1,
+          "why": "Digital certificate দিয়ে ওয়েবসাইট বা ব্যক্তির পরিচয় যাচাই করা হয়।"
+        },
+        {
+          "q": "Digital signature কী দিয়ে তৈরি হয়?",
+          "options": [
+            "Public key দিয়ে",
+            "Private key দিয়ে",
+            "পাসওয়ার্ড দিয়ে",
+            "PIN দিয়ে"
+          ],
+          "answer": 1,
+          "why": "Digital signature Private key দিয়ে তৈরি হয়।"
+        },
+        {
+          "q": "Phishing আক্রমণে আক্রমণকারী কী করে?",
+          "options": [
+            "কম্পিউটার ভেঙে ফেলে",
+            "ভুয়া ইমেইল বা সাইট দিয়ে পাসওয়ার্ড চুরি করে",
+            "ইন্টারনেট বন্ধ করে দেয়",
+            "ফাইল ব্যাকআপ নেয়"
+          ],
+          "answer": 1,
+          "why": "Phishing-এ ভুয়া ইমেইল বা সাইট দিয়ে পাসওয়ার্ড চুরি করা হয়।"
+        },
+        {
+          "q": "Strong password-এর বৈশিষ্ট্য কী?",
+          "options": [
+            "শুধু নিজের নাম",
+            "বড় হাতের-ছোট হাতের অক্ষর, সংখ্যা ও চিহ্ন মেশানো",
+            "শুধু সংখ্যা",
+            "জন্ম তারিখ"
+          ],
+          "answer": 1,
+          "why": "Strong password-এ বড় হাতের-ছোট হাতের অক্ষর, সংখ্যা ও চিহ্ন মেশানো থাকে।"
+        },
+        {
+          "q": "Network topology প্রধানত কয় ধরনের?",
+          "options": [
+            "৩ ধরনের",
+            "৪ ধরনের",
+            "৫ ধরনের",
+            "৭ ধরনের"
+          ],
+          "answer": 2,
+          "why": "Network topology প্রধানত ৫ ধরনের: Bus, Star, Ring, Mesh ও Tree।"
+        },
+        {
+          "q": "Star topology-তে কেন্দ্রে কী থাকে?",
+          "options": [
+            "কম্পিউটার",
+            "Hub বা Switch",
+            "প্রিন্টার",
+            "রাউটার"
+          ],
+          "answer": 1,
+          "why": "Star topology-তে কেন্দ্রে Hub বা Switch থাকে।"
+        },
+        {
+          "q": "Mesh topology-তে প্রতিটি নোড কীভাবে যুক্ত থাকে?",
+          "options": [
+            "শুধু কেন্দ্রের সাথে",
+            "প্রতিটি নোড প্রতিটি নোডের সাথে",
+            "শুধু পাশের নোডের সাথে",
+            "কোনো সংযোগ থাকে না"
+          ],
+          "answer": 1,
+          "why": "Mesh topology-তে প্রতিটি নোড প্রতিটি নোডের সাথে যুক্ত থাকে।"
+        },
+        {
+          "q": "Bandwidth কী?",
+          "options": [
+            "ইন্টারনেটের গতি",
+            "নির্দিষ্ট সময়ে পাঠানো যায় এমন ডেটার পরিমাণ",
+            "ডেটা পৌঁছাতে বিলম্ব",
+            "কেবলের দৈর্ঘ্য"
+          ],
+          "answer": 1,
+          "why": "Bandwidth হলো নির্দিষ্ট সময়ে পাঠানো যায় এমন ডেটার পরিমাণ।"
+        },
+        {
+          "q": "Latency কী?",
+          "options": [
+            "ডেটার পরিমাণ",
+            "ডেটা পৌঁছাতে বিলম্ব",
+            "নেটওয়ার্কের আকার",
+            "কেবলের ধরন"
+          ],
+          "answer": 1,
+          "why": "Latency হলো ডেটা পৌঁছাতে বিলম্ব।"
+        },
+        {
+          "q": "Bluetooth-এর সাধারণ রেঞ্জ কত?",
+          "options": [
+            "১ মিটার",
+            "প্রায় ১০ মিটার",
+            "১০০ মিটার",
+            "১ কিলোমিটার"
+          ],
+          "answer": 1,
+          "why": "Bluetooth-এর সাধারণ রেঞ্জ প্রায় ১০ মিটার।"
+        },
+        {
+          "q": "NFC-এর রেঞ্জ কত?",
+          "options": [
+            "১০ মিটার",
+            "১০০ মিটার",
+            "কয়েক সেন্টিমিটার (প্রায় ৪ সেমি)",
+            "১ কিলোমিটার"
+          ],
+          "answer": 2,
+          "why": "NFC-এর রেঞ্জ কয়েক সেন্টিমিটার (প্রায় ৪ সেমি)।"
+        },
+        {
+          "q": "Gateway-এর কাজ কী?",
+          "options": [
+            "ফাইল সংরক্ষণ করা",
+            "ভিন্ন নেটওয়ার্কের মধ্যে সংযোগ করা",
+            "ভাইরাস ধরা",
+            "প্রিন্ট করা"
+          ],
+          "answer": 1,
+          "why": "Gateway ভিন্ন নেটওয়ার্কের মধ্যে সংযোগ করে।"
+        },
+        {
+          "q": "Repeater-এর কাজ কী?",
+          "options": [
+            "সংকেত তৈরি করা",
+            "দুর্বল সংকেত শক্তিশালী করা",
+            "ফাইল সংরক্ষণ করা",
+            "ইমেইল পাঠানো"
+          ],
+          "answer": 1,
+          "why": "Repeater দুর্বল সংকেত শক্তিশালী করে।"
+        },
+        {
+          "q": "Bridge কী করে?",
+          "options": [
+            "দুটি LAN-কে সংযুক্ত করে",
+            "ফাইল সংরক্ষণ করে",
+            "ভাইরাস ধরে",
+            "প্রিন্ট করে"
+          ],
+          "answer": 0,
+          "why": "Bridge দুটি LAN-কে সংযুক্ত করে।"
+        },
+        {
+          "q": "Inkjet প্রিন্টারে কী ব্যবহৃত হয়?",
+          "options": [
+            "টোনার",
+            "তরল কালি",
+            "ফিতা",
+            "লেজার"
+          ],
+          "answer": 1,
+          "why": "Inkjet প্রিন্টারে তরল কালি ব্যবহৃত হয়।"
+        },
+        {
+          "q": "Plotter কী কাজে ব্যবহৃত হয়?",
+          "options": [
+            "ছোট ছবি ছাপানো",
+            "বড় আকারের নকশা ও মানচিত্র ছাপানো",
+            "লেখা টাইপ করা",
+            "শব্দ রেকর্ড করা"
+          ],
+          "answer": 1,
+          "why": "Plotter বড় আকারের নকশা ও মানচিত্র ছাপানোর কাজে ব্যবহৃত হয়।"
+        },
+        {
+          "q": "Projector কোন ধরনের ডিভাইস?",
+          "options": [
+            "ইনপুট ডিভাইস",
+            "আউটপুট ডিভাইস",
+            "স্টোরেজ ডিভাইস",
+            "প্রসেসিং ডিভাইস"
+          ],
+          "answer": 1,
+          "why": "Projector একটি আউটপুট ডিভাইস — বড় পর্দায় ছবি দেখায়।"
+        },
+        {
+          "q": "Joystick কোন ধরনের ডিভাইস?",
+          "options": [
+            "আউটপুট ডিভাইস",
+            "স্টোরেজ ডিভাইস",
+            "ইনপুট ডিভাইস",
+            "প্রসেসিং ডিভাইস"
+          ],
+          "answer": 2,
+          "why": "Joystick একটি ইনপুট ডিভাইস।"
+        },
+        {
+          "q": "Light pen কী?",
+          "options": [
+            "আউটপুট ডিভাইস",
+            "পর্দায় সরাসরি লেখা ও আঁকার ইনপুট ডিভাইস",
+            "স্টোরেজ ডিভাইস",
+            "প্রিন্টার"
+          ],
+          "answer": 1,
+          "why": "Light pen পর্দায় সরাসরি লেখা ও আঁকার ইনপুট ডিভাইস।"
+        },
+        {
+          "q": "Webcam কোন ধরনের ডিভাইস?",
+          "options": [
+            "আউটপুট ডিভাইস",
+            "স্টোরেজ ডিভাইস",
+            "ইনপুট ডিভাইস",
+            "প্রসেসিং ডিভাইস"
+          ],
+          "answer": 2,
+          "why": "Webcam একটি ইনপুট ডিভাইস।"
+        },
+        {
+          "q": "Headphone কোন ধরনের ডিভাইস?",
+          "options": [
+            "ইনপুট ডিভাইস",
+            "আউটপুট ডিভাইস",
+            "স্টোরেজ ডিভাইস",
+            "প্রসেসিং ডিভাইস"
+          ],
+          "answer": 1,
+          "why": "Headphone একটি আউটপুট ডিভাইস।"
+        },
+        {
+          "q": "Microphone কোন ধরনের ডিভাইস?",
+          "options": [
+            "আউটপুট ডিভাইস",
+            "ইনপুট ডিভাইস",
+            "স্টোরেজ ডিভাইস",
+            "প্রসেসিং ডিভাইস"
+          ],
+          "answer": 1,
+          "why": "Microphone একটি ইনপুট ডিভাইস।"
+        },
+        {
+          "q": "HDD-তে তথ্য কীভাবে সংরক্ষিত হয়?",
+          "options": [
+            "ফ্ল্যাশ চিপে",
+            "চৌম্বকীয় ডিস্কে",
+            "আলোর মাধ্যমে",
+            "কাগজে"
+          ],
+          "answer": 1,
+          "why": "HDD-তে তথ্য চৌম্বকীয় ডিস্কে সংরক্ষিত হয়।"
+        },
+        {
+          "q": "CD-এর ধারণক্ষমতা কত?",
+          "options": [
+            "প্রায় ৭০০ MB",
+            "প্রায় ৪.৭ GB",
+            "প্রায় ২৫ GB",
+            "প্রায় ১২৮ MB"
+          ],
+          "answer": 0,
+          "why": "CD-এর ধারণক্ষমতা প্রায় ৭০০ MB।"
+        },
+        {
+          "q": "DVD-এর ধারণক্ষমতা কত?",
+          "options": [
+            "প্রায় ৭০০ MB",
+            "প্রায় ৪.৭ GB",
+            "প্রায় ২৫ GB",
+            "প্রায় ১ GB"
+          ],
+          "answer": 1,
+          "why": "DVD-এর ধারণক্ষমতা প্রায় ৪.৭ GB।"
+        },
+        {
+          "q": "Blu-ray ডিস্কের ধারণক্ষমতা কত?",
+          "options": [
+            "প্রায় ৭০০ MB",
+            "প্রায় ৪.৭ GB",
+            "প্রায় ২৫ GB",
+            "প্রায় ১০০ GB"
+          ],
+          "answer": 2,
+          "why": "Blu-ray ডিস্কের ধারণক্ষমতা প্রায় ২৫ GB।"
+        },
+        {
+          "q": "MS Access কী কাজে ব্যবহৃত হয়?",
+          "options": [
+            "ছবি আঁকা",
+            "ডেটাবেজ তৈরি ও পরিচালনা",
+            "গান শোনা",
+            "ভিডিও দেখা"
+          ],
+          "answer": 1,
+          "why": "MS Access ডেটাবেজ তৈরি ও পরিচালনার কাজে ব্যবহৃত হয়।"
+        },
+        {
+          "q": "Spreadsheet-এ cell কী?",
+          "options": [
+            "একটি সারি",
+            "একটি কলাম",
+            "সারি ও কলামের ছেদ",
+            "একটি ফাইল"
+          ],
+          "answer": 2,
+          "why": "Spreadsheet-এ cell হলো সারি ও কলামের ছেদ।"
+        },
+        {
+          "q": "Excel-এ A1 ও B1 যোগ করতে কোন সূত্র লিখতে হয়?",
+          "options": [
+            "A1+B1",
+            "=A1+B1",
+            "SUM(A1+B1)",
+            "ADD(A1,B1)"
+          ],
+          "answer": 1,
+          "why": "Excel-এ যোগ করতে =A1+B1 সূত্র লিখতে হয়।"
+        },
+        {
+          "q": "MS Word-এ সব নির্বাচন করতে কোন শর্টকাট ব্যবহৃত হয়?",
+          "options": [
+            "Ctrl+S",
+            "Ctrl+C",
+            "Ctrl+A",
+            "Ctrl+V"
+          ],
+          "answer": 2,
+          "why": "MS Word-এ সব নির্বাচন করতে Ctrl+A ব্যবহৃত হয়।"
+        },
+        {
+          "q": "MS Word-এ পেস্ট করতে কোন শর্টকাট ব্যবহৃত হয়?",
+          "options": [
+            "Ctrl+C",
+            "Ctrl+V",
+            "Ctrl+X",
+            "Ctrl+P"
+          ],
+          "answer": 1,
+          "why": "MS Word-এ পেস্ট করতে Ctrl+V ব্যবহৃত হয়।"
+        },
+        {
+          "q": "Search engine কী?",
+          "options": [
+            "ওয়েব পেজ দেখার সফটওয়্যার",
+            "ইন্টারনেটে তথ্য খোঁজার মাধ্যম",
+            "ইমেইল পাঠানোর মাধ্যম",
+            "ফাইল সংরক্ষণের মাধ্যম"
+          ],
+          "answer": 1,
+          "why": "Search engine হলো ইন্টারনেটে তথ্য খোঁজার মাধ্যম (যেমন Google, Bing)।"
+        },
+        {
+          "q": "Web browser কী?",
+          "options": [
+            "ইন্টারনেটে তথ্য খোঁজার মাধ্যম",
+            "ওয়েব পেজ দেখার সফটওয়্যার",
+            "ইমেইল সেবা",
+            "ফাইল সার্ভার"
+          ],
+          "answer": 1,
+          "why": "Web browser হলো ওয়েব পেজ দেখার সফটওয়্যার (যেমন Chrome, Firefox)।"
+        },
+        {
+          "q": "ইমেইলের সাথে সংযুক্ত ফাইলকে কী বলা হয়?",
+          "options": [
+            "Spam",
+            "Attachment",
+            "Cookie",
+            "Cache"
+          ],
+          "answer": 1,
+          "why": "ইমেইলের সাথে সংযুক্ত ফাইলকে Attachment বলা হয়।"
+        },
+        {
+          "q": "Spam কী?",
+          "options": [
+            "গুরুত্বপূর্ণ ইমেইল",
+            "অনাকাঙ্ক্ষিত বা অবাঞ্ছিত ইমেইল",
+            "সরকারি ইমেইল",
+            "ব্যক্তিগত চিঠি"
+          ],
+          "answer": 1,
+          "why": "Spam হলো অনাকাঙ্ক্ষিত বা অবাঞ্ছিত ইমেইল।"
+        },
+        {
+          "q": "Digital Bangladesh-এর লক্ষ্য কী?",
+          "options": [
+            "শুধু শহরে ইন্টারনেট দেওয়া",
+            "তথ্যপ্রযুক্তির মাধ্যমে সেবা জনগণের দরজায় পৌঁছে দেওয়া",
+            "শুধু কম্পিউটার বিক্রি করা",
+            "বিদেশে সফটওয়্যার রপ্তানি বন্ধ করা"
+          ],
+          "answer": 1,
+          "why": "Digital Bangladesh-এর লক্ষ্য তথ্যপ্রযুক্তির মাধ্যমে সেবা জনগণের দরজায় পৌঁছে দেওয়া।"
+        },
+        {
+          "q": "Smart Bangladesh-এর স্তম্ভ কয়টি?",
+          "options": [
+            "২টি",
+            "৩টি",
+            "৪টি",
+            "৫টি"
+          ],
+          "answer": 2,
+          "why": "Smart Bangladesh-এর স্তম্ভ ৪টি: Smart Citizen, Smart Government, Smart Economy ও Smart Society।"
+        },
+        {
+          "q": "বাংলাদেশে ICT Act প্রণীত হয় কত সালে?",
+          "options": [
+            "২০০০",
+            "২০০৬",
+            "২০০৯",
+            "২০১৩"
+          ],
+          "answer": 1,
+          "why": "বাংলাদেশে ICT Act প্রণীত হয় ২০০৬ সালে।"
+        },
+        {
+          "q": "QR code-এর পূর্ণরূপ কী?",
+          "options": [
+            "Quick Response Code",
+            "Quality Reading Code",
+            "Quick Reply Code",
+            "Quantum Response Code"
+          ],
+          "answer": 0,
+          "why": "QR code-এর পূর্ণরূপ Quick Response Code।"
+        },
+        {
+          "q": "Barcode কী?",
+          "options": [
+            "এক ধরনের পাসওয়ার্ড",
+            "পণ্যের তথ্য ধারণকারী কালো-সাদা দাগের কোড",
+            "একটি ইমেইল",
+            "একটি ফাইল"
+          ],
+          "answer": 1,
+          "why": "Barcode হলো পণ্যের তথ্য ধারণকারী কালো-সাদা দাগের কোড।"
+        },
+        {
+          "q": "Fiber optic-এ তথ্য কীভাবে যায়?",
+          "options": [
+            "বিদ্যুৎ সংকেতে",
+            "আলোর মাধ্যমে",
+            "শব্দে",
+            "চৌম্বক ক্ষেত্রে"
+          ],
+          "answer": 1,
+          "why": "Fiber optic-এ তথ্য আলোর মাধ্যমে যায়।"
+        },
+        {
+          "q": "5G-তে 'G'-এর অর্থ কী?",
+          "options": [
+            "Gigabyte",
+            "Generation",
+            "Global",
+            "Gateway"
+          ],
+          "answer": 1,
+          "why": "5G-তে G-এর অর্থ Generation।"
+        },
+        {
+          "q": "Amazon EC2 কোন ধরনের ক্লাউড সেবা?",
+          "options": [
+            "SaaS",
+            "PaaS",
+            "IaaS",
+            "DaaS"
+          ],
+          "answer": 2,
+          "why": "Amazon EC2 একটি IaaS (Infrastructure as a Service) সেবা।"
+        },
+        {
+          "q": "Google App Engine কোন ধরনের ক্লাউড সেবা?",
+          "options": [
+            "SaaS",
+            "IaaS",
+            "PaaS",
+            "DaaS"
+          ],
+          "answer": 2,
+          "why": "Google App Engine একটি PaaS (Platform as a Service) সেবা।"
+        },
+        {
+          "q": "Big data কী?",
+          "options": [
+            "ছোট আকারের তথ্য",
+            "বিশাল আকারের তথ্যভাণ্ডার",
+            "একটি ডেটাবেজ সফটওয়্যার",
+            "একটি হার্ডডিস্ক"
+          ],
+          "answer": 1,
+          "why": "Big data হলো বিশাল আকারের তথ্যভাণ্ডার।"
+        },
+        {
+          "q": "Bitcoin কত সালে চালু হয়?",
+          "options": [
+            "২০০৫",
+            "২০০৯",
+            "২০১৩",
+            "২০১৭"
+          ],
+          "answer": 1,
+          "why": "Bitcoin ২০০৯ সালে চালু হয়।"
+        },
+        {
+          "q": "Bitcoin-এর স্রষ্টা কে?",
+          "options": [
+            "Bill Gates",
+            "Satoshi Nakamoto",
+            "Elon Musk",
+            "Vitalik Buterin"
+          ],
+          "answer": 1,
+          "why": "Bitcoin-এর স্রষ্টা Satoshi Nakamoto।"
+        },
+        {
+          "q": "Robot শব্দটি প্রথম কোথায় ব্যবহৃত হয়?",
+          "options": [
+            "একটি সিনেমায়",
+            "Karel Čapek-এর নাটক 'R.U.R.'-এ",
+            "একটি উপন্যাসে",
+            "একটি গানে"
+          ],
+          "answer": 1,
+          "why": "Robot শব্দটি প্রথম Karel Čapek-এর নাটক 'R.U.R.' (১৯২০)-এ ব্যবহৃত হয়।"
+        },
+        {
+          "q": "Operating system কী?",
+          "options": [
+            "একটি গেম",
+            "হার্ডওয়্যার ও ব্যবহারকারীর মাঝে সংযোগকারী সফটওয়্যার",
+            "একটি ব্রাউজার",
+            "একটি ফাইল"
+          ],
+          "answer": 1,
+          "why": "Operating system হলো হার্ডওয়্যার ও ব্যবহারকারীর মাঝে সংযোগকারী সফটওয়্যার।"
+        },
+        {
+          "q": "Windows-এর প্রস্তুতকারক কে?",
+          "options": [
+            "Apple",
+            "Microsoft",
+            "Google",
+            "IBM"
+          ],
+          "answer": 1,
+          "why": "Windows-এর প্রস্তুতকারক Microsoft।"
+        },
+        {
+          "q": "Linux-এর স্রষ্টা কে?",
+          "options": [
+            "Bill Gates",
+            "Linus Torvalds",
+            "Steve Jobs",
+            "Dennis Ritchie"
+          ],
+          "answer": 1,
+          "why": "Linux-এর স্রষ্টা Linus Torvalds।"
+        },
+        {
+          "q": "Android-এর প্রস্তুতকারক কে?",
+          "options": [
+            "Apple",
+            "Microsoft",
+            "Google",
+            "Samsung"
+          ],
+          "answer": 2,
+          "why": "Android-এর প্রস্তুতকারক Google।"
+        },
+        {
+          "q": "File system কী?",
+          "options": [
+            "ফাইল ছাপানোর পদ্ধতি",
+            "ফাইল সংরক্ষণ ও পরিচালনার পদ্ধতি",
+            "ফাইল মুছে ফেলার পদ্ধতি",
+            "ফাইল পাঠানোর পদ্ধতি"
+          ],
+          "answer": 1,
+          "why": "File system হলো ফাইল সংরক্ষণ ও পরিচালনার পদ্ধতি।"
+        },
+        {
+          "q": "Desktop কী?",
+          "options": [
+            "একটি ফোল্ডার",
+            "কম্পিউটার চালুর পর প্রথম পর্দা",
+            "একটি প্রোগ্রাম",
+            "একটি ফাইল"
+          ],
+          "answer": 1,
+          "why": "Desktop হলো কম্পিউটার চালুর পর প্রথম পর্দা।"
+        },
+        {
+          "q": "Taskbar কোথায় থাকে?",
+          "options": [
+            "পর্দার উপরে",
+            "পর্দার নিচে",
+            "পর্দার বামে",
+            "পর্দার ডানে"
+          ],
+          "answer": 1,
+          "why": "Taskbar সাধারণত পর্দার নিচে থাকে।"
+        },
+        {
+          "q": "Control Panel-এর কাজ কী?",
+          "options": [
+            "ফাইল তৈরি করা",
+            "সিস্টেমের সেটিংস পরিবর্তন করা",
+            "ইন্টারনেট চালানো",
+            "গেম খেলা"
+          ],
+          "answer": 1,
+          "why": "Control Panel দিয়ে সিস্টেমের সেটিংস পরিবর্তন করা হয়।"
+        },
+        {
+          "q": "Recycle Bin-এর কাজ কী?",
+          "options": [
+            "ফাইল স্থায়ীভাবে মুছে ফেলা",
+            "মুছে ফেলা ফাইল সাময়িক রাখা",
+            "ফাইল ব্যাকআপ নেওয়া",
+            "ফাইল ছাপানো"
+          ],
+          "answer": 1,
+          "why": "Recycle Bin মুছে ফেলা ফাইল সাময়িক রাখে।"
+        },
+        {
+          "q": "Clipboard কী?",
+          "options": [
+            "একটি ফাইল",
+            "কপি করা তথ্যের অস্থায়ী সংরক্ষণস্থল",
+            "একটি ফোল্ডার",
+            "একটি হার্ডওয়্যার"
+          ],
+          "answer": 1,
+          "why": "Clipboard হলো কপি করা তথ্যের অস্থায়ী সংরক্ষণস্থল।"
+        },
+        {
+          "q": "Drag and drop কী?",
+          "options": [
+            "ফাইল মুছে ফেলা",
+            "মাউস দিয়ে টেনে সরানো",
+            "ফাইল কপি করা",
+            "ফাইল ছাপানো"
+          ],
+          "answer": 1,
+          "why": "Drag and drop হলো মাউস দিয়ে টেনে সরানো।"
+        },
+        {
+          "q": "Shortcut কী?",
+          "options": [
+            "একটি ফাইল",
+            "দ্রুত খোলার সংযোগ",
+            "একটি ফোল্ডার",
+            "একটি ভাইরাস"
+          ],
+          "answer": 1,
+          "why": "Shortcut হলো দ্রুত খোলার সংযোগ।"
+        },
+        {
+          "q": "Folder কী?",
+          "options": [
+            "একটি ফাইল",
+            "ফাইল সাজিয়ে রাখার ধারক",
+            "একটি প্রোগ্রাম",
+            "একটি ডিভাইস"
+          ],
+          "answer": 1,
+          "why": "Folder হলো ফাইল সাজিয়ে রাখার ধারক।"
+        },
+        {
+          "q": "Partition কী?",
+          "options": [
+            "ফাইল মুছে ফেলা",
+            "হার্ডডিস্ককে ভাগ করা",
+            "ফাইল কপি করা",
+            "ডিস্ক ফরম্যাট করা"
+          ],
+          "answer": 1,
+          "why": "Partition হলো হার্ডডিস্ককে ভাগ করা।"
+        },
+        {
+          "q": "Format কী?",
+          "options": [
+            "ফাইল কপি করা",
+            "ডিস্ক ব্যবহারের উপযোগী করা",
+            "ফাইল মুছে ফেলা",
+            "ফাইল ছাপানো"
+          ],
+          "answer": 1,
+          "why": "Format হলো ডিস্ক ব্যবহারের উপযোগী করা।"
+        },
+        {
+          "q": "Backup কী?",
+          "options": [
+            "ফাইল মুছে ফেলা",
+            "তথ্যের নিরাপদ অনুলিপি রাখা",
+            "ফাইল ছাপানো",
+            "ফাইল পাঠানো"
+          ],
+          "answer": 1,
+          "why": "Backup হলো তথ্যের নিরাপদ অনুলিপি রাখা।"
+        },
+        {
+          "q": "Driver কী?",
+          "options": [
+            "একটি হার্ডওয়্যার",
+            "হার্ডওয়্যার চালানোর সফটওয়্যার",
+            "একটি গেম",
+            "একটি ব্রাউজার"
+          ],
+          "answer": 1,
+          "why": "Driver হলো হার্ডওয়্যার চালানোর সফটওয়্যার।"
+        },
+        {
+          "q": "Firmware কী?",
+          "options": [
+            "একটি অ্যাপ",
+            "হার্ডওয়্যারে স্থায়ীভাবে থাকা সফটওয়্যার",
+            "একটি ফাইল",
+            "একটি গেম"
+          ],
+          "answer": 1,
+          "why": "Firmware হলো হার্ডওয়্যারে স্থায়ীভাবে থাকা সফটওয়্যার।"
+        },
+        {
+          "q": "Hardware কী?",
+          "options": [
+            "কম্পিউটারের প্রোগ্রাম",
+            "কম্পিউটারের ভৌত অংশ",
+            "একটি ফাইল",
+            "একটি ভাষা"
+          ],
+          "answer": 1,
+          "why": "Hardware হলো কম্পিউটারের ভৌত অংশ।"
+        },
+        {
+          "q": "Software কী?",
+          "options": [
+            "কম্পিউটারের ভৌত অংশ",
+            "কম্পিউটারের প্রোগ্রাম বা নির্দেশনা",
+            "একটি ডিভাইস",
+            "একটি কেবল"
+          ],
+          "answer": 1,
+          "why": "Software হলো কম্পিউটারের প্রোগ্রাম বা নির্দেশনা।"
+        },
+        {
+          "q": "Input device কী?",
+          "options": [
+            "ফলাফল দেখানোর যন্ত্র",
+            "তথ্য কম্পিউটারে দেওয়ার যন্ত্র",
+            "তথ্য সংরক্ষণের যন্ত্র",
+            "তথ্য প্রসেস করার যন্ত্র"
+          ],
+          "answer": 1,
+          "why": "Input device হলো তথ্য কম্পিউটারে দেওয়ার যন্ত্র।"
+        },
+        {
+          "q": "Output device কী?",
+          "options": [
+            "তথ্য দেওয়ার যন্ত্র",
+            "ফলাফল দেখানোর যন্ত্র",
+            "তথ্য সংরক্ষণের যন্ত্র",
+            "তথ্য প্রসেস করার যন্ত্র"
+          ],
+          "answer": 1,
+          "why": "Output device হলো ফলাফল দেখানোর যন্ত্র।"
+        },
+        {
+          "q": "Storage device কী?",
+          "options": [
+            "তথ্য দেখানোর যন্ত্র",
+            "তথ্য সংরক্ষণের যন্ত্র",
+            "তথ্য দেওয়ার যন্ত্র",
+            "তথ্য প্রসেস করার যন্ত্র"
+          ],
+          "answer": 1,
+          "why": "Storage device হলো তথ্য সংরক্ষণের যন্ত্র।"
+        },
+        {
+          "q": "Monitor কোন ধরনের ডিভাইস?",
+          "options": [
+            "ইনপুট ডিভাইস",
+            "আউটপুট ডিভাইস",
+            "স্টোরেজ ডিভাইস",
+            "প্রসেসিং ডিভাইস"
+          ],
+          "answer": 1,
+          "why": "Monitor একটি আউটপুট ডিভাইস।"
+        },
+        {
+          "q": "Mouse কোন ধরনের ডিভাইস?",
+          "options": [
+            "আউটপুট ডিভাইস",
+            "ইনপুট ডিভাইস",
+            "স্টোরেজ ডিভাইস",
+            "প্রসেসিং ডিভাইস"
+          ],
+          "answer": 1,
+          "why": "Mouse একটি ইনপুট (pointing) ডিভাইস।"
+        },
+        {
+          "q": "Speaker কোন ধরনের ডিভাইস?",
+          "options": [
+            "ইনপুট ডিভাইস",
+            "আউটপুট ডিভাইস",
+            "স্টোরেজ ডিভাইস",
+            "প্রসেসিং ডিভাইস"
+          ],
+          "answer": 1,
+          "why": "Speaker একটি আউটপুট ডিভাইস।"
+        },
+        {
+          "q": "Pendrive কী?",
+          "options": [
+            "একটি প্রসেসর",
+            "বহনযোগ্য ফ্ল্যাশ স্টোরেজ",
+            "একটি মনিটর",
+            "একটি প্রিন্টার"
+          ],
+          "answer": 1,
+          "why": "Pendrive একটি বহনযোগ্য ফ্ল্যাশ স্টোরেজ।"
+        },
+        {
+          "q": "Bit কী?",
+          "options": [
+            "৮টি বাইট",
+            "কম্পিউটারের ক্ষুদ্রতম তথ্য একক (0 বা 1)",
+            "একটি ফাইল",
+            "একটি প্রোগ্রাম"
+          ],
+          "answer": 1,
+          "why": "Bit হলো কম্পিউটারের ক্ষুদ্রতম তথ্য একক (0 বা 1)।"
+        },
+        {
+          "q": "Binary 1111-এর দশমিক মান কত?",
+          "options": [
+            "১৪",
+            "১৫",
+            "১৬",
+            "১৭"
+          ],
+          "answer": 1,
+          "why": "Binary 1111 = ৮+৪+২+১ = ১৫।"
+        },
+        {
+          "q": "Binary 1101-এর দশমিক মান কত?",
+          "options": [
+            "১১",
+            "১২",
+            "১৩",
+            "১৪"
+          ],
+          "answer": 2,
+          "why": "Binary 1101 = ৮+৪+০+১ = ১৩।"
+        },
+        {
+          "q": "Octal 17-এর দশমিক মান কত?",
+          "options": [
+            "১৩",
+            "১৪",
+            "১৫",
+            "১৬"
+          ],
+          "answer": 2,
+          "why": "Octal 17 = ১×৮ + ৭ = ১৫।"
+        },
+        {
+          "q": "Hexadecimal A-এর দশমিক মান কত?",
+          "options": [
+            "৯",
+            "১০",
+            "১১",
+            "১২"
+          ],
+          "answer": 1,
+          "why": "Hexadecimal A-এর দশমিক মান ১০।"
+        },
+        {
+          "q": "Hexadecimal 1A-এর দশমিক মান কত?",
+          "options": [
+            "২৪",
+            "২৫",
+            "২৬",
+            "২৭"
+          ],
+          "answer": 2,
+          "why": "Hexadecimal 1A = ১×১৬ + ১০ = ২৬।"
+        },
+        {
+          "q": "Decimal 25-এর বাইনারি কত?",
+          "options": [
+            "১১০০১",
+            "১০১০১",
+            "১১১০১",
+            "১০০১১"
+          ],
+          "answer": 0,
+          "why": "Decimal 25-এর বাইনারি ১১০০১।"
+        },
+        {
+          "q": "NOR গেট কীসের সমন্বয়?",
+          "options": [
+            "AND + NOT",
+            "OR + NOT",
+            "XOR + NOT",
+            "AND + OR"
+          ],
+          "answer": 1,
+          "why": "NOR গেট হলো OR + NOT-এর সমন্বয়।"
+        },
+        {
+          "q": "Universal gate কোনটি?",
+          "options": [
+            "AND ও OR",
+            "NAND ও NOR",
+            "XOR ও XNOR",
+            "NOT"
+          ],
+          "answer": 1,
+          "why": "NAND ও NOR-কে Universal gate বলা হয়।"
+        },
+        {
+          "q": "Flip-flop কী?",
+          "options": [
+            "১ byte তথ্য সংরক্ষণকারী সার্কিট",
+            "১ bit তথ্য সংরক্ষণকারী সার্কিট",
+            "একটি গেট",
+            "একটি রেজিস্টার"
+          ],
+          "answer": 1,
+          "why": "Flip-flop হলো ১ bit তথ্য সংরক্ষণকারী সার্কিট।"
+        },
+        {
+          "q": "Register কী?",
+          "options": [
+            "হার্ডডিস্কের অংশ",
+            "CPU-এর ভেতরে দ্রুত তথ্য রাখার ক্ষুদ্র সংরক্ষণস্থল",
+            "একটি ফাইল",
+            "একটি প্রোগ্রাম"
+          ],
+          "answer": 1,
+          "why": "Register হলো CPU-এর ভেতরে দ্রুত তথ্য রাখার ক্ষুদ্র সংরক্ষণস্থল।"
+        },
+        {
+          "q": "Control Unit-এর কাজ কী?",
+          "options": [
+            "হিসাব করা",
+            "নির্দেশনা পরিচালনা ও সমন্বয় করা",
+            "তথ্য সংরক্ষণ করা",
+            "ছবি দেখানো"
+          ],
+          "answer": 1,
+          "why": "Control Unit নির্দেশনা পরিচালনা ও সমন্বয় করে।"
+        },
+        {
+          "q": "Bus কী?",
+          "options": [
+            "একটি যানবাহন",
+            "CPU ও অন্যান্য অংশের মধ্যে তথ্য চলাচলের পথ",
+            "একটি ফাইল",
+            "একটি প্রোগ্রাম"
+          ],
+          "answer": 1,
+          "why": "Bus হলো CPU ও অন্যান্য অংশের মধ্যে তথ্য চলাচলের পথ।"
+        },
+        {
+          "q": "Clock speed কী দিয়ে মাপা হয়?",
+          "options": [
+            "MHz বা GHz",
+            "MB",
+            "Volt",
+            "Watt"
+          ],
+          "answer": 0,
+          "why": "Clock speed MHz বা GHz দিয়ে মাপা হয়।"
+        },
+        {
+          "q": "Charles Babbage কী নামে পরিচিত?",
+          "options": [
+            "ইন্টারনেটের জনক",
+            "কম্পিউটারের জনক",
+            "প্রথম প্রোগ্রামার",
+            "ইমেইলের জনক"
+          ],
+          "answer": 1,
+          "why": "Charles Babbage কম্পিউটারের জনক নামে পরিচিত।"
+        },
+        {
+          "q": "Ada Lovelace কী নামে পরিচিত?",
+          "options": [
+            "কম্পিউটারের জনক",
+            "প্রথম প্রোগ্রামার",
+            "ইন্টারনেটের জনক",
+            "প্রথম হ্যাকার"
+          ],
+          "answer": 1,
+          "why": "Ada Lovelace প্রথম প্রোগ্রামার নামে পরিচিত।"
+        },
+        {
+          "q": "Abacus কী?",
+          "options": [
+            "একটি প্রোগ্রামিং ভাষা",
+            "প্রাচীনতম গণনা যন্ত্র",
+            "একটি কম্পিউটার",
+            "একটি প্রিন্টার"
+          ],
+          "answer": 1,
+          "why": "Abacus প্রাচীনতম গণনা যন্ত্র।"
+        },
+        {
+          "q": "Pascaline-এর আবিষ্কারক কে?",
+          "options": [
+            "Charles Babbage",
+            "Blaise Pascal",
+            "Ada Lovelace",
+            "Alan Turing"
+          ],
+          "answer": 1,
+          "why": "Pascaline-এর আবিষ্কারক Blaise Pascal।"
+        },
+        {
+          "q": "Analytical Engine-এর নকশা করেন কে?",
+          "options": [
+            "Blaise Pascal",
+            "Charles Babbage",
+            "Alan Turing",
+            "John von Neumann"
+          ],
+          "answer": 1,
+          "why": "Analytical Engine-এর নকশা করেন Charles Babbage।"
         }
       ]
     }
