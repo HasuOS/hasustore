@@ -326,19 +326,7 @@
    "etag": "0x8DF47B76BB74551",
    "ts": 1795255770
   },
-  {
-   "pkg": "hasu.os.share",
-   "name": "HasuShare",
-   "tag": "Offline file sharing",
-   "desc": "Offline file sharing — pick files, share them over WiFi or hotspot, and the other phone downloads them from your browser address. No internet needed.",
-   "code": 7,
-   "versionName": "1.06",
-   "size": 275310,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/share.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until notifications are really allowed, blue only then, repainted on every return. DESIGN: the About page icon now sits on a glass tile. FIXED: rotation no longer rebuilds any screen — the share address, QR code and download count keep going through a turn instead of the whole screen restarting. The Guide and About pages list them all.",
-   "ts": 1795322261,
-   "etag": "0x8DF48523CC19550"
-  },
+  {"pkg": "hasu.os.share", "name": "HasuShare", "tag": "Offline file sharing", "desc": "Offline file sharing — pick files, share them over WiFi or hotspot, and the other phone downloads them from your browser address. No internet needed.", "code": 8, "versionName": "1.07", "size": 441032, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/share.apk", "changes": "FULL FAMILY PORT: Liquid Glass chrome rebuilt — bare-glyph header (Permissions switch + Look / Settings / About), no plates or borders anywhere, selection is accent + glow. NEW: Look & icons — themes, dark AND light mode, icon sets and five bare-glyph app-icon designs (Share / Nodes / Plane / WiFi / Arrow), per-surface looks for the Share screen and app pages, full-screen preview with Apply. NEW: icon packs and themes arrive BY THEMSELVES from the share/ feed and a notification names what arrived. NEW: English ⇄ Bengali for the whole app from one switch in Settings. NEW: Settings page with typed backup (share_app + share_look + hasushare — the tab and the typed Receive address included) — export / import. NEW: the app updates ITSELF — twice-a-day background check, download with pause / resume, verified install. Permissions hub rebuilt: honest live states incl. Install updates and Run in background. The sharing engine is untouched: pick, serve, QR and download counting work exactly as before.", "ts": 1795670066, "etag": "0x8DF4B7C16BBF3A8"},
   {
    "pkg": "hasu.os.shikha",
    "name": "HasuShikha",
