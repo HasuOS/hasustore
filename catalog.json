@@ -443,31 +443,19 @@
    "ts": 1795584432,
    "etag": "0x8DF4AB4983DF4C7"
   },
-  {
-   "pkg": "hasu.os.vault",
-   "name": "HasuVault",
-   "tag": "Private photo vault",
-   "desc": "A private vault for photos, videos & PDFs — AES-256 encryption, PIN and fingerprint lock.",
-   "code": 7,
-   "versionName": "1.05",
-   "size": 66482,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until fingerprint unlock is really on, blue only then, repainted on every return. FIXED: the PIN pad now scrolls on short screens, so every key stays reachable when the phone is turned sideways. FIXED: big photos now open downsampled to your screen in the viewer, so a large photo can no longer run the viewer out of memory.",
-   "ts": 1795263706,
-   "etag": "0x8DF47C9F36BDE71"
-  },
+  {"pkg": "hasu.os.vault", "name": "HasuVault", "tag": "Private photo vault", "desc": "A private vault for photos, videos & PDFs — AES-256 encryption, PIN and fingerprint lock.", "code": 8, "versionName": "1.06", "size": 240391, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk", "changes": "NEW: the full family design system — a Look & icons page with themes (dark AND light), icon sets and five app-icon designs, each shown as the thing itself and applied the moment it is picked; the vault page and the app pages can wear different looks, and every single icon can be given your own glyph. NEW: icon packs and themes now ARRIVE BY THEMSELVES from the new vault feed — no download tap — and a notification says what arrived. NEW: a Settings page with the whole-app English ⇄ Bengali switch, notification choices (sound, vibration, quiet hours), a typed settings backup + restore, the crash report and a reset. The settings backup honestly leaves out your PIN (its hash never leaves this phone) and the vault's contents — they stay encrypted on this phone under a key that never leaves it, so export from inside the vault to move one. NEW: a full-screen preview — see the real lock and vault screens in a theme before applying it. NEW: the app checks for its own update twice a day and installs it from its own update page. DESIGN (bare-glyph law): the launcher icon is the bare white vault dial with nothing behind it, plus four more drawn designs — Lock, Key, Fingerprint, Shield; inside, every button is a bare glyph. The About page carries the new HasuOS brand logo and the developer card with a tappable email; the Guide is rewritten in English and Bengali; the Permissions hub is rebuilt with Fingerprint unlock, Notifications, Internet, Network state, Install updates and Run in background — every switch with its real live state. UNTOUCHED: the vault itself — AES-GCM encryption, the PIN pad with its brute-force lockout, fingerprint unlock, import, viewing and export work exactly as before.", "ts": 1795662478, "etag": "0x8DF4B6A651EF80C"},
   {
    "pkg": "hasu.os.voice",
    "name": "HasuVoice",
    "tag": "Voice recorder",
    "desc": "Voice recorder — one-tap recording with a live level meter, playback, rename and share.",
-   "code": 7,
-   "versionName": "1.04",
-   "size": 50030,
+   "code": 8,
+   "versionName": "1.05",
+   "size": 219853,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/voice.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one (the user order 2026-11-20 ~05:33; HasuVoice never had one). FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until the microphone and notifications are really on, blue only then, repainted on every return (the same bug fixed in Clock 1.15 / Speed 02.10 / Assist 1.02 / Battery 1.07 / Vault 1.05 / Backup 1.06 / Usage 1.05; the drawable was always blue). FIXED: long recordings now show hours — a 1-hour-20-minute take used to read as 80:12. FIXED: turning the phone no longer restarts any screen, so a recording, its timer, the player and the list all stay exactly as they were. FIXED: renaming a recording no longer cuts \".m4a\" out of the middle of its name — only the trailing extension is stripped. DESIGN: the About page icon now sits on a glass tile. FOLDED IN (never published before): staged 1.03 — the \"Recording…\" notification now carries HasuVoice's own icon instead of a system microphone glyph, and a ✕ button on the recordings search clears it in one tap.",
-   "ts": 1795329593,
-   "etag": "0x8DF48635BD4E37D"
+   "changes": "NEW: the full family design system \u2014 a Look & icons page with themes (dark AND light), icon sets and five app-icon designs, each shown as the thing itself and applied the moment it is picked; the recorder page and the app pages can wear different looks, and every single icon can be given your own glyph. NEW: icon packs and themes now ARRIVE BY THEMSELVES from the new voice feed \u2014 no download tap \u2014 and a notification says what arrived. NEW: a Settings page with the whole-app English \u21c4 Bengali switch, notification choices (sound, vibration, quiet hours), a typed settings backup + restore, the crash report and a reset. NEW: a full-screen preview \u2014 see the real recorder screen in a theme before applying it. NEW: the app checks for its own update twice a day and installs it from its own update page. DESIGN (bare-glyph law): the launcher icon is the bare white microphone with nothing behind it, plus four more drawn designs \u2014 Mic, Headphones, Waveform, Disc; inside, every button is a bare glyph and the record button is the red glyph itself. The About page carries the new HasuOS brand logo and the developer card with a tappable email; the Guide is rewritten in English and Bengali; the Permissions hub is rebuilt with Microphone, Notifications, Internet, Network state, Install updates and Run in background \u2014 every switch with its real live state. UNTOUCHED: the recorder and player themselves \u2014 recording, pause/resume, playback speeds, 10-second skips, search, rename, share and delete work exactly as before.",
+   "ts": 1795661661,
+   "etag": "0x8DF4B687BF07349"
   },
   {"pkg": "hasu.os.wall", "name": "HasuWall", "tag": "Your gallery & wallpapers", "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.", "code": 59, "versionName": "2.22", "size": 5021739, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk", "changes": "Full family pass: the new HasuOS brand logo inside; bare-glyph launcher designs (your photo mark redrawn flat, plus Image, Play, Star and Folder) — no border, no tile, no glow. NEW: Look & icons — dark and light themes, per-page themes and icon packs that arrive by themselves with a notification naming what came, per-icon custom glyphs, pack/theme file import, and a full-screen preview you apply from. The whole app now speaks English or বাংলা from one Settings switch. Settings rebuilt in the family shape with your gallery switches kept, an honest Permissions hub, self-updates that download on their own (you only tap Install), and a typed settings backup covering language, look, gallery choices, icon packs and the backup setup — the Telegram token and encryption key never leave the phone. The gallery header, tabs, selection bar and bottom bar are now bare glyphs: the active one is simply the accent colour. Everything else — Picks, editors, live wallpapers, bin, backup — works exactly as before.", "ts": 1795660616, "etag": "0x8DF4B66089F070D"},
   {
