@@ -547,19 +547,7 @@
    "etag": "0x8DF47A3211212A7",
    "changes": "NEW: 🔰 Text size — pick Small, Normal, Large or Extra large from the ℹ️ menu; the choice is remembered and applies to every page. NEW: 🌐 Open in browser — send the page you're on to your browser in one tap, from the ℹ️ menu. FIXED: Back now closes the Find bar first, before walking the page history, like a browser. The Guide and About pages list all three."
   },
-  {
-   "pkg": "hasu.os.maps",
-   "name": "HasuMaps",
-   "tag": "The HasuOS map — the world, in glass",
-   "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
-   "code": 39,
-   "versionName": "1.38",
-   "size": 107374,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
-   "ts": 1795167876,
-   "etag": "0x8DF46EAD81CE665",
-   "changes": "NEW: 📍 Search by coordinates — paste \"23.8103, 90.4125\" (or 23°48'37\"N 90°24'45\"E) into the search bar and the map drops a pin on that exact spot, with its name and address; coordinates work in From / To / Stop too. The Guide and About pages list it."
-  },
+  {"pkg": "hasu.os.maps", "name": "HasuMaps", "tag": "The HasuOS map — the world, in glass", "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.", "code": 40, "versionName": "1.39", "size": 252616, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk", "ts": 1795655129, "etag": "0x8DF4B595149C061", "changes": "NEW: the full family shell — Look & icons (themes, icon sets that arrive by themselves, per-screen designs, five bare-glyph app-icon designs), Settings with a typed backup of your map data (saved places, Home & Work, parking, recent trips), an English/Bengali switch, self-update with background checks, and the new HasuOS brand logo. The map itself is unchanged."},
   {
    "pkg": "hasu.os.assist",
    "name": "HasuAssist",
@@ -651,7 +639,7 @@
    "ts": 1795654958,
    "etag": "0x8DF4B58F2C94A2C"
   },
-  {"pkg": "hasu.os.community", "name": "HasuCommunity", "tag": "Messaging", "desc": "Chats with your people in HasuOS glass — bubbles, photo messages, seen ticks and group chats, all on this phone.", "code": 3, "versionName": "1.02", "size": 228035, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/community.apk", "changes": "HasuCommunity 1.02 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.", "ts": 1795655022, "etag": "0x8DF4B591AA855DF"},
+  {"pkg": "hasu.os.community", "name": "HasuCommunity", "tag": "Messaging", "desc": "Chats with your people in HasuOS glass — bubbles, photo messages, seen ticks and group chats, all on this phone.", "code": 2, "versionName": "1.01", "size": 1944259, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/community.apk", "changes": "সম্পূর্ণ ফ্যামিলি পোর্ট: সেটিংস পেজ (ভাষা English/বাংলা, আপডেট ও নতুন ডিজাইনের সতর্কতা, শব্দ ও কম্পন, ব্যাকআপ — সব চ্যাটসহ), লুক ও আইকন (থিম, আইকন সেট, পাঁচটি অ্যাপ-আইকন ডিজাইন, প্রতিটি পেজের নিজের থিম, পুরো-স্ক্রিন প্রিভিউ), অ্যাপ নিজে নিজে আপডেট হয়, নতুন আইকন সেট ও থিম নিজে নিজে আসে, সব আইকন এখন Font Awesome ছবিতে, অর্ধেক লেখা বার্তা খসড়া হিসেবে নিজে নিজে সেভ হয়, গাইড এখন বাংলায়ও।", "ts": 1795621750, "etag": "0x8DF4B0B8ABA6891"},
   {
    "pkg": "hasu.os.shorts",
    "name": "HasuShorts",
