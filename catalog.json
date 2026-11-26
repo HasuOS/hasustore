@@ -534,19 +534,7 @@
    "ts": 1795245577,
    "etag": "0x8DF479FBF4AB75B"
   },
-  {
-   "pkg": "hasu.os.web",
-   "name": "HasuWeb",
-   "tag": "The HasuOS website, as an app",
-   "desc": "The HasuOS website inside its own app: the same pages and the same live catalogue, served by the website's own server — every app update shows here the moment it reaches the website.",
-   "code": 8,
-   "versionName": "1.07",
-   "size": 58222,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/web.apk",
-   "ts": 1795247015,
-   "etag": "0x8DF47A3211212A7",
-   "changes": "NEW: 🔰 Text size — pick Small, Normal, Large or Extra large from the ℹ️ menu; the choice is remembered and applies to every page. NEW: 🌐 Open in browser — send the page you're on to your browser in one tap, from the ℹ️ menu. FIXED: Back now closes the Find bar first, before walking the page history, like a browser. The Guide and About pages list all three."
-  },
+  {"pkg": "hasu.os.web", "name": "HasuWeb", "tag": "The HasuOS website, as an app", "desc": "The HasuOS website inside its own app: the same pages and the same live catalogue, served by the website's own server — every app update shows here the moment it reaches the website.", "code": 9, "versionName": "1.08", "size": 223959, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/web.apk", "ts": 1795656026, "etag": "0x8DF4B5B664D8BD2", "changes": "THE FULL FAMILY PORT: Look & icons page — dark/light mode, themes and icon sets per surface (browser / app pages), five bare-glyph app-icon designs, per-icon custom glyphs and pack/theme import; new designs arrive by themselves from the web feed and the app says what arrived. Settings with language (English/Bangla), notifications, a typed backup of everything the app keeps (language, look, alerts, text size), the crash report and reset. Self-update with a twice-daily background check that survives restarts. About with the new HasuOS brand logo, Guide and Preview (see the real browser screen in a theme, apply from the preview). The Permissions hub is honest and icon-only in the header now — no text strip. All 1.07 features unchanged: the site, find-in-page, text size, share, open-in-browser."},
   {"pkg": "hasu.os.maps", "name": "HasuMaps", "tag": "The HasuOS map — the world, in glass", "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.", "code": 40, "versionName": "1.39", "size": 252616, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk", "ts": 1795655129, "etag": "0x8DF4B595149C061", "changes": "NEW: the full family shell — Look & icons (themes, icon sets that arrive by themselves, per-screen designs, five bare-glyph app-icon designs), Settings with a typed backup of your map data (saved places, Home & Work, parking, recent trips), an English/Bengali switch, self-update with background checks, and the new HasuOS brand logo. The map itself is unchanged."},
   {
    "pkg": "hasu.os.assist",
@@ -697,13 +685,13 @@
    "name": "HasuPhone",
    "tag": "Phone",
    "desc": "The phone app in HasuOS glass — recent calls, contacts, a dial pad with real tones, and its own call screen as the default phone app.",
-   "code": 45,
-   "versionName": "1.44",
-   "size": 347853,
+   "code": 44,
+   "versionName": "1.43",
+   "size": 2064077,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/call.apk",
-   "changes": "HasuPhone 1.44 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
-   "ts": 1795655694,
-   "etag": "0x8DF4B5AAB99E30C"
+   "changes": "HasuPhone 1.43 — launcher icon only: the gear is gone — the default icon is now the clean phone handset alone, bare white glyph on full transparency. Nothing else changed.",
+   "ts": 1795650533,
+   "etag": "0x8DF4B4EA5CFCCDA"
   },
   {
    "pkg": "hasu.os.cell",
