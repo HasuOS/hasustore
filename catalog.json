@@ -67,18 +67,18 @@
    "ts": 1795657906
   },
   {
-  "pkg": "hasu.os.calendar",
-  "name": "HasuCalendar",
-  "tag": "Calendar",
-  "desc": "Calendar \u2014 month view with events, times and reminder notifications. Private, no account needed.",
-  "code": 33,
-  "versionName": "1.30",
-  "size": 123825,
-  "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
-  "changes": "HasuCalendar 1.30 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
-  "etag": "0x8DF4B586B489E6D",
-  "ts": 1795654730
-},
+   "pkg": "hasu.os.calendar",
+   "name": "HasuCalendar",
+   "tag": "Calendar",
+   "desc": "Calendar — month view with events, times and reminder notifications. Private, no account needed.",
+   "code": 33,
+   "versionName": "1.30",
+   "size": 123825,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/calendar.apk",
+   "changes": "HasuCalendar 1.30 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "etag": "0x8DF4B586B489E6D",
+   "ts": 1795654730
+  },
   {
    "pkg": "com.hasucam.camera",
    "name": "HasuCam",
@@ -231,7 +231,7 @@
    "versionName": "1.07",
    "size": 627628,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/namaz.apk",
-   "changes": "NEW: \ud83d\udd4c The recorded azan is now bundled in the app \u2014 at each waqt the alarm plays the real azan recording (the one you provided) on the alarm channel, repeating until you tap Stop (or five minutes), with the same full-screen alarm page over the lock screen. Location-true prayer times from 1.06 stay exactly as they were.",
+   "changes": "NEW: 🕌 The recorded azan is now bundled in the app — at each waqt the alarm plays the real azan recording (the one you provided) on the alarm channel, repeating until you tap Stop (or five minutes), with the same full-screen alarm page over the lock screen. Location-true prayer times from 1.06 stay exactly as they were.",
    "ts": 1795447909,
    "etag": "0x8DF4976D09680D7"
   },
@@ -269,7 +269,7 @@
    "code": 141,
    "versionName": "10.71",
    "size": 17428276,
-   "changes": "HasuOS Home 10.71 \u2014 the icon law, fixed together with HasuPack 1.11: an applied pack's category symbol or shared generic drawing never lands on an app \u2014 the app's own icon stands until a dedicated per-app design exists. Your own per-app picks in HasuPack still apply exactly as picked. The Change-icon picker's 'Active pack' section is now offered only when the pack holds a dedicated design for that app.",
+   "changes": "HasuOS Home 10.71 — the icon law, fixed together with HasuPack 1.11: an applied pack's category symbol or shared generic drawing never lands on an app — the app's own icon stands until a dedicated per-app design exists. Your own per-app picks in HasuPack still apply exactly as picked. The Change-icon picker's 'Active pack' section is now offered only when the pack holds a dedicated design for that app.",
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/home.apk",
    "ts": 1795680822,
    "etag": "0x8DF4B952AAD3B67"
@@ -312,9 +312,33 @@
    "changes": "Full family update: whole-app English/Bengali switch; per-surface icon packs and themes that arrive by themselves (radio feeds) with arrival notifications; five bare-glyph app-icon designs (your shipped broadcast tower is the default); real full-screen look preview with Apply; self-update that checks twice a day, auto-downloads and leaves only Install; typed settings backup covering favourites, your own stations and recents; honest Permissions hub (the header switch is on only when notifications, install updates and the battery exemption are really on); playback notification wears your chosen icon design. The streaming engine, station list, favourites, sleep timer and audio-focus behaviour are unchanged.",
    "etag": "0x8DF4B7EEF6926DA",
    "ts": 1795671281
-},
-  {"pkg": "hasu.os.scan", "name": "HasuScan", "tag": "QR & barcode scanner", "desc": "QR & barcode scanner with torch and gallery scan — plus a QR maker for text, links, Wi-Fi and more.", "code": 9, "versionName": "1.07", "size": 432936, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/scan.apk", "changes": "FULL FAMILY PORT (serial pass #37): Liquid Glass design system with per-surface themes + icon packs (Scan screen / App pages), new designs arrive by themselves from the scan/ feed with a notification naming what arrived; five bare-glyph launcher designs (white glyph, transparent background — Scan frame, QR code, Barcode, Camera, Expand); whole-app English/Bengali switch; honest Permissions hub (camera, notifications, install updates, background — the header switch is on only when all are really on); Settings with typed backup covering settings, look AND your scan history (saved QR pictures are media files and stay where they are); self-update that checks twice a day, downloads by itself and then only asks to Install; About hero now shows the app icon design you picked, with the HasuOS brand mark beside the developer row. The scanner itself is untouched: live camera + gallery decoding, upright product barcodes, six QR types with hidden Wi-Fi, and the searchable 100-scan history all work exactly as before.", "etag": "0x8DF4B7D7C8D5F68", "ts": 1795670680},
-  {"pkg": "hasu.os.share", "name": "HasuShare", "tag": "Offline file sharing", "desc": "Offline file sharing — pick files, share them over WiFi or hotspot, and the other phone downloads them from your browser address. No internet needed.", "code": 8, "versionName": "1.07", "size": 441032, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/share.apk", "changes": "FULL FAMILY PORT: Liquid Glass chrome rebuilt — bare-glyph header (Permissions switch + Look / Settings / About), no plates or borders anywhere, selection is accent + glow. NEW: Look & icons — themes, dark AND light mode, icon sets and five bare-glyph app-icon designs (Share / Nodes / Plane / WiFi / Arrow), per-surface looks for the Share screen and app pages, full-screen preview with Apply. NEW: icon packs and themes arrive BY THEMSELVES from the share/ feed and a notification names what arrived. NEW: English ⇄ Bengali for the whole app from one switch in Settings. NEW: Settings page with typed backup (share_app + share_look + hasushare — the tab and the typed Receive address included) — export / import. NEW: the app updates ITSELF — twice-a-day background check, download with pause / resume, verified install. Permissions hub rebuilt: honest live states incl. Install updates and Run in background. The sharing engine is untouched: pick, serve, QR and download counting work exactly as before.", "ts": 1795670066, "etag": "0x8DF4B7C16BBF3A8"},
+  },
+  {
+   "pkg": "hasu.os.scan",
+   "name": "HasuScan",
+   "tag": "QR & barcode scanner",
+   "desc": "QR & barcode scanner with torch and gallery scan — plus a QR maker for text, links, Wi-Fi and more.",
+   "code": 9,
+   "versionName": "1.07",
+   "size": 432936,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/scan.apk",
+   "changes": "FULL FAMILY PORT (serial pass #37): Liquid Glass design system with per-surface themes + icon packs (Scan screen / App pages), new designs arrive by themselves from the scan/ feed with a notification naming what arrived; five bare-glyph launcher designs (white glyph, transparent background — Scan frame, QR code, Barcode, Camera, Expand); whole-app English/Bengali switch; honest Permissions hub (camera, notifications, install updates, background — the header switch is on only when all are really on); Settings with typed backup covering settings, look AND your scan history (saved QR pictures are media files and stay where they are); self-update that checks twice a day, downloads by itself and then only asks to Install; About hero now shows the app icon design you picked, with the HasuOS brand mark beside the developer row. The scanner itself is untouched: live camera + gallery decoding, upright product barcodes, six QR types with hidden Wi-Fi, and the searchable 100-scan history all work exactly as before.",
+   "etag": "0x8DF4B7D7C8D5F68",
+   "ts": 1795670680
+  },
+  {
+   "pkg": "hasu.os.share",
+   "name": "HasuShare",
+   "tag": "Offline file sharing",
+   "desc": "Offline file sharing — pick files, share them over WiFi or hotspot, and the other phone downloads them from your browser address. No internet needed.",
+   "code": 8,
+   "versionName": "1.07",
+   "size": 441032,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/share.apk",
+   "changes": "FULL FAMILY PORT: Liquid Glass chrome rebuilt — bare-glyph header (Permissions switch + Look / Settings / About), no plates or borders anywhere, selection is accent + glow. NEW: Look & icons — themes, dark AND light mode, icon sets and five bare-glyph app-icon designs (Share / Nodes / Plane / WiFi / Arrow), per-surface looks for the Share screen and app pages, full-screen preview with Apply. NEW: icon packs and themes arrive BY THEMSELVES from the share/ feed and a notification names what arrived. NEW: English ⇄ Bengali for the whole app from one switch in Settings. NEW: Settings page with typed backup (share_app + share_look + hasushare — the tab and the typed Receive address included) — export / import. NEW: the app updates ITSELF — twice-a-day background check, download with pause / resume, verified install. Permissions hub rebuilt: honest live states incl. Install updates and Run in background. The sharing engine is untouched: pick, serve, QR and download counting work exactly as before.",
+   "ts": 1795670066,
+   "etag": "0x8DF4B7C16BBF3A8"
+  },
   {
    "pkg": "hasu.os.shikha",
    "name": "HasuShikha",
@@ -327,7 +351,7 @@
    "changes": "NEW: the full family design system — Look & icons with themes (dark and light), icon sets and five bare-glyph app-icon designs; new packs and themes arrive by themselves and a notification says what arrived. NEW: a Settings page — the whole app switches English/Bengali, notification choices with quiet hours, and a settings backup that carries your marks, your place in the deck and your quiz best score. NEW: self-update inside the app and a full-screen preview of the Learn screen. DESIGN: every button is now a bare glyph or label — no plates — and the header carries the Permissions switch plus Look, Settings and About. The deck, the two-way quiz, Listen and All words work exactly as before.",
    "ts": 1795669582,
    "etag": "0x8DF4B7AF2F90558"
-},
+  },
   {
    "pkg": "hasu.os.shot",
    "name": "HasuShot",
@@ -367,7 +391,19 @@
    "ts": 1795678140,
    "etag": "0x8DF4B8EDD80730A"
   },
-  {"pkg": "hasu.os.tasbih", "name": "HasuTasbih", "tag": "Digital tasbih", "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.", "code": 10, "versionName": "1.09", "size": 215747, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk", "changes": "HasuTasbih 1.09 — the full family pass: Settings page with backup & restore (every count, round, target and total included), a full Guide in English and Bengali, Look & icons with per-page themes and icon sets that arrive by themselves, a Permissions page that shows the real state of every switch, an English/Bengali switch for the whole app, dark and light modes, self-update checks twice a day, and a bare white-glyph app icon — your beads — with four more designs to pick from. Counting works exactly as before: the four dhikr, the targets, the buzz and the volume keys are untouched.", "ts": 1795665043, "etag": "0x8DF4B70676CA666"},
+  {
+   "pkg": "hasu.os.tasbih",
+   "name": "HasuTasbih",
+   "tag": "Digital tasbih",
+   "desc": "Digital tasbih — a big tap circle for dhikr counting: SubhanAllah, Alhamdulillah, Allahu Akbar and La ilaha illallah, targets of 33, 99 or 100, rounds and a lifetime total, all remembered.",
+   "code": 10,
+   "versionName": "1.09",
+   "size": 215747,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tasbih.apk",
+   "changes": "HasuTasbih 1.09 — the full family pass: Settings page with backup & restore (every count, round, target and total included), a full Guide in English and Bengali, Look & icons with per-page themes and icon sets that arrive by themselves, a Permissions page that shows the real state of every switch, an English/Bengali switch for the whole app, dark and light modes, self-update checks twice a day, and a bare white-glyph app icon — your beads — with four more designs to pick from. Counting works exactly as before: the four dhikr, the targets, the buzz and the volume keys are untouched.",
+   "ts": 1795665043,
+   "etag": "0x8DF4B70676CA666"
+  },
   {
    "pkg": "hasu.os.task",
    "name": "HasuTask",
@@ -381,9 +417,45 @@
    "ts": 1795664515,
    "etag": "0x8DF4B6F2C49AC45"
   },
-  {"pkg": "hasu.os.tools", "name": "HasuTools", "tag": "Pocket tools", "desc": "Tools — compass, bubble level, real-size ruler, torch with strobe and SOS, and a sound meter.", "code": 10, "versionName": "1.06", "size": 228050, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tools.apk", "changes": "Full family port: new Look & icons (themes, icon sets, per-icon glyphs, five app-icon designs), Bengali/English switch, self-update, designs that arrive by themselves, honest Permissions hub, settings backup.", "ts": 1795663611, "etag": "0x8DF4B6D0DBD2CAB"},
-  {"pkg": "hasu.os.usage", "name": "HasuUsage", "tag": "Screen time", "desc": "Usage — see where your time goes: screen time and data per app for today, yesterday and the last 7 days.", "code": 10, "versionName": "1.07", "size": 203444, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/usage.apk", "changes": "Full family pass: Look & icons (themes, icon sets, five bare-glyph app-icon designs), an English/Bengali switch for the whole app, an honest Permissions hub \u2014 Usage access shows its real state and opens the exact system page \u2014 a settings backup, and self-update. The list still shows each app's current icon, exactly like Home.", "ts": 1795663046, "etag": "0x8DF4B6BBB5FAF0C"},
-  {"pkg": "hasu.os.vault", "name": "HasuVault", "tag": "Private photo vault", "desc": "A private vault for photos, videos & PDFs — AES-256 encryption, PIN and fingerprint lock.", "code": 8, "versionName": "1.06", "size": 240391, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk", "changes": "NEW: the full family design system — a Look & icons page with themes (dark AND light), icon sets and five app-icon designs, each shown as the thing itself and applied the moment it is picked; the vault page and the app pages can wear different looks, and every single icon can be given your own glyph. NEW: icon packs and themes now ARRIVE BY THEMSELVES from the new vault feed — no download tap — and a notification says what arrived. NEW: a Settings page with the whole-app English ⇄ Bengali switch, notification choices (sound, vibration, quiet hours), a typed settings backup + restore, the crash report and a reset. The settings backup honestly leaves out your PIN (its hash never leaves this phone) and the vault's contents — they stay encrypted on this phone under a key that never leaves it, so export from inside the vault to move one. NEW: a full-screen preview — see the real lock and vault screens in a theme before applying it. NEW: the app checks for its own update twice a day and installs it from its own update page. DESIGN (bare-glyph law): the launcher icon is the bare white vault dial with nothing behind it, plus four more drawn designs — Lock, Key, Fingerprint, Shield; inside, every button is a bare glyph. The About page carries the new HasuOS brand logo and the developer card with a tappable email; the Guide is rewritten in English and Bengali; the Permissions hub is rebuilt with Fingerprint unlock, Notifications, Internet, Network state, Install updates and Run in background — every switch with its real live state. UNTOUCHED: the vault itself — AES-GCM encryption, the PIN pad with its brute-force lockout, fingerprint unlock, import, viewing and export work exactly as before.", "ts": 1795662478, "etag": "0x8DF4B6A651EF80C"},
+  {
+   "pkg": "hasu.os.tools",
+   "name": "HasuTools",
+   "tag": "Pocket tools",
+   "desc": "Tools — compass, bubble level, real-size ruler, torch with strobe and SOS, and a sound meter.",
+   "code": 10,
+   "versionName": "1.06",
+   "size": 228050,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tools.apk",
+   "changes": "Full family port: new Look & icons (themes, icon sets, per-icon glyphs, five app-icon designs), Bengali/English switch, self-update, designs that arrive by themselves, honest Permissions hub, settings backup.",
+   "ts": 1795663611,
+   "etag": "0x8DF4B6D0DBD2CAB"
+  },
+  {
+   "pkg": "hasu.os.usage",
+   "name": "HasuUsage",
+   "tag": "Screen time",
+   "desc": "Usage — see where your time goes: screen time and data per app for today, yesterday and the last 7 days.",
+   "code": 10,
+   "versionName": "1.07",
+   "size": 203444,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/usage.apk",
+   "changes": "Full family pass: Look & icons (themes, icon sets, five bare-glyph app-icon designs), an English/Bengali switch for the whole app, an honest Permissions hub — Usage access shows its real state and opens the exact system page — a settings backup, and self-update. The list still shows each app's current icon, exactly like Home.",
+   "ts": 1795663046,
+   "etag": "0x8DF4B6BBB5FAF0C"
+  },
+  {
+   "pkg": "hasu.os.vault",
+   "name": "HasuVault",
+   "tag": "Private photo vault",
+   "desc": "A private vault for photos, videos & PDFs — AES-256 encryption, PIN and fingerprint lock.",
+   "code": 8,
+   "versionName": "1.06",
+   "size": 240391,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk",
+   "changes": "NEW: the full family design system — a Look & icons page with themes (dark AND light), icon sets and five app-icon designs, each shown as the thing itself and applied the moment it is picked; the vault page and the app pages can wear different looks, and every single icon can be given your own glyph. NEW: icon packs and themes now ARRIVE BY THEMSELVES from the new vault feed — no download tap — and a notification says what arrived. NEW: a Settings page with the whole-app English ⇄ Bengali switch, notification choices (sound, vibration, quiet hours), a typed settings backup + restore, the crash report and a reset. The settings backup honestly leaves out your PIN (its hash never leaves this phone) and the vault's contents — they stay encrypted on this phone under a key that never leaves it, so export from inside the vault to move one. NEW: a full-screen preview — see the real lock and vault screens in a theme before applying it. NEW: the app checks for its own update twice a day and installs it from its own update page. DESIGN (bare-glyph law): the launcher icon is the bare white vault dial with nothing behind it, plus four more drawn designs — Lock, Key, Fingerprint, Shield; inside, every button is a bare glyph. The About page carries the new HasuOS brand logo and the developer card with a tappable email; the Guide is rewritten in English and Bengali; the Permissions hub is rebuilt with Fingerprint unlock, Notifications, Internet, Network state, Install updates and Run in background — every switch with its real live state. UNTOUCHED: the vault itself — AES-GCM encryption, the PIN pad with its brute-force lockout, fingerprint unlock, import, viewing and export work exactly as before.",
+   "ts": 1795662478,
+   "etag": "0x8DF4B6A651EF80C"
+  },
   {
    "pkg": "hasu.os.voice",
    "name": "HasuVoice",
@@ -393,11 +465,23 @@
    "versionName": "1.05",
    "size": 219853,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/voice.apk",
-   "changes": "NEW: the full family design system \u2014 a Look & icons page with themes (dark AND light), icon sets and five app-icon designs, each shown as the thing itself and applied the moment it is picked; the recorder page and the app pages can wear different looks, and every single icon can be given your own glyph. NEW: icon packs and themes now ARRIVE BY THEMSELVES from the new voice feed \u2014 no download tap \u2014 and a notification says what arrived. NEW: a Settings page with the whole-app English \u21c4 Bengali switch, notification choices (sound, vibration, quiet hours), a typed settings backup + restore, the crash report and a reset. NEW: a full-screen preview \u2014 see the real recorder screen in a theme before applying it. NEW: the app checks for its own update twice a day and installs it from its own update page. DESIGN (bare-glyph law): the launcher icon is the bare white microphone with nothing behind it, plus four more drawn designs \u2014 Mic, Headphones, Waveform, Disc; inside, every button is a bare glyph and the record button is the red glyph itself. The About page carries the new HasuOS brand logo and the developer card with a tappable email; the Guide is rewritten in English and Bengali; the Permissions hub is rebuilt with Microphone, Notifications, Internet, Network state, Install updates and Run in background \u2014 every switch with its real live state. UNTOUCHED: the recorder and player themselves \u2014 recording, pause/resume, playback speeds, 10-second skips, search, rename, share and delete work exactly as before.",
+   "changes": "NEW: the full family design system — a Look & icons page with themes (dark AND light), icon sets and five app-icon designs, each shown as the thing itself and applied the moment it is picked; the recorder page and the app pages can wear different looks, and every single icon can be given your own glyph. NEW: icon packs and themes now ARRIVE BY THEMSELVES from the new voice feed — no download tap — and a notification says what arrived. NEW: a Settings page with the whole-app English ⇄ Bengali switch, notification choices (sound, vibration, quiet hours), a typed settings backup + restore, the crash report and a reset. NEW: a full-screen preview — see the real recorder screen in a theme before applying it. NEW: the app checks for its own update twice a day and installs it from its own update page. DESIGN (bare-glyph law): the launcher icon is the bare white microphone with nothing behind it, plus four more drawn designs — Mic, Headphones, Waveform, Disc; inside, every button is a bare glyph and the record button is the red glyph itself. The About page carries the new HasuOS brand logo and the developer card with a tappable email; the Guide is rewritten in English and Bengali; the Permissions hub is rebuilt with Microphone, Notifications, Internet, Network state, Install updates and Run in background — every switch with its real live state. UNTOUCHED: the recorder and player themselves — recording, pause/resume, playback speeds, 10-second skips, search, rename, share and delete work exactly as before.",
    "ts": 1795661661,
    "etag": "0x8DF4B687BF07349"
   },
-  {"pkg": "hasu.os.wall", "name": "HasuWall", "tag": "Your gallery & wallpapers", "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.", "code": 59, "versionName": "2.22", "size": 5021739, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk", "changes": "Full family pass: the new HasuOS brand logo inside; bare-glyph launcher designs (your photo mark redrawn flat, plus Image, Play, Star and Folder) — no border, no tile, no glow. NEW: Look & icons — dark and light themes, per-page themes and icon packs that arrive by themselves with a notification naming what came, per-icon custom glyphs, pack/theme file import, and a full-screen preview you apply from. The whole app now speaks English or বাংলা from one Settings switch. Settings rebuilt in the family shape with your gallery switches kept, an honest Permissions hub, self-updates that download on their own (you only tap Install), and a typed settings backup covering language, look, gallery choices, icon packs and the backup setup — the Telegram token and encryption key never leave the phone. The gallery header, tabs, selection bar and bottom bar are now bare glyphs: the active one is simply the accent colour. Everything else — Picks, editors, live wallpapers, bin, backup — works exactly as before.", "ts": 1795660616, "etag": "0x8DF4B66089F070D"},
+  {
+   "pkg": "hasu.os.wall",
+   "name": "HasuWall",
+   "tag": "Your gallery & wallpapers",
+   "desc": "Your gallery — photos & videos with editors, live wallpapers, favourites and a recycle bin.",
+   "code": 59,
+   "versionName": "2.22",
+   "size": 5021739,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/wall.apk",
+   "changes": "Full family pass: the new HasuOS brand logo inside; bare-glyph launcher designs (your photo mark redrawn flat, plus Image, Play, Star and Folder) — no border, no tile, no glow. NEW: Look & icons — dark and light themes, per-page themes and icon packs that arrive by themselves with a notification naming what came, per-icon custom glyphs, pack/theme file import, and a full-screen preview you apply from. The whole app now speaks English or বাংলা from one Settings switch. Settings rebuilt in the family shape with your gallery switches kept, an honest Permissions hub, self-updates that download on their own (you only tap Install), and a typed settings backup covering language, look, gallery choices, icon packs and the backup setup — the Telegram token and encryption key never leave the phone. The gallery header, tabs, selection bar and bottom bar are now bare glyphs: the active one is simply the accent colour. Everything else — Picks, editors, live wallpapers, bin, backup — works exactly as before.",
+   "ts": 1795660616,
+   "etag": "0x8DF4B66089F070D"
+  },
   {
    "pkg": "hasu.os.weather",
    "name": "HasuWeather",
@@ -424,10 +508,58 @@
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasuos.apk",
    "changes": "HasuOS 1.22 — the brand logo stays the default app icon, placed exactly as designed, and the previous default design (the rounded h) is back in Look & icons as the “Original” option — all six designs (Brand, Grid, House, Star, Family, Original) stay switchable and nothing was removed. Everything else is unchanged from 1.21."
   },
-  {"pkg": "hasu.os.hasu", "name": "Hasu", "tag": "Portfolio", "desc": "Hasu's whole details in one app — a living portfolio: name, role, story, work and contact, all editable on the phone. The developer behind HasuOS.", "code": 15, "versionName": "1.14", "size": 278129, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasu.apk", "changes": "Hasu 1.14 — the default launcher icon is now the HasuOS brand logo itself (bare white mark on a transparent background). The previous default design stays in the Look picker as Square, next to Person, Card, Circle and Star. Nothing else changed.", "etag": "0x8DF4B61ACBD481C", "ts": 1795658735},
-  {"pkg": "hasu.os.tube", "name": "HasuTube", "tag": "YouTube, the HasuOS way", "desc": "YouTube inside its own HasuOS app: home feed, Shorts, subscriptions and library, built-in search and real full-screen video.", "code": 9, "versionName": "1.08", "size": 199368, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tube.apk", "changes": "NEW: the full HasuOS family look — themes, icon sets and five app-icon designs (bare white glyphs, no tiles), English ⇄ Bengali from one switch, a Settings page with its own backup, honest Permissions including the floating player, and new designs that arrive by themselves with a notification. The player, picture-in-picture, search, sections, sharing and long-press links work exactly as before.", "ts": 1795657091, "etag": "0x8DF4B5CD11E850F"},
-  {"pkg": "hasu.os.web", "name": "HasuWeb", "tag": "The HasuOS website, as an app", "desc": "The HasuOS website inside its own app: the same pages and the same live catalogue, served by the website's own server — every app update shows here the moment it reaches the website.", "code": 9, "versionName": "1.08", "size": 223959, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/web.apk", "ts": 1795656026, "etag": "0x8DF4B5B664D8BD2", "changes": "THE FULL FAMILY PORT: Look & icons page — dark/light mode, themes and icon sets per surface (browser / app pages), five bare-glyph app-icon designs, per-icon custom glyphs and pack/theme import; new designs arrive by themselves from the web feed and the app says what arrived. Settings with language (English/Bangla), notifications, a typed backup of everything the app keeps (language, look, alerts, text size), the crash report and reset. Self-update with a twice-daily background check that survives restarts. About with the new HasuOS brand logo, Guide and Preview (see the real browser screen in a theme, apply from the preview). The Permissions hub is honest and icon-only in the header now — no text strip. All 1.07 features unchanged: the site, find-in-page, text size, share, open-in-browser."},
-  {"pkg": "hasu.os.maps", "name": "HasuMaps", "tag": "The HasuOS map — the world, in glass", "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.", "code": 40, "versionName": "1.39", "size": 252616, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk", "ts": 1795655129, "etag": "0x8DF4B595149C061", "changes": "NEW: the full family shell — Look & icons (themes, icon sets that arrive by themselves, per-screen designs, five bare-glyph app-icon designs), Settings with a typed backup of your map data (saved places, Home & Work, parking, recent trips), an English/Bengali switch, self-update with background checks, and the new HasuOS brand logo. The map itself is unchanged."},
+  {
+   "pkg": "hasu.os.hasu",
+   "name": "Hasu",
+   "tag": "Portfolio",
+   "desc": "Hasu's whole details in one app — a living portfolio: name, role, story, work and contact, all editable on the phone. The developer behind HasuOS.",
+   "code": 15,
+   "versionName": "1.14",
+   "size": 278129,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasu.apk",
+   "changes": "Hasu 1.14 — the default launcher icon is now the HasuOS brand logo itself (bare white mark on a transparent background). The previous default design stays in the Look picker as Square, next to Person, Card, Circle and Star. Nothing else changed.",
+   "etag": "0x8DF4B61ACBD481C",
+   "ts": 1795658735
+  },
+  {
+   "pkg": "hasu.os.tube",
+   "name": "HasuTube",
+   "tag": "YouTube, the HasuOS way",
+   "desc": "YouTube inside its own HasuOS app: home feed, Shorts, subscriptions and library, built-in search and real full-screen video.",
+   "code": 9,
+   "versionName": "1.08",
+   "size": 199368,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/tube.apk",
+   "changes": "NEW: the full HasuOS family look — themes, icon sets and five app-icon designs (bare white glyphs, no tiles), English ⇄ Bengali from one switch, a Settings page with its own backup, honest Permissions including the floating player, and new designs that arrive by themselves with a notification. The player, picture-in-picture, search, sections, sharing and long-press links work exactly as before.",
+   "ts": 1795657091,
+   "etag": "0x8DF4B5CD11E850F"
+  },
+  {
+   "pkg": "hasu.os.web",
+   "name": "HasuWeb",
+   "tag": "The HasuOS website, as an app",
+   "desc": "The HasuOS website inside its own app: the same pages and the same live catalogue, served by the website's own server — every app update shows here the moment it reaches the website.",
+   "code": 9,
+   "versionName": "1.08",
+   "size": 223959,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/web.apk",
+   "ts": 1795656026,
+   "etag": "0x8DF4B5B664D8BD2",
+   "changes": "THE FULL FAMILY PORT: Look & icons page — dark/light mode, themes and icon sets per surface (browser / app pages), five bare-glyph app-icon designs, per-icon custom glyphs and pack/theme import; new designs arrive by themselves from the web feed and the app says what arrived. Settings with language (English/Bangla), notifications, a typed backup of everything the app keeps (language, look, alerts, text size), the crash report and reset. Self-update with a twice-daily background check that survives restarts. About with the new HasuOS brand logo, Guide and Preview (see the real browser screen in a theme, apply from the preview). The Permissions hub is honest and icon-only in the header now — no text strip. All 1.07 features unchanged: the site, find-in-page, text size, share, open-in-browser."
+  },
+  {
+   "pkg": "hasu.os.maps",
+   "name": "HasuMaps",
+   "tag": "The HasuOS map — the world, in glass",
+   "desc": "His idea, straight from his message: Google Maps, the HasuOS way. The full OpenStreetMap in one glass window — search any place on Earth, directions for car, bike and foot, and a Locate button that centres the map on you from your phone's GPS. No API key, no Google services: open map data, plus the family Permissions hub and About page.",
+   "code": 40,
+   "versionName": "1.39",
+   "size": 252616,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/maps.apk",
+   "ts": 1795655129,
+   "etag": "0x8DF4B595149C061",
+   "changes": "NEW: the full family shell — Look & icons (themes, icon sets that arrive by themselves, per-screen designs, five bare-glyph app-icon designs), Settings with a typed backup of your map data (saved places, Home & Work, parking, recent trips), an English/Bengali switch, self-update with background checks, and the new HasuOS brand logo. The map itself is unchanged."
+  },
   {
    "pkg": "hasu.os.assist",
    "name": "HasuAssist",
@@ -446,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 10,
-   "versionName": "1.09",
-   "size": 127854,
+   "code": 11,
+   "versionName": "1.10",
+   "size": 332654,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Bug fixes: camera drag now turns the view the same way you drag (drag right goes right, drag left goes left); characters now collide with cars instead of walking straight through them; your partner now runs to the passenger door and gets in properly, instead of standing inside the car with her head over the roof.",
-   "ts": 1795194297,
-   "etag": "0x8DF47285E603B68"
+   "changes": "Drive anything: new tank, easy-bike, pedal van, a drivable bus and a big ship at the pier; the helicopter, train and metro are now yours to drive, and a truck is parked for you. 1st/2nd/3rd person cameras with real vehicle interiors and your own hands in view. Hasu and Minu look more realistic; eat at the restaurant, sit on the park swing together; polished HUD.",
+   "ts": 1795684475,
+   "etag": "0x8DF4B9DA96F91C6"
   },
   {
    "pkg": "hasu.os.study",
@@ -519,7 +651,19 @@
    "ts": 1795654958,
    "etag": "0x8DF4B58F2C94A2C"
   },
-  {"pkg": "hasu.os.community", "name": "HasuCommunity", "tag": "Messaging", "desc": "Chats with your people in HasuOS glass — bubbles, photo messages, seen ticks and group chats, all on this phone.", "code": 3, "versionName": "1.02", "size": 228035, "url": "https://github.com/HasuOS/hasustore/releases/download/apps/community.apk", "changes": "HasuCommunity 1.02 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.", "ts": 1795656284, "etag": "0x8DF4B591AA855DF"},
+  {
+   "pkg": "hasu.os.community",
+   "name": "HasuCommunity",
+   "tag": "Messaging",
+   "desc": "Chats with your people in HasuOS glass — bubbles, photo messages, seen ticks and group chats, all on this phone.",
+   "code": 3,
+   "versionName": "1.02",
+   "size": 228035,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/community.apk",
+   "changes": "HasuCommunity 1.02 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795656284,
+   "etag": "0x8DF4B591AA855DF"
+  },
   {
    "pkg": "hasu.os.shorts",
    "name": "HasuShorts",
@@ -622,7 +766,7 @@
    "versionName": "1.11",
    "size": 78168442,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/pack.apk",
-   "changes": "HasuPack 1.11 \u2014 the icon law, fixed together with HasuOS Home 10.71: every app is shown by its OWN main icon \u2014 on the All apps page, on each app's page and in pack previews. The Style set's category symbols are labelled as symbols and land on an app only where you pick one yourself. Pack previews now decode at full quality, so what you preview is what Home applies. On the feed, Hasu Style now carries a dedicated design for every family app (its own glyph in the family style), Aurora covers all 62 family apps, and Halftone's family glyphs were redrawn readable at real sizes.",
+   "changes": "HasuPack 1.11 — the icon law, fixed together with HasuOS Home 10.71: every app is shown by its OWN main icon — on the All apps page, on each app's page and in pack previews. The Style set's category symbols are labelled as symbols and land on an app only where you pick one yourself. Pack previews now decode at full quality, so what you preview is what Home applies. On the feed, Hasu Style now carries a dedicated design for every family app (its own glyph in the family style), Aurora covers all 62 family apps, and Halftone's family glyphs were redrawn readable at real sizes.",
    "ts": 1795680822,
    "etag": "0x8DF4B9524C7FA43",
    "cat": "HasuOS"
@@ -656,18 +800,18 @@
    "cat": "HasuOS"
   },
   {
- "pkg": "hasu.os.jobs",
- "name": "HasuJobs",
- "tag": "Govt circulars • Diploma in Computer",
- "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
- "code": 79,
- "versionName": "1.78",
- "size": 1025514,
- "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
- "changes": "HasuJobs 1.78 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
- "ts": 1795658443,
- "etag": "0x8DF4B611246CB49",
- "cat": "Tools"
-}
+   "pkg": "hasu.os.jobs",
+   "name": "HasuJobs",
+   "tag": "Govt circulars • Diploma in Computer",
+   "desc": "Bangladesh government job circulars for Diploma in Computer Science / CSE holders — BPSC, ministries, city corporations and more, every one checked against its official source. New circulars appear in the app by themselves from the live feed, with no app update. Deadline and days-left on every card, Apply opens the official page.",
+   "code": 79,
+   "versionName": "1.78",
+   "size": 1025514,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/jobs.apk",
+   "changes": "HasuJobs 1.78 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795658443,
+   "etag": "0x8DF4B611246CB49",
+   "cat": "Tools"
+  }
  ]
 }
