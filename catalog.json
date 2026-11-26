@@ -409,13 +409,13 @@
    "name": "HasuTask",
    "tag": "To-dos & reminders",
    "desc": "To-dos — tasks with a date, time and priority, and reminders that fire on time. Filter by Today, All or Done.",
-   "code": 13,
-   "versionName": "1.11",
-   "size": 1848454,
+   "code": 14,
+   "versionName": "1.12",
+   "size": 132230,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/task.apk",
-   "changes": "The About page now has a Developer card with the new HasuOS brand logo and Hasu's contact email — tap the email to write to him directly. Nothing else changes.",
-   "ts": 1795583774,
-   "etag": "0x8DF4AB31D52F347"
+   "changes": "HasuTask 1.12 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.",
+   "ts": 1795657948,
+   "etag": "0x8DF4B5FEB448042"
   },
   {
    "pkg": "hasu.os.tools",
