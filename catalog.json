@@ -344,14 +344,14 @@
    "name": "HasuShikha",
    "tag": "English words",
    "desc": "English words — 120 common words with Bangla meanings and examples. Flip the card, mark what you know, review what you missed.",
-   "code": 7,
-   "versionName": "1.06",
-   "size": 58222,
+   "code": 8,
+   "versionName": "1.07",
+   "size": 228025,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/shikha.apk",
-   "changes": "NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one (the user order 2026-11-20 ~05:33; HasuShikha never had one). FIXED: flipping the quiz direction after answering no longer lets one question score twice — the ⇄ button now waits until the next question. FIXED: the quiz never shows two identical Bangla answers together — five meanings are shared by two words each (আগে, শিশু, পেছনে, পরিষ্কার, প্রত্যেক), so a twin is now skipped when picking the wrong answers. FIXED: Reset all progress no longer wipes your quiz best score — only the Know / Don’t know marks are cleared, as the confirm says. FIXED: tapping Listen twice quickly no longer loses the word — the second tap waits for the speech engine to be ready. DESIGN: the app icon on the About page now sits on a glass tile. FOLDED IN (never published before): staged 1.05 — the quiz now runs both ways, and rotation no longer rebuilds any screen.",
-   "ts": 1795323375,
-   "etag": "0x8DF4854E171D653"
-  },
+   "changes": "NEW: the full family design system — Look & icons with themes (dark and light), icon sets and five bare-glyph app-icon designs; new packs and themes arrive by themselves and a notification says what arrived. NEW: a Settings page — the whole app switches English/Bengali, notification choices with quiet hours, and a settings backup that carries your marks, your place in the deck and your quiz best score. NEW: self-update inside the app and a full-screen preview of the Learn screen. DESIGN: every button is now a bare glyph or label — no plates — and the header carries the Permissions switch plus Look, Settings and About. The deck, the two-way quiz, Listen and All words work exactly as before.",
+   "ts": 1795669582,
+   "etag": "0x8DF4B7AF2F90558"
+},
   {
    "pkg": "hasu.os.shot",
    "name": "HasuShot",
