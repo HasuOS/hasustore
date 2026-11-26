@@ -1,6 +1,6 @@
 {
-    "version": 82,
-    "generatedAt": 1795664220,
+    "version": 83,
+    "generatedAt": 1795665975,
     "subjects": [
         {
             "id": "bangla",
@@ -30182,6 +30182,457 @@
                     ],
                     "answer": 0,
                     "why": "শুদ্ধ বানান 'অতিথি'।"
+                },
+                {
+                    "q": "স্পর্শধ্বনি (বর্গীয় ধ্বনি) মোট কয়টি?",
+                    "options": [
+                        "২৫টি",
+                        "১১টি",
+                        "৫টি",
+                        "৩৯টি"
+                    ],
+                    "answer": 0,
+                    "why": "স্পর্শধ্বনি মোট ২৫টি: ক-বর্গ, চ-বর্গ, ট-বর্গ, ত-বর্গ ও প-বর্গে ৫টি করে।"
+                },
+                {
+                    "q": "নাসিক্য ধ্বনি কয়টি?",
+                    "options": [
+                        "৫টি",
+                        "৪টি",
+                        "৭টি",
+                        "৩টি"
+                    ],
+                    "answer": 0,
+                    "why": "নাসিক্য ধ্বনি ৫টি: ঙ, ঞ, ণ, ন, ম।"
+                },
+                {
+                    "q": "উষ্মধ্বনি কয়টি?",
+                    "options": [
+                        "৪টি",
+                        "৫টি",
+                        "৩টি",
+                        "৭টি"
+                    ],
+                    "answer": 0,
+                    "why": "উষ্মধ্বনি ৪টি: শ, ষ, স, হ।"
+                },
+                {
+                    "q": "যৌগিক স্বরধ্বনি (দ্বিস্বর) মোট কয়টি?",
+                    "options": [
+                        "২৫টি",
+                        "১১টি",
+                        "৭টি",
+                        "৩৯টি"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলায় যৌগিক স্বরধ্বনি ২৫টি; যেমন ঐ, ঔ, আই, আউ।"
+                },
+                {
+                    "q": "অর্ধস্বরধ্বনি কয়টি?",
+                    "options": [
+                        "৪টি",
+                        "২টি",
+                        "৭টি",
+                        "১১টি"
+                    ],
+                    "answer": 0,
+                    "why": "অর্ধস্বরধ্বনি ৪টি: ই, উ, এ, ও — এগুলো স্বর ও ব্যঞ্জনের মাঝামাঝি।"
+                },
+                {
+                    "q": "'অপিনিহিতি' ধ্বনি পরিবর্তনের উদাহরণ কোনটি?",
+                    "options": [
+                        "আজি > আইজ",
+                        "স্কুল > ইস্কুল",
+                        "রাতি > রাইত",
+                        "কাজ > কাম"
+                    ],
+                    "answer": 0,
+                    "why": "'আজি' থেকে 'আইজ': পরের স্বরধ্বনি আগে চলে আসা — অপিনিহিতি।"
+                },
+                {
+                    "q": "'রাতি' থেকে 'রাইত' হওয়া কোন ধ্বনি পরিবর্তন?",
+                    "options": [
+                        "অপিনিহিতি",
+                        "আদি স্বরাগম",
+                        "ধ্বনি বিপর্যয়",
+                        "সমীভবন"
+                    ],
+                    "answer": 0,
+                    "why": "'রাতি' থেকে 'রাইত': 'ই'-কার আগে চলে এসেছে — অপিনিহিতি।"
+                },
+                {
+                    "q": "'চক্র' থেকে 'চক্কর' হওয়া কোন ধ্বনি পরিবর্তন?",
+                    "options": [
+                        "দ্বিত্ব ব্যঞ্জন",
+                        "স্বরাগম",
+                        "অপিনিহিতি",
+                        "বিষমীভবন"
+                    ],
+                    "answer": 0,
+                    "why": "'চক্র' থেকে 'চক্কর': একই ব্যঞ্জন দুবার উচ্চারিত হওয়া — দ্বিত্ব ব্যঞ্জন।"
+                },
+                {
+                    "q": "বাংলা ভাষায় উপসর্গ মোট কয়টি?",
+                    "options": [
+                        "২১টি",
+                        "২০টি",
+                        "৪১টি",
+                        "১৪টি"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলা (খাঁটি) উপসর্গ ২১টি: অ, অঘা, অজ, অনা, আ, আড়, আন, আব, ইতি, উন, কদ, কু, নি, পাতি, বি, ভর, রাম, স, সা, সু, হা।"
+                },
+                {
+                    "q": "'ছুরি দিয়ে কাটো' — এখানে 'ছুরি দিয়ে' কোন কারক?",
+                    "options": [
+                        "করণ কারক",
+                        "কর্তৃ কারক",
+                        "কর্ম কারক",
+                        "অধিকরণ কারক"
+                    ],
+                    "answer": 0,
+                    "why": "যে উপায়ে কাজ হয় তা করণ কারক; 'ছুরি দিয়ে' করণ।"
+                },
+                {
+                    "q": "চর্যাপদের মোট পদ কয়টি?",
+                    "options": [
+                        "৪৭টি",
+                        "৫০টি",
+                        "২৪টি",
+                        "৫১টি"
+                    ],
+                    "answer": 0,
+                    "why": "চর্যাপদে মোট ৪৭টি পদ পাওয়া গেছে; কয়েকটি খণ্ডিত।"
+                },
+                {
+                    "q": "চর্যাপদের সবচেয়ে বেশি পদের রচয়িতা কে?",
+                    "options": [
+                        "কাহ্নপা",
+                        "লুইপা",
+                        "সরহপা",
+                        "ভুসুকুপা"
+                    ],
+                    "answer": 0,
+                    "why": "চর্যাপদে কাহ্নপার ১৩টি পদ পাওয়া গেছে, যা সর্বাধিক।"
+                },
+                {
+                    "q": "মালাধর বসু কোন কাব্যের রচয়িতা?",
+                    "options": [
+                        "শ্রীকৃষ্ণবিজয়",
+                        "পদ্মাবতী",
+                        "চণ্ডীমঙ্গল",
+                        "মনসামঙ্গল"
+                    ],
+                    "answer": 0,
+                    "why": "মালাধর বসু শ্রীকৃষ্ণবিজয় কাব্যের রচয়িতা; এটি প্রথম মুদ্রিত বাংলা কাব্য।"
+                },
+                {
+                    "q": "কাশীরাম দাস কোন কাব্যের রচয়িতা?",
+                    "options": [
+                        "মহাভারত",
+                        "রামায়ণ",
+                        "ভাগবত",
+                        "পদ্মাবতী"
+                    ],
+                    "answer": 0,
+                    "why": "কাশীরাম দাস বাংলায় মহাভারত অনুবাদ করেন।"
+                },
+                {
+                    "q": "কৃত্তিবাস ওঝা কোন কাব্যের রচয়িতা?",
+                    "options": [
+                        "রামায়ণ",
+                        "মহাভারত",
+                        "ভাগবত",
+                        "চণ্ডীমঙ্গল"
+                    ],
+                    "answer": 0,
+                    "why": "কৃত্তিবাস ওঝা বাংলায় রামায়ণ অনুবাদ করেন।"
+                },
+                {
+                    "q": "দৌলত কাজী কোন কাব্যের রচয়িতা?",
+                    "options": [
+                        "সতীময়না",
+                        "পদ্মাবতী",
+                        "লোরচন্দ্রানী",
+                        "মধুমালতী"
+                    ],
+                    "answer": 0,
+                    "why": "দৌলত কাজী সতীময়না (লোরচন্দ্রানী) কাব্যের রচয়িতা।"
+                },
+                {
+                    "q": "রবীন্দ্রনাথের 'গোরা' উপন্যাস প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯১০ সালে",
+                        "১৯০৩ সালে",
+                        "১৯১৩ সালে",
+                        "১৯২৯ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "গোরা উপন্যাস ১৯১০ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "রবীন্দ্রনাথের 'শেষের কবিতা' প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯২৯ সালে",
+                        "১৯১০ সালে",
+                        "১৯০৩ সালে",
+                        "১৯১৩ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "শেষের কবিতা ১৯২৯ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "নজরুলের 'বিদ্রোহী' কবিতা প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯২২ সালে",
+                        "১৯২১ সালে",
+                        "১৯২৫ সালে",
+                        "১৯৩০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "'বিদ্রোহী' কবিতা ১৯২২ সালে সাপ্তাহিক বিজলীতে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "জীবনানন্দ দাশের 'বনলতা সেন' কাব্যগ্রন্থ প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯৪২ সালে",
+                        "১৯২৭ সালে",
+                        "১৯৩৬ সালে",
+                        "১৯৫৪ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বনলতা সেন কাব্যগ্রন্থ ১৯৪২ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "সুকান্ত ভট্টাচার্যের 'ছাড়পত্র' কাব্যগ্রন্থ প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯৪৮ সালে",
+                        "১৯৪৭ সালে",
+                        "১৯৫০ সালে",
+                        "১৯৪৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "ছাড়পত্র ১৯৪৮ সালে মরণোত্তর প্রকাশিত হয়।"
+                },
+                {
+                    "q": "নির্মলেন্দু গুণের বিখ্যাত কবিতা কোনটি?",
+                    "options": [
+                        "প্রেমাংশুর রক্ত চাই",
+                        "বনলতা সেন",
+                        "বিদ্রোহী",
+                        "সোনালী কাবিন"
+                    ],
+                    "answer": 0,
+                    "why": "নির্মলেন্দু গুণের বিখ্যাত কবিতা 'প্রেমাংশুর রক্ত চাই'।"
+                },
+                {
+                    "q": "সৈয়দ ওয়ালীউল্লাহর 'লালসালু' উপন্যাস প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯৪৮ সালে",
+                        "১৯৫৮ সালে",
+                        "১৯৩৮ সালে",
+                        "১৯৬৮ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "লালসালু ১৯৪৮ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "আবু ইসহাকের 'সূর্য দীঘল বাড়ী' প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯৫৫ সালে",
+                        "১৯৪৮ সালে",
+                        "১৯৬৫ সালে",
+                        "১৯৭৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "সূর্য দীঘল বাড়ী ১৯৫৫ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "সেলিনা হোসেনের 'হাঙর নদী গ্রেনেড' উপন্যাস প্রকাশিত হয় কবে?",
+                    "options": [
+                        "১৯৭৬ সালে",
+                        "১৯৬৬ সালে",
+                        "১৯৮৬ সালে",
+                        "১৯৯৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "হাঙর নদী গ্রেনেড ১৯৭৬ সালে প্রকাশিত হয়।"
+                },
+                {
+                    "q": "মুনীর চৌধুরীর 'কবর' নাটক রচিত হয় কবে?",
+                    "options": [
+                        "১৯৫৩ সালে",
+                        "১৯৫২ সালে",
+                        "১৯৬৩ সালে",
+                        "১৯৪৭ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "কবর নাটক ১৯৫৩ সালে ঢাকা কেন্দ্রীয় কারাগারে বসে রচিত হয়।"
+                },
+                {
+                    "q": "আনিসুজ্জামান কী ছিলেন?",
+                    "options": [
+                        "ভাষাবিদ ও শিক্ষাবিদ",
+                        "কবি",
+                        "ঔপন্যাসিক",
+                        "নাট্যকার"
+                    ],
+                    "answer": 0,
+                    "why": "আনিসুজ্জামান ছিলেন বিশিষ্ট ভাষাবিদ, শিক্ষাবিদ ও গবেষক।"
+                },
+                {
+                    "q": "হাসন রাজার জন্ম কোথায়?",
+                    "options": [
+                        "সিলেটের সুনামগঞ্জে",
+                        "ঢাকায়",
+                        "চট্টগ্রামে",
+                        "কুমিল্লায়"
+                    ],
+                    "answer": 0,
+                    "why": "হাসন রাজা সিলেটের সুনামগঞ্জে জন্মগ্রহণ করেন; তিনি মরমি কবি ও বাউল সাধক।"
+                },
+                {
+                    "q": "তমদ্দুন মজলিস প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৪৭ সালে",
+                        "১৯৪৮ সালে",
+                        "১৯৫২ সালে",
+                        "১৯৫৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "তমদ্দুন মজলিস ১৯৪৭ সালে প্রতিষ্ঠিত হয়; বাংলা ভাষার দাবিতে এটিই প্রথম সংগঠন।"
+                },
+                {
+                    "q": "বাংলাদেশ শিশু একাডেমি প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৭৬ সালে",
+                        "১৯৭২ সালে",
+                        "১৯৮০ সালে",
+                        "১৯৫৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ শিশু একাডেমি ১৯৭৬ সালে প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "'আমার সোনার বাংলা' গানের সুর নেওয়া হয়েছে কোন গান থেকে?",
+                    "options": [
+                        "আমি কোথায় পাবো তারে",
+                        "জনগণমন",
+                        "বন্দে মাতরম",
+                        "ধনধান্য পুষ্প ভরা"
+                    ],
+                    "answer": 0,
+                    "why": "'আমার সোনার বাংলা'-র সুর গগন হরকরার 'আমি কোথায় পাবো তারে' গান থেকে নেওয়া।"
+                },
+                {
+                    "q": "'আকাশ থেকে পড়া' বাগধারাটির অর্থ কী?",
+                    "options": [
+                        "হঠাৎ বিস্মিত হওয়া",
+                        "আকাশে ওড়া",
+                        "বৃষ্টিতে ভেজা",
+                        "উঁচুতে ওঠা"
+                    ],
+                    "answer": 0,
+                    "why": "'আকাশ থেকে পড়া' অর্থ হঠাৎ বিস্মিত হওয়া।"
+                },
+                {
+                    "q": "'গলায় গলায় ভাব' বাগধারাটির অর্থ কী?",
+                    "options": [
+                        "গভীর বন্ধুত্ব",
+                        "ঝগড়া",
+                        "শত্রুতা",
+                        "ভয়"
+                    ],
+                    "answer": 0,
+                    "why": "'গলায় গলায় ভাব' অর্থ গভীর বন্ধুত্ব।"
+                },
+                {
+                    "q": "'কর্তৃপক্ষ' শব্দের শুদ্ধ বানান কোনটি?",
+                    "options": [
+                        "কর্তৃপক্ষ",
+                        "কর্তিপক্ষ",
+                        "কর্তৃপখ্য",
+                        "কত্রিপক্ষ"
+                    ],
+                    "answer": 0,
+                    "why": "শুদ্ধ বানান 'কর্তৃপক্ষ'।"
+                },
+                {
+                    "q": "'Application'-এর পারিভাষিক শব্দ কোনটি?",
+                    "options": [
+                        "আবেদন",
+                        "অনুরোধ",
+                        "নিবেদন",
+                        "প্রার্থনা"
+                    ],
+                    "answer": 0,
+                    "why": "'Application'-এর পারিভাষিক শব্দ 'আবেদন'।"
+                },
+                {
+                    "q": "'Circular'-এর পারিভাষিক শব্দ কোনটি?",
+                    "options": [
+                        "পরিপত্র",
+                        "বিজ্ঞপ্তি",
+                        "আদেশ",
+                        "নির্দেশ"
+                    ],
+                    "answer": 0,
+                    "why": "'Circular'-এর পারিভাষিক শব্দ 'পরিপত্র'।"
+                },
+                {
+                    "q": "'Notification'-এর পারিভাষিক শব্দ কোনটি?",
+                    "options": [
+                        "প্রজ্ঞাপন",
+                        "বিজ্ঞপ্তি",
+                        "পরিপত্র",
+                        "আদেশ"
+                    ],
+                    "answer": 0,
+                    "why": "'Notification'-এর পারিভাষিক শব্দ 'প্রজ্ঞাপন'।"
+                },
+                {
+                    "q": "'Memorandum'-এর পারিভাষিক শব্দ কোনটি?",
+                    "options": [
+                        "স্মারকলিপি",
+                        "পরিপত্র",
+                        "প্রজ্ঞাপন",
+                        "বিজ্ঞপ্তি"
+                    ],
+                    "answer": 0,
+                    "why": "'Memorandum'-এর পারিভাষিক শব্দ 'স্মারকলিপি'।"
+                },
+                {
+                    "q": "'উপমা' অলংকারের উদাহরণ কোনটি?",
+                    "options": [
+                        "চাঁদের মতো মুখ",
+                        "মুখচন্দ্র",
+                        "চাঁদমুখ",
+                        "মুখই চাঁদ"
+                    ],
+                    "answer": 0,
+                    "why": "উপমায় 'মতো', 'ন্যায়', 'সদৃশ' শব্দ থাকে; যেমন চাঁদের মতো মুখ।"
+                },
+                {
+                    "q": "'মধ্যযুগ' বাংলা সাহিত্যের কোন সময়কাল?",
+                    "options": [
+                        "১২০১–১৮০০ খ্রিস্টাব্দ",
+                        "৬৫০–১২০০ খ্রিস্টাব্দ",
+                        "১৮০১–১৯০০ খ্রিস্টাব্দ",
+                        "৯৫০–১২০০ খ্রিস্টাব্দ"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলা সাহিত্যের মধ্যযুগ ১২০১–১৮০০ খ্রিস্টাব্দ পর্যন্ত ধরা হয়।"
+                },
+                {
+                    "q": "বাংলা সাহিত্যের আধুনিক যুগ শুরু হয় কবে থেকে?",
+                    "options": [
+                        "১৮০১ খ্রিস্টাব্দ থেকে",
+                        "১২০১ খ্রিস্টাব্দ থেকে",
+                        "১৯০১ খ্রিস্টাব্দ থেকে",
+                        "১৭৫৭ খ্রিস্টাব্দ থেকে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলা সাহিত্যের আধুনিক যুগ ১৮০১ খ্রিস্টাব্দ থেকে শুরু ধরা হয়।"
                 }
             ]
         },
@@ -59801,6 +60252,435 @@
                     ],
                     "answer": 2,
                     "why": "The synonym of 'brave' is 'courageous'."
+                },
+                {
+                    "q": "Choose the correct sentence (subject-verb agreement):",
+                    "options": [
+                        "Neither of the answers is correct.",
+                        "Neither of the answers are correct.",
+                        "Neither of the answer is correct.",
+                        "Neither of the answers were correct."
+                    ],
+                    "answer": 0,
+                    "why": "'Neither of' takes a singular verb: 'Neither of the answers is correct.'"
+                },
+                {
+                    "q": "Fill in the blank: ___ honesty is the best policy.",
+                    "options": [
+                        "—",
+                        "A",
+                        "An",
+                        "The"
+                    ],
+                    "answer": 0,
+                    "why": "No article is used before an abstract noun used in a general sense: 'Honesty is the best policy.'"
+                },
+                {
+                    "q": "Choose the correct conjunction: He is poor ___ honest.",
+                    "options": [
+                        "but",
+                        "and",
+                        "or",
+                        "so"
+                    ],
+                    "answer": 0,
+                    "why": "Contrast is expressed by 'but': 'He is poor but honest.'"
+                },
+                {
+                    "q": "Choose the correct conjunction: ___ he is rich, he is unhappy.",
+                    "options": [
+                        "Though",
+                        "Because",
+                        "So",
+                        "And"
+                    ],
+                    "answer": 0,
+                    "why": "'Though' expresses contrast: 'Though he is rich, he is unhappy.'"
+                },
+                {
+                    "q": "Choose the correct conjunction: Work hard ___ you will fail.",
+                    "options": [
+                        "or",
+                        "and",
+                        "but",
+                        "so"
+                    ],
+                    "answer": 0,
+                    "why": "'Or' expresses an alternative consequence: 'Work hard or you will fail.'"
+                },
+                {
+                    "q": "Fill in the blank: He is too weak ___ walk.",
+                    "options": [
+                        "to",
+                        "for",
+                        "that",
+                        "of"
+                    ],
+                    "answer": 0,
+                    "why": "The structure is 'too + adjective + to + verb': 'too weak to walk'."
+                },
+                {
+                    "q": "Fill in the blank: He deals ___ honest people.",
+                    "options": [
+                        "with",
+                        "in",
+                        "to",
+                        "for"
+                    ],
+                    "answer": 0,
+                    "why": "'Deal with' means to have business relations: 'He deals with honest people.'"
+                },
+                {
+                    "q": "Fill in the blank: He is interested ___ history.",
+                    "options": [
+                        "in",
+                        "to",
+                        "of",
+                        "for"
+                    ],
+                    "answer": 0,
+                    "why": "'Interested in' is the correct phrase: 'interested in history'."
+                },
+                {
+                    "q": "Fill in the blank: She is busy ___ her work.",
+                    "options": [
+                        "with",
+                        "in",
+                        "to",
+                        "for"
+                    ],
+                    "answer": 0,
+                    "why": "'Busy with' is the correct phrase: 'busy with her work'."
+                },
+                {
+                    "q": "Fill in the blank: He was absent ___ the class.",
+                    "options": [
+                        "from",
+                        "in",
+                        "to",
+                        "at"
+                    ],
+                    "answer": 0,
+                    "why": "'Absent from' is the correct phrase: 'absent from the class'."
+                },
+                {
+                    "q": "Fill in the blank: He died ___ over-eating.",
+                    "options": [
+                        "from",
+                        "of",
+                        "by",
+                        "in"
+                    ],
+                    "answer": 0,
+                    "why": "One dies 'from' an indirect cause: 'He died from over-eating.'"
+                },
+                {
+                    "q": "Change into passive voice: 'She is reading a book.'",
+                    "options": [
+                        "A book is being read by her.",
+                        "A book is read by her.",
+                        "A book was read by her.",
+                        "A book has been read by her."
+                    ],
+                    "answer": 0,
+                    "why": "Present continuous passive: 'A book is being read by her.'"
+                },
+                {
+                    "q": "Change into passive voice: 'They have finished the work.'",
+                    "options": [
+                        "The work has been finished by them.",
+                        "The work is finished by them.",
+                        "The work was finished by them.",
+                        "The work had been finished by them."
+                    ],
+                    "answer": 0,
+                    "why": "Present perfect passive: 'The work has been finished by them.'"
+                },
+                {
+                    "q": "Change into active voice: 'The ball was kicked by Rahim.'",
+                    "options": [
+                        "Rahim kicked the ball.",
+                        "Rahim kicks the ball.",
+                        "Rahim has kicked the ball.",
+                        "Rahim is kicking the ball."
+                    ],
+                    "answer": 0,
+                    "why": "Past simple passive becomes past simple active: 'Rahim kicked the ball.'"
+                },
+                {
+                    "q": "Change into indirect speech: He said, 'I am ill.'",
+                    "options": [
+                        "He said that he was ill.",
+                        "He said that he is ill.",
+                        "He said that I was ill.",
+                        "He said that he had been ill."
+                    ],
+                    "answer": 0,
+                    "why": "In indirect speech, present simple becomes past simple: 'He said that he was ill.'"
+                },
+                {
+                    "q": "Change into indirect speech: She said, 'I will come tomorrow.'",
+                    "options": [
+                        "She said that she would come the next day.",
+                        "She said that she will come tomorrow.",
+                        "She said that she would come tomorrow.",
+                        "She said that she will come the next day."
+                    ],
+                    "answer": 0,
+                    "why": "'Will' becomes 'would' and 'tomorrow' becomes 'the next day' in indirect speech."
+                },
+                {
+                    "q": "Change into direct speech: He said that he was tired.",
+                    "options": [
+                        "He said, 'I am tired.'",
+                        "He said, 'I was tired.'",
+                        "He said, 'He is tired.'",
+                        "He said, 'I had been tired.'"
+                    ],
+                    "answer": 0,
+                    "why": "Past simple in indirect speech becomes present simple in direct speech: 'I am tired.'"
+                },
+                {
+                    "q": "Transform into interrogative: 'He is a student.'",
+                    "options": [
+                        "Is he a student?",
+                        "He is a student?",
+                        "Does he is a student?",
+                        "Is he student?"
+                    ],
+                    "answer": 0,
+                    "why": "The interrogative form is 'Is he a student?'"
+                },
+                {
+                    "q": "Transform into exclamatory: 'The flower is very beautiful.'",
+                    "options": [
+                        "How beautiful the flower is!",
+                        "What a beautiful flower is!",
+                        "The flower is beautiful!",
+                        "How the flower is beautiful!"
+                    ],
+                    "answer": 0,
+                    "why": "The exclamatory form is 'How beautiful the flower is!'"
+                },
+                {
+                    "q": "Transform into complex: 'He is too weak to walk.'",
+                    "options": [
+                        "He is so weak that he cannot walk.",
+                        "He is weak and cannot walk.",
+                        "He is weak so he cannot walk.",
+                        "He cannot walk because weak."
+                    ],
+                    "answer": 0,
+                    "why": "'Too...to' becomes 'so...that': 'He is so weak that he cannot walk.'"
+                },
+                {
+                    "q": "Transform into simple: 'He is so poor that he cannot buy a book.'",
+                    "options": [
+                        "He is too poor to buy a book.",
+                        "He is poor and cannot buy a book.",
+                        "He cannot buy a book because poor.",
+                        "He is too poor that he cannot buy."
+                    ],
+                    "answer": 0,
+                    "why": "'So...that' becomes 'too...to': 'He is too poor to buy a book.'"
+                },
+                {
+                    "q": "One word for 'a government by the people' is —",
+                    "options": [
+                        "democracy",
+                        "monarchy",
+                        "autocracy",
+                        "aristocracy"
+                    ],
+                    "answer": 0,
+                    "why": "'Democracy' means government by the people."
+                },
+                {
+                    "q": "One word for 'a person who eats too much' is —",
+                    "options": [
+                        "glutton",
+                        "fasting man",
+                        "vegetarian",
+                        "ascetic"
+                    ],
+                    "answer": 0,
+                    "why": "A 'glutton' is a person who eats too much."
+                },
+                {
+                    "q": "The idiom 'to beat about the bush' means —",
+                    "options": [
+                        "to avoid the main point",
+                        "to beat a bush",
+                        "to work hard",
+                        "to speak clearly"
+                    ],
+                    "answer": 0,
+                    "why": "'To beat about the bush' means to avoid coming to the main point."
+                },
+                {
+                    "q": "Homophone of 'their' is —",
+                    "options": [
+                        "there",
+                        "they",
+                        "them",
+                        "then"
+                    ],
+                    "answer": 0,
+                    "why": "'Their' and 'there' sound the same but have different meanings."
+                },
+                {
+                    "q": "Homophone of 'principal' (head of school) is —",
+                    "options": [
+                        "principle",
+                        "principal is same",
+                        "prince",
+                        "discipline"
+                    ],
+                    "answer": 0,
+                    "why": "'Principal' (head) and 'principle' (rule) are homophones."
+                },
+                {
+                    "q": "The suffix '-ness' in 'kindness' forms —",
+                    "options": [
+                        "a noun",
+                        "a verb",
+                        "an adjective",
+                        "an adverb"
+                    ],
+                    "answer": 0,
+                    "why": "The suffix '-ness' turns an adjective into a noun: kind → kindness."
+                },
+                {
+                    "q": "Choose the correct sentence (tag question): 'He is a teacher, ___?'",
+                    "options": [
+                        "isn't he",
+                        "is he",
+                        "doesn't he",
+                        "aren't he"
+                    ],
+                    "answer": 0,
+                    "why": "A positive statement takes a negative tag: 'He is a teacher, isn't he?'"
+                },
+                {
+                    "q": "Choose the correct sentence (tag question): 'She doesn't like tea, ___?'",
+                    "options": [
+                        "does she",
+                        "doesn't she",
+                        "is she",
+                        "did she"
+                    ],
+                    "answer": 0,
+                    "why": "A negative statement takes a positive tag: 'She doesn't like tea, does she?'"
+                },
+                {
+                    "q": "Fill in the blank: If I ___ rich, I would help the poor.",
+                    "options": [
+                        "were",
+                        "am",
+                        "was",
+                        "will be"
+                    ],
+                    "answer": 0,
+                    "why": "In the second conditional, 'were' is used with 'if I': 'If I were rich, I would help the poor.'"
+                },
+                {
+                    "q": "Choose the correct form: 'It has been raining ___ morning.'",
+                    "options": [
+                        "since",
+                        "for",
+                        "from",
+                        "at"
+                    ],
+                    "answer": 0,
+                    "why": "'Since' is used with a point of time: 'since morning'."
+                },
+                {
+                    "q": "Choose the correct form: 'He has worked here ___ five years.'",
+                    "options": [
+                        "for",
+                        "since",
+                        "from",
+                        "by"
+                    ],
+                    "answer": 0,
+                    "why": "'For' is used with a duration of time: 'for five years'."
+                },
+                {
+                    "q": "'Hamlet' is a play by —",
+                    "options": [
+                        "William Shakespeare",
+                        "Christopher Marlowe",
+                        "Ben Jonson",
+                        "John Dryden"
+                    ],
+                    "answer": 0,
+                    "why": "'Hamlet' is Shakespeare's famous tragedy."
+                },
+                {
+                    "q": "'Ozymandias' was written by —",
+                    "options": [
+                        "P. B. Shelley",
+                        "John Keats",
+                        "Lord Byron",
+                        "William Blake"
+                    ],
+                    "answer": 0,
+                    "why": "'Ozymandias' (1818) is a sonnet by P. B. Shelley."
+                },
+                {
+                    "q": "'The Old Man and the Sea' was written by —",
+                    "options": [
+                        "Ernest Hemingway",
+                        "Mark Twain",
+                        "John Steinbeck",
+                        "F. Scott Fitzgerald"
+                    ],
+                    "answer": 0,
+                    "why": "'The Old Man and the Sea' (1952) was written by Ernest Hemingway."
+                },
+                {
+                    "q": "'The Great Gatsby' was written by —",
+                    "options": [
+                        "F. Scott Fitzgerald",
+                        "Ernest Hemingway",
+                        "William Faulkner",
+                        "John Steinbeck"
+                    ],
+                    "answer": 0,
+                    "why": "'The Great Gatsby' (1925) was written by F. Scott Fitzgerald."
+                },
+                {
+                    "q": "'The Adventures of Tom Sawyer' was written by —",
+                    "options": [
+                        "Mark Twain",
+                        "Charles Dickens",
+                        "Ernest Hemingway",
+                        "O. Henry"
+                    ],
+                    "answer": 0,
+                    "why": "'The Adventures of Tom Sawyer' (1876) was written by Mark Twain."
+                },
+                {
+                    "q": "'Gitanjali' was written by —",
+                    "options": [
+                        "Rabindranath Tagore",
+                        "Kazi Nazrul Islam",
+                        "Bankim Chandra",
+                        "Sarat Chandra"
+                    ],
+                    "answer": 0,
+                    "why": "'Gitanjali' (1910) was written by Rabindranath Tagore; he won the Nobel Prize in 1913."
+                },
+                {
+                    "q": "Who is known as the 'Father of English Poetry'?",
+                    "options": [
+                        "Geoffrey Chaucer",
+                        "William Shakespeare",
+                        "John Milton",
+                        "Edmund Spenser"
+                    ],
+                    "answer": 0,
+                    "why": "Geoffrey Chaucer is known as the 'Father of English Poetry'."
                 }
             ]
         },
@@ -83963,6 +84843,413 @@
                     ],
                     "answer": 2,
                     "why": "জোড় সংখ্যাগুলোর যোগফল = ২ × (১ + ২ + ... + ১০) = ২ × ৫৫ = ১১০।"
+                },
+                {
+                    "q": "সমকোণী ত্রিভুজে বিপরীত বাহু/অতিভুজ = কোন অনুপাত?",
+                    "options": [
+                        "sin θ",
+                        "cos θ",
+                        "tan θ",
+                        "cot θ"
+                    ],
+                    "answer": 0,
+                    "why": "sin θ = বিপরীত বাহু / অতিভুজ।"
+                },
+                {
+                    "q": "5, 12, 13 বাহুবিশিষ্ট ত্রিভুজের ক্ষেত্রফল কত?",
+                    "options": [
+                        "30 বর্গ একক",
+                        "25 বর্গ একক",
+                        "60 বর্গ একক",
+                        "15 বর্গ একক"
+                    ],
+                    "answer": 0,
+                    "why": "5² + 12² = 13², তাই সমকোণী ত্রিভুজ; ক্ষেত্রফল = ½×5×12 = 30।"
+                },
+                {
+                    "q": "2026 সালের 1 জানুয়ারি কোন বার ছিল?",
+                    "options": [
+                        "বৃহস্পতিবার",
+                        "বুধবার",
+                        "শুক্রবার",
+                        "শনিবার"
+                    ],
+                    "answer": 0,
+                    "why": "২০২৫ সাল অধিবর্ষ নয় (৩৬৫ দিন); ২০২৫-এর ১ জানুয়ারি বুধবার হলে ২০২৬-এর ১ জানুয়ারি বৃহস্পতিবার।"
+                },
+                {
+                    "q": "2026 সালের ফেব্রুয়ারি মাসে কত দিন ছিল?",
+                    "options": [
+                        "28 দিন",
+                        "29 দিন",
+                        "30 দিন",
+                        "31 দিন"
+                    ],
+                    "answer": 0,
+                    "why": "২০২৬ অধিবর্ষ নয়; ফেব্রুয়ারিতে ২৮ দিন।"
+                },
+                {
+                    "q": "নিচের কোন সালটি অধিবর্ষ নয়?",
+                    "options": [
+                        "2100",
+                        "2000",
+                        "2024",
+                        "2028"
+                    ],
+                    "answer": 0,
+                    "why": "২১০০ সাল ১০০ দিয়ে বিভাজ্য কিন্তু ৪০০ দিয়ে নয়, তাই অধিবর্ষ নয়।"
+                },
+                {
+                    "q": "1971 সালের 26 মার্চ কোন বার ছিল?",
+                    "options": [
+                        "শুক্রবার",
+                        "বৃহস্পতিবার",
+                        "শনিবার",
+                        "রবিবার"
+                    ],
+                    "answer": 0,
+                    "why": "১৯৭১ সালের ২৬ মার্চ (স্বাধীনতা দিবস) শুক্রবার ছিল।"
+                },
+                {
+                    "q": "1971 সালের 16 ডিসেম্বর কোন বার ছিল?",
+                    "options": [
+                        "বৃহস্পতিবার",
+                        "শুক্রবার",
+                        "বুধবার",
+                        "শনিবার"
+                    ],
+                    "answer": 0,
+                    "why": "১৯৭১ সালের ১৬ ডিসেম্বর (বিজয় দিবস) বৃহস্পতিবার ছিল।"
+                },
+                {
+                    "q": "2026 সালের 26 নভেম্বর কোন বার?",
+                    "options": [
+                        "বৃহস্পতিবার",
+                        "বুধবার",
+                        "শুক্রবার",
+                        "শনিবার"
+                    ],
+                    "answer": 0,
+                    "why": "২০২৬ সালের ২৬ নভেম্বর বৃহস্পতিবার।"
+                },
+                {
+                    "q": "6×4×3 একক আয়তাকার ঘনবস্তুর আয়তন কত?",
+                    "options": [
+                        "72 ঘন একক",
+                        "13 ঘন একক",
+                        "26 ঘন একক",
+                        "48 ঘন একক"
+                    ],
+                    "answer": 0,
+                    "why": "আয়তন = দৈর্ঘ্য×প্রস্থ×উচ্চতা = 6×4×3 = 72।"
+                },
+                {
+                    "q": "কর্ণদ্বয় 10 ও 12 একক হলে রম্বসের ক্ষেত্রফল কত?",
+                    "options": [
+                        "60 বর্গ একক",
+                        "120 বর্গ একক",
+                        "22 বর্গ একক",
+                        "30 বর্গ একক"
+                    ],
+                    "answer": 0,
+                    "why": "রম্বসের ক্ষেত্রফল = ½×কর্ণ₁×কর্ণ₂ = ½×10×12 = 60।"
+                },
+                {
+                    "q": "সমান্তরাল বাহু 10 ও 14 একক, উচ্চতা 6 একক হলে ট্রাপিজিয়ামের ক্ষেত্রফল কত?",
+                    "options": [
+                        "72 বর্গ একক",
+                        "144 বর্গ একক",
+                        "24 বর্গ একক",
+                        "48 বর্গ একক"
+                    ],
+                    "answer": 0,
+                    "why": "ট্রাপিজিয়ামের ক্ষেত্রফল = ½×(সমান্তরাল বাহুদ্বয়ের সমষ্টি)×উচ্চতা = ½×24×6 = 72।"
+                },
+                {
+                    "q": "x + y = 7 এবং xy = 10 হলে x² + y² = কত?",
+                    "options": [
+                        "29",
+                        "39",
+                        "49",
+                        "19"
+                    ],
+                    "answer": 0,
+                    "why": "x² + y² = (x+y)² − 2xy = 49 − 20 = 29।"
+                },
+                {
+                    "q": "x² − 7x + 12-এর উৎপাদক কোনটি?",
+                    "options": [
+                        "(x − 3)(x − 4)",
+                        "(x + 3)(x + 4)",
+                        "(x − 2)(x − 6)",
+                        "(x + 2)(x + 6)"
+                    ],
+                    "answer": 0,
+                    "why": "x² − 7x + 12 = (x − 3)(x − 4), কারণ 3+4 = 7 এবং 3×4 = 12।"
+                },
+                {
+                    "q": "5x − 3 = 2x + 9 হলে x = কত?",
+                    "options": [
+                        "4",
+                        "3",
+                        "6",
+                        "12"
+                    ],
+                    "answer": 0,
+                    "why": "3x = 12; তাই x = 4।"
+                },
+                {
+                    "q": "x² − 7x + 10 = 0 সমীকরণের মূলদ্বয়ের যোগফল কত?",
+                    "options": [
+                        "7",
+                        "10",
+                        "5",
+                        "2"
+                    ],
+                    "answer": 0,
+                    "why": "মূলদ্বয়ের যোগফল = −b/a = 7।"
+                },
+                {
+                    "q": "√2 × √8-এর মান কত?",
+                    "options": [
+                        "4",
+                        "16",
+                        "2",
+                        "8"
+                    ],
+                    "answer": 0,
+                    "why": "√2 × √8 = √16 = 4।"
+                },
+                {
+                    "q": "4, 8, 15, 16, 23, 42 সংখ্যাগুলোর গড় কত?",
+                    "options": [
+                        "18",
+                        "20",
+                        "16",
+                        "21"
+                    ],
+                    "answer": 0,
+                    "why": "সমষ্টি = 108; গড় = 108 ÷ 6 = 18।"
+                },
+                {
+                    "q": "3, 5, 7, 9, 11 সংখ্যাগুলোর মধ্যক কত?",
+                    "options": [
+                        "7",
+                        "5",
+                        "9",
+                        "6"
+                    ],
+                    "answer": 0,
+                    "why": "মাঝের সংখ্যা 7; তাই মধ্যক 7।"
+                },
+                {
+                    "q": "2, 4, 6, 8 সংখ্যাগুলোর মধ্যক কত?",
+                    "options": [
+                        "5",
+                        "4",
+                        "6",
+                        "3"
+                    ],
+                    "answer": 0,
+                    "why": "মাঝের দুটি সংখ্যার গড় = (4+6) ÷ 2 = 5।"
+                },
+                {
+                    "q": "3, 5, 3, 7, 3, 9 সংখ্যাগুলোর প্রচুরক কত?",
+                    "options": [
+                        "3",
+                        "5",
+                        "7",
+                        "9"
+                    ],
+                    "answer": 0,
+                    "why": "3 সবচেয়ে বেশি (3 বার) এসেছে; তাই প্রচুরক 3।"
+                },
+                {
+                    "q": "12, 5, 18, 9, 21 সংখ্যাগুলোর পরিসর (range) কত?",
+                    "options": [
+                        "16",
+                        "21",
+                        "5",
+                        "9"
+                    ],
+                    "answer": 0,
+                    "why": "পরিসর = সর্বোচ্চ − সর্বনিম্ন = 21 − 5 = 16।"
+                },
+                {
+                    "q": "তাসের প্যাকেট থেকে একটি টেক্কা (Ace) পাওয়ার সম্ভাবনা কত?",
+                    "options": [
+                        "1/13",
+                        "1/4",
+                        "1/52",
+                        "4/13"
+                    ],
+                    "answer": 0,
+                    "why": "টেক্কা 4টি, মোট তাস 52টি; সম্ভাবনা = 4/52 = 1/13।"
+                },
+                {
+                    "q": "2, 5, 8, 11, … ধারার 10ম পদ কত?",
+                    "options": [
+                        "29",
+                        "26",
+                        "32",
+                        "35"
+                    ],
+                    "answer": 0,
+                    "why": "সাধারণ অন্তর 3; 10ম পদ = 2 + 9×3 = 29।"
+                },
+                {
+                    "q": "2, 4, 8, 16, … ধারার 5ম পদ কত?",
+                    "options": [
+                        "32",
+                        "24",
+                        "64",
+                        "20"
+                    ],
+                    "answer": 0,
+                    "why": "গুণোত্তর ধারা, অনুপাত 2; 5ম পদ = 2×2⁴ = 32।"
+                },
+                {
+                    "q": "1 + 2 + 3 + … + 20-এর সমষ্টি কত?",
+                    "options": [
+                        "210",
+                        "200",
+                        "190",
+                        "220"
+                    ],
+                    "answer": 0,
+                    "why": "সমষ্টি = 20×21 ÷ 2 = 210।"
+                },
+                {
+                    "q": "A 40,000 টাকা ও B 60,000 টাকা বিনিয়োগ করল; 25,000 টাকা লাভে A কত পাবে?",
+                    "options": [
+                        "10,000 টাকা",
+                        "15,000 টাকা",
+                        "12,500 টাকা",
+                        "8,000 টাকা"
+                    ],
+                    "answer": 0,
+                    "why": "অনুপাত 40,000:60,000 = 2:3; A পাবে 25,000×2/5 = 10,000 টাকা।"
+                },
+                {
+                    "q": "A:B:C = 2:3:5 এবং মোট 30,000 টাকা হলে C কত পাবে?",
+                    "options": [
+                        "15,000 টাকা",
+                        "6,000 টাকা",
+                        "9,000 টাকা",
+                        "12,000 টাকা"
+                    ],
+                    "answer": 0,
+                    "why": "C পাবে 30,000×5/10 = 15,000 টাকা।"
+                },
+                {
+                    "q": "450-এর 20% কত?",
+                    "options": [
+                        "90",
+                        "80",
+                        "100",
+                        "70"
+                    ],
+                    "answer": 0,
+                    "why": "450×20/100 = 90।"
+                },
+                {
+                    "q": "800-এর 15% কত?",
+                    "options": [
+                        "120",
+                        "100",
+                        "150",
+                        "80"
+                    ],
+                    "answer": 0,
+                    "why": "800×15/100 = 120।"
+                },
+                {
+                    "q": "10000 টাকায় বার্ষিক 6% হারে 2 বছরে সরল সুদ কত?",
+                    "options": [
+                        "1200 টাকা",
+                        "1000 টাকা",
+                        "600 টাকা",
+                        "2400 টাকা"
+                    ],
+                    "answer": 0,
+                    "why": "সরল সুদ = 10000×6×2/100 = 1200 টাকা।"
+                },
+                {
+                    "q": "পিতার বয়স 40 ও পুত্রের বয়স 12; 8 বছর পর তাদের বয়সের অনুপাত কত?",
+                    "options": [
+                        "12:5",
+                        "10:3",
+                        "5:2",
+                        "3:1"
+                    ],
+                    "answer": 0,
+                    "why": "8 বছর পর পিতা 48, পুত্র 20; অনুপাত = 48:20 = 12:5।"
+                },
+                {
+                    "q": "240 কিমি পথ 80 কিমি/ঘণ্টা বেগে যেতে কত সময় লাগবে?",
+                    "options": [
+                        "3 ঘণ্টা",
+                        "2 ঘণ্টা",
+                        "4 ঘণ্টা",
+                        "5 ঘণ্টা"
+                    ],
+                    "answer": 0,
+                    "why": "সময় = দূরত্ব ÷ বেগ = 240 ÷ 80 = 3 ঘণ্টা।"
+                },
+                {
+                    "q": "200 মিটার লম্বা ট্রেন 72 কিমি/ঘণ্টা বেগে একটি খুঁটি অতিক্রম করতে কত সময় নেবে?",
+                    "options": [
+                        "10 সেকেন্ড",
+                        "20 সেকেন্ড",
+                        "5 সেকেন্ড",
+                        "15 সেকেন্ড"
+                    ],
+                    "answer": 0,
+                    "why": "72 কিমি/ঘণ্টা = 20 মিটার/সেকেন্ড; সময় = 200 ÷ 20 = 10 সেকেন্ড।"
+                },
+                {
+                    "q": "2/3 + 1/6-এর মান কত?",
+                    "options": [
+                        "5/6",
+                        "1/2",
+                        "3/4",
+                        "1"
+                    ],
+                    "answer": 0,
+                    "why": "2/3 + 1/6 = 4/6 + 1/6 = 5/6।"
+                },
+                {
+                    "q": "5/6 − 1/3-এর মান কত?",
+                    "options": [
+                        "1/2",
+                        "2/3",
+                        "1/3",
+                        "1/6"
+                    ],
+                    "answer": 0,
+                    "why": "5/6 − 1/3 = 5/6 − 2/6 = 3/6 = 1/2।"
+                },
+                {
+                    "q": "0.25 × 40-এর মান কত?",
+                    "options": [
+                        "10",
+                        "100",
+                        "4",
+                        "25"
+                    ],
+                    "answer": 0,
+                    "why": "0.25 × 40 = 10।"
+                },
+                {
+                    "q": "5 টাকা 75 পয়সা সমান কত পয়সা?",
+                    "options": [
+                        "575 পয়সা",
+                        "5750 পয়সা",
+                        "5075 পয়সা",
+                        "75 পয়সা"
+                    ],
+                    "answer": 0,
+                    "why": "5 টাকা = 500 পয়সা; মোট 500 + 75 = 575 পয়সা।"
                 }
             ]
         },
@@ -107739,6 +109026,424 @@
                     ],
                     "answer": 0,
                     "why": "সার্কের প্রথম শীর্ষ সম্মেলন ১৯৮৫ সালে ঢাকায় অনুষ্ঠিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশ আনসার বাহিনী গঠিত হয় কবে?",
+                    "options": [
+                        "১৯৪৮ সালে",
+                        "১৯৭১ সালে",
+                        "১৯৫২ সালে",
+                        "১৯৭২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ আনসার বাহিনী ১৯৪৮ সালের ১২ ফেব্রুয়ারি গঠিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশ জুডিশিয়াল সার্ভিস কমিশন গঠিত হয় কবে?",
+                    "options": [
+                        "২০০৭ সালে",
+                        "১৯৭২ সালে",
+                        "২০০৪ সালে",
+                        "১৯৯৭ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ জুডিশিয়াল সার্ভিস কমিশন ২০০৭ সালে গঠিত হয়।"
+                },
+                {
+                    "q": "সংবিধানের কোন অনুচ্ছেদে সরকারি কর্ম কমিশনের কথা বলা হয়েছে?",
+                    "options": [
+                        "অনুচ্ছেদ ১৩৭",
+                        "অনুচ্ছেদ ৪৮",
+                        "অনুচ্ছেদ ৫৫",
+                        "অনুচ্ছেদ ৭৪"
+                    ],
+                    "answer": 0,
+                    "why": "সংবিধানের ১৩৭ অনুচ্ছেদে সরকারি কর্ম কমিশন প্রতিষ্ঠার কথা বলা হয়েছে।"
+                },
+                {
+                    "q": "বাংলাদেশে মূল্য সংযোজন কর (ভ্যাট) চালু হয় কবে?",
+                    "options": [
+                        "১৯৯১ সালে",
+                        "১৯৭২ সালে",
+                        "২০০১ সালে",
+                        "১৯৮১ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশে ভ্যাট চালু হয় ১৯৯১ সালের ১ জুলাই।"
+                },
+                {
+                    "q": "বর্ডার গার্ড বাংলাদেশ (বিজিবি) নামকরণ করা হয় কবে?",
+                    "options": [
+                        "২০১০ সালে",
+                        "১৯৭২ সালে",
+                        "২০০৪ সালে",
+                        "১৯৯৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "২০১০ সালে বিডিআর-এর নাম পরিবর্তন করে বর্ডার গার্ড বাংলাদেশ (বিজিবি) রাখা হয়।"
+                },
+                {
+                    "q": "বিজিবি-র পূর্বসূরি বাহিনী প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৭৯৫ সালে",
+                        "১৯৪৭ সালে",
+                        "১৯৭১ সালে",
+                        "১৮৫৭ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বিজিবি-র পূর্বসূরি রামগড় লোকাল ব্যাটালিয়ন ১৭৯৫ সালে প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "র‍্যাপিড অ্যাকশন ব্যাটালিয়ন (র‍্যাব) গঠিত হয় কবে?",
+                    "options": [
+                        "২০০৪ সালে",
+                        "১৯৭২ সালে",
+                        "১৯৯৬ সালে",
+                        "২০১০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "র‍্যাব ২০০৪ সালে গঠিত হয়।"
+                },
+                {
+                    "q": "ফায়ার সার্ভিস ও সিভিল ডিফেন্স অধিদপ্তর গঠিত হয় কবে?",
+                    "options": [
+                        "১৯৮১ সালে",
+                        "১৯৭১ সালে",
+                        "১৯৯১ সালে",
+                        "২০০১ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "ফায়ার সার্ভিস ও সিভিল ডিফেন্স অধিদপ্তর ১৯৮১ সালে গঠিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশ পুলিশের আইন (Police Act) প্রণীত হয় কবে?",
+                    "options": [
+                        "১৮৬১ সালে",
+                        "১৯৪৭ সালে",
+                        "১৯৭২ সালে",
+                        "১৯০১ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "পুলিশ আইন ১৮৬১ সালে প্রণীত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের প্রথম ক্যাডেট কলেজ কোনটি?",
+                    "options": [
+                        "ফৌজদারহাট ক্যাডেট কলেজ",
+                        "মির্জাপুর ক্যাডেট কলেজ",
+                        "ঝিনাইদহ ক্যাডেট কলেজ",
+                        "রাজশাহী ক্যাডেট কলেজ"
+                    ],
+                    "answer": 0,
+                    "why": "ফৌজদারহাট ক্যাডেট কলেজ ১৯৫৮ সালে প্রতিষ্ঠিত হয়; এটিই দেশের প্রথম ক্যাডেট কলেজ।"
+                },
+                {
+                    "q": "মুক্তিযুদ্ধে বাংলাদেশ বাহিনীর সর্বাধিনায়ক কে ছিলেন?",
+                    "options": [
+                        "এম এ জি ওসমানী",
+                        "কে এম শফিউল্লাহ",
+                        "জিয়াউর রহমান",
+                        "খালেদ মোশাররফ"
+                    ],
+                    "answer": 0,
+                    "why": "মুক্তিযুদ্ধে বাংলাদেশ বাহিনীর সর্বাধিনায়ক ছিলেন জেনারেল এম এ জি ওসমানী।"
+                },
+                {
+                    "q": "বাংলাদেশ বিমানবাহিনী প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৭১ সালে",
+                        "১৯৭২ সালে",
+                        "১৯৭৫ সালে",
+                        "১৯৪৭ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ বিমানবাহিনী ১৯৭১ সালের ২৮ সেপ্টেম্বর প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশ নৌবাহিনীর প্রথম যুদ্ধজাহাজের নাম কী?",
+                    "options": [
+                        "বিএনএস পদ্মা",
+                        "বিএনএস বঙ্গবন্ধু",
+                        "বিএনএস বিজয়",
+                        "বিএনএস সুরমা"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশ নৌবাহিনীর প্রথম যুদ্ধজাহাজ বিএনএস পদ্মা; সঙ্গে ছিল বিএনএস পলাশ।"
+                },
+                {
+                    "q": "বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি) প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৭৮ সালে",
+                        "১৯৭২ সালে",
+                        "১৯৭৫ সালে",
+                        "১৯৮৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বিএনপি ১৯৭৮ সালের ১ সেপ্টেম্বর প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "জাতীয় পার্টি প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৮৬ সালে",
+                        "১৯৭৮ সালে",
+                        "১৯৯১ সালে",
+                        "১৯৭২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "জাতীয় পার্টি ১৯৮৬ সালের ১ জানুয়ারি প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "জামায়াতে ইসলামী প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৪১ সালে",
+                        "১৯৪৭ সালে",
+                        "১৯৫২ সালে",
+                        "১৯৭১ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "জামায়াতে ইসলামী ১৯৪১ সালে প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের মোট রপ্তানি আয়ের সবচেয়ে বড় খাত কোনটি?",
+                    "options": [
+                        "তৈরি পোশাক",
+                        "চামড়া",
+                        "পাট",
+                        "চা"
+                    ],
+                    "answer": 0,
+                    "why": "তৈরি পোশাক বাংলাদেশের মোট রপ্তানি আয়ের প্রায় ৮০ শতাংশের বেশি জোগায়।"
+                },
+                {
+                    "q": "চট্টগ্রাম স্টক এক্সচেঞ্জ (CSE) প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৯৫ সালে",
+                        "১৯৫৪ সালে",
+                        "১৯৭২ সালে",
+                        "২০০৫ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "চট্টগ্রাম স্টক এক্সচেঞ্জ ১৯৯৫ সালে প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "বাংলাদেশের অর্থবছর কোন সময়কাল?",
+                    "options": [
+                        "জুলাই থেকে জুন",
+                        "জানুয়ারি থেকে ডিসেম্বর",
+                        "এপ্রিল থেকে মার্চ",
+                        "অক্টোবর থেকে সেপ্টেম্বর"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের অর্থবছর ১ জুলাই থেকে ৩০ জুন পর্যন্ত।"
+                },
+                {
+                    "q": "তিতাস গ্যাসক্ষেত্র আবিষ্কৃত হয় কবে?",
+                    "options": [
+                        "১৯৬২ সালে",
+                        "১৯৫৫ সালে",
+                        "১৯৭২ সালে",
+                        "১৯৮০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "তিতাস গ্যাসক্ষেত্র ১৯৬২ সালে আবিষ্কৃত হয়।"
+                },
+                {
+                    "q": "রামপাল বিদ্যুৎকেন্দ্র কোথায় অবস্থিত?",
+                    "options": [
+                        "বাগেরহাটে",
+                        "খুলনায়",
+                        "বরিশালে",
+                        "চট্টগ্রামে"
+                    ],
+                    "answer": 0,
+                    "why": "রামপাল বিদ্যুৎকেন্দ্র বাগেরহাট জেলায় অবস্থিত।"
+                },
+                {
+                    "q": "মোংলা বন্দর প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৫০ সালে",
+                        "১৯৪৭ সালে",
+                        "১৯৭২ সালে",
+                        "১৯৬০ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "মোংলা বন্দর ১৯৫০ সালে প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "ঢাকা-কলকাতা মৈত্রী এক্সপ্রেস চালু হয় কবে?",
+                    "options": [
+                        "২০০৮ সালে",
+                        "১৯৯৮ সালে",
+                        "২০১৮ সালে",
+                        "১৯৭২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "ঢাকা-কলকাতা মৈত্রী এক্সপ্রেস ২০০৮ সালে চালু হয়।"
+                },
+                {
+                    "q": "সংবিধানের কত নম্বর অনুচ্ছেদে প্রধানমন্ত্রীর কথা বলা হয়েছে?",
+                    "options": [
+                        "অনুচ্ছেদ ৫৫",
+                        "অনুচ্ছেদ ৪৮",
+                        "অনুচ্ছেদ ৭৪",
+                        "অনুচ্ছেদ ৬৫"
+                    ],
+                    "answer": 0,
+                    "why": "সংবিধানের ৫৫ নম্বর অনুচ্ছেদে প্রধানমন্ত্রীর কথা বলা হয়েছে।"
+                },
+                {
+                    "q": "জাতিসংঘের সদস্য সংখ্যা কত?",
+                    "options": [
+                        "১৯৩টি",
+                        "১৯২টি",
+                        "১৯৫টি",
+                        "১৮৫টি"
+                    ],
+                    "answer": 0,
+                    "why": "জাতিসংঘের সদস্য সংখ্যা ১৯৩টি।"
+                },
+                {
+                    "q": "সার্কের সদস্য সংখ্যা কত?",
+                    "options": [
+                        "৮টি",
+                        "৭টি",
+                        "১০টি",
+                        "৫টি"
+                    ],
+                    "answer": 0,
+                    "why": "সার্কের সদস্য ৮টি দেশ।"
+                },
+                {
+                    "q": "আইএমএফ প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৪৪ সালে",
+                        "১৯৪৫ সালে",
+                        "১৯৫৪ সালে",
+                        "১৯৬৪ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "আইএমএফ ১৯৪৪ সালে প্রতিষ্ঠিত হয়; সদর দপ্তর ওয়াশিংটন ডিসিতে।"
+                },
+                {
+                    "q": "নাসা (NASA) প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৫৮ সালে",
+                        "১৯৪৮ সালে",
+                        "১৯৬৮ সালে",
+                        "১৯৬৯ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "নাসা ১৯৫৮ সালে প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "সৌরজগতে মোট গ্রহ কয়টি?",
+                    "options": [
+                        "৮টি",
+                        "৯টি",
+                        "৭টি",
+                        "১০টি"
+                    ],
+                    "answer": 0,
+                    "why": "সৌরজগতে মোট ৮টি গ্রহ; প্লুটোকে ২০০৬ সালে বামন গ্রহ ঘোষণা করা হয়।"
+                },
+                {
+                    "q": "পৃথিবীর সবচেয়ে কাছের গ্রহ কোনটি?",
+                    "options": [
+                        "শুক্র",
+                        "বুধ",
+                        "মঙ্গল",
+                        "বৃহস্পতি"
+                    ],
+                    "answer": 0,
+                    "why": "শুক্র পৃথিবীর সবচেয়ে কাছের গ্রহ।"
+                },
+                {
+                    "q": "কোন গ্রহের চারদিকে বলয় আছে?",
+                    "options": [
+                        "শনি",
+                        "মঙ্গল",
+                        "বুধ",
+                        "শুক্র"
+                    ],
+                    "answer": 0,
+                    "why": "শনি গ্রহের চারদিকে উজ্জ্বল বলয় আছে।"
+                },
+                {
+                    "q": "ক্রেসকোগ্রাফ যন্ত্র আবিষ্কার করেন কে?",
+                    "options": [
+                        "জগদীশচন্দ্র বসু",
+                        "মেঘনাদ সাহা",
+                        "সত্যেন্দ্রনাথ বসু",
+                        "প্রফুল্লচন্দ্র রায়"
+                    ],
+                    "answer": 0,
+                    "why": "জগদীশচন্দ্র বসু ক্রেসকোগ্রাফ যন্ত্র আবিষ্কার করেন; এটি উদ্ভিদের বৃদ্ধি মাপে।"
+                },
+                {
+                    "q": "নোবেল পুরস্কারজয়ী বাংলাদেশি পদার্থবিদ কে?",
+                    "options": [
+                        "আব্দুস সালাম",
+                        "মেঘনাদ সাহা",
+                        "সত্যেন্দ্রনাথ বসু",
+                        "জগদীশচন্দ্র বসু"
+                    ],
+                    "answer": 0,
+                    "why": "আব্দুস সালাম ১৯৭৯ সালে পদার্থবিজ্ঞানে নোবেল পুরস্কার পান; তিনি পাকিস্তানের নাগরিক ছিলেন।"
+                },
+                {
+                    "q": "প্রথম ফুটবল বিশ্বকাপ অনুষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৩০ সালে",
+                        "১৯৩৪ সালে",
+                        "১৯৫০ সালে",
+                        "১৯২৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "প্রথম ফুটবল বিশ্বকাপ ১৯৩০ সালে উরুগুয়েতে অনুষ্ঠিত হয়।"
+                },
+                {
+                    "q": "ফিল্ড হকির বিশ্বকাপ প্রথম অনুষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৭১ সালে",
+                        "১৯৭৫ সালে",
+                        "১৯৬১ সালে",
+                        "১৯৮১ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "ফিল্ড হকির বিশ্বকাপ প্রথম অনুষ্ঠিত হয় ১৯৭১ সালে।"
+                },
+                {
+                    "q": "এশিয়ান গেমস প্রথম অনুষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৫১ সালে",
+                        "১৯৪৮ সালে",
+                        "১৯৬২ সালে",
+                        "১৯৭১ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "এশিয়ান গেমস প্রথম অনুষ্ঠিত হয় ১৯৫১ সালে নয়া দিল্লিতে।"
+                },
+                {
+                    "q": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "১৯৭০ সালে",
+                        "১৯৬৬ সালে",
+                        "১৯৫৩ সালে",
+                        "১৯৮৬ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ১৯৭০ সালে প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "বুয়েট বিশ্ববিদ্যালয়ের মর্যাদা পায় কবে?",
+                    "options": [
+                        "১৯৬২ সালে",
+                        "১৯২১ সালে",
+                        "১৯৪৭ সালে",
+                        "১৯৭২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বুয়েট ১৯৬২ সালে বিশ্ববিদ্যালয়ের মর্যাদা পায়।"
                 }
             ]
         },
@@ -145307,6 +147012,402 @@
                     ],
                     "answer": 0,
                     "why": "প্রক্সি সার্ভার ব্যবহারকারী ও ইন্টারনেটের মাঝে মধ্যবর্তী হয়ে অনুরোধ পাঠায় ও গ্রহণ করে।"
+                },
+                {
+                    "q": "DNS সার্ভারের জন্য নির্ধারিত পোর্ট নম্বর কত?",
+                    "options": [
+                        "৫৩",
+                        "৮০",
+                        "২৫",
+                        "১১০"
+                    ],
+                    "answer": 0,
+                    "why": "DNS সার্ভার ৫৩ নম্বর পোর্ট ব্যবহার করে।"
+                },
+                {
+                    "q": "ওয়েব ব্রাউজিংয়ে HTTP কোন পোর্ট ব্যবহার করে?",
+                    "options": [
+                        "৮০",
+                        "৪৪৩",
+                        "২১",
+                        "২৫"
+                    ],
+                    "answer": 0,
+                    "why": "HTTP সাধারণত ৮০ নম্বর পোর্ট ব্যবহার করে।"
+                },
+                {
+                    "q": "নিরাপদ ওয়েব সংযোগ HTTPS কোন পোর্ট ব্যবহার করে?",
+                    "options": [
+                        "৪৪৩",
+                        "৮০",
+                        "২১",
+                        "১১০"
+                    ],
+                    "answer": 0,
+                    "why": "HTTPS (HTTP Secure) ৪৪৩ নম্বর পোর্ট ব্যবহার করে।"
+                },
+                {
+                    "q": "ফাইল স্থানান্তরে FTP কোন পোর্ট ব্যবহার করে?",
+                    "options": [
+                        "২১",
+                        "৮০",
+                        "২৫",
+                        "৫৩"
+                    ],
+                    "answer": 0,
+                    "why": "FTP (File Transfer Protocol) ২১ নম্বর পোর্ট ব্যবহার করে।"
+                },
+                {
+                    "q": "IMAP প্রোটোকলের কাজ কী?",
+                    "options": [
+                        "সার্ভারে মেইল রেখে পড়া",
+                        "মেইল পাঠানো",
+                        "ওয়েবপেজ দেখা",
+                        "ফাইল ডাউনলোড করা"
+                    ],
+                    "answer": 0,
+                    "why": "IMAP-এ মেইল সার্ভারেই থাকে; ব্যবহারকারী সার্ভার থেকে সরাসরি মেইল পড়েন।"
+                },
+                {
+                    "q": "রাউটারের প্রধান কাজ কী?",
+                    "options": [
+                        "দুটি নেটওয়ার্কের মধ্যে তথ্য পাঠানো",
+                        "কম্পিউটার চালু করা",
+                        "ফাইল ছাপানো",
+                        "ভাইরাস মুছে ফেলা"
+                    ],
+                    "answer": 0,
+                    "why": "রাউটার দুটি বা ততোধিক নেটওয়ার্কের মধ্যে তথ্য প্যাকেট পাঠায়।"
+                },
+                {
+                    "q": "স্টার টপোলজিতে সব যন্ত্র যুক্ত থাকে কিসের সঙ্গে?",
+                    "options": [
+                        "কেন্দ্রীয় হাব বা সুইচের সঙ্গে",
+                        "একটি তারের সঙ্গে",
+                        "বৃত্তাকারে",
+                        "সরাসরি একে অপরের সঙ্গে"
+                    ],
+                    "answer": 0,
+                    "why": "স্টার টপোলজিতে সব যন্ত্র একটি কেন্দ্রীয় হাব বা সুইচের সঙ্গে যুক্ত থাকে।"
+                },
+                {
+                    "q": "ফাইবার অপটিক কেবলে তথ্য যায় কীসের মাধ্যমে?",
+                    "options": [
+                        "আলোর মাধ্যমে",
+                        "বিদ্যুৎ প্রবাহের মাধ্যমে",
+                        "চুম্বক তরঙ্গের মাধ্যমে",
+                        "শব্দ তরঙ্গের মাধ্যমে"
+                    ],
+                    "answer": 0,
+                    "why": "ফাইবার অপটিক কেবলে আলোর মাধ্যমে তথ্য যায়; এটি সবচেয়ে দ্রুতগতির মাধ্যম।"
+                },
+                {
+                    "q": "NFC প্রযুক্তি কোন কাজে ব্যবহৃত হয়?",
+                    "options": [
+                        "কাছাকাছি দূরত্বে তথ্য আদান-প্রদানে",
+                        "দূরের স্যাটেলাইটে যোগাযোগে",
+                        "তারযুক্ত ইন্টারনেটে",
+                        "ছবি তোলায়"
+                    ],
+                    "answer": 0,
+                    "why": "NFC (Near Field Communication) কাছাকাছি (কয়েক সেন্টিমিটার) দূরত্বে তথ্য আদান-প্রদান করে; ট্যাপ পেমেন্টে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ব্লুটুথ প্রযুক্তি প্রথম তৈরি করে কোন কোম্পানি?",
+                    "options": [
+                        "এরিকসন",
+                        "নকিয়া",
+                        "স্যামসাং",
+                        "ইন্টেল"
+                    ],
+                    "answer": 0,
+                    "why": "ব্লুটুথ প্রযুক্তি ১৯৯৪ সালে সুইডিশ কোম্পানি এরিকসন তৈরি করে।"
+                },
+                {
+                    "q": "ওয়াই-ফাই কোন মানদণ্ড (standard) অনুসরণ করে?",
+                    "options": [
+                        "IEEE 802.11",
+                        "IEEE 802.3",
+                        "IEEE 1394",
+                        "IEEE 802.15"
+                    ],
+                    "answer": 0,
+                    "why": "ওয়াই-ফাই IEEE 802.11 মানদণ্ড অনুসরণ করে।"
+                },
+                {
+                    "q": "ইনফ্রারেড প্রযুক্তির সীমাবদ্ধতা কী?",
+                    "options": [
+                        "সরাসরি দৃষ্টিসীমায় থাকতে হয়",
+                        "বেশি বিদ্যুৎ লাগে",
+                        "শুধু দিনে কাজ করে",
+                        "অনেক দূরে কাজ করে"
+                    ],
+                    "answer": 0,
+                    "why": "ইনফ্রারেডে প্রেরক ও গ্রহীতার মধ্যে সরাসরি দৃষ্টিসীমা (line of sight) লাগে; টিভির রিমোটে ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "জাভাস্ক্রিপ্ট ভাষা তৈরি করেন কে?",
+                    "options": [
+                        "ব্রেন্ডান আইখ",
+                        "জেমস গসলিং",
+                        "ডেনিস রিচি",
+                        "গুইডো ভ্যান রসাম"
+                    ],
+                    "answer": 0,
+                    "why": "জাভাস্ক্রিপ্ট ১৯৯৫ সালে ব্রেন্ডান আইখ তৈরি করেন।"
+                },
+                {
+                    "q": "পাইথন ভাষা তৈরি করেন কে?",
+                    "options": [
+                        "গুইডো ভ্যান রসাম",
+                        "ডেনিস রিচি",
+                        "জেমস গসলিং",
+                        "লিনাস টরভাল্ডস"
+                    ],
+                    "answer": 0,
+                    "why": "পাইথন ১৯৯১ সালে গুইডো ভ্যান রসাম তৈরি করেন।"
+                },
+                {
+                    "q": "অ্যাসেম্বলার কী করে?",
+                    "options": [
+                        "অ্যাসেম্বলি ভাষাকে মেশিন ভাষায় রূপান্তর করে",
+                        "উচ্চস্তরের ভাষাকে অ্যাসেম্বলিতে রূপান্তর করে",
+                        "তথ্য এনক্রিপ্ট করে",
+                        "ফাইল কপি করে"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যাসেম্বলার অ্যাসেম্বলি ভাষায় লেখা প্রোগ্রামকে মেশিন ভাষায় রূপান্তর করে।"
+                },
+                {
+                    "q": "নিচের কোনটি নিম্নস্তরের ভাষা?",
+                    "options": [
+                        "মেশিন ভাষা",
+                        "পাইথন",
+                        "জাভা",
+                        "সি++"
+                    ],
+                    "answer": 0,
+                    "why": "মেশিন ভাষা (০ ও ১) নিম্নস্তরের ভাষা; পাইথন, জাভা উচ্চস্তরের ভাষা।"
+                },
+                {
+                    "q": "ফ্লোচার্টে শুরু ও শেষ কোন আকৃতিতে দেখানো হয়?",
+                    "options": [
+                        "উপবৃত্ত (ওভাল)",
+                        "আয়তক্ষেত্র",
+                        "রম্বস",
+                        "সমান্তরাল চতুর্ভুজ"
+                    ],
+                    "answer": 0,
+                    "why": "ফ্লোচার্টে শুরু ও শেষ উপবৃত্ত (ওভাল) আকৃতিতে দেখানো হয়।"
+                },
+                {
+                    "q": "ফ্লোচার্টে প্রক্রিয়া (process) কোন আকৃতিতে দেখানো হয়?",
+                    "options": [
+                        "আয়তক্ষেত্র",
+                        "রম্বস",
+                        "উপবৃত্ত",
+                        "ত্রিভুজ"
+                    ],
+                    "answer": 0,
+                    "why": "ফ্লোচার্টে প্রক্রিয়া বা কাজ আয়তক্ষেত্রে দেখানো হয়।"
+                },
+                {
+                    "q": "ফ্লোচার্টে ইনপুট ও আউটপুট কোন আকৃতিতে দেখানো হয়?",
+                    "options": [
+                        "সমান্তরাল চতুর্ভুজ (প্যারালেলোগ্রাম)",
+                        "আয়তক্ষেত্র",
+                        "রম্বস",
+                        "বৃত্ত"
+                    ],
+                    "answer": 0,
+                    "why": "ফ্লোচার্টে ইনপুট ও আউটপুট সমান্তরাল চতুর্ভুজ (প্যারালেলোগ্রাম) আকৃতিতে দেখানো হয়।"
+                },
+                {
+                    "q": "অ্যারের বৈশিষ্ট্য কী?",
+                    "options": [
+                        "একই ধরনের অনেক উপাদান পরপর সংরক্ষিত থাকে",
+                        "ভিন্ন ধরনের উপাদান ছড়িয়ে থাকে",
+                        "উপাদান মুছে ফেলা যায় না",
+                        "শুধু একটি উপাদান থাকে"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যারে একই ধরনের অনেক উপাদানকে পরপর সাজিয়ে সূচক (index) দিয়ে সংরক্ষণ করে।"
+                },
+                {
+                    "q": "SQL-এ তথ্য পরিবর্তন করতে কোন কমান্ড ব্যবহৃত হয়?",
+                    "options": [
+                        "UPDATE",
+                        "SELECT",
+                        "INSERT",
+                        "CREATE"
+                    ],
+                    "answer": 0,
+                    "why": "SQL-এ বিদ্যমান তথ্য পরিবর্তন করতে UPDATE কমান্ড ব্যবহৃত হয়।"
+                },
+                {
+                    "q": "ফরেন কি-এর কাজ কী?",
+                    "options": [
+                        "দুটি টেবিলের মধ্যে সম্পর্ক তৈরি করা",
+                        "টেবিল মুছে ফেলা",
+                        "তথ্য এনক্রিপ্ট করা",
+                        "টেবিলের নাম বদলানো"
+                    ],
+                    "answer": 0,
+                    "why": "ফরেন কি এক টেবিলের প্রাইমারি কিকে অন্য টেবিলে উল্লেখ করে দুটি টেবিলের সম্পর্ক তৈরি করে।"
+                },
+                {
+                    "q": "অ্যান্ড্রয়েড অপারেটিং সিস্টেম কোন কোম্পানির?",
+                    "options": [
+                        "গুগল",
+                        "অ্যাপল",
+                        "মাইক্রোসফট",
+                        "স্যামসাং"
+                    ],
+                    "answer": 0,
+                    "why": "অ্যান্ড্রয়েড গুগলের তৈরি মোবাইল অপারেটিং সিস্টেম; প্রথম সংস্করণ আসে ২০০৮ সালে।"
+                },
+                {
+                    "q": "কৃত্রিম বুদ্ধিমত্তা (AI) শব্দটি প্রথম ব্যবহার করেন কে?",
+                    "options": [
+                        "জন ম্যাকার্থি",
+                        "অ্যালান টুরিং",
+                        "মারভিন মিনস্কি",
+                        "আইজ্যাক আসিমভ"
+                    ],
+                    "answer": 0,
+                    "why": "কৃত্রিম বুদ্ধিমত্তা (Artificial Intelligence) শব্দটি ১৯৫৬ সালে জন ম্যাকার্থি প্রথম ব্যবহার করেন।"
+                },
+                {
+                    "q": "বিটকয়েন প্রথম চালু হয় কবে?",
+                    "options": [
+                        "২০০৯ সালে",
+                        "১৯৯৯ সালে",
+                        "২০১৯ সালে",
+                        "২০০৪ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "বিটকয়েন ২০০৯ সালে সাতোশি নাকামোতো ছদ্মনামের ব্যক্তি চালু করেন।"
+                },
+                {
+                    "q": "BTRC প্রতিষ্ঠিত হয় কবে?",
+                    "options": [
+                        "২০০২ সালে",
+                        "১৯৯২ সালে",
+                        "২০১২ সালে",
+                        "১৯৭২ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "BTRC (বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ কমিশন) ২০০২ সালে প্রতিষ্ঠিত হয়।"
+                },
+                {
+                    "q": "টেলিটক মোবাইল সেবা চালু হয় কবে?",
+                    "options": [
+                        "২০০৪ সালে",
+                        "১৯৯৪ সালে",
+                        "২০১৪ সালে",
+                        "১৯৯৭ সালে"
+                    ],
+                    "answer": 0,
+                    "why": "রাষ্ট্রায়ত্ত মোবাইল অপারেটর টেলিটক ২০০৪ সালে সেবা চালু করে।"
+                },
+                {
+                    "q": "বাংলাদেশের দেশ-কোড ডোমেইন কোনটি?",
+                    "options": [
+                        ".bd",
+                        ".bn",
+                        ".bg",
+                        ".ba"
+                    ],
+                    "answer": 0,
+                    "why": "বাংলাদেশের দেশ-কোড টপ-লেভেল ডোমেইন .bd।"
+                },
+                {
+                    "q": "ডিজিটাল নিরাপত্তা আইন ২০১৮-এর পরিবর্তে কোন আইন আসে?",
+                    "options": [
+                        "সাইবার নিরাপত্তা আইন ২০২৩",
+                        "তথ্য অধিকার আইন",
+                        "আইসিটি আইন ২০০৬",
+                        "টেলিযোগাযোগ আইন"
+                    ],
+                    "answer": 0,
+                    "why": "ডিজিটাল নিরাপত্তা আইন ২০১৮ বাতিল করে ২০২৩ সালে সাইবার নিরাপত্তা আইন প্রণীত হয়।"
+                },
+                {
+                    "q": "জাতীয় তথ্য বাতায়ন (National Portal) কোনটি?",
+                    "options": [
+                        "bangladesh.gov.bd",
+                        "gov.bd",
+                        "bangladesh.com",
+                        "info.gov.bd"
+                    ],
+                    "answer": 0,
+                    "why": "জাতীয় তথ্য বাতায়ন হলো bangladesh.gov.bd; এখানে সরকারি সেবা ও তথ্য পাওয়া যায়।"
+                },
+                {
+                    "q": "ই-গভর্ন্যান্স বলতে কী বোঝায়?",
+                    "options": [
+                        "তথ্যপ্রযুক্তির মাধ্যমে সরকারি সেবা দেওয়া",
+                        "ইন্টারনেটে ভোট দেওয়া",
+                        "অনলাইনে কেনাকাটা",
+                        "ই-মেইলে চিঠি পাঠানো"
+                    ],
+                    "answer": 0,
+                    "why": "ই-গভর্ন্যান্স হলো তথ্যপ্রযুক্তি ব্যবহার করে সরকারি সেবা ও প্রশাসন পরিচালনা।"
+                },
+                {
+                    "q": "প্রথম সার্চ ইঞ্জিন কোনটি?",
+                    "options": [
+                        "আর্চি",
+                        "গুগল",
+                        "ইয়াহু",
+                        "বিং"
+                    ],
+                    "answer": 0,
+                    "why": "প্রথম সার্চ ইঞ্জিন আর্চি (Archie), ১৯৯০ সালে তৈরি হয়।"
+                },
+                {
+                    "q": "ASCII-তে বড় হাতের A অক্ষরের কোড কত?",
+                    "options": [
+                        "৬৫",
+                        "৯৭",
+                        "৪৮",
+                        "৯০"
+                    ],
+                    "answer": 0,
+                    "why": "ASCII-তে বড় হাতের A = ৬৫, ছোট হাতের a = ৯৭, সংখ্যা ০ = ৪৮।"
+                },
+                {
+                    "q": "CPU-এর fetch-decode-execute চক্রে প্রথম ধাপ কোনটি?",
+                    "options": [
+                        "তথ্য আনা (fetch)",
+                        "তথ্য বোঝা (decode)",
+                        "কাজ করা (execute)",
+                        "তথ্য সংরক্ষণ করা"
+                    ],
+                    "answer": 0,
+                    "why": "CPU প্রথমে মেমোরি থেকে নির্দেশ আনে (fetch), তারপর বোঝে (decode) ও চালায় (execute)।"
+                },
+                {
+                    "q": "কম্পিউটার চালু হওয়ার সময় স্বয়ংক্রিয় পরীক্ষাকে কী বলে?",
+                    "options": [
+                        "POST",
+                        "BOOT",
+                        "BIOS",
+                        "CMOS"
+                    ],
+                    "answer": 0,
+                    "why": "POST (Power-On Self-Test) চালু হওয়ার সময় হার্ডওয়্যার পরীক্ষা করে।"
+                },
+                {
+                    "q": "MS Excel-এ সারি (row) ও কলামের (column) সংযোগস্থলকে কী বলে?",
+                    "options": [
+                        "সেল (Cell)",
+                        "টেবিল",
+                        "রেঞ্জ",
+                        "শিট"
+                    ],
+                    "answer": 0,
+                    "why": "Excel-এ সারি ও কলামের সংযোগস্থলকে সেল (Cell) বলে; যেমন A1।"
                 }
             ]
         }
