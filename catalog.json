@@ -578,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 11,
-   "versionName": "1.10",
-   "size": 332654,
+   "code": 12,
+   "versionName": "1.11",
+   "size": 508849,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Drive anything: new tank, easy-bike, pedal van, a drivable bus and a big ship at the pier; the helicopter, train and metro are now yours to drive, and a truck is parked for you. 1st/2nd/3rd person cameras with real vehicle interiors and your own hands in view. Hasu and Minu look more realistic; eat at the restaurant, sit on the park swing together; polished HUD.",
-   "ts": 1795684475,
-   "etag": "0x8DF4B9DA96F91C6"
+   "changes": "All-new 3D Hasu, Minu and their pet cat in a red hoodie who follows you everywhere. New controls: joystick plus separate RUN, JUMP and SIT buttons. Passenger fares on rickshaw, CNG, easy-bike, van and bus; a petrol pump, a bank, garage repairs and sleep at home. Main menu, pause menu and one settings screen; Mission mode plus car and bike racing competitions. An original soundtrack, characters who speak out loud, softer footsteps, and an in-game Updates section. First-person bonnets and interiors now in your car's own colour; vehicles spread across the city with labelled map markers.",
+   "ts": 1795691327,
+   "etag": "0x8DF4BAD9C4CEE51"
   },
   {
    "pkg": "hasu.os.study",
