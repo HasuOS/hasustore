@@ -1037,8 +1037,270 @@
     "to": 720
    },
    "with": "minu"
+  },
+  {
+   "id": "jele_market_walk",
+   "needs": null,
+   "reward": {
+    "money": 13,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "harbour",
+     "text": "Go to the harbour pier — Jele Bhai is mending his nets there",
+     "type": "goto"
+    },
+    {
+     "place": "market",
+     "text": "Walk Jele Bhai to the market",
+     "type": "escort",
+     "who": "jele"
+    }
+   ],
+   "title_bn": "জেলে ভাইকে বাজারে নিয়ে যাও",
+   "title_en": "Walk Jele Bhai to the Market",
+   "window": {
+    "from": 360,
+    "to": 720
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "chacha_park_adda",
+   "needs": null,
+   "reward": {
+    "money": 10,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "market",
+     "text": "Go to the market — Chacha is at his cart",
+     "type": "goto"
+    },
+    {
+     "place": "park_pond",
+     "text": "Walk Chacha to the park pond for the evening adda",
+     "type": "escort",
+     "who": "chacha"
+    }
+   ],
+   "title_bn": "চাচার সন্ধ্যার আড্ডা",
+   "title_en": "Chacha's Evening Adda",
+   "window": {
+    "from": 960,
+    "to": 1260
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "rakib_supermarket_walk",
+   "needs": null,
+   "reward": {
+    "money": 11,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "university_door",
+     "text": "Go to the university gate — Rakib waits there",
+     "type": "goto"
+    },
+    {
+     "place": "supermarket_door",
+     "text": "Walk Rakib to the supermarket",
+     "type": "escort",
+     "who": "rakib"
+    }
+   ],
+   "title_bn": "রাকিবকে সুপারমার্কেটে নিয়ে যাও",
+   "title_en": "Rakib to the Supermarket",
+   "window": {
+    "from": 600,
+    "to": 1200
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "eggs_neighbour_rush",
+   "needs": null,
+   "reward": {
+    "money": 6,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "farm_coop",
+     "text": "Go to the chicken coop",
+     "type": "goto"
+    },
+    {
+     "item": 1,
+     "text": "Collect fresh eggs at the coop",
+     "type": "carry"
+    },
+    {
+     "bonus": 10,
+     "place": "neighbour_door",
+     "secs": 120,
+     "text": "Hurry the eggs to the neighbour's door — beat the clock for a bonus",
+     "type": "rush"
+    },
+    {
+     "item": 1,
+     "text": "Give the neighbour the eggs",
+     "type": "give",
+     "who": "neighbour"
+    }
+   ],
+   "title_bn": "তাজা ডিম, তাড়াতাড়ি",
+   "title_en": "Fresh Eggs, Fast",
+   "window": {
+    "from": 360,
+    "to": 720
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "fish_fresh_rush",
+   "needs": null,
+   "reward": {
+    "money": 9,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "harbour",
+     "text": "Go to the harbour — the boats are in",
+     "type": "goto"
+    },
+    {
+     "item": 2,
+     "text": "Pick up fresh fish at the pier",
+     "type": "carry"
+    },
+    {
+     "bonus": 12,
+     "place": "market",
+     "secs": 180,
+     "text": "Get the fish to the market while it is fresh — beat the clock for a bonus",
+     "type": "rush"
+    }
+   ],
+   "title_bn": "তাজা মাছের তাড়া",
+   "title_en": "The Fresh Fish Rush",
+   "window": {
+    "from": 300,
+    "to": 720
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "pushi_carousel",
+   "needs": "cat",
+   "reward": {
+    "money": 5,
+    "trust_cat": 8,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Call Pushi to come along",
+     "type": "talk",
+     "who": "cat"
+    },
+    {
+     "place": "park_merrygoround",
+     "text": "Go to the merry-go-round together",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "place": "park_merrygoround",
+     "secs": 30,
+     "text": "Watch the horses go round with Pushi",
+     "type": "stay",
+     "with": "cat"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "text": "Feed Pushi at home (her bowl, at home)",
+     "type": "feed"
+    }
+   ],
+   "title_bn": "মেরি-গো-রাউন্ডে পুশি",
+   "title_en": "Pushi at the Merry-Go-Round",
+   "window": {
+    "from": 600,
+    "to": 1260
+   },
+   "with": "pushi"
+  },
+  {
+   "done_line": "minu_req_thanks",
+   "done_line_text": "Onek dhonnobad!",
+   "id": "weekly_shop",
+   "needs": "partner",
+   "reward": {
+    "money": 14,
+    "trust_cat": 0,
+    "trust_partner": 6
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "supermarket_door",
+     "text": "Go to the supermarket together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "item": 5,
+     "text": "Buy chicken at the supermarket",
+     "type": "carry"
+    },
+    {
+     "item": 6,
+     "text": "Buy fruit at the supermarket",
+     "type": "carry"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "text": "Eat together at home (the fridge, at home)",
+     "type": "meal"
+    }
+   ],
+   "title_bn": "সাপ্তাহিক বাজার",
+   "title_en": "The Weekly Shop",
+   "window": {
+    "from": 540,
+    "to": 1200
+   },
+   "with": "family"
   }
  ],
  "pack": "hasu-city-daily-life",
- "version": 3
+ "version": 4
 }
