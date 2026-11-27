@@ -578,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 23,
-   "versionName": "1.22",
-   "size": 1217523,
+   "code": 24,
+   "versionName": "1.23",
+   "size": 244179719,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Main menu + আসল loading screen, route line এখন শুধু map-এ, HUD overlap ঠিক, সব building-এ দরজা — সবগুলোতে ঢোকা যায়, plane এখন airport-এ, Ferris wheel ও carousel-এ চড়া যায়।",
-   "ts": 1795767157,
-   "etag": "0x8DF4C5E2952A00B"
+   "changes": "Game এখন 244 MB — পুরো শহরে আসল photo texture (রাস্তা, ঘাস, বালি, 12 রকম building-এর দেয়াল, ঘরের ভিতরের মেঝে-দেয়াল) আর 30টা আসল গানের soundtrack।",
+   "ts": 1795770186,
+   "etag": "0x8DF4C6530348040"
   },
   {
    "pkg": "hasu.os.study",
