@@ -1677,8 +1677,170 @@
     "to": 720
    },
    "with": "hasu"
+  },
+  {
+   "id": "fair_evening",
+   "needs": "partner",
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 7
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "fair_wheel",
+     "text": "Go to the fairground wheel together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "fair_wheel",
+     "secs": 90,
+     "text": "Watch the wheel turn together",
+     "type": "stay",
+     "with": "partner"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "মেলায় সন্ধ্যা",
+   "title_en": "An Evening at the Fair",
+   "window": {
+    "from": 900,
+    "to": 1260
+   },
+   "with": "family"
+  },
+  {
+   "id": "pushi_fair",
+   "needs": "cat",
+   "reward": {
+    "money": 5,
+    "trust_cat": 8,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Call Pushi to come along",
+     "type": "talk",
+     "who": "cat"
+    },
+    {
+     "place": "fair_wheel",
+     "text": "Go to the fairground wheel together",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "place": "fair_wheel",
+     "secs": 30,
+     "text": "Watch the big wheel with Pushi",
+     "type": "stay",
+     "with": "cat"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "text": "Feed Pushi at home (her bowl, at home)",
+     "type": "feed"
+    }
+   ],
+   "title_bn": "মেলায় পুশি",
+   "title_en": "Pushi at the Fair",
+   "window": {
+    "from": 600,
+    "to": 1200
+   },
+   "with": "pushi"
+  },
+  {
+   "id": "jele_fair_walk",
+   "needs": null,
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "harbour",
+     "text": "Go to the harbour pier — Jele Bhai is by his boat",
+     "type": "goto"
+    },
+    {
+     "place": "fair_wheel",
+     "text": "Walk Jele Bhai to the fairground wheel",
+     "type": "escort",
+     "who": "jele"
+    }
+   ],
+   "title_bn": "জেলে ভাইয়ের মেলা দেখা",
+   "title_en": "Jele Bhai Sees the Fair",
+   "window": {
+    "from": 840,
+    "to": 1200
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "flowers_neighbour_rush",
+   "needs": null,
+   "reward": {
+    "money": 7,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "farm_garden",
+     "text": "Go to the flower garden",
+     "type": "goto"
+    },
+    {
+     "item": 10,
+     "text": "Pick a bouquet from a ripe flower bed",
+     "type": "carry"
+    },
+    {
+     "bonus": 10,
+     "place": "neighbour_door",
+     "secs": 150,
+     "text": "Hurry the bouquet to the neighbour's door — beat the clock for a bonus",
+     "type": "rush"
+    },
+    {
+     "item": 10,
+     "line": "hello_1",
+     "line_text": "Assalamu alaikum!",
+     "text": "Give the neighbour the bouquet",
+     "type": "give",
+     "who": "neighbour"
+    }
+   ],
+   "title_bn": "প্রতিবেশীর জন্য ফুল, তাড়াতাড়ি",
+   "title_en": "Flowers for the Neighbour, Quick",
+   "window": {
+    "from": 480,
+    "to": 1080
+   },
+   "with": "hasu"
   }
  ],
  "pack": "hasu-city-daily-life",
- "version": 6
+ "version": 7
 }
