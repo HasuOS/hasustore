@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795748304,
+  "generatedAt": 1795791696,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -691,6 +691,28 @@
       "category": "ICT",
       "track": "graduate",
       "location": "ঢাকা",
+      "pdfUrl": ""
+    },
+    {
+      "id": "bwdb-office-assistant-2026",
+      "title": "বাংলাদেশ পানি উন্নয়ন বোর্ড নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Bangladesh Water Development Board (BWDB) (বাংলাদেশ পানি উন্নয়ন বোর্ড)",
+      "posts": "অফিস সহায়ক (Office Assistant) — ২৮৪টি",
+      "vacancy": 284,
+      "qualification": "SSC (Secondary School Certificate) or equivalent pass from a recognised board — the circular's exact requirement for this post. Age 18–32 (as of 1 Nov 2026).",
+      "salary": "Grade-20 — ৳20,000–48,400 (National Pay Scale 2026)",
+      "startDate": "2026-12-03",
+      "deadline": "2027-01-04",
+      "deadlineTime": "16:00",
+      "fee": "৳50 (paid online on the BWDB portal)",
+      "applyUrl": "https://jobs.bwdb.gov.bd",
+      "sourceUrl": "https://careerzi.com/bwdb-job-circular-2026/",
+      "published": "2026-11-26",
+      "note": "Circular (memo 42.01.0000.030.11.010.25-1197, 25 Nov 2026) advertises 879 posts in 4 categories at the Bangladesh Water Development Board — of them, the Office Assistant post (284 posts, SSC pass only, all districts) is open to you as a Diploma holder, the same shape as the BFRI Office Assistant post already in the feed. The other posts are not eligible: Assistant Director (Administration) is an admin post, not a computer post; Work Assistant needs 1 year of construction-work experience; Accounts Clerk needs HSC in Commerce. Apply on BWDB's own recruitment portal from 3 Dec 2026, 9:00 AM; pay the ৳50 fee online by 4 Jan 2027, 4:00 PM. Candidates who already applied for this post under the 10 Aug 2025 notice need not re-apply. Portal jobs.bwdb.gov.bd did not respond at check time (applications open 3 Dec — same as the NSI portal before its opening; re-verify at open).",
+      "grade": "Grade-20",
+      "category": "General",
+      "track": "diploma",
+      "location": "সারা দেশ",
       "pdfUrl": ""
     }
   ]
