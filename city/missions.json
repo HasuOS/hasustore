@@ -1445,8 +1445,240 @@
     "to": 720
    },
    "with": "hasu"
+  },
+  {
+   "done_line": "minu_meal",
+   "done_line_text": "Bosho, gorom gorom khao — aj tomar pochonder khabar korechi.",
+   "id": "jummah_mosque",
+   "needs": "partner",
+   "reward": {
+    "money": 10,
+    "trust_cat": 0,
+    "trust_partner": 8
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "mosque_door",
+     "text": "Go to the mosque together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "mosque_door",
+     "secs": 60,
+     "text": "Stay for the prayer together",
+     "type": "stay",
+     "with": "partner"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "text": "Eat together at home (the fridge, at home)",
+     "type": "meal"
+    }
+   ],
+   "title_bn": "একসাথে মসজিদে",
+   "title_en": "To the Mosque Together",
+   "window": {
+    "from": 660,
+    "to": 1080
+   },
+   "with": "family"
+  },
+  {
+   "id": "stadium_match",
+   "needs": "partner",
+   "reward": {
+    "money": 18,
+    "trust_cat": 0,
+    "trust_partner": 8
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "stadium_gate",
+     "text": "Go to the stadium together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "stadium_gate",
+     "secs": 90,
+     "text": "Watch the match together",
+     "type": "stay",
+     "with": "partner"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "স্টেডিয়ামে খেলার দিন",
+   "title_en": "Match Day at the Stadium",
+   "window": {
+    "from": 900,
+    "to": 1260
+   },
+   "with": "family"
+  },
+  {
+   "id": "pushi_airport",
+   "needs": "cat",
+   "reward": {
+    "money": 5,
+    "trust_cat": 8,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Call Pushi to come along",
+     "type": "talk",
+     "who": "cat"
+    },
+    {
+     "place": "airport_door",
+     "text": "Go to the airport together",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "place": "airport_door",
+     "secs": 30,
+     "text": "Watch the planes with Pushi",
+     "type": "stay",
+     "with": "cat"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "text": "Feed Pushi at home (her bowl, at home)",
+     "type": "feed"
+    }
+   ],
+   "title_bn": "প্লেন দেখে পুশি",
+   "title_en": "Pushi Watches the Planes",
+   "window": {
+    "from": 600,
+    "to": 1200
+   },
+   "with": "pushi"
+  },
+  {
+   "id": "rakib_mosque_walk",
+   "needs": null,
+   "reward": {
+    "money": 11,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "university_door",
+     "text": "Go to the university — Rakib is there",
+     "type": "goto"
+    },
+    {
+     "place": "mosque_door",
+     "text": "Walk Rakib to the mosque",
+     "type": "escort",
+     "who": "rakib"
+    }
+   ],
+   "title_bn": "রাকিবকে মসজিদে",
+   "title_en": "Rakib to the Mosque",
+   "window": {
+    "from": 600,
+    "to": 1020
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "chacha_stadium_walk",
+   "needs": null,
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "market",
+     "text": "Go to the market — Chacha is at his cart",
+     "type": "goto"
+    },
+    {
+     "place": "stadium_gate",
+     "text": "Walk Chacha to the stadium",
+     "type": "escort",
+     "who": "chacha"
+    }
+   ],
+   "title_bn": "চাচার স্টেডিয়াম দেখা",
+   "title_en": "Chacha Sees the Stadium",
+   "window": {
+    "from": 840,
+    "to": 1200
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "milk_supermarket_rush",
+   "needs": null,
+   "reward": {
+    "money": 8,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "farm_cowshed",
+     "text": "Go to the cow shed",
+     "type": "goto"
+    },
+    {
+     "item": 3,
+     "text": "Collect fresh milk at the shed",
+     "type": "carry"
+    },
+    {
+     "bonus": 12,
+     "place": "supermarket_door",
+     "secs": 240,
+     "text": "Get the milk to the supermarket while it is fresh — beat the clock for a bonus",
+     "type": "rush"
+    }
+   ],
+   "title_bn": "সুপারমার্কেটের দুধ",
+   "title_en": "Milk for the Supermarket",
+   "window": {
+    "from": 360,
+    "to": 720
+   },
+   "with": "hasu"
   }
  ],
  "pack": "hasu-city-daily-life",
- "version": 5
+ "version": 6
 }
