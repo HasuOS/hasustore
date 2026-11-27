@@ -578,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 20,
-   "versionName": "1.19",
+   "code": 21,
+   "versionName": "1.20",
    "size": 963571,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Full safety pass after the 1.17 gang crash: the whole game was audited line by line for the same kind of fault. The gang skin-tone bug exists nowhere else in play - every vehicle model, gun, mission, waypoint, achievement and job index was checked end to end. Five more weak spots were sealed anyway: four values loaded from the save file (drawn gun, story step, character choice, mission number) are now range-checked as the game loads, so a damaged save can never crash it, and the phone shop now refuses an out-of-range gun or ammo request. Includes everything from 1.18.",
-   "ts": 1795741092,
-   "etag": "0x8DF4C217C44E792"
+   "changes": "Hotfix for a crash when leaving the house: ordinary buildings carry no sign, and the building drawing asked every building for its sign while you were still marked as inside the room - an unsigned building crashed the game at the door. The sign is now checked safely in the building drawing and in the room entry, and every other name comparison in the game was swept and verified. Everything from 1.19 is included.",
+   "ts": 1795741454,
+   "etag": "0x8DF4C2252A74182"
   },
   {
    "pkg": "hasu.os.study",
