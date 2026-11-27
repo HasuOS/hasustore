@@ -578,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 18,
-   "versionName": "1.17",
+   "code": 19,
+   "versionName": "1.18",
    "size": 963571,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Biggest update yet - seven improvement batches in one: characters rebuilt in maximum detail (real faces, Minu's hair and dupatta, Pushi's whiskers), real baked 3D models for 18 vehicles (bus, truck, CNG, bike, tram, train, limo, ambulance, fire truck and more) plus trees and street lamps, story chapters 3, 4 and 5 (the story now completes), a second gang - the Red Vipers - with their own turf, walk-in hospital, market shop, bank and university, a city shop business, police roadblocks at 4+ stars, a farm ploughing job, photo filters, thunder, city rush hours, 25 achievements and the full credits page.",
-   "ts": 1795739240,
-   "etag": "0x8DF4C1CD67A1213"
+   "changes": "Hotfix: 1.17 crashed when a gang member came on screen - the Scorpion and Viper spawns gave some members skin tone 4 of 3, and the new face drawing read past the end of the skin table. The spawns are corrected and the face/skin lookups are hardened so an out-of-range tone can never crash the game again. Everything from 1.17 is included.",
+   "ts": 1795739746,
+   "etag": "0x8DF4C1E58B0EA26"
   },
   {
    "pkg": "hasu.os.study",
