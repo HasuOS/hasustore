@@ -1299,8 +1299,154 @@
     "to": 1200
    },
    "with": "family"
+  },
+  {
+   "id": "pushi_zoo",
+   "needs": "cat",
+   "reward": {
+    "money": 5,
+    "trust_cat": 8,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Call Pushi to come along",
+     "type": "talk",
+     "who": "cat"
+    },
+    {
+     "place": "zoo_door",
+     "text": "Go to the zoo together",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "place": "zoo_door",
+     "secs": 30,
+     "text": "Watch the animals with Pushi",
+     "type": "stay",
+     "with": "cat"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "text": "Feed Pushi at home (her bowl, at home)",
+     "type": "feed"
+    }
+   ],
+   "title_bn": "চিড়িয়াখানায় পুশি",
+   "title_en": "Pushi at the Zoo",
+   "window": {
+    "from": 600,
+    "to": 1200
+   },
+   "with": "pushi"
+  },
+  {
+   "id": "jele_pond_walk",
+   "needs": null,
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "harbour",
+     "text": "Go to the harbour pier — Jele Bhai is mending his nets there",
+     "type": "goto"
+    },
+    {
+     "place": "park_pond",
+     "text": "Walk Jele Bhai to the park pond",
+     "type": "escort",
+     "who": "jele"
+    }
+   ],
+   "title_bn": "জেলে ভাইকে পুকুর পাড়ে নিয়ে যাও",
+   "title_en": "Walk Jele Bhai to the Pond",
+   "window": {
+    "from": 600,
+    "to": 1140
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "rakib_harbour_walk",
+   "needs": null,
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "university_door",
+     "text": "Go to the university gate — Rakib waits there",
+     "type": "goto"
+    },
+    {
+     "place": "harbour",
+     "text": "Walk Rakib to the harbour",
+     "type": "escort",
+     "who": "rakib"
+    }
+   ],
+   "title_bn": "রাকিবকে বন্দরে নিয়ে যাও",
+   "title_en": "Rakib to the Harbour",
+   "window": {
+    "from": 540,
+    "to": 1200
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "milk_neighbour_rush",
+   "needs": null,
+   "reward": {
+    "money": 7,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "farm_cowshed",
+     "text": "Go to the cow shed",
+     "type": "goto"
+    },
+    {
+     "item": 3,
+     "text": "Collect fresh milk at the shed",
+     "type": "carry"
+    },
+    {
+     "bonus": 10,
+     "place": "neighbour_door",
+     "secs": 150,
+     "text": "Hurry the milk to the neighbour's door — beat the clock for a bonus",
+     "type": "rush"
+    },
+    {
+     "item": 3,
+     "text": "Give the neighbour the milk",
+     "type": "give",
+     "who": "neighbour"
+    }
+   ],
+   "title_bn": "প্রতিবেশীর জন্য তাজা দুধ",
+   "title_en": "Fresh Milk, Fast",
+   "window": {
+    "from": 360,
+    "to": 720
+   },
+   "with": "hasu"
   }
  ],
  "pack": "hasu-city-daily-life",
- "version": 4
+ "version": 5
 }
