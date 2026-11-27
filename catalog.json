@@ -573,19 +573,7 @@
    "ts": 1795654253,
    "etag": "0x8DF4B5744321AE2"
   },
-  {
-   "pkg": "hasu.os.city",
-   "name": "Hasu City",
-   "tag": "Your city. Your streets. Your rules.",
-   "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 30,
-   "versionName": "1.29",
-   "size": 341455600,
-   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Meet the new Hasu and Minu: your official character designs are in the game, for the character you play and for your partner. The park gains a second swing frame - four seats now, all in use by the people there. Voices behave: a line now plays to its end without being cut off, and Minu's voice speaks only when she is with you or near - her requests still reach you as phone messages. Pushi walks clean, and police cars, ambulances and fire trucks are real models now.",
-   "ts": 1795792550,
-   "etag": "0x8DF4C98F655EB9B"
-  },
+  
   {
    "pkg": "hasu.os.study",
    "name": "HasuStudy",
