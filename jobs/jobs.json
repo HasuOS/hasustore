@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795690598,
+  "generatedAt": 1795719668,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -604,6 +604,28 @@
       "track": "diploma",
       "location": "ময়মনসিংহ",
       "pdfUrl": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-fri/2026/10/56aa2428-0d8e-4748-ac81-3078a6987661.pdf"
+    },
+    {
+      "id": "bhtpa-computer-typist-office-assistant-2026",
+      "title": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Bangladesh Hi-Tech Park Authority (বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ)",
+      "posts": "কম্পিউটার মুদ্রাক্ষরিক-কাম-অফিস সহকারী (Computer Typist-cum-Office Assistant) — ৯টি • ব্যক্তিগত সহকারী (Personal Assistant) — ৩টি",
+      "vacancy": 12,
+      "qualification": "HSC or equivalent pass from a recognised board; pass the written (100 marks) and oral (10 marks) exams under Schedule-3, and the computer typing test under Schedule-4 — minimum typing speed Bengali 20 wpm and English 20 wpm. Age 18–32 (as of 6 Oct 2026).",
+      "salary": "Grade-16 — ৳21,900–52,900 (National Pay Scale 2026)",
+      "startDate": "2026-11-05",
+      "deadline": "2026-12-02",
+      "deadlineTime": "16:00",
+      "fee": "৳112 (Teletalk — ৳100 fee + ৳12 service charge); ৳56 for underprivileged candidates",
+      "applyUrl": "https://bhtpa.teletalk.com.bd",
+      "sourceUrl": "https://bdgovtjob.net/bhtpa-job-circular/",
+      "published": "2026-11-03",
+      "note": "This circular (memo 56.02.0000.000.023.11.0006.26-229, issued 2 Nov 2026) advertises 33 posts in 3 categories at the Bangladesh Hi-Tech Park Authority (ICT Division, ICT Tower, Agargaon, Dhaka) — of them, the Computer Typist-cum-Office Assistant post (9 posts, permanent) and the Personal Assistant post (3 posts) need only HSC or equivalent plus computer typing speed Bengali 20 / English 20 wpm, so both are open to you under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). The Accountant post (21 posts) needs a bachelor's degree in Economics/Finance/Accounting and is not listed. All districts may apply. Apply online at bhtpa.teletalk.com.bd and pay the ৳112 fee by Teletalk SMS within 72 hours.",
+      "grade": "Grade-16",
+      "category": "ICT",
+      "track": "diploma",
+      "location": "ঢাকা",
+      "pdfUrl": ""
     }
   ]
 }
