@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795739318,
+  "generatedAt": 1795748304,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -648,6 +648,50 @@
       "track": "diploma",
       "location": "বগুড়া",
       "pdfUrl": "https://nactar.teletalk.com.bd/nactar2026/docs/NACTARS_final.pdf"
+    },
+    {
+      "id": "nsi-office-assistant-computer-typist-2026",
+      "title": "জাতীয় নিরাপত্তা গোয়েন্দা নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "National Security Intelligence (NSI) (জাতীয় নিরাপত্তা গোয়েন্দা)",
+      "posts": "অফিস সহকারী-কাম-কম্পিউটার মুদ্রাক্ষরিক (Office Assistant-cum-Computer Typist) — ৫৪টি",
+      "vacancy": 54,
+      "qualification": "HSC or equivalent with at least 2nd division / equivalent GPA from a recognised board; computer typing speed at least 20 wpm in English and 20 wpm in Bengali; proficiency in word processing, e-mail and fax operation. Age 18–32 (as of 1 Nov 2026).",
+      "salary": "Grade-16 — ৳21,900–52,900 (National Pay Scale 2026)",
+      "startDate": "2026-12-03",
+      "deadline": "2026-12-23",
+      "deadlineTime": "20:00",
+      "fee": "৳100 (Teletalk) — plus VAT/commission as per rules; pay by Teletalk SMS (keyword NDR) within 72 hours, last fee date 26 Dec 2026, 8:00 PM",
+      "applyUrl": "https://ndr.teletalk.com.bd",
+      "sourceUrl": "https://bdgovtjob.net/national-security-intelligence-nsi-job-circular/",
+      "published": "2026-11-27",
+      "note": "Circular published in Daily Jugantor on 27 Nov 2026; 746 posts in 17 categories under the Prime Minister's Office — of them, this Office Assistant-cum-Computer Typist post (54 posts) is open to Diploma in Computer holders under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). All districts may apply. The Computer Operator post (4) needs a Science honours degree and the Computer Technician post (1) needs a 2-year trade course certificate, so they are not included. Apply online at ndr.teletalk.com.bd from 3 Dec 2026, 8:00 PM; pay ৳100 by Teletalk SMS within 72 hours.",
+      "grade": "Grade-16",
+      "category": "ICT",
+      "track": "diploma",
+      "location": "ঢাকা",
+      "pdfUrl": ""
+    },
+    {
+      "id": "nsi-steno-computer-operator-2026",
+      "title": "জাতীয় নিরাপত্তা গোয়েন্দা নিয়োগ বিজ্ঞপ্তি ২০২৬ (স্নাতক কম্পিউটার পদ)",
+      "org": "National Security Intelligence (NSI) (জাতীয় নিরাপত্তা গোয়েন্দা)",
+      "posts": "সাঁটলিপিকার-কাম-কম্পিউটার অপারেটর (Stenographer-cum-Computer Operator) — ৩টি • সাঁটমুদ্রাক্ষরিক-কাম-কম্পিউটার অপারেটর (Steno-Typist-cum-Computer Operator) — ২০টি",
+      "vacancy": 23,
+      "qualification": "Bachelor's degree or equivalent with at least 2nd class / equivalent CGPA from a recognised university; shorthand speed English 80 / Bengali 50 wpm (Stenographer) or English 70 / Bengali 45 wpm (Steno-Typist); computer typing speed English 30 / Bengali 25 wpm; proficiency in word processing, e-mail and fax operation. Age 18–32 (as of 1 Nov 2026).",
+      "salary": "Stenographer-cum-Computer Operator: Grade-13 ৳24,000–58,000 • Steno-Typist-cum-Computer Operator: Grade-14 ৳23,500–56,800 (National Pay Scale 2026)",
+      "startDate": "2026-12-03",
+      "deadline": "2026-12-23",
+      "deadlineTime": "20:00",
+      "fee": "৳100 (Teletalk) — plus VAT/commission as per rules; pay by Teletalk SMS (keyword NDR) within 72 hours, last fee date 26 Dec 2026, 8:00 PM",
+      "applyUrl": "https://ndr.teletalk.com.bd",
+      "sourceUrl": "https://bdgovtjob.net/national-security-intelligence-nsi-job-circular/",
+      "published": "2026-11-27",
+      "note": "Same circular as the NSI diploma entry (published in Daily Jugantor on 27 Nov 2026; 746 posts in 17 categories) — these two steno-cum-computer-operator posts (23 posts) are open to any bachelor's-degree holder (2nd class) with the prescribed shorthand/typing speeds. All districts may apply. The Computer Operator post (4) needs a Science honours degree and the Assistant Programmer post (1) needs a CS/CSE/EEE/ICT honours degree, so they are not included. Apply online at ndr.teletalk.com.bd from 3 Dec 2026, 8:00 PM; pay ৳100 by Teletalk SMS (keyword NDR) within 72 hours.",
+      "grade": "Grade-13 / Grade-14",
+      "category": "ICT",
+      "track": "graduate",
+      "location": "ঢাকা",
+      "pdfUrl": ""
     }
   ]
 }
