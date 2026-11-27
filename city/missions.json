@@ -930,8 +930,115 @@
    "title_en": "Depot Work",
    "window": null,
    "with": "hasu"
+  },
+  {
+   "id": "chacha_harbour_walk",
+   "needs": null,
+   "reward": {
+    "money": 14,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "market",
+     "text": "Go to the market — Chacha's cart is by the stalls",
+     "type": "goto"
+    },
+    {
+     "place": "harbour",
+     "text": "Walk Chacha to the harbour",
+     "type": "escort",
+     "who": "chacha"
+    }
+   ],
+   "title_bn": "চাচাকে বন্দরে নিয়ে যাও",
+   "title_en": "Walk Chacha to the Harbour",
+   "window": {
+    "from": 480,
+    "to": 1200
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "rakib_to_hospital",
+   "needs": null,
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "university_door",
+     "text": "Go to the university gate — Rakib waits there",
+     "type": "goto"
+    },
+    {
+     "place": "hospital_door",
+     "text": "Walk Rakib to the hospital",
+     "type": "escort",
+     "who": "rakib"
+    }
+   ],
+   "title_bn": "রাকিবকে হাসপাতালে নিয়ে যাও",
+   "title_en": "Rakib to the Hospital",
+   "window": {
+    "from": 540,
+    "to": 1260
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "morning_milk_rush",
+   "needs": "partner",
+   "reward": {
+    "money": 8,
+    "trust_cat": 0,
+    "trust_partner": 6
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner about breakfast",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "farm_cowshed",
+     "text": "Go to the cow shed",
+     "type": "goto"
+    },
+    {
+     "item": 3,
+     "text": "Collect fresh milk at the shed",
+     "type": "carry"
+    },
+    {
+     "bonus": 12,
+     "place": "home_door",
+     "secs": 180,
+     "text": "Hurry the milk home — beat the clock for a bonus",
+     "type": "rush"
+    },
+    {
+     "item": 3,
+     "line": "minu_meal",
+     "line_text": "Bosho, gorom gorom khao — aj tomar pochonder khabar korechi.",
+     "text": "Give Minu the milk",
+     "type": "give",
+     "who": "partner"
+    }
+   ],
+   "title_bn": "সকালের দুধের তাড়া",
+   "title_en": "Morning Milk Rush",
+   "window": {
+    "from": 360,
+    "to": 720
+   },
+   "with": "minu"
   }
  ],
  "pack": "hasu-city-daily-life",
- "version": 2
+ "version": 3
 }
