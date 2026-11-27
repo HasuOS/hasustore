@@ -53,7 +53,7 @@
 </head>
 <body>
 <div class="wrap">
-  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="../login.html" id="navAuth">Login</a><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
   <div class="head">
     <div class="tile" style="background:hsla(295,70%,55%,.35)">V</div>
     <div>
@@ -76,37 +76,13 @@
     <p id="wn">NEW: the full family design system — a Look &amp; icons page with themes (dark AND light), icon sets and five app-icon designs, each shown as the thing itself and applied the moment it is picked; the vault page and the app pages can wear different looks, and every single icon can be given your own glyph. NEW: icon packs and themes now ARRIVE BY THEMSELVES from the new vault feed — no download tap — and a notification says what arrived. NEW: a Settings page with the whole-app English ⇄ Bengali switch, notification choices (sound, vibration, quiet hours), a typed settings backup + restore, the crash report and a reset. The settings backup honestly leaves out your PIN (its hash never leaves this phone) and the vault&#x27;s contents — they stay encrypted on this phone under a key that never leaves it, so export from inside the vault to move one. NEW: a full-screen preview — see the real lock and vault screens in a theme before applying it. NEW: the app checks for its own update twice a day and installs it from its own update page. DESIGN (bare-glyph law): the launcher icon is the bare white vault dial with nothing behind it, plus four more drawn designs — Lock, Key, Fingerprint, Shield; inside, every button is a bare glyph. The About page carries the new HasuOS brand logo and the developer card with a tappable email; the Guide is rewritten in English and Bengali; the Permissions hub is rebuilt with Fingerprint unlock, Notifications, Internet, Network state, Install updates and Run in background — every switch with its real live state. UNTOUCHED: the vault itself — AES-GCM encryption, the PIN pad with its brute-force lockout, fingerprint unlock, import, viewing and export work exactly as before.</p>
   </div>
   <div class="cta">
-    <a class="btn" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/vault.apk" data-label="⬇ Download HasuVault" href="../login.html">🔒 Login to download</a>
-    <a class="btn ghost" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk" data-label="Get it in HasuStore" href="../login.html">🔒 Login for HasuStore</a>
+    <span class="btn" style="background:rgba(255,255,255,.10);border-color:rgba(255,255,255,.25);cursor:default">📱 Download — in the HasuStore app</span>
+    <a class="btn ghost" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">✉ Email for access</a>
   </div>
   <footer>
     © 2026 Hasu · HasuOS — built with care in Bangladesh
   </footer>
 </div>
-<script>
-  var LOGGED = localStorage.getItem("hasuos_admin") === "1";
-  (function () {
-    var nav = document.getElementById("navAuth");
-    if (nav) { nav.textContent = LOGGED ? "Log out" : "Login"; if (LOGGED) nav.addEventListener("click", function (e) { e.preventDefault(); localStorage.removeItem("hasuos_admin"); location.reload(); }); }
-    if (LOGGED) document.querySelectorAll("[data-gate]").forEach(function (el) { el.href = el.getAttribute("data-real"); el.textContent = el.getAttribute("data-label"); });
-  })();
-  var PKG = "hasu.os.vault";
-  function size(b) {
-    if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";
-    return (b / 1048576).toFixed(1) + " MB";
-  }
-  fetch("https://raw.githubusercontent.com/HasuOS/hasustore/main/catalog.json?t=" + Date.now(), { cache: "no-store" }).then(function (r) { return r.json(); }).then(function (j) {
-    (j.apps || []).forEach(function (a) {
-      if (a.pkg !== PKG) return;
-      document.getElementById("v").textContent = a.versionName;
-      document.getElementById("sz").textContent = size(a.size);
-      if (a.changes) {
-        document.getElementById("wnV").textContent = a.versionName;
-        document.getElementById("wn").textContent = a.changes;
-        document.getElementById("wnCard").style.display = "";
-      }
-    });
-  }).catch(function () {});
-</script>
+
 </body>
 </html>
