@@ -1,1 +1,937 @@
-{"missions":[{"done_line":"minu_req_thanks","done_line_text":"Onek dhonnobad!","id":"morning_market","needs":"partner","reward":{"money":25,"trust_cat":0,"trust_partner":6},"steps":[{"place":"home_door","text":"Ask your partner to come along","type":"talk","who":"partner"},{"place":"market","text":"Go to the market together","type":"goto","with":"partner"},{"item":0,"text":"Buy rice at the kachabazar","type":"carry"},{"item":2,"text":"Buy fish at the kachabazar","type":"carry"},{"place":"home_door","text":"Head home together","type":"goto","with":"partner"}],"title_bn":"সকালের বাজার","title_en":"Morning Market Run","window":{"from":360,"to":720},"with":"minu"},{"done_line":"minu_meal","done_line_text":"Bosho, gorom gorom khao — aj tomar pochonder khabar korechi.","id":"family_dinner","needs":"partner","reward":{"money":20,"trust_cat":0,"trust_partner":8},"steps":[{"item":5,"text":"Buy chicken at the supermarket","type":"carry"},{"place":"home_door","text":"Head home together","type":"goto","with":"partner"},{"text":"Eat the family meal together (the fridge, at home)","type":"meal"}],"title_bn":"পরিবারের রাতের খাবার","title_en":"Cook a Family Dinner","window":{"from":1020,"to":1320},"with":"family"},{"id":"eggs_breakfast","needs":"partner","reward":{"money":12,"trust_cat":0,"trust_partner":5},"steps":[{"item":1,"text":"Buy eggs at the kachabazar","type":"carry"},{"place":"home_door","text":"Bring them home","type":"goto"},{"item":1,"line":"minu_req_thanks","line_text":"Onek dhonnobad!","text":"Hand the eggs over at home","type":"give","who":"partner"}],"title_bn":"নাশতার ডিম","title_en":"Eggs for Breakfast","window":{"from":330,"to":660},"with":"minu"},{"id":"neighbour_bread","needs":null,"reward":{"money":8,"trust_cat":0,"trust_partner":2},"steps":[{"item":4,"text":"Buy bread at the kachabazar","type":"carry"},{"place":"neighbour_door","text":"Go to the neighbour's door","type":"goto"},{"item":4,"line":"hello_1","line_text":"Assalamu alaikum!","text":"Give the bread to the neighbour","type":"give","who":"neighbour"}],"title_bn":"প্রতিবেশীর জন্য রুটি","title_en":"Bread for the Neighbour","window":null,"with":"hasu"},{"id":"pushi_park","needs":"cat","reward":{"money":10,"trust_cat":8,"trust_partner":0},"steps":[{"text":"Call Pushi to you","type":"talk","who":"cat"},{"place":"park_pond","text":"Take Pushi to the park pond","type":"goto","with":"cat"},{"place":"park_pond","secs":30,"text":"Let Pushi play by the pond","type":"stay","with":"cat"},{"place":"home_door","text":"Bring Pushi home","type":"goto","with":"cat"}],"title_bn":"পুশি পার্কে","title_en":"Pushi at the Park","window":null,"with":"pushi"},{"accept_line":"cat_hungry","accept_line_text":"Pushi ke khete diyecho? Or khub khide peyeche mone hoy.","id":"pushi_fish","needs":"cat","reward":{"money":10,"trust_cat":8,"trust_partner":0},"steps":[{"item":2,"text":"Buy a fish at the kachabazar","type":"carry"},{"place":"home_door","text":"Bring the fish home","type":"goto"},{"text":"Feed Pushi at her bowl (inside, by the kitchen)","type":"feed"}],"title_bn":"পুশির জন্য মাছ","title_en":"A Fish for Pushi","window":null,"with":"pushi"},{"accept_line":"minu_req_place_harbour","accept_line_text":"Amake ektu the harbour niye jabe?","id":"harbour_picnic","needs":"partner","reward":{"money":15,"trust_cat":0,"trust_partner":8},"steps":[{"item":6,"text":"Buy fruit at the kachabazar","type":"carry"},{"place":"home_door","text":"Ask your partner to come along","type":"talk","who":"partner"},{"place":"harbour","text":"Go to the harbour together","type":"goto","with":"partner"},{"place":"harbour","secs":45,"text":"Have your picnic by the water","type":"stay","with":"partner"}],"title_bn":"বন্দরে পিকনিক","title_en":"Harbour Picnic","window":{"from":900,"to":1140},"with":"minu"},{"accept_line":"minu_req_place_university","accept_line_text":"Amake ektu the university niye jabe?","id":"university_drop","needs":"partner","reward":{"money":20,"trust_cat":0,"trust_partner":5},"steps":[{"place":"home_door","text":"Ask your partner to come along","type":"talk","who":"partner"},{"drive":true,"place":"university_door","text":"Drive to the university together","type":"goto","with":"partner"},{"place":"home_door","text":"Head back home","type":"goto"}],"title_bn":"বিশ্ববিদ্যালয়ে পৌঁছে দেওয়া","title_en":"University Drop-off","window":{"from":420,"to":720},"with":"minu"},{"accept_line":"minu_req_place_park","accept_line_text":"Amake ektu the park niye jabe?","id":"evening_walk","needs":"partner","reward":{"money":10,"trust_cat":0,"trust_partner":8},"steps":[{"place":"home_door","text":"Ask your partner to come along","type":"talk","who":"partner"},{"place":"park_pond","text":"Walk to the park together","type":"goto","with":"partner"},{"place":"park_pond","secs":40,"text":"Sit together by the pond","type":"stay","with":"partner"},{"place":"home_door","text":"Walk home together","type":"goto","with":"partner"}],"title_bn":"সন্ধ্যার হাঁটা","title_en":"Evening Walk Together","window":{"from":1020,"to":1260},"with":"minu"},{"id":"medicine_run","needs":null,"reward":{"money":30,"trust_cat":0,"trust_partner":0},"steps":[{"place":"hospital_door","text":"Go to the hospital","type":"goto"},{"place":"hospital_door","secs":10,"text":"Collect the medicine at the counter","type":"stay"},{"place":"home_door","text":"Bring the medicine home","type":"goto"}],"title_bn":"ওষুধ আনা","title_en":"Medicine Run","window":null,"with":"hasu"},{"accept_line":"minu_req_place_harbour","accept_line_text":"Amake ektu the harbour niye jabe?","id":"sunset_pier","needs":"partner","reward":{"money":15,"trust_cat":0,"trust_partner":10},"steps":[{"place":"home_door","text":"Ask your partner to come along","type":"talk","who":"partner"},{"place":"harbour","text":"Go to the harbour together","type":"goto","with":"partner"},{"from":1050,"place":"harbour","secs":30,"text":"Watch the sunset together","to":1170,"type":"stay","with":"partner"}],"title_bn":"ঘাটে সূর্যাস্ত","title_en":"Sunset at the Pier","window":{"from":1020,"to":1170},"with":"minu"},{"accept_line":"minu_req_place_beach","accept_line_text":"Amake ektu the beach niye jabe?","id":"beach_hour","needs":"partner","reward":{"money":20,"trust_cat":0,"trust_partner":8},"steps":[{"place":"home_door","text":"Ask your partner to come along","type":"talk","who":"partner"},{"place":"beach","text":"Go to the beach together","type":"goto","with":"partner"},{"place":"beach","secs":60,"text":"Relax on the sand together","type":"stay","with":"partner"}],"title_bn":"সৈকতে এক ঘণ্টা","title_en":"An Hour at the Beach","window":{"from":540,"to":1020},"with":"minu"},{"id":"zoo_outing","needs":"partner","reward":{"money":30,"trust_cat":4,"trust_partner":8},"steps":[{"place":"home_door","text":"Ask your partner to come along","type":"talk","who":"partner"},{"place":"zoo_door","text":"Go to the zoo together","type":"goto","with":"partner"},{"place":"zoo_door","r":16,"secs":45,"text":"Watch the animals together","type":"stay","with":"partner"},{"place":"home_door","text":"Head home together","type":"goto","with":"partner"}],"title_bn":"চিড়িয়াখানায় বেড়ানো","title_en":"A Day at the Zoo","window":{"from":480,"to":1080},"with":"family"},{"accept_line":"couple_2","accept_line_text":"Pushi aj sara dupur ghumiyeche — ekdom shanto.","id":"pushi_harbour","needs":"cat","reward":{"money":10,"trust_cat":8,"trust_partner":0},"steps":[{"text":"Call Pushi to you","type":"talk","who":"cat"},{"place":"harbour","text":"Take Pushi to the harbour","type":"goto","with":"cat"},{"place":"harbour","secs":30,"text":"Watch the boats with Pushi","type":"stay","with":"cat"},{"place":"home_door","text":"Bring Pushi home","type":"goto","with":"cat"}],"title_bn":"ঘাটে পুশি","title_en":"Pushi at the Harbour","window":null,"with":"pushi"},{"accept_line":"minu_req_place_beach","accept_line_text":"Amake ektu the beach niye jabe?","done_line":"couple_6","done_line_text":"Janala diye roddur ashe — aj abhawa khub bhalo.","id":"beach_picnic","needs":"partner","reward":{"money":20,"trust_cat":0,"trust_partner":8},"steps":[{"item":6,"text":"Buy fruit at the kachabazar","type":"carry"},{"item":7,"text":"Buy cola at the supermarket","type":"carry"},{"place":"home_door","text":"Ask your partner to come along","type":"talk","who":"partner"},{"place":"beach","text":"Go to the beach together","type":"goto","with":"partner"},{"place":"beach","secs":45,"text":"Share the picnic on the sand","type":"stay","with":"partner"}],"title_bn":"সৈকতে পিকনিক","title_en":"Beach Picnic","window":{"from":600,"to":960},"with":"minu"},{"done_line":"couple_4","done_line_text":"Tumi pase thakle ghore ta ghor mone hoy.","id":"university_library","needs":"partner","reward":{"money":15,"trust_cat":0,"trust_partner":6},"steps":[{"place":"home_door","text":"Ask your partner to come along","type":"talk","who":"partner"},{"place":"university_door","text":"Go to the university together","type":"goto","with":"partner"},{"place":"university_door","secs":45,"text":"Read together in the library","type":"stay","with":"partner"},{"place":"home_door","text":"Head home together","type":"goto","with":"partner"}],"title_bn":"বিশ্ববিদ্যালয়ের লাইব্রেরি","title_en":"Library Hour Together","window":{"from":540,"to":1080},"with":"minu"},{"accept_line":"couple_1","accept_line_text":"Baire theke eshe haat-mukh dhuye nao, ami cha banachhi.","done_line":"minu_req_thanks","done_line_text":"Onek dhonnobad!","id":"evening_tea","needs":"partner","reward":{"money":12,"trust_cat":0,"trust_partner":7},"steps":[{"place":"home_door","text":"Ask your partner to come along","type":"talk","who":"partner"},{"item":3,"text":"Buy milk at the supermarket","type":"carry"},{"item":4,"text":"Buy bread at the kachabazar","type":"carry"},{"place":"home_door","text":"Head home together","type":"goto","with":"partner"},{"text":"Share the evening tea together (the fridge, at home)","type":"meal"}],"title_bn":"সন্ধ্যার চা","title_en":"Evening Tea Together","window":{"from":960,"to":1260},"with":"family"}],"pack":"hasu-city-daily-life","version":1}
+{
+ "missions": [
+  {
+   "done_line": "minu_req_thanks",
+   "done_line_text": "Onek dhonnobad!",
+   "id": "morning_market",
+   "needs": "partner",
+   "reward": {
+    "money": 25,
+    "trust_cat": 0,
+    "trust_partner": 6
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "market",
+     "text": "Go to the market together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "item": 0,
+     "text": "Buy rice at the kachabazar",
+     "type": "carry"
+    },
+    {
+     "item": 2,
+     "text": "Buy fish at the kachabazar",
+     "type": "carry"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "সকালের বাজার",
+   "title_en": "Morning Market Run",
+   "window": {
+    "from": 360,
+    "to": 720
+   },
+   "with": "minu"
+  },
+  {
+   "done_line": "minu_meal",
+   "done_line_text": "Bosho, gorom gorom khao — aj tomar pochonder khabar korechi.",
+   "id": "family_dinner",
+   "needs": "partner",
+   "reward": {
+    "money": 20,
+    "trust_cat": 0,
+    "trust_partner": 8
+   },
+   "steps": [
+    {
+     "item": 5,
+     "text": "Buy chicken at the supermarket",
+     "type": "carry"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "text": "Eat the family meal together (the fridge, at home)",
+     "type": "meal"
+    }
+   ],
+   "title_bn": "পরিবারের রাতের খাবার",
+   "title_en": "Cook a Family Dinner",
+   "window": {
+    "from": 1020,
+    "to": 1320
+   },
+   "with": "family"
+  },
+  {
+   "id": "eggs_breakfast",
+   "needs": "partner",
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 5
+   },
+   "steps": [
+    {
+     "item": 1,
+     "text": "Buy eggs at the kachabazar",
+     "type": "carry"
+    },
+    {
+     "place": "home_door",
+     "text": "Bring them home",
+     "type": "goto"
+    },
+    {
+     "item": 1,
+     "line": "minu_req_thanks",
+     "line_text": "Onek dhonnobad!",
+     "text": "Hand the eggs over at home",
+     "type": "give",
+     "who": "partner"
+    }
+   ],
+   "title_bn": "নাশতার ডিম",
+   "title_en": "Eggs for Breakfast",
+   "window": {
+    "from": 330,
+    "to": 660
+   },
+   "with": "minu"
+  },
+  {
+   "id": "neighbour_bread",
+   "needs": null,
+   "reward": {
+    "money": 8,
+    "trust_cat": 0,
+    "trust_partner": 2
+   },
+   "steps": [
+    {
+     "item": 4,
+     "text": "Buy bread at the kachabazar",
+     "type": "carry"
+    },
+    {
+     "place": "neighbour_door",
+     "text": "Go to the neighbour's door",
+     "type": "goto"
+    },
+    {
+     "item": 4,
+     "line": "hello_1",
+     "line_text": "Assalamu alaikum!",
+     "text": "Give the bread to the neighbour",
+     "type": "give",
+     "who": "neighbour"
+    }
+   ],
+   "title_bn": "প্রতিবেশীর জন্য রুটি",
+   "title_en": "Bread for the Neighbour",
+   "window": null,
+   "with": "hasu"
+  },
+  {
+   "id": "pushi_park",
+   "needs": "cat",
+   "reward": {
+    "money": 10,
+    "trust_cat": 8,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "text": "Call Pushi to you",
+     "type": "talk",
+     "who": "cat"
+    },
+    {
+     "place": "park_pond",
+     "text": "Take Pushi to the park pond",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "place": "park_pond",
+     "secs": 30,
+     "text": "Let Pushi play by the pond",
+     "type": "stay",
+     "with": "cat"
+    },
+    {
+     "place": "home_door",
+     "text": "Bring Pushi home",
+     "type": "goto",
+     "with": "cat"
+    }
+   ],
+   "title_bn": "পুশি পার্কে",
+   "title_en": "Pushi at the Park",
+   "window": null,
+   "with": "pushi"
+  },
+  {
+   "accept_line": "cat_hungry",
+   "accept_line_text": "Pushi ke khete diyecho? Or khub khide peyeche mone hoy.",
+   "id": "pushi_fish",
+   "needs": "cat",
+   "reward": {
+    "money": 10,
+    "trust_cat": 8,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "item": 2,
+     "text": "Buy a fish at the kachabazar",
+     "type": "carry"
+    },
+    {
+     "place": "home_door",
+     "text": "Bring the fish home",
+     "type": "goto"
+    },
+    {
+     "text": "Feed Pushi at her bowl (inside, by the kitchen)",
+     "type": "feed"
+    }
+   ],
+   "title_bn": "পুশির জন্য মাছ",
+   "title_en": "A Fish for Pushi",
+   "window": null,
+   "with": "pushi"
+  },
+  {
+   "accept_line": "minu_req_place_harbour",
+   "accept_line_text": "Amake ektu the harbour niye jabe?",
+   "id": "harbour_picnic",
+   "needs": "partner",
+   "reward": {
+    "money": 15,
+    "trust_cat": 0,
+    "trust_partner": 8
+   },
+   "steps": [
+    {
+     "item": 6,
+     "text": "Buy fruit at the kachabazar",
+     "type": "carry"
+    },
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "harbour",
+     "text": "Go to the harbour together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "harbour",
+     "secs": 45,
+     "text": "Have your picnic by the water",
+     "type": "stay",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "বন্দরে পিকনিক",
+   "title_en": "Harbour Picnic",
+   "window": {
+    "from": 900,
+    "to": 1140
+   },
+   "with": "minu"
+  },
+  {
+   "accept_line": "minu_req_place_university",
+   "accept_line_text": "Amake ektu the university niye jabe?",
+   "id": "university_drop",
+   "needs": "partner",
+   "reward": {
+    "money": 20,
+    "trust_cat": 0,
+    "trust_partner": 5
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "drive": true,
+     "place": "university_door",
+     "text": "Drive to the university together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "home_door",
+     "text": "Head back home",
+     "type": "goto"
+    }
+   ],
+   "title_bn": "বিশ্ববিদ্যালয়ে পৌঁছে দেওয়া",
+   "title_en": "University Drop-off",
+   "window": {
+    "from": 420,
+    "to": 720
+   },
+   "with": "minu"
+  },
+  {
+   "accept_line": "minu_req_place_park",
+   "accept_line_text": "Amake ektu the park niye jabe?",
+   "id": "evening_walk",
+   "needs": "partner",
+   "reward": {
+    "money": 10,
+    "trust_cat": 0,
+    "trust_partner": 8
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "park_pond",
+     "text": "Walk to the park together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "park_pond",
+     "secs": 40,
+     "text": "Sit together by the pond",
+     "type": "stay",
+     "with": "partner"
+    },
+    {
+     "place": "home_door",
+     "text": "Walk home together",
+     "type": "goto",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "সন্ধ্যার হাঁটা",
+   "title_en": "Evening Walk Together",
+   "window": {
+    "from": 1020,
+    "to": 1260
+   },
+   "with": "minu"
+  },
+  {
+   "id": "medicine_run",
+   "needs": null,
+   "reward": {
+    "money": 30,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "hospital_door",
+     "text": "Go to the hospital",
+     "type": "goto"
+    },
+    {
+     "place": "hospital_door",
+     "secs": 10,
+     "text": "Collect the medicine at the counter",
+     "type": "stay"
+    },
+    {
+     "place": "home_door",
+     "text": "Bring the medicine home",
+     "type": "goto"
+    }
+   ],
+   "title_bn": "ওষুধ আনা",
+   "title_en": "Medicine Run",
+   "window": null,
+   "with": "hasu"
+  },
+  {
+   "accept_line": "minu_req_place_harbour",
+   "accept_line_text": "Amake ektu the harbour niye jabe?",
+   "id": "sunset_pier",
+   "needs": "partner",
+   "reward": {
+    "money": 15,
+    "trust_cat": 0,
+    "trust_partner": 10
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "harbour",
+     "text": "Go to the harbour together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "from": 1050,
+     "place": "harbour",
+     "secs": 30,
+     "text": "Watch the sunset together",
+     "to": 1170,
+     "type": "stay",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "ঘাটে সূর্যাস্ত",
+   "title_en": "Sunset at the Pier",
+   "window": {
+    "from": 1020,
+    "to": 1170
+   },
+   "with": "minu"
+  },
+  {
+   "accept_line": "minu_req_place_beach",
+   "accept_line_text": "Amake ektu the beach niye jabe?",
+   "id": "beach_hour",
+   "needs": "partner",
+   "reward": {
+    "money": 20,
+    "trust_cat": 0,
+    "trust_partner": 8
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "beach",
+     "text": "Go to the beach together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "beach",
+     "secs": 60,
+     "text": "Relax on the sand together",
+     "type": "stay",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "সৈকতে এক ঘণ্টা",
+   "title_en": "An Hour at the Beach",
+   "window": {
+    "from": 540,
+    "to": 1020
+   },
+   "with": "minu"
+  },
+  {
+   "id": "zoo_outing",
+   "needs": "partner",
+   "reward": {
+    "money": 30,
+    "trust_cat": 4,
+    "trust_partner": 8
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "zoo_door",
+     "text": "Go to the zoo together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "zoo_door",
+     "r": 16,
+     "secs": 45,
+     "text": "Watch the animals together",
+     "type": "stay",
+     "with": "partner"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "চিড়িয়াখানায় বেড়ানো",
+   "title_en": "A Day at the Zoo",
+   "window": {
+    "from": 480,
+    "to": 1080
+   },
+   "with": "family"
+  },
+  {
+   "accept_line": "couple_2",
+   "accept_line_text": "Pushi aj sara dupur ghumiyeche — ekdom shanto.",
+   "id": "pushi_harbour",
+   "needs": "cat",
+   "reward": {
+    "money": 10,
+    "trust_cat": 8,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "text": "Call Pushi to you",
+     "type": "talk",
+     "who": "cat"
+    },
+    {
+     "place": "harbour",
+     "text": "Take Pushi to the harbour",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "place": "harbour",
+     "secs": 30,
+     "text": "Watch the boats with Pushi",
+     "type": "stay",
+     "with": "cat"
+    },
+    {
+     "place": "home_door",
+     "text": "Bring Pushi home",
+     "type": "goto",
+     "with": "cat"
+    }
+   ],
+   "title_bn": "ঘাটে পুশি",
+   "title_en": "Pushi at the Harbour",
+   "window": null,
+   "with": "pushi"
+  },
+  {
+   "accept_line": "minu_req_place_beach",
+   "accept_line_text": "Amake ektu the beach niye jabe?",
+   "done_line": "couple_6",
+   "done_line_text": "Janala diye roddur ashe — aj abhawa khub bhalo.",
+   "id": "beach_picnic",
+   "needs": "partner",
+   "reward": {
+    "money": 20,
+    "trust_cat": 0,
+    "trust_partner": 8
+   },
+   "steps": [
+    {
+     "item": 6,
+     "text": "Buy fruit at the kachabazar",
+     "type": "carry"
+    },
+    {
+     "item": 7,
+     "text": "Buy cola at the supermarket",
+     "type": "carry"
+    },
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "beach",
+     "text": "Go to the beach together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "beach",
+     "secs": 45,
+     "text": "Share the picnic on the sand",
+     "type": "stay",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "সৈকতে পিকনিক",
+   "title_en": "Beach Picnic",
+   "window": {
+    "from": 600,
+    "to": 960
+   },
+   "with": "minu"
+  },
+  {
+   "done_line": "couple_4",
+   "done_line_text": "Tumi pase thakle ghore ta ghor mone hoy.",
+   "id": "university_library",
+   "needs": "partner",
+   "reward": {
+    "money": 15,
+    "trust_cat": 0,
+    "trust_partner": 6
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "university_door",
+     "text": "Go to the university together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "university_door",
+     "secs": 45,
+     "text": "Read together in the library",
+     "type": "stay",
+     "with": "partner"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "বিশ্ববিদ্যালয়ের লাইব্রেরি",
+   "title_en": "Library Hour Together",
+   "window": {
+    "from": 540,
+    "to": 1080
+   },
+   "with": "minu"
+  },
+  {
+   "accept_line": "couple_1",
+   "accept_line_text": "Baire theke eshe haat-mukh dhuye nao, ami cha banachhi.",
+   "done_line": "minu_req_thanks",
+   "done_line_text": "Onek dhonnobad!",
+   "id": "evening_tea",
+   "needs": "partner",
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 7
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "item": 3,
+     "text": "Buy milk at the supermarket",
+     "type": "carry"
+    },
+    {
+     "item": 4,
+     "text": "Buy bread at the kachabazar",
+     "type": "carry"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "text": "Share the evening tea together (the fridge, at home)",
+     "type": "meal"
+    }
+   ],
+   "title_bn": "সন্ধ্যার চা",
+   "title_en": "Evening Tea Together",
+   "window": {
+    "from": 960,
+    "to": 1260
+   },
+   "with": "family"
+  },
+  {
+   "done_line": "minu_meal",
+   "done_line_text": "Bosho, gorom gorom khao — aj tomar pochonder khabar korechi.",
+   "id": "farm_morning",
+   "needs": "partner",
+   "reward": {
+    "money": 18,
+    "trust_cat": 0,
+    "trust_partner": 6
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "farm_coop",
+     "text": "Go to the chicken coop together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "item": 1,
+     "text": "Collect eggs at the coop",
+     "type": "carry"
+    },
+    {
+     "place": "farm_garden",
+     "text": "Walk to the vegetable garden",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "item": 9,
+     "text": "Harvest ripe vegetables from a bed",
+     "type": "carry"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "text": "Eat together at home (the fridge, at home)",
+     "type": "meal"
+    }
+   ],
+   "title_bn": "খামারের সকাল",
+   "title_en": "Farm Morning",
+   "window": {
+    "from": 300,
+    "to": 720
+   },
+   "with": "minu"
+  },
+  {
+   "id": "flowers_for_minu",
+   "needs": "partner",
+   "reward": {
+    "money": 10,
+    "trust_cat": 0,
+    "trust_partner": 8
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "farm_garden",
+     "text": "Go to the flower garden together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "item": 10,
+     "text": "Pick a bouquet from a ripe flower bed",
+     "type": "carry"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "item": 10,
+     "line": "minu_req_thanks",
+     "line_text": "Onek dhonnobad!",
+     "text": "Give Minu the flowers",
+     "type": "give",
+     "who": "partner"
+    }
+   ],
+   "title_bn": "মিনুর জন্য ফুল",
+   "title_en": "Flowers for Minu",
+   "window": {
+    "from": 480,
+    "to": 1080
+   },
+   "with": "minu"
+  },
+  {
+   "id": "pushi_farm",
+   "needs": "cat",
+   "reward": {
+    "money": 10,
+    "trust_cat": 8,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "text": "Call Pushi to you",
+     "type": "talk",
+     "who": "cat"
+    },
+    {
+     "place": "farm_pond",
+     "text": "Take Pushi to the farm pond",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "place": "farm_pond",
+     "secs": 45,
+     "text": "Let Pushi watch the pond",
+     "type": "stay",
+     "with": "cat"
+    },
+    {
+     "place": "home_door",
+     "text": "Bring Pushi home",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "text": "Feed Pushi at home",
+     "type": "feed"
+    }
+   ],
+   "title_bn": "পুশি খামারের পুকুরে",
+   "title_en": "Pushi at the Farm Pond",
+   "window": {
+    "from": 360,
+    "to": 1200
+   },
+   "with": "pushi"
+  },
+  {
+   "accept_line": "minu_req_place_park",
+   "accept_line_text": "Amake ektu the park niye jabe?",
+   "id": "carousel_evening",
+   "needs": "partner",
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 7
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "park_merrygoround",
+     "text": "Go to the merry-go-round together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "park_merrygoround",
+     "secs": 30,
+     "text": "Ride the merry-go-round",
+     "type": "stay",
+     "with": "partner"
+    },
+    {
+     "place": "park_pond",
+     "text": "Stroll to the park pond",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "park_pond",
+     "secs": 30,
+     "text": "Sit by the pond a while",
+     "type": "stay",
+     "with": "partner"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    }
+   ],
+   "title_bn": "মেরি-গো-রাউন্ডে সন্ধ্যা",
+   "title_en": "Merry-Go-Round Evening",
+   "window": {
+    "from": 1020,
+    "to": 1320
+   },
+   "with": "minu"
+  },
+  {
+   "id": "isle_depot",
+   "needs": null,
+   "reward": {
+    "money": 20,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "isle_depot",
+     "text": "Drive to the isle depot yard",
+     "type": "goto"
+    },
+    {
+     "place": "isle_depot",
+     "secs": 20,
+     "text": "Help load crates at the depot",
+     "type": "stay"
+    },
+    {
+     "place": "harbour",
+     "text": "Report back at the harbour",
+     "type": "goto"
+    }
+   ],
+   "title_bn": "ডিপোর কাজ",
+   "title_en": "Depot Work",
+   "window": null,
+   "with": "hasu"
+  }
+ ],
+ "pack": "hasu-city-daily-life",
+ "version": 2
+}
