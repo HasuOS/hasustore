@@ -53,7 +53,7 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="back" href="../index.html#apps">← All apps</a>
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="../login.html" id="navAuth">Login</a><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
   <div class="head">
     <div class="tile" style="background:hsla(131,70%,55%,.35)">H</div>
     <div>
@@ -62,8 +62,8 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.11</b></span>
-    <span class="chip" id="sz">1.8 MB</span>
+    <span class="chip">Version <b id="v">1.14</b></span>
+    <span class="chip" id="sz">272 KB</span>
     <span class="chip">hasu.os.hasu</span>
     <span class="chip">Android 8.0+</span>
   </div>
@@ -72,12 +72,12 @@
     <p>Hasu&#x27;s whole details in one app — a living portfolio: name, role, story, work and contact, all editable on the phone. The developer behind HasuOS.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.11</span></h3>
-    <p id="wn">The What I build apps are connected to HasuStore: each named app shows its own live icon, a downloading update fills its icon&#x27;s border with the real progress, and once the download is ready the icon carries a green badge — tap it and the update installs right away, through the store&#x27;s own verified file.</p>
+    <h3>🆕 What's new in v<span id="wnV">1.14</span></h3>
+    <p id="wn">Hasu 1.14 — the default launcher icon is now the HasuOS brand logo itself (bare white mark on a transparent background). The previous default design stays in the Look picker as Square, next to Person, Card, Circle and Star. Nothing else changed.</p>
   </div>
   <div class="cta">
-    <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasu.apk">⬇ Download Hasu</a>
-    <a class="btn ghost" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">Get it in HasuStore</a>
+    <a class="btn" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/hasu.os.hasu.apk" data-label="⬇ Download Hasu" href="../login.html">🔒 Login to download</a>
+    <a class="btn ghost" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk" data-label="Get it in HasuStore" href="../login.html">🔒 Login for HasuStore</a>
   </div>
   <footer>
     © 2026 Hasu · HasuOS — built with care in Bangladesh<br>
@@ -85,6 +85,12 @@
   </footer>
 </div>
 <script>
+  var LOGGED = localStorage.getItem("hasuos_admin") === "1";
+  (function () {
+    var nav = document.getElementById("navAuth");
+    if (nav) { nav.textContent = LOGGED ? "Log out" : "Login"; if (LOGGED) nav.addEventListener("click", function (e) { e.preventDefault(); localStorage.removeItem("hasuos_admin"); location.reload(); }); }
+    if (LOGGED) document.querySelectorAll("[data-gate]").forEach(function (el) { el.href = el.getAttribute("data-real"); el.textContent = el.getAttribute("data-label"); });
+  })();
   var PKG = "hasu.os.hasu";
   function size(b) {
     if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";
