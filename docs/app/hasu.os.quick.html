@@ -53,7 +53,7 @@
 </head>
 <body>
 <div class="wrap">
-  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="../login.html" id="navAuth">Login</a><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
   <div class="head">
     <div class="tile" style="background:hsla(130,70%,55%,.35)">Q</div>
     <div>
@@ -76,37 +76,13 @@
     <p id="wn">HasuQuick 2.26 — the full family port: Liquid Glass kit and glass dialogs everywhere; the header is now the permissions switch plus bare-glyph Look / Settings / About pills (no text strip, no plates — selection is accent + glow). Whole app in English or Bengali from one switch, panel labels and notifications included. Look: themes, icon sets and your own glyphs per surface (control page / app pages), each with its own feed — new icon packs and themes arrive by themselves and the app says what arrived. Five new bare-glyph launcher designs (Classic — your shipped ring-and-dot — Target, Ghost, Print, Pointer; white glyph, transparent background); the app-icon picker lives on the Look page now. The ball and its panel are untouched: same sixteen faces (Ghost included), same actions, same position memory. Permissions hub rebuilt honest: draw-over (the system-proof path), accessibility self-checked every panel open with the panel working without it, plus DND access, modify-settings, install and battery rows. Settings backup now covers the ball itself — position, face, panel theme, every panel switch and your panel apps. Background update check twice a day; updates download in the app, then only Install.</p>
   </div>
   <div class="cta">
-    <a class="btn" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk" data-label="⬇ Download HasuQuick" href="../login.html">🔒 Login to download</a>
-    <a class="btn ghost" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk" data-label="Get it in HasuStore" href="../login.html">🔒 Login for HasuStore</a>
+    <span class="btn" style="background:rgba(255,255,255,.10);border-color:rgba(255,255,255,.25);cursor:default">📱 Download — in the HasuStore app</span>
+    <a class="btn ghost" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">✉ Email for access</a>
   </div>
   <footer>
     © 2026 Hasu · HasuOS — built with care in Bangladesh
   </footer>
 </div>
-<script>
-  var LOGGED = localStorage.getItem("hasuos_admin") === "1";
-  (function () {
-    var nav = document.getElementById("navAuth");
-    if (nav) { nav.textContent = LOGGED ? "Log out" : "Login"; if (LOGGED) nav.addEventListener("click", function (e) { e.preventDefault(); localStorage.removeItem("hasuos_admin"); location.reload(); }); }
-    if (LOGGED) document.querySelectorAll("[data-gate]").forEach(function (el) { el.href = el.getAttribute("data-real"); el.textContent = el.getAttribute("data-label"); });
-  })();
-  var PKG = "hasu.os.quick";
-  function size(b) {
-    if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";
-    return (b / 1048576).toFixed(1) + " MB";
-  }
-  fetch("https://raw.githubusercontent.com/HasuOS/hasustore/main/catalog.json?t=" + Date.now(), { cache: "no-store" }).then(function (r) { return r.json(); }).then(function (j) {
-    (j.apps || []).forEach(function (a) {
-      if (a.pkg !== PKG) return;
-      document.getElementById("v").textContent = a.versionName;
-      document.getElementById("sz").textContent = size(a.size);
-      if (a.changes) {
-        document.getElementById("wnV").textContent = a.versionName;
-        document.getElementById("wn").textContent = a.changes;
-        document.getElementById("wnCard").style.display = "";
-      }
-    });
-  }).catch(function () {});
-</script>
+
 </body>
 </html>
