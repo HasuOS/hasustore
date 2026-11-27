@@ -53,7 +53,7 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="back" href="../index.html#apps">← All apps</a>
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="../login.html" id="navAuth">Login</a><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
   <div class="head">
     <div class="tile" style="background:hsla(74,70%,55%,.35)">M</div>
     <div>
@@ -76,8 +76,8 @@
     <p id="wn">NEW: long-press a song in Up next to take it out of the queue — the song playing now stays put, and the rest of the queue closes ranks around it. FIXED: the sleep timer now stops the music completely — when the time runs out the notification clears too, instead of leaving the player running in the background with nothing playing. FIXED: stopping the music from the notification also cancels a running sleep timer, so it can no longer bring the notification back after you stopped it. FIXED: the song playing now stays highlighted in the library even when you are inside an open album or artist. FIXED: the audio focus is handed back cleanly between songs instead of leaving old listeners behind. The Guide and About pages list all five.</p>
   </div>
   <div class="cta">
-    <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/music.apk">⬇ Download HasuMusic</a>
-    <a class="btn ghost" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">Get it in HasuStore</a>
+    <a class="btn" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/music.apk" data-label="⬇ Download HasuMusic" href="../login.html">🔒 Login to download</a>
+    <a class="btn ghost" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk" data-label="Get it in HasuStore" href="../login.html">🔒 Login for HasuStore</a>
   </div>
   <footer>
     © 2026 Hasu · HasuOS — built with care in Bangladesh<br>
@@ -85,6 +85,12 @@
   </footer>
 </div>
 <script>
+  var LOGGED = localStorage.getItem("hasuos_admin") === "1";
+  (function () {
+    var nav = document.getElementById("navAuth");
+    if (nav) { nav.textContent = LOGGED ? "Log out" : "Login"; if (LOGGED) nav.addEventListener("click", function (e) { e.preventDefault(); localStorage.removeItem("hasuos_admin"); location.reload(); }); }
+    if (LOGGED) document.querySelectorAll("[data-gate]").forEach(function (el) { el.href = el.getAttribute("data-real"); el.textContent = el.getAttribute("data-label"); });
+  })();
   var PKG = "hasu.os.music";
   function size(b) {
     if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";

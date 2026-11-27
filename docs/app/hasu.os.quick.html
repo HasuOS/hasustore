@@ -53,7 +53,7 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="back" href="../index.html#apps">← All apps</a>
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="../login.html" id="navAuth">Login</a><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
   <div class="head">
     <div class="tile" style="background:hsla(130,70%,55%,.35)">Q</div>
     <div>
@@ -62,8 +62,8 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">2.24</b></span>
-    <span class="chip" id="sz">2.5 MB</span>
+    <span class="chip">Version <b id="v">2.26</b></span>
+    <span class="chip" id="sz">251 KB</span>
     <span class="chip">hasu.os.quick</span>
     <span class="chip">Android 8.0+</span>
   </div>
@@ -72,12 +72,12 @@
     <p>A floating assistive ball — favourite apps and quick actions (home, torch, lock, screenshot) anywhere.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">2.24</span></h3>
-    <p id="wn">Connected icons: the favourites panel now shows each app&#x27;s current icon — change an app&#x27;s icon inside that app and the new icon shows on the ball&#x27;s panel too. (Plus the contact/logo tidy-up from the same round.)</p>
+    <h3>🆕 What's new in v<span id="wnV">2.26</span></h3>
+    <p id="wn">HasuQuick 2.26 — the full family port: Liquid Glass kit and glass dialogs everywhere; the header is now the permissions switch plus bare-glyph Look / Settings / About pills (no text strip, no plates — selection is accent + glow). Whole app in English or Bengali from one switch, panel labels and notifications included. Look: themes, icon sets and your own glyphs per surface (control page / app pages), each with its own feed — new icon packs and themes arrive by themselves and the app says what arrived. Five new bare-glyph launcher designs (Classic — your shipped ring-and-dot — Target, Ghost, Print, Pointer; white glyph, transparent background); the app-icon picker lives on the Look page now. The ball and its panel are untouched: same sixteen faces (Ghost included), same actions, same position memory. Permissions hub rebuilt honest: draw-over (the system-proof path), accessibility self-checked every panel open with the panel working without it, plus DND access, modify-settings, install and battery rows. Settings backup now covers the ball itself — position, face, panel theme, every panel switch and your panel apps. Background update check twice a day; updates download in the app, then only Install.</p>
   </div>
   <div class="cta">
-    <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk">⬇ Download HasuQuick</a>
-    <a class="btn ghost" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">Get it in HasuStore</a>
+    <a class="btn" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/quick.apk" data-label="⬇ Download HasuQuick" href="../login.html">🔒 Login to download</a>
+    <a class="btn ghost" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk" data-label="Get it in HasuStore" href="../login.html">🔒 Login for HasuStore</a>
   </div>
   <footer>
     © 2026 Hasu · HasuOS — built with care in Bangladesh<br>
@@ -85,6 +85,12 @@
   </footer>
 </div>
 <script>
+  var LOGGED = localStorage.getItem("hasuos_admin") === "1";
+  (function () {
+    var nav = document.getElementById("navAuth");
+    if (nav) { nav.textContent = LOGGED ? "Log out" : "Login"; if (LOGGED) nav.addEventListener("click", function (e) { e.preventDefault(); localStorage.removeItem("hasuos_admin"); location.reload(); }); }
+    if (LOGGED) document.querySelectorAll("[data-gate]").forEach(function (el) { el.href = el.getAttribute("data-real"); el.textContent = el.getAttribute("data-label"); });
+  })();
   var PKG = "hasu.os.quick";
   function size(b) {
     if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";

@@ -53,7 +53,7 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="back" href="../index.html#apps">← All apps</a>
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="../login.html" id="navAuth">Login</a><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
   <div class="head">
     <div class="tile" style="background:hsla(4,70%,55%,.35)">P</div>
     <div>
@@ -62,8 +62,8 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.09</b></span>
-    <span class="chip" id="sz">76.2 MB</span>
+    <span class="chip">Version <b id="v">1.11</b></span>
+    <span class="chip" id="sz">74.5 MB</span>
     <span class="chip">hasu.os.pack</span>
     <span class="chip">Android 8.0+</span>
   </div>
@@ -72,12 +72,12 @@
     <p>Six icon packs drawn for the HasuOS family — Glow, Neon Blue, Royal Gold, Sunset, Mono Tile and Pastel. Tap Set in HasuPack and HasuOS Home wears the pack at once.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.09</span></h3>
-    <p id="wn">Feed-এর pack এখন এখান থেকেই Set করা যায় — প্রতিটা feed pack-এর card-এ আর pack page-এ Set/Apply button আছে; আগের মতো শুধু browse না</p>
+    <h3>🆕 What's new in v<span id="wnV">1.11</span></h3>
+    <p id="wn">HasuPack 1.11 — the icon law, fixed together with HasuOS Home 10.71: every app is shown by its OWN main icon — on the All apps page, on each app&#x27;s page and in pack previews. The Style set&#x27;s category symbols are labelled as symbols and land on an app only where you pick one yourself. Pack previews now decode at full quality, so what you preview is what Home applies. On the feed, Hasu Style now carries a dedicated design for every family app (its own glyph in the family style), Aurora covers all 62 family apps, and Halftone&#x27;s family glyphs were redrawn readable at real sizes.</p>
   </div>
   <div class="cta">
-    <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/pack.apk">⬇ Download HasuPack</a>
-    <a class="btn ghost" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">Get it in HasuStore</a>
+    <a class="btn" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/pack.apk" data-label="⬇ Download HasuPack" href="../login.html">🔒 Login to download</a>
+    <a class="btn ghost" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk" data-label="Get it in HasuStore" href="../login.html">🔒 Login for HasuStore</a>
   </div>
   <footer>
     © 2026 Hasu · HasuOS — built with care in Bangladesh<br>
@@ -85,6 +85,12 @@
   </footer>
 </div>
 <script>
+  var LOGGED = localStorage.getItem("hasuos_admin") === "1";
+  (function () {
+    var nav = document.getElementById("navAuth");
+    if (nav) { nav.textContent = LOGGED ? "Log out" : "Login"; if (LOGGED) nav.addEventListener("click", function (e) { e.preventDefault(); localStorage.removeItem("hasuos_admin"); location.reload(); }); }
+    if (LOGGED) document.querySelectorAll("[data-gate]").forEach(function (el) { el.href = el.getAttribute("data-real"); el.textContent = el.getAttribute("data-label"); });
+  })();
   var PKG = "hasu.os.pack";
   function size(b) {
     if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";
