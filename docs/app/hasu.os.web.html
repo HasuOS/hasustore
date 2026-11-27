@@ -53,7 +53,7 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="back" href="../index.html#apps">← All apps</a>
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="../login.html" id="navAuth">Login</a><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
   <div class="head">
     <div class="tile" style="background:hsla(297,70%,55%,.35)">W</div>
     <div>
@@ -62,8 +62,8 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.07</b></span>
-    <span class="chip" id="sz">57 KB</span>
+    <span class="chip">Version <b id="v">1.08</b></span>
+    <span class="chip" id="sz">219 KB</span>
     <span class="chip">hasu.os.web</span>
     <span class="chip">Android 8.0+</span>
   </div>
@@ -72,12 +72,12 @@
     <p>The HasuOS website inside its own app: the same pages and the same live catalogue, served by the website&#x27;s own server — every app update shows here the moment it reaches the website.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.07</span></h3>
-    <p id="wn">NEW: 🔰 Text size — pick Small, Normal, Large or Extra large from the ℹ️ menu; the choice is remembered and applies to every page. NEW: 🌐 Open in browser — send the page you&#x27;re on to your browser in one tap, from the ℹ️ menu. FIXED: Back now closes the Find bar first, before walking the page history, like a browser. The Guide and About pages list all three.</p>
+    <h3>🆕 What's new in v<span id="wnV">1.08</span></h3>
+    <p id="wn">THE FULL FAMILY PORT: Look &amp; icons page — dark/light mode, themes and icon sets per surface (browser / app pages), five bare-glyph app-icon designs, per-icon custom glyphs and pack/theme import; new designs arrive by themselves from the web feed and the app says what arrived. Settings with language (English/Bangla), notifications, a typed backup of everything the app keeps (language, look, alerts, text size), the crash report and reset. Self-update with a twice-daily background check that survives restarts. About with the new HasuOS brand logo, Guide and Preview (see the real browser screen in a theme, apply from the preview). The Permissions hub is honest and icon-only in the header now — no text strip. All 1.07 features unchanged: the site, find-in-page, text size, share, open-in-browser.</p>
   </div>
   <div class="cta">
-    <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/web.apk">⬇ Download HasuWeb</a>
-    <a class="btn ghost" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">Get it in HasuStore</a>
+    <a class="btn" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/web.apk" data-label="⬇ Download HasuWeb" href="../login.html">🔒 Login to download</a>
+    <a class="btn ghost" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk" data-label="Get it in HasuStore" href="../login.html">🔒 Login for HasuStore</a>
   </div>
   <footer>
     © 2026 Hasu · HasuOS — built with care in Bangladesh<br>
@@ -85,6 +85,12 @@
   </footer>
 </div>
 <script>
+  var LOGGED = localStorage.getItem("hasuos_admin") === "1";
+  (function () {
+    var nav = document.getElementById("navAuth");
+    if (nav) { nav.textContent = LOGGED ? "Log out" : "Login"; if (LOGGED) nav.addEventListener("click", function (e) { e.preventDefault(); localStorage.removeItem("hasuos_admin"); location.reload(); }); }
+    if (LOGGED) document.querySelectorAll("[data-gate]").forEach(function (el) { el.href = el.getAttribute("data-real"); el.textContent = el.getAttribute("data-label"); });
+  })();
   var PKG = "hasu.os.web";
   function size(b) {
     if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";

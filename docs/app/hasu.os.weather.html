@@ -53,7 +53,7 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="back" href="../index.html#apps">← All apps</a>
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="../login.html" id="navAuth">Login</a><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
   <div class="head">
     <div class="tile" style="background:hsla(161,70%,55%,.35)">W</div>
     <div>
@@ -62,8 +62,8 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.04</b></span>
-    <span class="chip" id="sz">53 KB</span>
+    <span class="chip">Version <b id="v">1.05</b></span>
+    <span class="chip" id="sz">219 KB</span>
     <span class="chip">hasu.os.weather</span>
     <span class="chip">Android 8.0+</span>
   </div>
@@ -72,12 +72,12 @@
     <p>Weather — current conditions and a 7-day forecast for any city on earth, powered by Open-Meteo.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.04</span></h3>
-    <p id="wn">NEW: 📖 Guide page — tap Guide on the About page for every button and feature, explained one by one. FIXED: the 🔐 Permissions toggle at the top is now honest — grey with the knob on the left until Location is really on, blue only then, repainted on every return (the drawable was always blue). FIXED: the place line no longer ends in a dangling comma when My location cannot name the country. DESIGN: the About page icon now sits on a glass tile. FOLDED IN (never published before): the staged 1.03 — pressure and visibility cards, a ✕ clear on the search box and Enter searches too, rotation keeps the search text and the forecast, the hourly strip never labels a past hour &quot;Now&quot;, and an unparseable sunrise or sunset shows a dash instead of a 24-hour stamp. The Guide and About pages list the Guide and the honest toggle.</p>
+    <h3>🆕 What's new in v<span id="wnV">1.05</span></h3>
+    <p id="wn">NEW: Look &amp; icons — dark / light mode, six themes, three icon sets and five launcher-icon designs, each page with its own look; new icon packs and themes now arrive by themselves from the feed and the app tells you what landed, and your own pack / theme files and per-icon glyphs can be imported. NEW: Settings page (gear in the header) — the whole app switches English / বাংলা from one control, notification choices, and a typed settings backup + restore covering the saved city, recents, unit, language, look and alert choices. NEW: the new HasuOS brand logo. DESIGN: bare-glyph launcher icon and buttons — no tiles, no rings; selected = accent colour. The weather engine is unchanged: same Open-Meteo data, offline cache, hourly strip and 12-hour times.</p>
   </div>
   <div class="cta">
-    <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/weather.apk">⬇ Download HasuWeather</a>
-    <a class="btn ghost" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">Get it in HasuStore</a>
+    <a class="btn" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/weather.apk" data-label="⬇ Download HasuWeather" href="../login.html">🔒 Login to download</a>
+    <a class="btn ghost" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk" data-label="Get it in HasuStore" href="../login.html">🔒 Login for HasuStore</a>
   </div>
   <footer>
     © 2026 Hasu · HasuOS — built with care in Bangladesh<br>
@@ -85,6 +85,12 @@
   </footer>
 </div>
 <script>
+  var LOGGED = localStorage.getItem("hasuos_admin") === "1";
+  (function () {
+    var nav = document.getElementById("navAuth");
+    if (nav) { nav.textContent = LOGGED ? "Log out" : "Login"; if (LOGGED) nav.addEventListener("click", function (e) { e.preventDefault(); localStorage.removeItem("hasuos_admin"); location.reload(); }); }
+    if (LOGGED) document.querySelectorAll("[data-gate]").forEach(function (el) { el.href = el.getAttribute("data-real"); el.textContent = el.getAttribute("data-label"); });
+  })();
   var PKG = "hasu.os.weather";
   function size(b) {
     if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";
