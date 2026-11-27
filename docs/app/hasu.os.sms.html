@@ -53,7 +53,7 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="back" href="../index.html#apps">← All apps</a>
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="../login.html" id="navAuth">Login</a><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
   <div class="head">
     <div class="tile" style="background:hsla(14,70%,55%,.35)">S</div>
     <div>
@@ -62,8 +62,8 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.05</b></span>
-    <span class="chip" id="sz">1.9 MB</span>
+    <span class="chip">Version <b id="v">1.06</b></span>
+    <span class="chip" id="sz">243 KB</span>
     <span class="chip">hasu.os.sms</span>
     <span class="chip">Android 8.0+</span>
   </div>
@@ -72,12 +72,12 @@
     <p>The phone&#x27;s SMS in HasuOS glass — every conversation, chat bubbles, sending, and a path to becoming the default SMS app.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.05</span></h3>
-    <p id="wn">সম্পূর্ণ ফ্যামিলি পোর্ট: সেটিংস পেজ (ভাষা English/বাংলা, নতুন বার্তার সতর্কতা, শব্দ ও কম্পন, ব্যাকআপ), লুক ও আইকন (থিম, আইকন সেট, পাঁচটি অ্যাপ-আইকন ডিজাইন, প্রতিটি পেজের নিজের থিম, পুরো-স্ক্রিন প্রিভিউ), অ্যাপ নিজে নিজে আপডেট হয়, নতুন আইকন সেট ও থিম নিজে নিজে আসে, অর্ধেক লেখা বার্তা খসড়া হিসেবে নিজে নিজে সেভ হয়, অনুমতির পেজে ডিফল্ট SMS অ্যাপ ও সীমাবদ্ধ সেটিংসের সৎ ধাপ, গাইড এখন বাংলায়ও।</p>
+    <h3>🆕 What's new in v<span id="wnV">1.06</span></h3>
+    <p id="wn">HasuSMS 1.06 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.</p>
   </div>
   <div class="cta">
-    <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/sms.apk">⬇ Download HasuSMS</a>
-    <a class="btn ghost" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">Get it in HasuStore</a>
+    <a class="btn" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/sms.apk" data-label="⬇ Download HasuSMS" href="../login.html">🔒 Login to download</a>
+    <a class="btn ghost" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk" data-label="Get it in HasuStore" href="../login.html">🔒 Login for HasuStore</a>
   </div>
   <footer>
     © 2026 Hasu · HasuOS — built with care in Bangladesh<br>
@@ -85,6 +85,12 @@
   </footer>
 </div>
 <script>
+  var LOGGED = localStorage.getItem("hasuos_admin") === "1";
+  (function () {
+    var nav = document.getElementById("navAuth");
+    if (nav) { nav.textContent = LOGGED ? "Log out" : "Login"; if (LOGGED) nav.addEventListener("click", function (e) { e.preventDefault(); localStorage.removeItem("hasuos_admin"); location.reload(); }); }
+    if (LOGGED) document.querySelectorAll("[data-gate]").forEach(function (el) { el.href = el.getAttribute("data-real"); el.textContent = el.getAttribute("data-label"); });
+  })();
   var PKG = "hasu.os.sms";
   function size(b) {
     if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";
