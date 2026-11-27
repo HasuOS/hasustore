@@ -578,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 25,
-   "versionName": "1.24",
-   "size": 417254879,
+   "code": 26,
+   "versionName": "1.25",
+   "size": 319718787,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Fixed: some buildings rendered black (photo textures now load safely — a black wall is impossible). 12 new building looks (24 total), mall in stone tiles, supermarket in ribbed metal. Every room its own floor: marble bank and library, checker tiles in shops, carpet at home. Island: bigger industrial estate — 5 new steel factories and warehouses, rocky hills. Wheat fields wear real field photos. Music: 50 songs now.",
-   "ts": 1795772942,
-   "etag": "0x8DF4C6B27C6151C"
+   "changes": "Your play-report fixes: black buildings — walls are now ready-made pictures and the game checks every wall itself at startup, so a black wall cannot appear. Minimap snug in the corner. All buttons and cards smaller. No more big text across the screen — messages ride one slim line at the top. Walking looks smooth, not robotic. Swimming sounds like soft water, not thudding. The jet ski now waits beside the pier — press ACTION to board it. Speech is voice only: spoken lines no longer show as text.",
+   "ts": 1795775745,
+   "etag": "0x8DF4C71E0CCBFE2"
   },
   {
    "pkg": "hasu.os.study",
