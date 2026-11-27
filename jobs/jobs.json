@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795735349,
+  "generatedAt": 1795739318,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -626,6 +626,28 @@
       "track": "diploma",
       "location": "ঢাকা",
       "pdfUrl": ""
+    },
+    {
+      "id": "nactar-accounts-assistant-2026",
+      "title": "জাতীয় কম্পিউটার প্রশিক্ষণ ও গবেষণা একাডেমী (নেকটার) নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "National Academy for Computer Training and Research (NACTAR) (জাতীয় কম্পিউটার প্রশিক্ষণ ও গবেষণা একাডেমী)",
+      "posts": "হিসাব সহকারী (Accounts Assistant) — ১টি",
+      "vacancy": 1,
+      "qualification": "HSC or equivalent pass from a recognised board, with proficiency in computer operation. Age 18–32 (as of 1 Nov 2026).",
+      "salary": "Grade-16 — ৳21,900–52,900 (National Pay Scale 2026)",
+      "startDate": "2026-11-17",
+      "deadline": "2026-12-07",
+      "deadlineTime": "16:00",
+      "fee": "৳112 (Teletalk)",
+      "applyUrl": "https://nactar.teletalk.com.bd",
+      "sourceUrl": "https://govtjobcircular.com/nactar-job-circular/",
+      "published": "2026-11-12",
+      "note": "Circular (memo 57.21.0000.003.12.001.25.1828, 12 Nov 2026) — the second NACTAR revised notice (Grades 11–20) — advertises 9 posts in 7 categories at NACTAR, Bogura — of them, this Accounts Assistant post (1 post, HSC + computer proficiency) is open to Diploma in Computer holders under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent). The Cafeteria Manager post in the same notice also needs HSC + computer proficiency but is a catering-management role, not a computer post, so it is not listed; the Photocopy Operator post needs photocopy-machine experience and the Cashier post needs a bachelor's degree plus 3 years' cash experience. The Grade 7–9 notice in the same recruitment (deadline 6 Dec 2026) needs BSc/MBBS degrees, so none of its posts are listed. Apply online at nactar.teletalk.com.bd and pay ৳112 by Teletalk SMS (keyword NACTARS) within 72 hours. All posts in this notice are examined on the same date, so apply for only one post.",
+      "grade": "Grade-16",
+      "category": "ICT",
+      "track": "diploma",
+      "location": "বগুড়া",
+      "pdfUrl": "https://nactar.teletalk.com.bd/nactar2026/docs/NACTARS_final.pdf"
     }
   ]
 }
