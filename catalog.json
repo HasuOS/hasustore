@@ -578,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 27,
-   "versionName": "1.26",
+   "code": 28,
+   "versionName": "1.27",
    "size": 341230320,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Real cars and a real cat: 17 textured models - sedan, taxi, SUV, pickup, bus, trucks, sports cars and a limo - and Pushi is now a real orange tabby. Real Bengali voices: 231 recorded lines in the characters' own voices. Minu lives her own life now - she keeps house, walks to the market or park by herself and sleeps at night; call her from Phone, Contacts and pick her up at home, or ask her along in person. Pushi stays home unless she comes out with you. NEW: Daily Life missions - Phone, Daily Life holds 13 everyday missions (market run, family dinner, Pushi at the park, harbour picnic, sunset at the pier), and new missions will arrive by themselves, no update needed.",
-   "ts": 1795782627,
-   "etag": "0x8DF4C821F0D85B4"
+   "changes": "Mission One fixed, and the phone fixed with it: the phone menu now fits the screen - every row is visible and tappable, including Daily Life and Contacts. Morning Market Run now plays start to finish: ask your partner to come along, shop together at the market (rice, then fish), and walk home for your reward. The map moves to the top-left corner where your steering hand never covers it, a health bar now sits on the right side, and buttons appear only when they are useful.",
+   "ts": 1795785345,
+   "etag": "0x8DF4C882FB0B15E"
   },
   {
    "pkg": "hasu.os.study",
