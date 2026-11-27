@@ -53,7 +53,7 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="back" href="../index.html#apps">← All apps</a>
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px"><a class="back" href="../index.html#apps">← All apps</a><span style="display:flex;gap:8px"><a class="back" href="../login.html" id="navAuth">Login</a><a class="back" href="mailto:Abulhasnatsifat@gmail.com?subject=HasuOS%20website%20%E2%80%94%20download%20access%20request&body=Assalamu%20alaikum%20Hasu%2C%0A%0AI%20want%20download%20access%20to%20the%20HasuOS%20apps%20on%20the%20website.%0A%0AMy%20name%3A%20%0AWhy%20I%20need%20it%3A%20%0A">Sign up</a></span></div>
   <div class="head">
     <div class="tile" style="background:hsla(245,70%,55%,.35)">C</div>
     <div>
@@ -62,8 +62,8 @@
     </div>
   </div>
   <div class="meta">
-    <span class="chip">Version <b id="v">1.07</b></span>
-    <span class="chip" id="sz">1.9 MB</span>
+    <span class="chip">Version <b id="v">1.08</b></span>
+    <span class="chip" id="sz">227 KB</span>
     <span class="chip">hasu.os.cell</span>
     <span class="chip">Android 8.0+</span>
   </div>
@@ -72,12 +72,12 @@
     <p>Your address book in HasuOS glass: search, favourites, and a page for every person. Connected with HasuPhone — contacts saved here appear there at once, calls open in HasuPhone with the SIM 1 / SIM 2 choice, and HasuPhone&#x27;s Add/Edit opens this editor.</p>
   </div>
   <div class="card" id="wnCard">
-    <h3>🆕 What's new in v<span id="wnV">1.07</span></h3>
-    <p id="wn">যোগাযোগের বইয়ের বড় সাজানো: সেটিংস পেজ এসেছে (ভাষা, লুক, বিজ্ঞপ্তি, আপডেট, সেটিংস ব্যাকআপ), পুরো অ্যাপে বাংলা⇄English বদল, ডার্ক ও লাইট মোড, থিম আর আইকন সেট — পেজ অনুযায়ী আলাদাও বদলানো যায়, পাঁচটি নতুন অ্যাপ-আইকন ডিজাইন (সাদা গ্লিফ, স্বচ্ছ পেছন), নতুন আইকন প্যাক আর থিম নিজে নিজেই এসে যোগ হবে আর অ্যাপ জানিয়ে দেবে কী এলো, নিজের আপডেট নিজেই যাচাই-ডাউনলোড-ইনস্টল, ব্যক্তির পেজে এখন কল করুন আর সাম্প্রতিক কল ঠিক হয়েছে, Permissions এখন উপরের আইকনের সারিতে।</p>
+    <h3>🆕 What's new in v<span id="wnV">1.08</span></h3>
+    <p id="wn">HasuCell 1.08 — brand logo only: the new HasuOS brand mark (white angular logo on a transparent background) replaces the old chrome h wherever the brand logo appears in the app. Nothing else changed.</p>
   </div>
   <div class="cta">
-    <a class="btn" href="https://github.com/HasuOS/hasustore/releases/download/apps/cell.apk">⬇ Download HasuCell</a>
-    <a class="btn ghost" href="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk">Get it in HasuStore</a>
+    <a class="btn" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/cell.apk" data-label="⬇ Download HasuCell" href="../login.html">🔒 Login to download</a>
+    <a class="btn ghost" data-gate data-real="https://github.com/HasuOS/hasustore/releases/download/apps/store.apk" data-label="Get it in HasuStore" href="../login.html">🔒 Login for HasuStore</a>
   </div>
   <footer>
     © 2026 Hasu · HasuOS — built with care in Bangladesh<br>
@@ -85,6 +85,12 @@
   </footer>
 </div>
 <script>
+  var LOGGED = localStorage.getItem("hasuos_admin") === "1";
+  (function () {
+    var nav = document.getElementById("navAuth");
+    if (nav) { nav.textContent = LOGGED ? "Log out" : "Login"; if (LOGGED) nav.addEventListener("click", function (e) { e.preventDefault(); localStorage.removeItem("hasuos_admin"); location.reload(); }); }
+    if (LOGGED) document.querySelectorAll("[data-gate]").forEach(function (el) { el.href = el.getAttribute("data-real"); el.textContent = el.getAttribute("data-label"); });
+  })();
   var PKG = "hasu.os.cell";
   function size(b) {
     if (b < 1024 * 1024) return Math.round(b / 1024) + " KB";
