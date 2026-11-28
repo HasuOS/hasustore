@@ -1839,8 +1839,168 @@
     "to": 1080
    },
    "with": "hasu"
+  },
+  {
+   "done_line": "minu_req_thanks",
+   "done_line_text": "Onek dhonnobad!",
+   "id": "minu_airport",
+   "needs": "partner",
+   "reward": {
+    "money": 14,
+    "trust_cat": 0,
+    "trust_partner": 8
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "airport_door",
+     "text": "Go to the airport together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "airport_door",
+     "secs": 40,
+     "text": "Watch the planes together",
+     "type": "stay",
+     "with": "partner"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "text": "Eat together at home (the fridge, at home)",
+     "type": "meal"
+    }
+   ],
+   "title_bn": "মিনুর সঙ্গে বিমানবন্দর",
+   "title_en": "Planes with Minu",
+   "window": {
+    "from": 600,
+    "to": 1200
+   },
+   "with": "family"
+  },
+  {
+   "id": "pushi_beach",
+   "needs": "cat",
+   "reward": {
+    "money": 5,
+    "trust_cat": 8,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Call Pushi to come along",
+     "type": "talk",
+     "who": "cat"
+    },
+    {
+     "place": "beach",
+     "text": "Go to the beach together",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "place": "beach",
+     "secs": 30,
+     "text": "Watch the waves with Pushi",
+     "type": "stay",
+     "with": "cat"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "cat"
+    },
+    {
+     "text": "Feed Pushi at home (her bowl, at home)",
+     "type": "feed"
+    }
+   ],
+   "title_bn": "সৈকতে পুশি",
+   "title_en": "Pushi at the Beach",
+   "window": {
+    "from": 540,
+    "to": 1140
+   },
+   "with": "pushi"
+  },
+  {
+   "id": "chacha_zoo_walk",
+   "needs": null,
+   "reward": {
+    "money": 13,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "market",
+     "text": "Go to the market — Chacha is at his tea cart",
+     "type": "goto"
+    },
+    {
+     "place": "zoo_door",
+     "text": "Walk Chacha to the zoo — he has never seen the elephants",
+     "type": "escort",
+     "who": "chacha"
+    }
+   ],
+   "title_bn": "চাচার চিড়িয়াখানা দেখা",
+   "title_en": "Chacha Sees the Zoo",
+   "window": {
+    "from": 600,
+    "to": 1140
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "veg_market_rush",
+   "needs": null,
+   "reward": {
+    "money": 8,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "farm_garden",
+     "text": "Go to the vegetable garden",
+     "type": "goto"
+    },
+    {
+     "item": 9,
+     "text": "Harvest ripe vegetables from a bed",
+     "type": "carry"
+    },
+    {
+     "bonus": 11,
+     "place": "market",
+     "secs": 180,
+     "text": "Get the vegetables to the market while they are crisp — beat the clock for a bonus",
+     "type": "rush"
+    }
+   ],
+   "title_bn": "তাজা সবজি, তাড়াতাড়ি",
+   "title_en": "Crisp Vegetables, Quick",
+   "window": {
+    "from": 420,
+    "to": 1080
+   },
+   "with": "hasu"
   }
  ],
  "pack": "hasu-city-daily-life",
- "version": 7
+ "version": 8
 }
