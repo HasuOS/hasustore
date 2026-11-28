@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795791696,
+  "generatedAt": 1795849134,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -714,6 +714,27 @@
       "track": "diploma",
       "location": "সারা দেশ",
       "pdfUrl": ""
+    },
+    {
+      "id": "ku-office-assistant-computer-typist-2026",
+      "title": "খুলনা বিশ্ববিদ্যালয় নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Khulna University (খুলনা বিশ্ববিদ্যালয়)",
+      "posts": "অফিস এ্যাসিস্ট্যান্ট কাম কম্পিউটার টাইপিস্ট (Office Assistant-cum-Computer Typist) — ১টি",
+      "vacancy": 1,
+      "qualification": "HSC/equivalent with at least 2nd division/class (GPA 3.00 on 5.00 scale / CGPA 2.50 on 4.00 scale) in all education stages, plus a certificate course in computer operation, word processing, document preparation, storage and digital record management from a government-recognised institute. Age up to 32 (as of the last date of application, 13 Dec 2026).",
+      "salary": "Grade-16 — ৳21,900–52,900 (National Pay Scale 2026)",
+      "startDate": "2026-11-26",
+      "deadline": "2026-12-13",
+      "fee": "৳200 (paid online via Rocket mobile banking; attach the payment slip with the application)",
+      "applyUrl": "https://career.ku.ac.bd",
+      "sourceUrl": "https://bdgovt.info/khulna-university-job-circular/",
+      "published": "2026-11-26",
+      "note": "Circular (memo খুবি/প্রশা-৯৬/৯১-৬৬১, 24 Nov 2026) published in Daily Jugantor on 26 Nov 2026; 25 posts in 15 categories at Khulna University — of them, this Office Assistant-cum-Computer Typist post (1 post) is open to Diploma in Computer holders under the HSC rule (a Diploma-in-Engineering counts as HSC-equivalent; the circular asks for HSC plus a certificate course in computer operation — a Diploma in Computer covers that training, but check the certificate wording on ku.ac.bd/career before applying). Apply online at career.ku.ac.bd from 26 Nov 2026, then send 3 sets of the downloaded application with attested papers by post/direct to the Registrar so it reaches by 13 Dec 2026 (office hours). The other posts are not eligible: Lecturer posts need a subject master's; Accounts Assistant needs a Commerce/Economics bachelor's; Lab Assistant needs HSC (Science); Driver needs a BRTA licence + 4 years' experience.",
+      "grade": "Grade-16",
+      "category": "ICT",
+      "track": "diploma",
+      "location": "খুলনা",
+      "pdfUrl": "https://ku.ac.bd/uploads/career/%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%97%20%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%20%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF%20%E0%A6%93%20%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%20(%2026-11-2026).pdf"
     }
   ]
 }
