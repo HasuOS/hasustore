@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795849134,
+  "generatedAt": 1795863988,
   "jobs": [
     {
       "id": "bpsc-non-cadre-2026",
@@ -735,6 +735,28 @@
       "track": "diploma",
       "location": "খুলনা",
       "pdfUrl": "https://ku.ac.bd/uploads/career/%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%97%20%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%20%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF%20%E0%A6%93%20%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%20(%2026-11-2026).pdf"
+    },
+    {
+      "id": "bcps-computer-operator-2026",
+      "title": "বাংলাদেশ কলেজ অব ফিজিশিয়ানস্ এন্ড সার্জনস্ নিয়োগ বিজ্ঞপ্তি ২০২৬",
+      "org": "Bangladesh College of Physicians & Surgeons (BCPS) (বাংলাদেশ কলেজ অব ফিজিশিয়ানস্ এন্ড সার্জনস্)",
+      "posts": "কম্পিউটার অপারেটর (Computer Operator) — ১২টি",
+      "vacancy": 12,
+      "qualification": "Bachelor's degree or equivalent from a recognised university AND a Diploma in Computer from a recognised institute; proficiency in MS Office preferred. Age up to 32 (as of 22 Nov 2026). Appeared candidates are not accepted; one candidate may apply for only one post.",
+      "salary": "সর্বসাকুল্যে ৳20,212/month (outsourcing — no grade/pay scale)",
+      "startDate": "2026-11-23",
+      "deadline": "2026-12-15",
+      "deadlineTime": "14:00",
+      "fee": "৳500 (bank draft/pay order, non-refundable)",
+      "applyUrl": "https://bcps.edu.bd/",
+      "sourceUrl": "https://bdgovt.info/bcps-job-circular/",
+      "published": "2026-11-23",
+      "note": "Circular (memo BCPS No-776/2026/27451, 22 Nov 2026; published in The Daily Star 23 Nov 2026) advertises 22 posts in 4 categories at BCPS, Mohakhali, Dhaka — of them, the Computer Operator post (12 posts) is open to bachelor's-degree holders with a Diploma in Computer. The appointment is fully temporary, on an outsourcing basis, at a consolidated salary of ৳20,212/month (no grade or pay scale). The other posts in this circular (Driver 3, Waiter 2, Cleaner 5) are not computer posts and are not included. Applications are postal only — no online portal: send a white-paper application with full CV to the Secretary, BCPS, 67, Shahid Tajuddin Ahmed Sarani, Mohakhali, Dhaka-1212, by registered post, courier or in person, to reach by 15 Dec 2026, 2:00 PM, with a ৳500 bank draft/pay order in favour of \"Secretary, Bangladesh College of Physicians & Surgeons\".",
+      "grade": "Outsourcing (no grade)",
+      "category": "ICT",
+      "track": "graduate",
+      "location": "ঢাকা",
+      "pdfUrl": ""
     }
   ]
 }
