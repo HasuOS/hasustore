@@ -578,13 +578,13 @@
    "name": "Hasu City",
    "tag": "Your city. Your streets. Your rules.",
    "desc": "A real 3D open-city game, the HasuOS way: a whole 3D city of streets and blocks to explore on foot or in any car you can grab, seen from behind your character like a true third-person game. Living traffic roams the roads, day turns to night and the city lights up, and your character and cash are remembered. The weather lives too: clear spells cloud over, rain sweeps in and storms flash lightning. Jobs, police, shops and a full map arrive stage by stage.",
-   "code": 45,
-   "versionName": "1.44",
-   "size": 351368751,
+   "code": 62,
+   "versionName": "1.61",
+   "size": 352458287,
    "url": "https://github.com/HasuOS/hasustore/releases/download/apps/city.apk",
-   "changes": "Hasu City 1.44 — ফাইনাল সংস্করণ: তোমার পছন্দের নতুন Hasu আর Minu এখন গেমে। 1.29-এর পরের সব কাজ একসঙ্গে — সব গাড়ি আসল 3D মডেল, farm আর village, metro-তে ওঠা যায়, merry-go-round, industrial isle-এ cargo কাজ, produce run, Minu-র zoo ভ্রমণ, Pushi-র দিনের বেলা কুশনে ঘুম, মোট 50টা Daily Life mission, আর পুরো গেম জুড়ে দুই দফা ত্রুটি-খোঁজা sweep-এ পাওয়া সব খুঁতের ঠিকঠাক।",
-   "ts": 1795838653,
-   "etag": "0x8DF4D13A041C087"
+   "changes": "Hasu City 1.61 — ফাইনাল Journey সংস্করণ: গেমে ঢুকলেই একটার পর একটা ২১ ধাপের Journey — সকালের বাজার, নিজের গাড়ি, খামার, প্রথম চাকরি, মেট্রো, দ্বীপের কার্গো, পার্কের রাইড, চিড়িয়াখানা, রিকশা/CNG, বাস, নতুন প্রাণী, ট্যাক্সি/ডেলিভারি, অ্যাম্বুলেন্স/ফায়ার, নিজের দোকান, হাসপাতালের ভিতর, রেস্টুরেন্ট, সেলুন/পোশাক, মসজিদ, নৌকা/রেস/মাছ ধরা, ঈদ/আবহাওয়া, আর শেষে ঘর সাজানো, Pushi-কে কোলে নেওয়া, vet আর ফোনের ক্যামেরা। প্রতিটা ধাপে শুধু সেই ধাপের জিনিসই খোলে, ধাপ শেষ হলেই পরেরটা নিজে নিজে শুরু হয়। সাথে 1.44-এর সব রিপোর্টের ফিক্স — মিশন নিজে নিজে পরেরটা, দ্রুত দিন, উজ্জ্বল রাত, ফুল-স্ক্রিন ম্যাপ।",
+   "ts": 1795875312,
+   "etag": "0x8DF4D59D9CBAD4B"
   },
   {
    "pkg": "hasu.os.study",
