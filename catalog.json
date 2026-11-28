@@ -812,6 +812,19 @@
    "ts": 1795658443,
    "etag": "0x8DF4B611246CB49",
    "cat": "Tools"
+  },
+  {
+   "pkg": "hasu.os.drive",
+   "name": "Hasu Drive",
+   "tag": "Bike racing game",
+   "desc": "Hyper-realistic 3D bike racing on Bangladeshi roads — ride out of the garage on one of 4 bikes, beat the traffic lights, dodge cows, goats and rickshaws, cross the flyover, take missions and earn coins. Offline.",
+   "code": 16,
+   "versionName": "2.4.0",
+   "size": 4618605,
+   "url": "https://github.com/HasuOS/hasustore/releases/download/apps/drive.apk",
+   "changes": "নতুন গেম: বাংলাদেশি রাস্তায় হাইপার-রিয়ালিস্টিক বাইক রেসিং — গ্যারেজে ৪টি বাইক, ট্রাফিক লাইট, গরু-ছাগল-মানুষ রাস্তা পারাপার, রিকশা-বাস-ট্রাক, ফ্লাইওভার, মিশন আর কয়েন।",
+   "ts": 1795881798,
+   "etag": "0x8DF4D69047E2F97"
   }
  ]
 }
