@@ -1999,8 +1999,150 @@
     "to": 1080
    },
    "with": "hasu"
+  },
+  {
+   "id": "jele_stadium_walk",
+   "needs": null,
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "harbour",
+     "text": "Go to the harbour — Jele Bhai is at the pier",
+     "type": "goto"
+    },
+    {
+     "place": "stadium_gate",
+     "text": "Walk Jele Bhai to the stadium — there is a match on",
+     "type": "escort",
+     "who": "jele"
+    }
+   ],
+   "title_bn": "জেলে ভাইয়ের খেলা দেখা",
+   "title_en": "Jele Bhai Sees a Match",
+   "window": {
+    "from": 840,
+    "to": 1200
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "chacha_fair_walk",
+   "needs": null,
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "market",
+     "text": "Go to the market — Chacha is at his tea cart",
+     "type": "goto"
+    },
+    {
+     "place": "fair_wheel",
+     "text": "Walk Chacha to the fairground wheel — he wants to see it turn",
+     "type": "escort",
+     "who": "chacha"
+    }
+   ],
+   "title_bn": "চাচা মেলায়",
+   "title_en": "Chacha at the Fair",
+   "window": {
+    "from": 900,
+    "to": 1260
+   },
+   "with": "hasu"
+  },
+  {
+   "id": "eggs_market_rush",
+   "needs": null,
+   "reward": {
+    "money": 6,
+    "trust_cat": 0,
+    "trust_partner": 0
+   },
+   "steps": [
+    {
+     "place": "farm_coop",
+     "text": "Go to the chicken coop",
+     "type": "goto"
+    },
+    {
+     "item": 1,
+     "text": "Collect eggs at the coop",
+     "type": "carry"
+    },
+    {
+     "bonus": 10,
+     "place": "market",
+     "secs": 150,
+     "text": "Get the eggs to the market while they are fresh — beat the clock for a bonus",
+     "type": "rush"
+    }
+   ],
+   "title_bn": "বাজারে ডিম, তাড়াতাড়ি",
+   "title_en": "Eggs to Market, Quick",
+   "window": {
+    "from": 360,
+    "to": 720
+   },
+   "with": "hasu"
+  },
+  {
+   "done_line": "minu_meal",
+   "done_line_text": "Bosho, gorom gorom khao — aj tomar pochonder khabar korechi.",
+   "id": "minu_pond",
+   "needs": "partner",
+   "reward": {
+    "money": 12,
+    "trust_cat": 0,
+    "trust_partner": 7
+   },
+   "steps": [
+    {
+     "place": "home_door",
+     "text": "Ask your partner to come along",
+     "type": "talk",
+     "who": "partner"
+    },
+    {
+     "place": "farm_pond",
+     "text": "Go to the farm pond together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "place": "farm_pond",
+     "secs": 45,
+     "text": "Watch the water together",
+     "type": "stay",
+     "with": "partner"
+    },
+    {
+     "place": "home_door",
+     "text": "Head home together",
+     "type": "goto",
+     "with": "partner"
+    },
+    {
+     "text": "Eat together at home (the fridge, at home)",
+     "type": "meal"
+    }
+   ],
+   "title_bn": "মিনু খামারের পুকুরে",
+   "title_en": "Minu at the Farm Pond",
+   "window": {
+    "from": 600,
+    "to": 1080
+   },
+   "with": "minu"
   }
  ],
  "pack": "hasu-city-daily-life",
- "version": 8
+ "version": 9
 }
